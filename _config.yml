@@ -18,10 +18,10 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-
 collections:
-  guides:
+    who-we-are:
     output: true
+
 resources_name: media-centre
 
 ##################################################################################################################
