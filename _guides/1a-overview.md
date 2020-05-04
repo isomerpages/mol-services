@@ -1,8 +1,6 @@
 ---
 title: How to use our guide
-permalink: /overview/
-breadcrumb: How to use our guide
-collection_name: collection-test
+permalink: /guides/overview/
 ---
 
 ### **This is placeholder text**
