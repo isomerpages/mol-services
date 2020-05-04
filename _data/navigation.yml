@@ -12,7 +12,7 @@ links:
   - title: About
     url: /about/
   - title: Guides
-    url: /overview/
+    url: /collection-test/
     sub-links:
     - title: Test
       url: /test/
