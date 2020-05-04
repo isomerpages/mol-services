@@ -12,9 +12,6 @@ links:
   - title: About
     url: /about/
   - title: Guides
-    url: 
-    sub-links:
-    - title: Packages
-      url: /packages/
+    url: /guides/overivew
   - title: Media Centre
     resource_room: true
