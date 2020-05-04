@@ -13,13 +13,6 @@ links:
     url: /about/
   - title: Guides
     url: /overview/
-    sub-links:
-    - title: Step 1
-      url: /step-1/
-      
-collections:
-    overview:
-    output: true
-      
+   
   - title: Media Centre
     resource_room: true
