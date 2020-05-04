@@ -12,10 +12,7 @@ links:
   - title: About
     url: /about-us/
   - title: Guides
-    url: guides
-    sub-links:
-    - title: 
-    url: /guides/overview
+    collection: guides
   - title: eServices
     url: /eservices/
   -title: Test
