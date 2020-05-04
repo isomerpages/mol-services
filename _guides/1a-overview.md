@@ -1,4 +1,5 @@
 ---
+layout: leftnav-page-content
 title: How to use our guide
 permalink: /guides/overview/
 breadcrumb: Guides-Overview
