@@ -13,11 +13,11 @@ links:
     url: /about/
   - title: Guides
     url: /guides/overview/
-sub-links:
-- title: Sub Link 1
-url: /guides/overview
-- title: Sub Link 2
-url: /guides/overview
+    sub-links:
+    - title: Sub Link 1
+    url: /guides/overview
+    - title: Sub Link 2
+    url: /guides/overview
 
   - title: Media Centre
     resource_room: true
