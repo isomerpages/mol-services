@@ -19,9 +19,5 @@ links:
     - title: Buying A HDB Flat
       url: /package-1/
 
-collections:
-  overview:
-  output: true
-
   - title: Media Centre
     resource_room: true
