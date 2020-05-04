@@ -19,7 +19,7 @@ colors:
       color: '#00838f'
 
 collections:
-    who-we-are:
+    collection-test:
     output: true
 
 resources_name: media-centre
