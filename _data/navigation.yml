@@ -12,9 +12,9 @@ links:
   - title: About
     url: /about/
   - title: Guides
-    url: /overivew
-collections:
-  packages:
-  output: true
+    url: /overview/
+    sub-links:
+    - title: Step 1
+      url: /step-1/
   - title: Media Centre
     resource_room: true
