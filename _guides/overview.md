@@ -1,6 +1,8 @@
 ---
 title: How to use our guide
 permalink: /overview/
+breadcrumb: How to use our guide
+collection_name: Overview
 ---
 
 ### **This is placeholder text**
