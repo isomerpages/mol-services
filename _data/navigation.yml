@@ -14,7 +14,7 @@ links:
   - title: Guides
     url: /overivew
     collections:
-      Overview:
+      packages/overview.md:
       output: true
   - title: Media Centre
     resource_room: true
