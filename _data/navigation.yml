@@ -8,11 +8,11 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Contact Us
-    collection: collection-test
+    collection: guides
   - title: About
-    url: /about/
+    collection: guides
   - title: Guides
-    collection: collection-test
+    collection: guides
   - title: eServices
     url: /eservices/
   -title: Test
