@@ -1,6 +1,6 @@
 ---
 title: How to use our guide
-permalink: /overview/
+permalink: /1a-overview/
 breadcrumb: How to use our guide
 collection_name: guides
 second_nav_title: "Test"
