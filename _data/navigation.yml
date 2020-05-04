@@ -8,9 +8,9 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: Contact Us
-    collection: guides
+    url: /contact-us/
   - title: About
-    collection: guides
+    url: /about-us/
   - title: Guides
     url: guides
     sub-links:
