@@ -13,5 +13,8 @@ links:
     url: /about/
   - title: Guides
     url: /overivew
+    collections:
+      Overview:
+      output: true
   - title: Media Centre
     resource_room: true
