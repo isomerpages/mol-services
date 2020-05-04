@@ -13,11 +13,11 @@ links:
     url: /about/
   - title: Guides
     url: /overview/
-    sub-links:
-    - title: Overview
-      url: /guides/
-    - title: Buying A HDB Flat
-      url: /package-1/
+sub-links:
+- title: Overview
+url: /guides/
+- title: Buying A HDB Flat
+url: /package-1/
 
   - title: Media Centre
     resource_room: true
