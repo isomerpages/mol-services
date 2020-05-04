@@ -3,6 +3,7 @@ title: How to use our guide
 permalink: /guides/overview/
 breadcrumb: Guides-Overview
 collection_name: guides
+second_nav_title: "Overview"
 ---
 
 ### **This is placeholder text**
