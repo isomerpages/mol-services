@@ -2,7 +2,7 @@
 title: How to use our guide
 permalink: /overview/
 breadcrumb: How to use our guide
-collection_name: Overview
+collection_name: guides
 ---
 
 ### **This is placeholder text**
