@@ -12,7 +12,9 @@ links:
   - title: About
     url: /about/
   - title: Guides
-    url: /packages/
-    collection: guides
+    url: 
+    sub-links:
+    - title: Packages
+      url: /packages/
   - title: Media Centre
     resource_room: true
