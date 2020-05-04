@@ -2,6 +2,12 @@ title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
+
+collections:
+  guides:
+    output: true
+resources_name: media-centre
+
 # Site colors
 colors:
   primary-color: '#6031b6'
@@ -18,10 +24,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-collections:
-  guides:
-    output: true
-resources_name: media-centre
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
