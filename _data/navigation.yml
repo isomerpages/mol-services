@@ -15,6 +15,7 @@ links:
     collection: collection-test
   - title: eServices
     url: /eservices/
-
+  -title: Test
+    url: /test/
   - title: Media Centre
     resource_room: true
