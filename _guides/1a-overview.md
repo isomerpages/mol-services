@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: How to use our guide
+title: Overview
 permalink: /guides/overview/
 breadcrumb: Guides-Overview
 collection_name: guides
