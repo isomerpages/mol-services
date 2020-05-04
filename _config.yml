@@ -19,9 +19,8 @@ colors:
       color: '#00838f'
 
 collections:
-    collection-test:
+  guides:
     output: true
-
 resources_name: media-centre
 
 ##################################################################################################################
