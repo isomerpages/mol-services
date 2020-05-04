@@ -1,6 +1,8 @@
 ---
 title: How to use our guide
 permalink: /guides/overview/
+breadcrumb: Guides-Overview
+collection_name: guides
 ---
 
 ### **This is placeholder text**
