@@ -18,3 +18,11 @@ third_nav_title: Buying A HDB Flat
 #### Priority schemes
 
 1. If you are a first-timer applicants and/or have urgent housing needs, you might enjoy greater priority and other privileges when you apply for a new HDB flat, DBSS flat, or EC.
+
+  - (Find out about the priority schemes you can enjoy)[https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes]
+  
+#### Eligibility checker
+
+1. Use this e-Service to check your eligibility by answering the questionnaire.
+
+  - (Click here.)[https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK]
