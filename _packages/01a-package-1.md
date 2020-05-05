@@ -1,5 +1,5 @@
 ---
-title: Find out eligibility criteria and application process
+title: Step 1
 permalink: /package-1/
 third_nav_title: Buying A HDB Flat
 ---
