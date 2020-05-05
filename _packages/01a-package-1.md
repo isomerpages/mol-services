@@ -10,16 +10,16 @@ third_nav_title: Buying A HDB Flat
 
 Different eligibility conditions apply when purchasing a new HDB flat, Design, Build and Sell Scheme (DBSS) flat, or Executive Condominium (EC). Click on the links below to find out more.
 
-  - [HDB Flat](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/hdb-flat)
+  - [HDB Flat.](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/hdb-flat)
   - [2-Room Flexi Flats [Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/2room-flexi-flats)
-  - [DBSS](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/dbss-flat)
+  - [DBSS.](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/dbss-flat)
   - [Learn what conditions apply after you buy an EC, and whether you need to pay resale levy.](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/executive-condominiums)
 
 #### Priority schemes
 
 If you are a first-timer applicants and/or have urgent housing needs, you might enjoy greater priority and other privileges when you apply for a new HDB flat, DBSS flat, or EC.
 
-  - [Find out about the priority schemes you can enjoy](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
+  - [Find out about the priority schemes you can enjoy.](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
   
 #### Eligibility checker
 
