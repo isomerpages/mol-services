@@ -7,7 +7,7 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Service Packages
+  - title: Service Categories
     url: /service-categories/
   - title: Packages
     collection: packages
