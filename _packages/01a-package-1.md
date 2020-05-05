@@ -10,5 +10,7 @@ Different eligibility conditions apply when purchasing a new HDB flat, Design, B
 
 1. HDB Flat
   - [2-Room Flexi Flats](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/hdb-flat) [Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]
-2. Test
-3. Test
+  
+2. [Find out about the priority schemes you can enjoy](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
+
+3. [Use this e-Service to check your eligibility by answering the questionnaire.](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
