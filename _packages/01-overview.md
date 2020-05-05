@@ -1,5 +1,5 @@
 ---
-title: Overview of Packages
+title: Overview
 permalink: /overview/
 breadcrumb: Overview
 ---
