@@ -1,6 +1,6 @@
 ---
 title: Eligibility
-permalink: /package-1/
+permalink: /buying-a-hdb/
 third_nav_title: Buying A HDB Flat
 ---
 
