@@ -17,7 +17,7 @@ Taking a housing loan for up to 25 years is a long-term commitment. Use the foll
     - Reduce the cash outlay needed for your new HDB flat
     - Reduce the mortgage loan amount needed and the subsequent monthly repayments
     - Collect the keys to your new flat and renovate it while selling your existing flat
-- If you decide to go with a bank loan, read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks).
+- If you decide to go with a bank loan, read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks)
 
 ### CPF and Your Home
 
@@ -29,11 +29,12 @@ Some CPF tools to help you estimate CPF usage.
 - Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)
 - A [1-minute tool](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate) to estimate the monthly installment payable on a housing loan
 
+### CPF Housing Grants
 
 You may receive subsidies in the form of CPF Housing Grants up to $80,000. 
 
-- Find out which grants you would be eligible [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats).
-- To apply, download the application forms for the grants that you are eligible for and submit to HDB during your flat booking appointment.
+- Find out which grants you would be eligible [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats)
+- To apply, download the application forms for the grants that you are eligible for and submit to HDB during your flat booking appointment
 - Housing Grant application form:
     - (a): [Enhanced Housing Grant Application form](https://www.hdb.gov.sg/cs/infoweb/doc/ehg-form)
      - (b): [Additional CPF Housing Grant](https://www.hdb.gov.sg/cs/infoweb/doc/ahg-form)
