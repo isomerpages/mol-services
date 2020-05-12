@@ -17,10 +17,10 @@ Different eligibility conditions apply when purchasing a new HDB flat, Design, B
 
 HDB manages its applications process through a balloting system which assigns applicants a queue number randomly. You may improve chances of being balloted through priority schemes or other privileges, if you are a first-timer applicants and/or have urgent housing needs.
 
-  - Find out about the various schemes and how you might qualify [here](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes).
+  - Find out about the various schemes and how you might qualify [here](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
   
 #### Eligibility checker
 
-Use this questionnaire to do a quick check on your eligibility to buy a new flat from HDB.
+Use this questionnaire to do a quick check on your eligibility to buy a new flat from HDB
 
-  - [Found here]("https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK).
+  - [Found here]("https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
