@@ -1,8 +1,8 @@
 ---
-title: Overview
+title: I want to buy or sell a HDB flat
 permalink: /overview/
 breadcrumb: Overview
 ---
 
-## This is placeholder text. 
-A description of what packages are should go here.
+## Buying or Selling a HDB 
+Buying or selling a HDB can be a long and overwhelming process which could take months or years. This guide puts together the steps and consideration for you.
