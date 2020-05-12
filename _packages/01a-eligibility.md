@@ -1,12 +1,10 @@
 ---
-title: Eligibility
+title: Eligibility & Priority Schemes
 permalink: /buying-a-hdb/
 third_nav_title: Buying A HDB Flat
 ---
 
-## Check your eligibility
-
-#### Eligibility Conditions to buy new HDB flats:
+## Find out what type of HDB flats you are eligible to buy
 
 Different eligibility conditions apply when purchasing a new HDB flat, Design, Build and Sell Scheme (DBSS) flat, or Executive Condominium (EC). Click on the links below to find out more.
 
