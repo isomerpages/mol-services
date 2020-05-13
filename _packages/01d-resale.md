@@ -12,7 +12,7 @@ The journey to buying a resale flat can be overwhelming for some of us. We have 
 
 ### Step 1: Register Intent to Buy
 <details>
-  <summary>More</summary>
+<summary>More</summary>
 
 By registering your Intent to Buy, you will receive an instant assessment on your:
   - Eligibility to buy an HDB resale flat; 
