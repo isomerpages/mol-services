@@ -4,4 +4,4 @@ permalink: /selling/
 third_nav_title: Selling a HDB Flat
 ---
 
-## This is a test placeholder.
+### Guide to selling a HDB
