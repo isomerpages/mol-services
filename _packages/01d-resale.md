@@ -10,14 +10,15 @@ The journey to buying a resale flat can be overwhelming for some of us. We have 
 
 - A complete step-by-step guide on HDB resale can be found [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started).
 
-### Step 1: Register Intent to Buy
-
-By registering your Intent to Buy, you will receive an instant assessment on your: 
-- Eligibility to buy an HDB resale flat; 
-- Housing grants you are eligible for;
-- Eligibility for an HDB housing loan
-
-There are no fees involved for this [registration](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/register-intent-to-buy).
+# Step 1: Register Intent to Buy
+<details>
+  <summary>More</summary>
+  
+  By registering your Intent to Buy, you will receive an instant assessment on your:
+  - Eligibility to buy an HDB resale flat; 
+  - Housing grants you are eligible for;
+  - Eligibility for an HDB housing loan
+</details>
 
 ### Step 2: Plan your finances
 
