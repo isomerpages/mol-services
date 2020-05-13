@@ -8,4 +8,4 @@ third_nav_title: Selling a HDB Flat
 
 ![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/HDB Resale Portal_Sell_v03.jpg)
 
-![just like links, you can include titles which appear when hovered](/images/isomer-logo.svg "Isomer Logo")
+![just like links, you can include titles which appear when hovered](/images/HDB Resale Portal_Sell_v03.jpg "HDB Resale Portal")
