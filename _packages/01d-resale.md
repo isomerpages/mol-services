@@ -26,13 +26,7 @@ By registering your Intent to Buy, you will receive an instant assessment on you
 
 ### Step 2: Plan your finances
 
-<details><summary>More details</summary>
-<p>
-
 Work out your sums with [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
-
-</p>
-</details>
 
 ### Step 3: Make informed purchase
 
