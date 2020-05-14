@@ -4,6 +4,26 @@ permalink: /buying-a-hdb/resale
 third_nav_title: Buying A HDB Flat
 ---
 
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+Test text.
+
+- Test list 1
+- Test list 2
+
+</p>
+</details>
+
+
 ### At a glance
 
 The journey to buying a resale flat can be overwhelming for some of us. We have summed it up in a few steps here. 
