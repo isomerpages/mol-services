@@ -4,26 +4,6 @@ permalink: /buying-a-hdb/resale
 third_nav_title: Buying A HDB Flat
 ---
 
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-Test text.
-
-- Test list 1
-- Test list 2
-
-</p>
-</details>
-
-
 ### At a glance
 
 The journey to buying a resale flat can be overwhelming for some of us. We have summed it up in a few steps here. 
@@ -32,11 +12,17 @@ The journey to buying a resale flat can be overwhelming for some of us. We have 
 
 ### Step 1: Register Intent to Buy
 
+<details><summary>More details</summary>
+<p>
+
 By registering your Intent to Buy, you will receive an instant assessment on your:
 
 - Eligibility to buy an HDB resale flat; 
 - Housing grants you are eligible for;
 - Eligibility for an HDB housing loan
+
+</p>
+</details>
 
 ### Step 2: Plan your finances
 
