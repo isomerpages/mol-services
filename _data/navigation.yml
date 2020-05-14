@@ -7,11 +7,7 @@
 logo: /images/mol-logo.jpg
 
 links:
-  - title: Service Categories
-    url: /service-categories/
+
   - title: Packages
     collection: packages
-  - title: Contact Us
-    url: /contact-us/
-  - title: Media Centre
-    resource_room: true
+
