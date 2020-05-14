@@ -12,26 +12,17 @@ The journey to buying a resale flat can be overwhelming for some of us. We have 
 
 ### Step 1: Register Intent to Buy
 
-<details><summary>More details</summary>
-<p>
-
 By registering your Intent to Buy, you will receive an instant assessment on your:
 
 - Eligibility to buy an HDB resale flat; 
 - Housing grants you are eligible for;
 - Eligibility for an HDB housing loan
 
-</p>
-</details>
-
 ### Step 2: Plan your finances
 
 Work out your sums with [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
 ### Step 3: Make informed purchase
-
-<details><summary>More details</summary>
-<p>
 
 Check for these factors regarding the flat you intend to buy:
 1. Resale transacted prices;
@@ -40,25 +31,13 @@ Check for these factors regarding the flat you intend to buy:
 
 - [HDB Map Services](https://services2.hdb.gov.sg/web/fi10/emap.html)
 
-</p>
-</details>
-
 ### Step 4: Exercise Option to Purchase (OTP) from seller
-
-<details><summary>More details</summary>
-<p>
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
 - Read more about the [OTP procedures and key important notes](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase).
 
-</p>
-</details>
-
 ### Step 5: Submit Resale Application
-
-<details><summary>More details</summary>
-<p>
 
 You and the seller (or the salesperson) can proceed to submit the resale application after you have exercised the Option to Purchase (OTP).
 
@@ -66,19 +45,10 @@ You and the seller (or the salesperson) can proceed to submit the resale applica
 - Check [resale application status](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
 - Check if you have the necessary documents [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/additional-information-)
 
-</p>
-</details>
-
 ### Step 6: Resale Completion
-
-<details><summary>More details</summary>
-<p>
 
 The process is completed with an appointment at HDB.
 
 - [Check appointment details](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
 - Some [considerations](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/conditions-after-buying) on buying a resale flat (e.g Minimum Occupation Period, Resale levy)
 - After buying your new home, do remember to [apply](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance) for Fire Insurance
-
-</p>
-</details>
