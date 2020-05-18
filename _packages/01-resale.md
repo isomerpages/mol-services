@@ -5,7 +5,7 @@ breadcrumb:
 third_nav_title: I want to buy a resale flat
 ---
 
-### At a glance
+### Check your Eligibility to Purchase Resale
 
 The journey to buying a resale flat can be overwhelming for some of us. We have summed it up in a few steps here. 
 
