@@ -1,6 +1,6 @@
 ---
 title: Step 2
-permalink: /finances/
+permalink: /resale/finances/
 breadcrumb: 
 third_nav_title: I want to buy a resale flat
 ---
