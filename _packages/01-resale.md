@@ -1,7 +1,8 @@
 ---
-title: Buying a resale flat
+title: Step 1
 permalink: /buying-a-hdb/resale
-third_nav_title: Buying A HDB Flat
+breadcrumb: /packages/buy resale flat from HDB/
+third_nav_title: I want to buy a resale flat
 ---
 
 ### At a glance
