@@ -1,7 +1,7 @@
 ---
-title: I want to buy a flat from HDB
+title: Step 1
 permalink: /buying-a-hdb/
-third_nav_title: Step 1
+third_nav_title: I want to buy a flat from HDB
 ---
 
 ### Find out what type of HDB flats you are eligible to buy
