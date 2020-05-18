@@ -1,7 +1,7 @@
 ---
-title: I want to sell a HDB flat
+title: Step 1
 permalink: /selling/
-third_nav_title: Selling a HDB Flat
+third_nav_title: I want to sell a HDB flat
 ---
 
 ### Guide to selling a HDB
