@@ -1,6 +1,6 @@
 ---
 title: Step 1
-permalink: /buying-a-hdb/resale
+permalink: /resale
 breadcrumb: 
 third_nav_title: I want to buy a resale flat
 ---
