@@ -1,6 +1,6 @@
 ---
 title: Step 2
-permalink: /finances/
+permalink: /buying-a-hdb/finances/
 breadcrumb: 
 third_nav_title: I want to buy a flat from HDB
 ---
