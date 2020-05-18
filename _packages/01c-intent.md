@@ -1,10 +1,10 @@
 ---
-title: Buying directly from HDB
-permalink: /buying-a-hdb/buying-direct
-third_nav_title: Buying A HDB Flat
+title: Step 3
+permalink: /resale/intent
+third_nav_title: I want to buy a resale flat
 ---
 
-### Step 1: Check your eligibility
+### Register Intent to Buy
 
 Use this e-Service to [check your eligibility](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK
 ) by answering a simple questionnaire.
