@@ -12,14 +12,16 @@ collections:
   packages:
     output: true
 
-collections:
-  services:
-    output: true
     
 
 collections:
   guides:
     output: true
+   
+collections:
+  services:
+    output: true
+
 
 resources_name: media-centre
 
