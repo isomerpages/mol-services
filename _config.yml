@@ -15,6 +15,11 @@ collections:
 collections:
   services:
     output: true
+    
+
+collections:
+  guides:
+    output: true
 
 resources_name: media-centre
 
