@@ -1,9 +1,9 @@
 ---
-title: Getting Married
-permalink: /getting-married
+title: Get Support
+permalink: /get-support
 ---
 
-## Getting Married
+## Get Support
 
 Placeholder text.
 
