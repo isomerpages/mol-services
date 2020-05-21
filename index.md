@@ -13,10 +13,16 @@ sections:
         button: Contact Us
         url: /contact-us/
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        title: Browse Services
+        subtitle: Govt eService Directory
+        description: Services Bundled for your Convenience, in one place
+        button: I want to...
+        url: /faq/
+    - infobar:
+        title: Guides to SG Life
+        subtitle: We all need some support at some point in life, especially at the key life stages. 
+        description: Step-by-step guides for you, when you need it the most
+        button: See all guides
         url: /faq/
     - resources:
         title: Media
