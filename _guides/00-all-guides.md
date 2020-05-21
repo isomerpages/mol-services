@@ -1,5 +1,5 @@
 ---
-title: At a Glance
+title: At a glance
 permalink: /all-guides
 breadcrumb: Guides SG
 ---
