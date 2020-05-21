@@ -10,7 +10,7 @@ collections:
     
 collections:
   services:
-    output: false
+    output: true
     
 collections:
   i-want-to:
