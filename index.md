@@ -17,7 +17,7 @@ sections:
         subtitle: Govt eService Directory
         description: Services Bundled for your Convenience, in one place
         button: I want to...
-        url: /services/
+        url: /services/overview/
     - infobar:
         title: Guides to SG Life
         subtitle: We all need some support at some point in life, especially at the key life stages. 
