@@ -5,7 +5,7 @@ favicon: /images/mol_fav.ico
 markdown: CommonMarkGhPages
 
 collections:
-  i-want-to:
+  scenarios:
     output: true
 
 collections:
