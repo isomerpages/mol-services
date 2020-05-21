@@ -23,7 +23,7 @@ sections:
         subtitle: We all need some support at some point in life, especially at the key life stages. 
         description: Step-by-step guides for you, when you need it the most
         button: See all guides
-        url: /faq/
+        url: /i-want-to/get-employed
     - resources:
         title: Media
         subtitle: Learn more
