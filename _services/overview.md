@@ -1,6 +1,6 @@
 ---
 title: This can be changed
-permalink: /services/overview/
+permalink: /services/
 ---
 
 ## This is placeholder text.
