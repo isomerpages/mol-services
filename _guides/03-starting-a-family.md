@@ -8,19 +8,19 @@ breadcrumb:
 
 Placeholder text.
 
-## Section header 2
+#### Healthy pregnancy
 
 Placeholder text.
 
-## Section header 3
+#### Arrange childcare
 
 Placeholder text.
 
-## Section header 4
+#### Know my benefits/grants as a family
 
 Placeholder text.
 
-## Section header 5
+#### Know my paternity/maternity benefits as a parent (related to my job)
 
 Placeholder text.
 
