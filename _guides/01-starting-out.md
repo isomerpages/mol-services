@@ -16,11 +16,7 @@ Placeholder text.
 
 Placeholder text.
 
-#### Get Help with family costs
-
-Placeholder text.
-
-#### Saving enough for healthcare expenses (Serious illnesses/Injury)
+#### Get help with family costs
 
 Placeholder text.
 
