@@ -1,7 +1,7 @@
 ---
-title: All Guides
+title: At a Glance
 permalink: /all-guides
-breadcrumb: 
+breadcrumb: Guides SG
 ---
 
 ## All Guides
