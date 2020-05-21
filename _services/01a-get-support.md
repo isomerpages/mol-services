@@ -1,6 +1,7 @@
 ---
-title: Get Support
+title: I want to
 permalink: /get-support
+third_nav_title: Get Support 
 ---
 
 ## Get Support
