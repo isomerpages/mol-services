@@ -11,4 +11,4 @@ You will be required to pay an option fee on the spot when you head down to HDB 
 
 - $500 for 2-room flexi flats
 - $1,000 for 3-room flats 
-- $2,000 for 4 room or larger flats"
+- $2,000 for 4 room or larger flats
