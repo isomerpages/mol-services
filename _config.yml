@@ -7,11 +7,9 @@ markdown: CommonMarkGhPages
 collections:
   packages:
     output: true
-    
 collections:
   services:
     output: true
-    
 collections:
   i-want-to:
     output: true
