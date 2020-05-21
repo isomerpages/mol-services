@@ -6,3 +6,7 @@ third_nav_title: I want to buy a flat from HDB
 ---
 
 ## Step 3: Ballot for a HDB Flat
+
+### Upcoming Sales Launches
+
+Find out about upcoming sales launches and apply for the HDB flat you want.
