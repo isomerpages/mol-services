@@ -1,6 +1,6 @@
 ---
-title: Browse Services
-permalink: /services/browse-services/
+title: Overview
+permalink: /services/overview/
 ---
 
 ## This is placeholder text.
