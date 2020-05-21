@@ -5,7 +5,7 @@ breadcrumb: Buying a Flat
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 1
+## Step 1: Check your eligibility
 
 ### Find out what type of HDB flats you are eligible to buy
 
