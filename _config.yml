@@ -11,7 +11,7 @@ collections:
   services:
     output: true
 collections:
- i-want-to:
+  i-want-to:
     output: true
 
 resources_name: media-centre
