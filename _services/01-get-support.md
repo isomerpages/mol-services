@@ -1,5 +1,5 @@
 ---
-title: I want to
+title: Get Support
 permalink: /get-support
 ---
 
