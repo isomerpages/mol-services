@@ -14,13 +14,13 @@ sections:
         url: /contact-us/
     - infobar:
         title: Browse Services
-        subtitle: Govt eService Directory
+        subtitle: 
         description: Services Bundled for your Convenience, in one place
         button: I want to...
         url: /overview
     - infobar:
         title: Guides to SG Life
-        subtitle: We all need some support at some point in life, especially at the key life stages. 
+        subtitle:  
         description: Step-by-step guides for you, when you need it the most
         button: See all guides
         url: /starting-out
