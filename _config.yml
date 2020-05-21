@@ -6,7 +6,7 @@ markdown: CommonMarkGhPages
 
 collections:
   packages:
-    output: false
+    output: true
     
 collections:
   services:
