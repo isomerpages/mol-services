@@ -1,8 +1,7 @@
 ---
-title: Overview
+title: Get Employed
 permalink: /overview
-breadcrumb: I want to
-third_nav_title: Test
+third_nav_title: I want to
 ---
 
 ## Section header 1
