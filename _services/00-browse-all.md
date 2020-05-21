@@ -1,11 +1,10 @@
 ---
-title: Starting Out
-permalink: /starting-out
-breadcrumb: Starting Out
+title: Browse All
+permalink: /Browse All
+breadcrumb: 
 ---
 
-
-## Starting Out
+## Browse All
 
 Placeholder text.
 
