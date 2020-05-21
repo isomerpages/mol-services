@@ -17,13 +17,13 @@ sections:
         subtitle: Govt eService Directory
         description: Services Bundled for your Convenience, in one place
         button: I want to...
-        url: /services/get-employed
+        url: /get-employed
     - infobar:
         title: Guides to SG Life
         subtitle: We all need some support at some point in life, especially at the key life stages. 
         description: Step-by-step guides for you, when you need it the most
         button: See all guides
-        url: /guides/starting-out
+        url: /starting-out
     - resources:
         title: Media
         subtitle: Learn more
