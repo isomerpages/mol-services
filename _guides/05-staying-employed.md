@@ -8,19 +8,15 @@ breadcrumb:
 
 Placeholder text.
 
-## Section header 2
+#### Upskilling/Retraining
 
 Placeholder text.
 
-## Section header 3
+#### Getting help with Costs
 
 Placeholder text.
 
-## Section header 4
-
-Placeholder text.
-
-## Section header 5
+#### Looking for Job (after retrenchment)
 
 Placeholder text.
 
