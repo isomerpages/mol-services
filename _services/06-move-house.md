@@ -8,4 +8,4 @@ permalink: /move-house
 #### Buy a flat from HDB
 #### Buy a Resale Flat
 #### Sell a HDB Flat
-#### Move into my HDB home
+#### [Move into my HDB home](/packages/buy-a-flat)
