@@ -8,7 +8,8 @@ logo: /images/mol-logo.jpg
 
 links:
 
-
+  - title: Packages
+    collection: packages
 
   - title: Services
     collection: services
