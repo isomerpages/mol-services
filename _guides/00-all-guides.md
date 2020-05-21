@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: All Guides
 permalink: /all-guides
 breadcrumb: 
 ---
