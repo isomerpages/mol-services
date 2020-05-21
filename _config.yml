@@ -5,13 +5,15 @@ favicon: /images/mol_fav.ico
 markdown: CommonMarkGhPages
 
 collections:
+  i-want-to:
+    output: true
+    
+collections:
   packages:
     output: true
+
 collections:
   services:
-    output: true
-collections:
-  i-want-to:
     output: true
 
 resources_name: media-centre
