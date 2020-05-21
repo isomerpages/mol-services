@@ -1,7 +1,7 @@
 ---
 title: Step 1
 permalink: /buying-a-hdb/
-breadcrumb: Buying a Flat
+breadcrumb:
 third_nav_title: I want to buy a flat from HDB
 ---
 
