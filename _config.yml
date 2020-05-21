@@ -4,18 +4,13 @@ favicon: /images/mol_fav.ico
 
 markdown: CommonMarkGhPages
 
-
 collections:
   packages:
     output: true
-
-    
-
+   
 collections:
   guides:
-    output: true
-   
-   
+    output: true   
    
 collections:
   services:
