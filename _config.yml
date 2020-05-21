@@ -6,8 +6,12 @@ markdown: CommonMarkGhPages
 
 collections:
   packages:
+    output: false
+    
+collections:
+  services:
     output: true
-  
+
 resources_name: media-centre
 
 # Site colors
