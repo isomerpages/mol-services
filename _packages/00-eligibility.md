@@ -24,6 +24,6 @@ HDB manages its applications process through a balloting system which assigns ap
   
 #### Eligibility checker
 
-Use this questionnaire to do a quick check on your eligibility to buy a new flat from HDB
+Use this [questionnaire](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to do a quick check on your eligibility to buy a new flat from HDB
 
-  - [Found here](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
+
