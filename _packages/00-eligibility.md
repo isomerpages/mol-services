@@ -1,8 +1,8 @@
 ---
-title: I want to buy a flat from HDB
+title: Step 1
 permalink: /buying-a-hdb/eligibility/
 breadcrumb:
-third_nav_title: 
+third_nav_title: I want to buy a flat from HDB
 ---
 
 ## Step 1: Check your eligibility
