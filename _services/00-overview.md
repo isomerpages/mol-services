@@ -4,7 +4,7 @@ permalink: /overview
 breadcrumb: I want to
 ---
 
-## [Be Financially Stable](_services/01-Be Financially Stable)
+## [Be Financially Stable](https://mol-services-staging.netlify.app/financially-stable)
 
 A one-sentence description on this package.
 
@@ -28,6 +28,6 @@ A one-sentence description on this package.
 
 A one-sentence description on this package.
 
-## [Move House](_services/06-move-house.md)
+## [Move House](https://mol-services-staging.netlify.app/move-house)
 
 A one-sentence description on this package.
