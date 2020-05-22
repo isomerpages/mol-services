@@ -6,10 +6,3 @@
 
 logo: /images/mol-logo.jpg
 
-links:
-
-  - title: Services
-    collection: services
-    
-  - title: Guides
-    collection: guides
