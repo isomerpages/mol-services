@@ -9,13 +9,13 @@ sections:
     - hero:
         title: Services in SG
         subtitle: Helping you find what you need. Faster.
-        background: /images/hero-banner.jpg
+        background: /images/hero banner2.jpeg
         button: Contact Us
         url: /contact-us/
     - infobar:
-        title: Browse Services
+        title: Browse Services 
         subtitle: 
-        description: Services Bundled for your Convenience, in one place
+        description: Govt Services Bundled for your Convenience, in one place
         button: I want to...
         url: /overview
     - infobar:
