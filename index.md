@@ -10,8 +10,7 @@ sections:
         title: Services in SG
         subtitle: Helping you find what you need. Faster.
         background: /images/hero banner2.jpeg
-        button: Contact Us
-        url: /contact-us/
+  
     - infobar:
         title: Browse Services 
         subtitle: 
@@ -19,13 +18,10 @@ sections:
         button: I want to...
         url: /overview
     - infobar:
-        title: Guides to SG Life
+        title: Guides to living in SG
         subtitle:  
         description: Step-by-step guides for you, when you need it the most
         button: See all guides
         url: /starting-out
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+ 
 ---
