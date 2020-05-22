@@ -1,4 +1,4 @@
 ---
 title: Stay Healthy
-permalink: /Stay-Healthy
+permalink: /Stay-Healthy/
 ---
