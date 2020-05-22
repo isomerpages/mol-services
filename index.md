@@ -16,7 +16,7 @@ sections:
         subtitle: 
         description: Govt Services Bundled for your Convenience, in one place
         button: I want to...
-        url: _services/overview
+        url: /overview
     - infobar:
         title: Guides to living in SG
         subtitle:  
