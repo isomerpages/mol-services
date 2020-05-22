@@ -8,11 +8,11 @@ breadcrumb: I want to
 
 A one-sentence description on this package.
 
-## [Get Employed](https://mol-services-staging.netlify.app/get-employed)
+## [Get Employed](/get-employed/)
 
 A one-sentence description on this package.
 
-## [Get Support](https://mol-services-staging.netlify.app/get-support)
+## [Get Support](/get-support/)
 
 A one-sentence description on this package.
 
