@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Services in SG
-        subtitle: Helping you find what you need. Faster.
+        title: Services in LifeSG
+        subtitle: Simpler Services. Better Lives
         background: /images/hero banner2.jpeg
   
     - infobar:
