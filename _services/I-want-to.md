@@ -1,6 +1,6 @@
 ---
 title: I want to...
-permalink: /overview
+permalink: /i-want-to
 breadcrumb: I want to
 ---
 
