@@ -4,7 +4,7 @@ permalink: /overview
 breadcrumb: I want to
 ---
 
-## [Be Financially Stable]
+## Be Financially Stable
 
 A one-sentence description on this package.
 
