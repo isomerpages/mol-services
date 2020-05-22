@@ -3,9 +3,9 @@ title: Move House
 permalink: /move-house
 ---
 
-## Title placeholder
+## Move House
 
-#### Buy a flat from HDB
-#### Buy a Resale Flat
-#### Sell a HDB Flat
-#### [Move into my HDB home](/buying-a-hdb/eligibility)
+#### [Buying a flat from HDB] (/buying-a-hdb/eligibility)
+#### [Buying a Resale Flat](/resale)
+#### [Selling a HDB Flat](selling/)
+#### Moving In
