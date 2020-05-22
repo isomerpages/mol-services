@@ -1,6 +1,6 @@
 ---
 title: Step 1
-permalink: /eligibility/
+permalink: /buying-a-hdb/eligibility/
 breadcrumb:
 third_nav_title: I want to buy a flat from HDB
 ---
