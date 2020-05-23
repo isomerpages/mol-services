@@ -1,34 +1,13 @@
 ---
 title: I want to...
 permalink: /overview
-breadcrumb: I want to
+third_nav_title: I want to
 ---
 
-## Be Financially Stable
+# At a Glance
 
-A one-sentence description on this package.
+|  |   |   |   |
+|---|---|---|---|
+| [![](/images/1-financially-stable.png)](/financially-stable/) | [![](/images/2-get-employed.png)](/get-employed) | [![](/images/3-get-support.png)](/get-support) |  [![](/images/4-get-married.png)](/get-married) |
+| [![](/images/5-have-a-baby.png)](/have-a-baby) | [![](/images/6-move-house.png)](/move-house) | [![](images/7.-stay-healthy.png)](/stay-healthy/) |
 
-## [Get Employed](/get-employed/)
-
-A one-sentence description on this package.
-
-## [Get Support](/get-support/)
-
-A one-sentence description on this package.
-
-## [Get Married](https://mol-services-staging.netlify.app/get-married)
-
-A one-sentence description on this package.
-
-## [Have a Baby](https://mol-services-staging.netlify.app/have-a-baby)
-
-A one-sentence description on this package.
-
-## [Move House](https://mol-services-staging.netlify.app/move-house)
-
-
-A one-sentence description on this package.
-
-## Stay Healthy
-
-A one-sentence description on this package.
