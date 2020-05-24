@@ -1,5 +1,5 @@
 ---
-title: Step 4
+title: Step 4 Apply Mortgage
 permalink: /buying-a-hdb/mortgage
 breadcrumb:
 third_nav_title: I want to buy a flat from HDB
