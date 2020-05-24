@@ -1,5 +1,5 @@
 ---
-title: Step 2
+title: Step 2 Plan Finances
 permalink: /buying-a-hdb/finances/
 breadcrumb:
 third_nav_title: I want to buy a flat from HDB
