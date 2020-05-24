@@ -1,5 +1,5 @@
 ---
-title: Step 6
+title: Step 6 Sign HDB Lease
 permalink: /buying-a-hdb/lease/
 breadcrumb: 
 third_nav_title: I want to buy a flat from HDB
