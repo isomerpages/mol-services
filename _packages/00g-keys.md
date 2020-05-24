@@ -9,5 +9,5 @@ third_nav_title: I want to buy a flat from HDB
 
 ### Check your HDB Appointment
 
--Check your HDB appointment online [here](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)
-<em>(Go to My Flat > Application Status > New Flat > Reg.No.)</em>
+<p>Check your HDB appointment online [here](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)<br>
+<em>(Go to My Flat > Application Status > New Flat > Reg.No.)</em></p>
