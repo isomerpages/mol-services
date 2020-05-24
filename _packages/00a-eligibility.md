@@ -1,5 +1,5 @@
 ---
-title: Step 1
+title: Step 1: Check Eligibility
 permalink: /buying-a-hdb/eligibility/
 breadcrumb:
 third_nav_title: I want to buy a flat from HDB
