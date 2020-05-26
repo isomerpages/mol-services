@@ -1,7 +1,7 @@
 ---
 title: I want to buy a flat from HDB
 permalink: /buying-a-hdb/
-breadcrumb:Buying directly from HDB
+
 ---
 
 ## Overview of Buyer's Journey
