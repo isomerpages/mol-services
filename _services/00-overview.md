@@ -5,7 +5,7 @@ permalink: /overview
 
 # I Want To
 
-## [Be Financially Stable](https://mol-services-staging.netlify.app/financially-stable/)
+## [Be Financially Stable](/financially-stable/)
 
 One line description on package
 
