@@ -29,7 +29,7 @@ One line description on package
 
 One line description on package
 
-## [Move House](_services/07-move-house.md)
+## [Move House](_services/07-move-house)
 
 One line description on package 
 
