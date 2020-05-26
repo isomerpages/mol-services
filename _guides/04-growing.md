@@ -8,7 +8,7 @@ breadcrumb: Growing & Caring for my Family
 
 This is a guide for people in Singapore who are thinking of having more children and not sure where to get more support while growing your family.
 
-## Deciding to get a bigger space](/move-house)
+## [Deciding to get a bigger space](/move-house)
 
 (package 14 and package 15 part a)
 Do consider the following before deciding to get a new place.
