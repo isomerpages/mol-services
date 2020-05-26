@@ -15,13 +15,13 @@ sections:
         title: Browse Services 
         subtitle: 
         description: Govt Services Bundled for your Convenience, in one place
-        button: I want to...
+        button: Browse here
         url: /overview
     - infobar:
-        title: Guides to living in SG
+        title: Suggested Guides
         subtitle:  
-        description: Step-by-step guides for you, when you need it the most
+        description: Not sure what to look out for when planning major life decisions? We have put together what might be   relevant for you during each milestone in our Singaporean life.
         button: See all guides
-        url: /starting-out
+        url: /all-guides
  
 ---
