@@ -1,6 +1,6 @@
 ---
 title: I want to buy a flat from HDB
-permalink: /buying-a-hdb/
+permalink: /buying-a-hdb
 
 ---
 
