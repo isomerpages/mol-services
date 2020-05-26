@@ -4,7 +4,7 @@ permalink: /have-a-baby
 breadcrumb: I Want to Have a Baby
 ---
 
-# Planning to/ Having a Baby
+# Planning to have/ Having a Baby
 
 Placeholder text.
 
