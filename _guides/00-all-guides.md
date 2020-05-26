@@ -21,7 +21,7 @@ One line description about the life stage bundled in this scenario
 
 One line description about the life stage bundled in this scenario
 
-## [Growing and Caring for my Family](/04-growing)
+## [Growing and Caring for my Family](/growing)
 
 As you plan to grow your family, there are many considerations to think about. This guide includes suggested reseources that can help manage your finances, find support services and what you could do to plan ahead.
 
