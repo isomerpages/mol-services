@@ -5,7 +5,7 @@ permalink: /overview
 
 # I Want To
 
-## Be Financially Stable
+## [Be Financially Stable](/financially-stable/)
 
 One line description on package
 
