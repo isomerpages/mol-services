@@ -6,4 +6,4 @@ breadcrumb:Buying directly from HDB
 
 ## Overview of Buyer's Journey
 
-![Guide to Buying from HDB](http://www.hdb.gov.sg/cs/infoweb/img/timeline.jpg;wa971f0071e26b39ed)
+![Guide to Buying from HDB](https://www.hdb.gov.sg/cs/infoweb/img/timeline.jpg;wa971f0071e26b39ed)
