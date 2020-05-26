@@ -1,13 +1,12 @@
 ---
 title: Move House
 permalink: /move-house
+breadcrumb: I Want to Move House
 ---
 
-## Move House
+## Moving House
 
-One line description on service bundle
-
-And the various important packages for users to consider.
+Making a decision to get a new home is not a small one. There are many big and small government services and resources you may need to consider and/or do along the way. 
 
 #### [Buying a flat from HDB](/buying-a-hdb/eligibility/)
 #### [Buying a Resale Flat](/resale/)
