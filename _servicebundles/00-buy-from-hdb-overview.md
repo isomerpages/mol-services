@@ -1,5 +1,5 @@
 ---
-title: I want to buy a flat from HDB
+title: A HDB buyer's Guide 
 permalink: /buying-a-hdb
 
 ---
