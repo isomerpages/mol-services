@@ -4,7 +4,7 @@ title: Moments of Life
 description: Brief site description here
 image: /images/mol-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Moments of Life will be known as LifeSG from 13 July 2020 onwards! Download from your App Store or Google Play today!
 sections:
     - hero:
         title: Services in LifeSG
