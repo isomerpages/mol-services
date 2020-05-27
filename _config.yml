@@ -10,7 +10,7 @@ collections:
     output: true
   guides:
     output: true
-  packages:
+  servicebundles:
     output: true
 
 
