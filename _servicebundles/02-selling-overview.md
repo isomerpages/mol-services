@@ -1,10 +1,10 @@
 ---
-title: Step 1
+title: Overview
 permalink: /selling/
 third_nav_title: I want to sell a HDB flat
 ---
 
-### Guide to selling a HDB
+# Guide to selling a HDB
 
 ![HDB Resale Portal](/images/hdb-resale-portal.jpg)
 
