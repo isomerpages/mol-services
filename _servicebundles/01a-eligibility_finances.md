@@ -33,11 +33,11 @@ Taking a housing loan for up to 25 years is a long-term commitment. Use the foll
 
 ### CPF and Your Home
 
-Some CPF tools to help you estimate CPF usage.
+Tools to help you estimate your CPF usage:
 
-- [Find out](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme) how you can use your CPF savings to pay for your HDB home
+- Find out how you can use your CPF savings to pay for your HDB home [here](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme)
 - For property bought [on or after 10 May 2019](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1)
 - For property bought [before 10 May 2019](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingWithdrawalLimits/CpfHousingWithdrawalLimits)
-- Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)
+<em>Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)</em>
 - A [1-minute tool](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate) to estimate the monthly installment payable on a housing loan
 
