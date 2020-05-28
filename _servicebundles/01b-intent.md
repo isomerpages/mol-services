@@ -1,12 +1,8 @@
 ---
-title: Step 2 
-permalink: /resale
+title: Step 2 Balloting
+permalink: /resale/ballot
 third_nav_title: I want to buy a resale flat
 ---
-
-### Step 2: Assess your budget
-
-Use this [financial planning tool](https://services2.hdb.gov.sg/webapp/BP13FINPLAN1/BP13J020) to estimate your budget.
 
 ### Step 3: Balloting 
 
