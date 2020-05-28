@@ -1,11 +1,8 @@
 ---
 title: Step 2 
-permalink: /resale/intent
+permalink: /resale
 third_nav_title: I want to buy a resale flat
 ---
-
-### Register Intent to Buy
-
 
 ### Step 2: Assess your budget
 
