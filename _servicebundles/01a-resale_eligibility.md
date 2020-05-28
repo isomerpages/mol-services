@@ -9,7 +9,7 @@ third_nav_title: I Want to Buy a resale flat
 
 There are a few eligibility schemes for you to purchase a resale flat, as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) listed in the application. 
 
-Read more about the various eligibility schemes [here] (https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-)
+Read more about the various eligibility schemes [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-)
 
 ## Register Intent to Buy
 
