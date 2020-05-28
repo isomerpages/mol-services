@@ -14,12 +14,15 @@ Read more about the various eligibility schemes [here](https://www.hdb.gov.sg/cs
 Tip: Use this simple [questionnaire](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to check your eligibility to purchase a resale flat.
 
 
-# Assess your budget
+# Plan your Finances
 
 Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
 You can also use this [financial planning tool](https://services2.hdb.gov.sg/webapp/BP13FINPLAN1/BP13J020) to estimate your budget.
 
+## Some CPF Tools for your planning
+
+Here are some [financial tools](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme) you may find it useful to plan your finances. 
 
 # Register Intent to Buy
 
