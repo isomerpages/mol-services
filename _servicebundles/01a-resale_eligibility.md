@@ -1,6 +1,6 @@
 ---
-title: Step 1 Check your Eligibility to Buy a Resale
-permalink: /resale
+title: Step 1 Check your Eligibility
+permalink: /resale/
 breadcrumb: 
 third_nav_title: I Want to Buy a resale flat
 ---
