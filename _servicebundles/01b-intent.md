@@ -1,12 +1,10 @@
 ---
-title: Step 2 Balloting
+title: Step 3 Ballot for flat
 permalink: /resale/ballot
 third_nav_title: I want to buy a resale flat
 ---
 
-### Step 3: Balloting 
 
-[Find out](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf) about upcoming sales launches and apply for the HDB flat you want.
 
 ### Step 4: Make Housing Loan arrangements
 
