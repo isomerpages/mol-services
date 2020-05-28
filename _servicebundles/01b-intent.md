@@ -18,6 +18,18 @@ Upon registration, you will receive an instant assessment on:
 
 If you are keen to manage your flat purchase yourself, read the detailed guide [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/ways-to-buy).
 
-There is no fees involved. 
+There is no fees involved in this step.
 
+## What to look out for
 
+Consider these factors when evaluating the flat options you intend to buy:
+
+- Resale transacted prices
+- Ethnic integration policy (EIP) quotas
+- Singapore permanent resident (SPR) quotas 
+
+Using [HDB Map Services](https://services2.hdb.gov.sg/web/fi10/emap.html) would help you gather these information by keying in the flat details.
+
+## What happens after
+
+After registering your Intent to Buy, you will be guided to apply for an HDB Loan Eligibility (HLE) letter, if you are eligible for and intend to get a housing loan from HDB. Otherwise, you will be advised to have an Approval In-Principle (AIP) from the bank before the seller can grant you the Option to Purchase.
