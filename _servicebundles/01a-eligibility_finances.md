@@ -11,7 +11,15 @@ There are a few eligibility schemes for you to purchase a resale flat, as long a
 
 Read more about the various eligibility schemes [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-)
 
-## Register Intent to Buy
+<p><em>Tip: Use this [e-Service](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to check your eligibility by answering a simple questionnaire.</em></p>
+
+
+# Plan your Finances
+
+Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
+
+
+# Register Intent to Buy
 
 Since 1 January 2018, resale flat buyers and sellers will have to login to the HDB Resale Portal using their SingPass. Hence for you to start buying a resale, you would need to register your [Intent to Buy](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp).
 
@@ -22,8 +30,3 @@ Upon registration, you will receive an instant assessment on:
 - Eligibility for an HDB housing loan
 
 If you are keen to manage your flat purchase yourself, read the detailed guide [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/ways-to-buy).
-
-# Plan your Finances
-
-Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
-
