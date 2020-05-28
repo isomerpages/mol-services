@@ -11,7 +11,7 @@ There are a few eligibility schemes for you to purchase a resale flat, as long a
 
 Read more about the various eligibility schemes [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-)
 
-<p><em>Tip: Use this [e-Service](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to check your eligibility by answering a simple questionnaire.</em></p>
+<p><em>Tip: Use this simple [questionnaire] (https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to check your eligibility to purchase a resale flat.</em></p>
 
 
 # Plan your Finances
