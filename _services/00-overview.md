@@ -7,8 +7,6 @@ permalink: /overview
 
 Find the services and resources gathered here based on typical needs in Singaporean life. 
 
-## Want to see more? Share with us your suggestions [here]
-
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
@@ -31,3 +29,4 @@ Find the services and resources gathered here based on typical needs in Singapor
 </tbody>
 </table></div>
 
+## Want to see more? Share with us your suggestions with us [here](https://form.gov.sg/5ed0995e42ee5f00110e10cc)
