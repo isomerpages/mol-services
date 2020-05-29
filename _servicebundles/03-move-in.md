@@ -13,7 +13,7 @@ Find out how you can [update your residential address](https://www.ica.gov.sg/do
 
 ## Rectification works
 
-Found some defects? You can [submit a request to do rectification works](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview).
+Found some defects? You can submit a request to HDB to help you with the [rectification works](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview).
 
 ## Property tax
 
