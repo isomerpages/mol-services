@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Moments of Life (in Collaboration with PSD)
 locations:
   - title: Main Office
     address:
@@ -22,11 +22,12 @@ locations:
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
----
+  
+  
+ <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here</a>.</div>
+
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/5ed0995e42ee5f00110e10cc" style="width:100%;height:500px"></iframe>
+
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
+
