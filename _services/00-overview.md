@@ -3,7 +3,7 @@ title: I want to...
 permalink: /overview
 ---
 
-# Service Bundles
+## Service Bundles
 
 Find the services and resources gathered here based on typical needs in Singaporean life. 
 
@@ -29,4 +29,6 @@ Find the services and resources gathered here based on typical needs in Singapor
 </tbody>
 </table></div>
 
-## Want to see more? Share with us your suggestions with us [here](https://form.gov.sg/5ed0995e42ee5f00110e10cc)
+### Want to see more services?
+
+Share with us your suggestions with us [here](https://form.gov.sg/5ed0995e42ee5f00110e10cc)
