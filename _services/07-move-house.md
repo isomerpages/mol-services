@@ -11,4 +11,4 @@ Making a decision to get a new home is not a small one. There are many big and s
 #### [Buying a flat from HDB](/buying-a-hdb/)
 #### [Buying a Resale Flat](/resale/)
 #### [Selling a HDB Flat](/selling/)
-#### Moving In
+#### [Moving In](/move-in)
