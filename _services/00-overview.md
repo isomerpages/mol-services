@@ -11,7 +11,7 @@ Find the services and resources gathered here based on typical needs in Singapor
 <thead>
   <tr>
     <th class="tg-wr1l"><a href="https://mol-services-staging.netlify.app/financially-stable/"><img src="/images/01-financially-stable.png" alt="Be Financially Stable" width="375" height="375"></th>
-    <th class="tg-baqh"><a href="https://mol-services-staging.netlify.app/get-employed"><img src="/images/02-get-employed.png" alt="Get Employed" width="375" height="375"></th>
+    <th class="tg-baqh"><a href="/get-employed/overview/"><img src="/images/02-get-employed.png" alt="Get Employed" width="375" height="375"></th>
     <th class="tg-baqh"><a href="https://mol-services-staging.netlify.app/get-married"><img src="/images/04-get-married.png" alt="Get Married" width="375" height="375"></th>
   </tr>
 </thead>
