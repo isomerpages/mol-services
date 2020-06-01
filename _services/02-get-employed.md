@@ -1,25 +1,13 @@
 ---
 title: Get Employed
-permalink: /get-employed
+permalink: /get-employed/
 breadcrumb: I Want to Get Employed
 ---
 
-# Get Employed
+## Getting Employed
+This is a guide for those living in Singapore who are seeking support and guidance in their jobs and employment here. It provides information and available resources we can offer for various career decisions, upskilling options to improve your employability. 
 
-Placeholder text.
-
-## [Getting your First Job](/_servicebundles/04-get-employed)
-
-Placeholder text.
-
-## Section header 3
-
-Placeholder text.
-
-## Section header 4
-
-Placeholder text.
-
-## Section header 5
-
-Placeholder text.
+#### [Getting Your First Job]
+#### [Finding Work]
+#### [Starting a New Career]
+#### [If You Lost Your Job]
