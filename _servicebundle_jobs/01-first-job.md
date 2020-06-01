@@ -25,6 +25,4 @@ Find out how you can construct your career plan [here](https://content.mycareers
 
 Need help? Register your interest [here](https://form.gov.sg/#!/5d8c8167f23aa800126bb9d9) to get some career coaching advice or a career health check.
 
-Search for jobs in the portal [here](https://www.mycareersfuture.sg/) or find [latest job postings](https://www.mycareersfuture.sg/search?sortBy=new_posting_date&page=0).
-
 
