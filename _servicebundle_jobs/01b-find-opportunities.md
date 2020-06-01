@@ -13,7 +13,7 @@ Complement your job search efforts with Career Coaching, workshops and networkin
 - [Career Coaching Services](https://www.wsg.gov.sg/career-services.html)
 - Participate in [networking events](https://vcf.mycareersfuture.sg/vcf)
 
-Tip: Do use the resume checker when submitting your job application on MyCareersFuture portal.Find out how you can improve your CV using the checker in the video below.
+<em>Tip: Do use the resume checker when submitting your job application on MyCareersFuture portal.Find out how you can improve your CV using the checker in the video below.</em>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NCNCECrUMfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
