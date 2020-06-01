@@ -22,7 +22,7 @@ Find the services and resources gathered here based on typical needs in Singapor
     <td class="tg-baqh"><a href="https://mol-services-staging.netlify.app/keep-my-health-in-check/"><img src="/images/07-keep-healthy.png" alt="Keep Health in Check" width="375" height="375"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href="https://mol-services-staging.netlify.app/move-house"><img src="/images/06-move-house.png" alt="Move House" width="375" height="375"></td>
+    <td class="tg-0lax"><a href="https://mol-services-staging.netlify.app/buying-a-hdb"><img src="/images/06-move-house.png" alt="Move House" width="375" height="375"></td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax"></td>
   </tr>
