@@ -12,7 +12,8 @@ collections:
     output: true
   servicebundles:
     output: true
-
+  servicebundle_jobs:
+    output: true
 
 resources_name: media-centre
 
