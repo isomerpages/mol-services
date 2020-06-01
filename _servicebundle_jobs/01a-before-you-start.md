@@ -1,7 +1,7 @@
 ---
 title: Before You Start
 permalink: /get-employed/before-you-start/
-third_nav_title: Getting my 1st Job
+third_nav_title: Getting your 1st Job
 ---
 
 
