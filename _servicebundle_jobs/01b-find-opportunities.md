@@ -1,6 +1,6 @@
 ---
 title: Search for Jobs
-permalink: /get-employed/before-you-start/
+permalink: /get-employed/find-opportunities/
 third_nav_title: Getting your 1st Job
 ---
 
