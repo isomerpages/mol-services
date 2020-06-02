@@ -1,7 +1,7 @@
 ---
-title: Finding a Job
+title: Where to Look
 permalink: /get-a-job/
-third_nav_title: Looking for a Job
+third_nav_title: Finding a Job
 ---
 
 
