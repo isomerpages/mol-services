@@ -1,6 +1,6 @@
 ---
 title: Where to Look
-permalink: /where-to-look/
+permalink: /find-job/opportunities/
 third_nav_title: Finding a Job
 ---
 
