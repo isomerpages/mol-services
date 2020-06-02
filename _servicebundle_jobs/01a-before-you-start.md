@@ -10,11 +10,11 @@ Before you start your job search, learn how you can equip yourself with Job Sear
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w6d08_VPwiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Assess your employability
+#### Assess your employability
 
 Find out how you can get advice from nline Coaching services and online profiling tools such as CV analyser [here](https://content.mycareersfuture.sg/careercoaching/).
 
-### Create a Career Plan
+#### Create a Career Plan
 
 Gone were the days where you leave your career planning to the Human Resources(HR) department or your potential boss. Living in a fast-paced changing world, it is almost impossible to predict what could disrupt the jobs of today. Hence it is important that you plan and construct your own career plan through small, actionable steps.
 
