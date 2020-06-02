@@ -1,7 +1,7 @@
 ---
-title: Getting your 1st Job
+title: First Steps
 permalink: /get-employed/first-job/
-third_nav_title: I want to get employed
+third_nav_title: Getting your 1st Job
 ---
 
 ## Overview
