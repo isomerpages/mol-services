@@ -1,6 +1,6 @@
 ---
 title: Before You Start
-permalink: /find-job/before-you-start/
+permalink: /get-employed/find-job/before-you-start/
 third_nav_title: Finding a Job
 ---
 
