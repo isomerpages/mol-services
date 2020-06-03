@@ -7,7 +7,7 @@ third_nav_title: I want to buy a flat from HDB
 
 ## Step 2: Plan your Finances
 
-### Assessing your budget
+#### Assessing your budget
 
 Taking a housing loan for up to 25 years is a long-term commitment. Use the following to plan your finances.
 
@@ -22,7 +22,7 @@ Taking a housing loan for up to 25 years is a long-term commitment. Use the foll
     - Collect the keys to your new flat and renovate it while selling your existing flat
 - If you decide to go with a bank loan, read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks)
 
-### CPF and Your Home
+#### CPF and Your Home
 
 Some CPF tools to help you estimate CPF usage.
 
@@ -32,7 +32,7 @@ Some CPF tools to help you estimate CPF usage.
 - Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)
 - A [1-minute tool](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate) to estimate the monthly installment payable on a housing loan
 
-### CPF Housing Grants
+#### CPF Housing Grants
 
 You may receive subsidies in the form of CPF Housing Grants up to $80,000. 
 
