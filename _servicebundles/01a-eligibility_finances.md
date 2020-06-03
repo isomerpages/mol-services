@@ -5,7 +5,7 @@ breadcrumb:
 third_nav_title: I want to buy a resale flat
 ---
 
-# Check your Eligibility to Purchase Resale
+## Check your Eligibility to Purchase Resale
 
 There are a few eligibility schemes for you to purchase a resale flat, as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) listed in the application. 
 
@@ -14,7 +14,7 @@ Read more about the various eligibility schemes [here](https://www.hdb.gov.sg/cs
 Tip: Use this simple [questionnaire](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK) to check your eligibility to purchase a resale flat.
 
 
-# Plan your Finances
+#### Plan your Finances
 
 Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
@@ -31,7 +31,7 @@ Taking a housing loan for up to 25 years is a long-term commitment. Use the foll
     - Collect the keys to your new flat and renovate it while selling your existing flat
 - If you decide to go with a bank loan, read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks)
 
-### CPF and Your Home
+#### CPF and Your Home
 
 Tools to help you estimate your CPF usage:
 
