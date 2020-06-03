@@ -5,14 +5,14 @@ breadcrumb:
 third_nav_title: I want to buy a flat from HDB
 ---
 
-# Step 7: Collect your keys
+## Step 7: Collect your keys
 
-## Check your HDB Appointment
+#### Check your HDB Appointment
 
 Check your HDB appointment online [here](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)<br>
 <em>(Go to My Flat > Application Status > New Flat > Reg.No.)</em>
 
-## Prepare for your move
+#### Prepare for your move
 
 Some resources that might be useful:
 - [HDB renovation guidelines](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation&rendermode=preview)
