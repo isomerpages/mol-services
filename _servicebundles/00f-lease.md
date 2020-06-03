@@ -7,7 +7,7 @@ third_nav_title: I want to buy a flat from HDB
 
 ## Step 6: Sign Lease Agreement 
 
-### What to expect
+#### What to expect
 
 This is usually within four months from the date of booking a flat. Make sure you have arranged for your housing loan by then.
 
