@@ -5,9 +5,9 @@ breadcrumb:
 third_nav_title: I want to buy a flat from HDB
 ---
 
-# Step 3: Ballot for a HDB Flat
+## Step 3: Ballot for a HDB Flat
 
-## Upcoming Sales Launches
+#### Upcoming Sales Launches
 
 [HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf) are usually updated on a quarterly basis. 
 
