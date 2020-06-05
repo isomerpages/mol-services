@@ -16,13 +16,13 @@ sections:
         subtitle: 
         image: /images/government Services..png
         description: We have put together Government Services that might be useful for you, in one place.
-        button: Browse here
+        button: Browse
         url: /overview
     - infobar:
         title: Life Events
         subtitle:  
         description: Not sure what to look out for when planning major life decisions? We have been through that time in life.
-        button: More
+        button: Learn More
         url: /all-guides
  
 ---
