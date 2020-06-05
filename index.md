@@ -14,6 +14,7 @@ sections:
     - infobar:
         title: Govt Services 
         subtitle: 
+        image: /images/government Services..png
         description: We have put together Government Services that might be useful for you, in one place.
         button: Browse here
         url: /overview
