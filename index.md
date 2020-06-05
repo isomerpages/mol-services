@@ -12,16 +12,16 @@ sections:
         background: /images/hero banner2.jpeg
   
     - infobar:
-        title: Browse Services 
+        title: Govt Services 
         subtitle: 
-        description: Govt Services Bundled for your Convenience, in one place
+        description: We have put together Government Services that might be useful for you, in one place.
         button: Browse here
         url: /overview
     - infobar:
-        title: Suggested Guides
+        title: Life Events
         subtitle:  
-        description: Not sure what to look out for when planning major life decisions? We have put together what might be   relevant for you during each milestone in our Singaporean life.
-        button: See all guides
+        description: Not sure what to look out for when planning major life decisions? We have been through that time in life.
+        button: More
         url: /all-guides
  
 ---
