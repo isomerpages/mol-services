@@ -1,25 +1,32 @@
 ---
-title: When you first start work
-permalink: /first-job/first-day/
+title: Starting your first job
+permalink: /first-job/
 third_nav_title: Getting your 1st Job
 ---
 
-## Building your financial tools
+## Congratulations!
 
 Congratulations to starting your first job! Like yourself, many of us entered the workforce - clueless about the many new things and how important financial planning is to make the most of your early years as a working adult.
 
-Financial tools for fresh starter: [Insert package from 'Be Financially Stable']
+Here are some financial tools for fresh starter that might be useful:
+
+#### Building your savings
+
+First paycheck can be an exciting moment for many of us, as it is a big milestone to adulting. However, it is also important that we start our finances on the right footing to avoid financial troubles later on. 
+
+Read [here](https://www.moneysense.gov.sg/articles/2018/11/managing-your-money) for some tips on managing your paycheck.
 
 #### Understanding taxes and your liability as a citizen
 
 Find out more about [CPF contribution and allocation rates.](https://www.cpf.gov.sg/Employers/EmployerGuides/employer-guides/paying-cpf-contributions/cpf-contribution-and-allocation-rates)
 
-Use the [CPF Contribution Calculator](https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1) to calculate your monthly CPF contribution.
+[CPF 101 for Fresh Graduates in Singapore](https://www.areyouready.gov.sg/YourInfoHub/Pages/News-CPF-101-for-Fresh-Graduates.aspx)
 
+Use the [CPF Contribution Calculator](https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1) to calculate your monthly CPF contribution.
 
 #### Understanding on your rights at work
 
-Find out more about your employment rights [here.](http://www.mom.gov.sg/employment-practices/employment-rights-conditions/workright/Pages/default.aspx)
+Find out more about your employment rights [here](http://www.mom.gov.sg/employment-practices/employment-rights-conditions/workright/Pages/default.aspx)
 
 #### Dependants' Protection Scheme (DPS)
 
