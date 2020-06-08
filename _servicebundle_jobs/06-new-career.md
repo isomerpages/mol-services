@@ -1,5 +1,5 @@
 ---
-title: Prepare for career switch
+title: Plan Your Next Move
 permalink: /switch-career/
 third_nav_title: Starting a New Career
 ---
