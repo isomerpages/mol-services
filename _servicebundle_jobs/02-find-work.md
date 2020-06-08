@@ -24,6 +24,8 @@ Find out how you can construct your career plan [here](https://content.mycareers
 
 Get tips and advice on preparing your CV (or resume writing) [here](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/dos-and-don-ts-when-writing-a-resume.html)
 
+Also find tips on how to maximise your chances of landing a job [here](https://content.mycareersfuture.sg/maximise-chances-landing-job-with-mycareersfuture/)
+
 ## Some useful resources to prepare for Job Search
   - [How to tailor your resume to get you the right job](https://content.mycareersfuture.sg/careercoaching/article/how-to-tailor-your-resume-to-fit-the-job-description/)
   - [How to use Resume Checker](https://content.mycareersfuture.sg/improve-cv-5-minutes-check-resume-mycareersfuture/)
