@@ -4,7 +4,7 @@ permalink: /first-job/
 third_nav_title: Getting your 1st Job
 ---
 
-## Congratulations!
+## Starting out on Financial Journey
 
 Congratulations to starting your first job! Like yourself, many of us entered the workforce - clueless about the many new things and how important financial planning is to make the most of your early years as a working adult.
 
