@@ -6,9 +6,7 @@ third_nav_title: Finding a Job
 
 ## Before You Start
 
-Before you start your job search, learn how you can equip yourself with Job Search Essentials in this tutorial video below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6d08_VPwiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Before you start your job search, learn how you can equip yourself with Job Search Essentials below.
 
 #### Assess your employability
 
@@ -30,5 +28,7 @@ Also find tips on how to maximise your chances of landing a job [here](https://c
   - [How to tailor your resume to get you the right job](https://content.mycareersfuture.sg/careercoaching/article/how-to-tailor-your-resume-to-fit-the-job-description/)
   - [How to use Resume Checker](https://content.mycareersfuture.sg/improve-cv-5-minutes-check-resume-mycareersfuture/)
   - [Bring your LinkedIn Profile to next level](https://content.mycareersfuture.sg/careercoaching/article/take-your-linkedin-profile-to-the-next-level/)
+  - [Video on Job Search Essentials below]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6d08_VPwiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
