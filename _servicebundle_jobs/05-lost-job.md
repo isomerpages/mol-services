@@ -40,4 +40,4 @@ Email: <a href="mailto: followup@e2i.com.sg">followup@e2i.com.sg</a>
 For further clarification on the mandatory retrenchment notifications, companies may approach MOM.<br/>
 
 
-Phone:<a href="tel:+65-6438-5122">6438 5122</a>
+Phone:<a href="tel:+65-6438-5122">6438 5122</a><br/>
