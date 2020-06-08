@@ -1,6 +1,6 @@
 ---
 title: Getting Help with Costs
 permalink: /help-with-costs/
-third_nav_title: After losing your job
+third_nav_title: Getting Help with Costs
 ---
 
