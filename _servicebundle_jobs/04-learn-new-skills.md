@@ -1,7 +1,7 @@
 ---
 title: Learn New Skills
-permalink: /first-job/learn-new-skills/
-third_nav_title: Getting your 1st Job
+permalink: /learn-new-skills/
+third_nav_title: Learn New Skills
 ---
 
 ## Apply for Programmes
