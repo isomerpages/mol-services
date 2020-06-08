@@ -30,3 +30,4 @@ Get tips and advice on preparing your CV (or resume writing) in this video below
   - [How to tailor your resume to get you the right job](https://content.mycareersfuture.sg/careercoaching/article/how-to-tailor-your-resume-to-fit-the-job-description/)
   - [How to use Resume Checker](https://content.mycareersfuture.sg/improve-cv-5-minutes-check-resume-mycareersfuture/)
   - [Bring your LinkedIn Profile to next level](https://content.mycareersfuture.sg/careercoaching/article/take-your-linkedin-profile-to-the-next-level/)
+  
