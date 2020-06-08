@@ -27,17 +27,17 @@ To file your claim, you can either fill in [TADM’s e-claim form](https://servi
 
 For assistance on employment facilitation services, companies can contact the following:
 
-[Workforce Singapore (WSG)](www.wsg.gov.sg)
+[Workforce Singapore (WSG)](www.wsg.gov.sg)<br/>
 <a href="tel:+65-6883-5885">Phone: 6883 5885</a> 
 
 
-[Employment and Employability Institute (e2i)](www.e2i.com.sg)
-Phone: <a href="tel:+65-6474-0606">6474 0606</a><br>
+[Employment and Employability Institute (e2i)](www.e2i.com.sg)<br/>
+Phone: <a href="tel:+65-6474-0606">6474 0606</a><br/>
 Email: <a href="mailto: followup@e2i.com.sg">followup@e2i.com.sg</a> 
 
 
 
-For further clarification on the mandatory retrenchment notifications, companies may approach MOM.
+For further clarification on the mandatory retrenchment notifications, companies may approach MOM.<br/>
 
 
 Phone:<a href="tel:+65-6438-5122">6438 5122</a>
