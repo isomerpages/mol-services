@@ -33,6 +33,10 @@ Alternatively, if you have been retrenched or already searching for a job beyond
 
 Keen to learn more? Click [here](https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme/FAQs.html) to read more about the Programme FAQs. 
 
+#### Improve Employability
+
+With some time on your hand, you can also take the time to make yourself more employable by taking up some [courses](/learn-new-skills/) or consider [switching careers](/switch-career/)
+
 ## Support & Resources
 
 **Coming soon** 
