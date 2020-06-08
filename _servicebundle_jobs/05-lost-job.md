@@ -29,10 +29,15 @@ For assistance on employment facilitation services, companies can contact the fo
 
 [Workforce Singapore (WSG)](www.wsg.gov.sg)
 <a href="tel:+65-6883-5885">Phone: 6883 5885</a> 
-<br>
+
+
 [Employment and Employability Institute (e2i)](www.e2i.com.sg)
-<a href="tel:+65-6474-0606">Phone: 6474 0606</a><br>
-<a href="mailto: followup@e2i.com.sg">Email: followup@e2i.com.sg</a> 
-<br>
+Phone: <a href="tel:+65-6474-0606">6474 0606</a><br>
+Email: <a href="mailto: followup@e2i.com.sg">followup@e2i.com.sg</a> 
+
+
+
 For further clarification on the mandatory retrenchment notifications, companies may approach MOM.
-<a href="tel:+65-6438-5122">Phone: 6438 5122</a>
+
+
+Phone:<a href="tel:+65-6438-5122">6438 5122</a>
