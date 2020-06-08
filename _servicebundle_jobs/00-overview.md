@@ -26,7 +26,7 @@ Being new to the workforce can be a daunting milestone in your life. This sectio
 #### [If you lose your job](/get-employed/lost-job/)
 This is a guide for you who have lost their job. It covers getting support, understanding your rights, and getting help with costs. 
 
-#### [Starting a New Career]
+#### [Starting a New Career](/switch-career/)
 
 
 #### [Getting Help with Costs]
