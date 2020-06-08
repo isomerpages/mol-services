@@ -6,9 +6,26 @@ third_nav_title: Job Opportunities
 
 ## Where to Look for Opportunities
 
-Search for jobs in the portal [here](https://www.mycareersfuture.sg/). Or download the [list of job portals](https://content.mycareersfuture.sg/wp-content/uploads/2019/09/Online_A5_job_avenue_leaflet.pdf) as a handy guide for jobseekers like yourself.
+Search for jobs in the portal [here](https://www.mycareersfuture.sg/). Or see the list below for commonly used jobs portal:
+* [LinkedIn-Professional networking site](www.linkedin.com)
+* [Head Hunt-Executive job recruitment portal](www.headhunt.com.sg)
+* [Indeed.com](www.indeed.com.sg)
+* [Jobs Central](www.jobscentral.com.sg)
+* [Jobs DB](www.jobsdb.com.sg)
+* [Job Street](www.jobstreet.com.sg)
+* [ST Jobs](stjobs.sg)
 
 Alternatively, find [latest job postings](https://www.mycareersfuture.sg/search?sortBy=new_posting_date&page=0).
+
+Or even explore part-time or freelancing opportunities:
+* [Fast Jobs](www.fastjobs.sg)
+* [Singapore Part Time Jobs](www.singaporeparttimejobs.com)
+* [Caregiver Asia](www.caregiverasia.com)
+* [Carousell](sg.carousell.com)
+* [Freeboh](https://www.freeboh.com)
+* [Freelance Zone](www.freelancezone.com.sg)
+
+Or simply download as a [handy guide](https://content.mycareersfuture.sg/wp-content/uploads/2019/09/Online_A5_job_avenue_leaflet.pdf) for jobseekers like yourself.
 
 #### Establish your network 
 
