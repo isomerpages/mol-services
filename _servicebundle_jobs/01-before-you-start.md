@@ -1,7 +1,7 @@
 ---
 title: Before You Start
-permalink: /first-job/first-steps/
-third_nav_title: Getting your 1st Job
+permalink: /first-steps/
+third_nav_title: First Steps
 ---
 
 
