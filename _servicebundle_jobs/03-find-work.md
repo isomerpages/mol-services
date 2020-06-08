@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /get-a-job/
-third_nav_title: Finding a Job
+third_nav_title: I want to get employed
 ---
 
 ## Before You Start
