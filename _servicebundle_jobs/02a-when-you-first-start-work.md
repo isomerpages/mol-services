@@ -24,10 +24,6 @@ Find out more about [CPF contribution and allocation rates.](https://www.cpf.gov
 
 Use the [CPF Contribution Calculator](https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1) to calculate your monthly CPF contribution.
 
-#### Understanding on your rights at work
-
-Find out more about your employment rights [here](http://www.mom.gov.sg/employment-practices/employment-rights-conditions/workright/Pages/default.aspx)
-
 #### Dependants' Protection Scheme (DPS)
 
 It is always good to be prepared for the unexpected, especially when you have just started working.
@@ -36,3 +32,8 @@ If you are at least 21 years old and have made your first CPF contribution, you 
 
 
 Keen to learn more? Read the article [here](https://www.areyouready.gov.sg/YourLifeEvents/Pages/StartingWork-YourFirstJob.aspx).
+
+
+## Understanding on your rights at work
+
+Find out more about your employment rights [here](http://www.mom.gov.sg/employment-practices/employment-rights-conditions/workright/Pages/default.aspx)
