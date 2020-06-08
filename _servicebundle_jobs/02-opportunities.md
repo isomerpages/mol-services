@@ -6,7 +6,7 @@ third_nav_title: Job Opportunities
 
 ## Where to Look for Opportunities
 
-Search for jobs in the portal [here](https://www.mycareersfuture.sg/).
+Search for jobs in the portal [here](https://www.mycareersfuture.sg/). Or download the [list of job portals](https://content.mycareersfuture.sg/wp-content/uploads/2019/09/Online_A5_job_avenue_leaflet.pdf) as a handy guide for jobseekers like yourself.
 
 Alternatively, find [latest job postings](https://www.mycareersfuture.sg/search?sortBy=new_posting_date&page=0).
 
