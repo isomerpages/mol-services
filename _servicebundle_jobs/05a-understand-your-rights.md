@@ -32,3 +32,8 @@ If you need help in your job search and career transition, it’s okay to ask fo
 Alternatively, if you have been retrenched or already searching for a job beyond 6 months, you may wish to sign up for [Career Support Programmes](https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-individuals.html) by contacting WSG's Careers Connect at [6883-5885](tel:+65-6883-5885) or NTUC's e2i centres at [6474-0606](tel:+65-6474-0606).
 
 Keen to learn more? Click [here](https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme/FAQs.html) to read more about the Programme FAQs. 
+
+## Support & Resources
+
+**Coming soon** 
+WASJ Retrenchment Support Guide link here.
