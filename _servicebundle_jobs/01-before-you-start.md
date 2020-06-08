@@ -6,9 +6,8 @@ third_nav_title: First Steps
 
 
 ## Before You Start
-Before you start your job search, learn how you can equip yourself with Job Search Essentials in this tutorial video below.
+Before you start your job search, learn how you can equip yourself with Job Search Essentials
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6d08_VPwiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Assess your employability
 
@@ -22,12 +21,10 @@ Find out how you can construct your career plan [here](https://content.mycareers
 
 ### Prepare your CV (or resume)
 
-Get tips and advice on preparing your CV (or resume writing) in this video below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pfRcojJe3IY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Know what are the dos and dont's about CV preparation [here](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/dos-and-don-ts-when-writing-a-resume.html) or [get some writing tips from headhunting company Michael Page](https://content.mycareersfuture.sg/write-cv-changes-life/)
 
 ### Some useful resources to prepare for Job Search
   - [How to tailor your resume to get you the right job](https://content.mycareersfuture.sg/careercoaching/article/how-to-tailor-your-resume-to-fit-the-job-description/)
   - [How to use Resume Checker](https://content.mycareersfuture.sg/improve-cv-5-minutes-check-resume-mycareersfuture/)
   - [Bring your LinkedIn Profile to next level](https://content.mycareersfuture.sg/careercoaching/article/take-your-linkedin-profile-to-the-next-level/)
-  
+
