@@ -9,6 +9,6 @@ This is a guide for those living in Singapore who are seeking support and guidan
 
 #### [Getting Your First Job](/first-job/starter-pack/)
 #### [Finding Work](/find-job/first-steps/)
-#### 
+#### [Job Opportunities](/find-job/opportunities/)
 #### [If You Lost Your Job](/lost-job/)
 #### [Starting a New Career]**coming soon**
