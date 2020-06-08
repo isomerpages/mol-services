@@ -4,7 +4,7 @@ permalink: /switch-career/
 third_nav_title: Starting a New Career
 ---
 
-## If You are considering a career switch
+## Considering a Career switch?
 
 #### Research career options
 
