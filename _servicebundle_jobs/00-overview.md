@@ -7,33 +7,22 @@ third_nav_title: I want to get employed
 ## Getting Employed
 This is a guide for those living in Singapore who are seeking support and guidance in their jobs and employment here. It provides information and available resources we can offer for various career decisions, upskilling options to improve your employability. 
 
+#### First Steps 
 
-## Before You Start
+To help you get started on your Job Search
 
-Before you start your job search, learn how you can equip yourself with Job Search Essentials below.
+#### Job Opportunities
 
-#### Assess your employability
+Not sure where to look for jobs? We have put together a list of resources to help you.
 
-Find out how you can get advice from nline Coaching services and online profiling tools such as CV analyser [here](https://content.mycareersfuture.sg/careercoaching/).
+#### Learn New Skills
 
-#### Create a Career Plan
+Feeling stuck at where you are or seeking a way to upskill or be better at your job? Find out how.
 
-Gone were the days where you leave your career planning to the Human Resources(HR) department or your potential boss. Living in a fast-paced changing world, it is almost impossible to predict what could disrupt the jobs of today. Hence it is important that you plan and construct your own career plan through small, actionable steps.
+#### Getting Your 1st Job
 
-Find out how you can construct your career plan [here](https://content.mycareersfuture.sg/careercoaching/article/how-to-construct-a-career-plan/).
+Being new to the workforce can be a daunting milestone in your life. This section puts together some resources and tools we thought might be useful for you.
 
-#### Prepare your CV (or resume)
-
-Get tips and advice on preparing your CV (or resume writing) [here](https://www.myskillsfuture.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/dos-and-don-ts-when-writing-a-resume.html)
-
-Also find tips on how to maximise your chances of landing a job [here](https://content.mycareersfuture.sg/maximise-chances-landing-job-with-mycareersfuture/)
-
-## Some useful resources to prepare for Job Search
-  - [How to tailor your resume to get you the right job](https://content.mycareersfuture.sg/careercoaching/article/how-to-tailor-your-resume-to-fit-the-job-description/)
-  - [How to use Resume Checker](https://content.mycareersfuture.sg/improve-cv-5-minutes-check-resume-mycareersfuture/)
-  - [Bring your LinkedIn Profile to next level](https://content.mycareersfuture.sg/careercoaching/article/take-your-linkedin-profile-to-the-next-level/)
-  - [Video on Job Search Essentials below]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6d08_VPwiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+#### If you lose your job
+This is a guide for you who have lost their job. It covers getting support, understanding your rights, and getting help with costs. 
 
