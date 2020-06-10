@@ -1,9 +1,9 @@
 ---
-title: I want to...
+title: Overview
 permalink: /overview
 ---
 
-## Service Bundles
+## If You Want To...
 
 Find the services and resources gathered here based on typical needs in Singaporean life. 
 
