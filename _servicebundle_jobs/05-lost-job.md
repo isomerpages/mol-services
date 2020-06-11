@@ -36,8 +36,8 @@ Phone: <a href="tel:+65-6474-0606">6474 0606</a><br/>
 Email: <a href="mailto: followup@e2i.com.sg">followup@e2i.com.sg</a> 
 
 
-
 For further clarification on the mandatory retrenchment notifications, companies may approach MOM.<br/>
 
-
 Phone:<a href="tel:+65-6438-5122">6438 5122</a><br/>
+
+To seek legal assistance, you may apply for legal aid with Legal Aid Bureau (LAB). Find out more [here](https://lab.mlaw.gov.sg/legal-services/how-do-i-apply-for-legal-aid/)
