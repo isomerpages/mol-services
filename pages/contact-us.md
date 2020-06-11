@@ -6,9 +6,7 @@ permalink: /contact-us/
  
 
 # Contact Us
-  - title: General Enquiries & Feedback
-    content:
-    - line: +65 6211 2100
-    - line: info@tech.gov.sg (email)
+  - title: [General Enquiries & Feedback]
+ 
   
 
