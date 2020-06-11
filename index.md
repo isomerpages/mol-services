@@ -4,7 +4,7 @@ title: Moments of Life
 description: Brief site description here
 image: /images/mol-logo.jpg
 permalink: /
-notification: Moments of Life will be rebranded as LifeSG from July 2020 onwards! Download it from your App Store or Google Play today!
+notification: 
 sections:
     - hero:
         title: Government Services in SG
