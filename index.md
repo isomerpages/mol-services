@@ -9,13 +9,13 @@ sections:
     - hero:
         title: Government Services in SG
         subtitle: Simpler Services. Better Lives
-        background: /images/hero banner2.jpeg
+        background: /images/hero banner3.jpeg
   
     - infobar:
         title: Government Services 
         subtitle: 
         image: /images/government Services..png
-        description: We have put together Government Services that might be useful for you, in one place.
+        description: Government Services that might be useful for you, All put together in one place.
         button: Browse
         url: /overview
     - infobar:
