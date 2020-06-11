@@ -39,5 +39,4 @@ With some time on your hand, you can also take the time to make yourself more em
 
 ## Support & Resources
 
-**Coming soon** 
-WASJ Retrenchment Support Guide link here.
+Find out more about getting support to tide through this crisis [here](/financial-aid).
