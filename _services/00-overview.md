@@ -3,9 +3,9 @@ title: Overview
 permalink: /overview
 ---
 
-## If You Want To...
+## SG Government Services and Resources in One Place.
 
-Find the services and resources gathered here based on typical needs in Singaporean life. 
+We have grouped the related services and resources based on typical needs in Singaporean life. Click on the icons below to read more about each service bundle.
 
 <div class="tg-wrap"><table class="tg">
 <thead>
