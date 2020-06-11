@@ -15,7 +15,7 @@ sections:
         title: Government Services 
         subtitle: 
         image: /images/government Services..png
-        description: We have put together Government Servic123456es that might be useful for you, in one place.
+        description: We have put together Government Services that might be useful for you, in one place.
         button: Browse
         url: /overview
     - infobar:
