@@ -6,7 +6,7 @@ permalink: /contact-us/
  
 
 # Contact Us
-  - title: [General Enquiries & Feedback]
+  - [General Enquiries & Feedback]
  
   
 
