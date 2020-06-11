@@ -6,7 +6,7 @@ permalink: /contact-us/
  
 
 # Contact Us
-  - [General Enquiries & Feedback]
+  - [General Enquiries & Feedback](https://form.gov.sg/5ed0995e42ee5f00110e10cc)
  
   
 
