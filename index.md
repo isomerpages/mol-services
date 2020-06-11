@@ -21,7 +21,7 @@ sections:
     - infobar:
         title: Life Events
         subtitle:  
-        description: Not sure what to look out for when planning major life decisions? We have been through that time in life.
+        description: Not sure what to look out for when planning some of your major life decisions? We have been through that time in life so here are some recommendations for you.
         button: Learn More
         url: /all-guides
  
