@@ -6,17 +6,12 @@ third_nav_title: After losing your job
 
 ## Understand Your Rights
 
-#### Retrenchment Rights
-
-Find out more about [Responsible Retrenchment](https://www.mom.gov.sg/employment-practices/retrenchment/responsible-retrenchment).
-
-More information on [Mandatory Retrenchment notifications](https://www.mom.gov.sg/employment-practices/retrenchment/mandatory-retrenchment-notifications) to Ministry of Manpower (MOM)
-
-
 #### File a claim (for unfair retrenchment)
 If you believe you are unfairly dismissed due to age, you may [submit an appeal](https://form.gov.sg/#!/5c656ce2a1770a0010563ad4) to Ministry of Manpower (MOM).
 
 If you are a non-union member, [file a claim](https://www.tal.sg/tadm/eservices/employees-file-employment-claim) for mediation with Tripartite Alliance for Dispute Management (TADM).
+
+Read more about the [Updates to Retrenchment / Redundancy Advisory in Singapore](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/guidelines/tripartite-advisory-on-managing-excess-manpower-and-responsible-retrenchment.pdf)
 
 To file your claim, you can either fill in [TADM’s e-claim form](https://services.tadm.sg/claims/services/INDIV/INDIV_CaseAgainstEmpChecker.aspx) using SingPass or make an appointment if you do not have a SingPass, along with the following supporting documents:
 	
