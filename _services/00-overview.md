@@ -23,7 +23,7 @@ We have grouped the related services and resources based on typical needs in Sin
   </tr>
   <tr>
     <td class="tg-0lax"><a href="/buying-a-hdb"><img src="/images/06-move-house.png" alt="Move House" width="375" height="375"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><a href=""><img src="/images/08-digitally ready.png" alt="Coming Soon" width="375" height="375">  </td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
