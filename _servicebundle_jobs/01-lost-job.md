@@ -1,12 +1,8 @@
 ---
-title: Seeking Help
-permalink: /get-employed/lost-job/
-third_nav_title: After losing your job
+title: Filing a dispute
+permalink: /get-employed/dispute/
+third_nav_title: Filing a dispute
 ---
-
-#### [Help & support available]
-(insert WASJ financial article link)
-
 
 #### Need to file a claim (for unfair retrenchment)?
 If you believe you are unfairly dismissed due to age, you may [submit an appeal](https://form.gov.sg/#!/5c656ce2a1770a0010563ad4) to Ministry of Manpower (MOM).
