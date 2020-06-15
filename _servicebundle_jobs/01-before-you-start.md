@@ -11,7 +11,7 @@ Before you start your job search, learn how you can equip yourself with Job Sear
 
 #### Assess your employability
 
-Find out how you can get advice from nline Coaching services and online profiling tools such as CV analyser [here](https://content.mycareersfuture.sg/careercoaching/).
+Find out how you can get advice from online Coaching services and profiling tools such as CV analyser [here](https://content.mycareersfuture.sg/careercoaching/).
 
 #### Create a Career Plan
 
