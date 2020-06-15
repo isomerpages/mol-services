@@ -5,11 +5,7 @@ third_nav_title: After losing your job
 ---
 
 
-## Life can still be fulfilling
 
-Most would go through the process of shock and denial, especially if retrenchment would come unexpected regardless how much mental preparation you probably have done.
-
-Read for tips on [coping with retrenchment](https://content.mycareersfuture.sg/retrenched-singapore-deal-emotions/).
 
 ### Find Next Opportunity
 
