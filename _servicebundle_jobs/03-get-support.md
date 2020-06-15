@@ -1,7 +1,7 @@
 ---
 title: Help with Costs
 permalink: /financial-aid/
-third_nav_title: Get Support
+third_nav_title: Seek Financial Aid
 ---
 
 
