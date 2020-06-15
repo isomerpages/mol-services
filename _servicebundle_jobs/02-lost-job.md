@@ -34,7 +34,3 @@ Keen to learn more? Click [here](https://www.wsg.gov.sg/programmes-and-initiativ
 #### Improve Employability
 
 With some time on your hand, you can also take the time to make yourself more employable by taking up some [courses](/learn-new-skills/) or consider [switching careers](/switch-career/)
-
-## Support & Resources
-
-Find out more about getting support to tide through this crisis [here](/financial-aid).
