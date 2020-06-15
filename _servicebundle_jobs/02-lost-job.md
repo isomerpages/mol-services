@@ -1,5 +1,5 @@
 ---
-title: Next Steps After 
+title: What You Could Do now 
 permalink: /lost-job/rights/
 third_nav_title: After losing your job
 ---
@@ -13,9 +13,7 @@ Read for tips on [coping with retrenchment](https://content.mycareersfuture.sg/r
 
 ### Find Next Opportunity
 
-Getting retrenched is painful. But it does not mean that this is the end of your career life. Getting back on your feet is not easy, hence we have put together some resources that would support you.
-
-Other than [finding job opportunities](/find-job/opportunities/), take this chance to review your [career plan](https://event.e2i.com.sg/web/skillsfuture19)
+Getting retrenched is painful. But it does not mean that this is the end of your career life. Getting back on your feet is not easy, hence we have put together [some resources that would support you along the way](Insert WASJ financial article link).
 
 Can't wait to bounce back? Find latest job opportunities [here](https://www.mycareersfuture.sg/) or check [SGUnited Jobs](https://www.mycareersfuture.sg/search?search=%23sgunitedjobs&sortBy=new_posting_date&page=0) if your job was affected by COVID-19 situation.
 
