@@ -3,9 +3,13 @@ title: Stay Emotionally Resilient
 permalink: /financial-aid/
 third_nav_title: Get Support
 ---
+## Life can still be fulfilling
 
+Most would go through the process of shock and denial, especially if retrenchment would come unexpected regardless how much mental preparation you probably have done.
 
-#### Seek Emotional and mental health support in managing crisis
+Read for tips on [coping with retrenchment](https://content.mycareersfuture.sg/retrenched-singapore-deal-emotions/).
+
+#### Seek Emotional and mental health support 
  
 **The Samaritans of Singapore (SOS)**
 The Samaritans of Singapore (SOS) is a suicide prevention agency and provides 24-hour confidential emotional support to people in crisis, thinking of suicide or in despair. All information given will be kept confidential.
