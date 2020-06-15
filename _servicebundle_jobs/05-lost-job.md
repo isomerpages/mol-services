@@ -4,9 +4,7 @@ permalink: /get-employed/lost-job/
 third_nav_title: After losing your job
 ---
 
-## Understand Your Rights
-
-#### File a claim (for unfair retrenchment)
+#### Need to file a claim (for unfair retrenchment)?
 If you believe you are unfairly dismissed due to age, you may [submit an appeal](https://form.gov.sg/#!/5c656ce2a1770a0010563ad4) to Ministry of Manpower (MOM).
 
 If you are a non-union member, [file a claim](https://www.tal.sg/tadm/eservices/employees-file-employment-claim) for mediation with Tripartite Alliance for Dispute Management (TADM).
