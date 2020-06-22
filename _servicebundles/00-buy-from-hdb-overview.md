@@ -1,6 +1,6 @@
 ---
 title: A HDB buyer's Guide 
-permalink: /buying-a-hdb
+permalink: /buying-a-hdb/
 
 ---
 
