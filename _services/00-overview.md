@@ -8,15 +8,18 @@ permalink: /overview/
 We have grouped the related services and resources based on typical needs in Singaporean life. Click on the icons below to read more about each service bundle.
 
 <style>
-@media 
+@media
 only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
+(min-device-width: 768px) and (max-device-width: 1024px) {
   table, th, td {
     display: block;
   }
   table, tr, td {
     border: none !important;
   }
+}
+table, tr, td {
+  border: none !important;
 }
 </style>
 <div class="tg-wrap"><table class="tg">
