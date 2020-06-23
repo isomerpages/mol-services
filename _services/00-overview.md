@@ -11,7 +11,11 @@ We have grouped the related services and resources based on typical needs in Sin
 <thead>
   <tr>
      <th class="tg-baqh"><a href=""><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon" width="375" height="375"></th>
+  </tr>
+  <tr>
     <th class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support" width="375" height="375"></th>
+  </tr>
+  <tr>
     <th class="tg-baqh"><a href=""><img src="/images/03-get-married(comingsoon).png" alt="Coming Soon" width="375" height="375"></th>
   </tr>
 </thead>
