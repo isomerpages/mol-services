@@ -1,13 +1,13 @@
 ---
-title: Step 5 Book your Flat
-permalink: /buying-a-hdb/booking/
+title: Step 5 Book a Flat
+permalink: /buying-a-hdb/book-flat/
 breadcrumb: 
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 5: Book your new Flat
+## Step 5 Book a Flat
 
-You will be required to pay an option fee on the spot when you head down to HDB for the appointment to book your flat:
+You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat:
 
 - $500 for 2-room flexi flats
 - $1,000 for 3-room flats 
