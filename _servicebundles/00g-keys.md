@@ -5,7 +5,7 @@ breadcrumb:
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 7: Collect your keys
+## Step 7 Collect your keys
 
 #### Check your HDB Appointment
 
@@ -19,4 +19,7 @@ Some resources that might be useful:
 - [Get approval for renovation](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval). Find out if your renovation requires a permit and how you can obtain one
 - Apply for [HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)
 - Sign up for your [utilities account](https://www.spgroup.com.sg/home). It is advised to have your utilities account activated 1 day before you do your defects check.
-- Get your [Home Protection Scheme (HPS)](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes)
+
+#### Some things to note as a HDB Owner
+- Find out more [Home Protection Scheme (HPS)](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes)
+- [Conditions after buying a flat](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/conditions-after-buying?anchor=takingahousing)
