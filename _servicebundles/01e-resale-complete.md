@@ -4,7 +4,7 @@ permalink: /resale/complete/
 third_nav_title: I want to buy a resale flat
 ---
 
-# Step 5: Complete Resale Transaction
+# Step 5 Complete Resale Transaction
 
 ## Attend HDB Appointment
 
