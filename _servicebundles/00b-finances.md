@@ -21,7 +21,7 @@ Buying a flat is a long-term financial commitment. Use the following to plan you
     - Reduce the housing loan amount needed and the subsequent monthly repayments (thereby saving on interest payments)
     - Collect the keys to your flat while selling your existing flat
     
-Alternatively, you may take up a housing loan from the financial institutions (FI) regulated by the Monetary Authority of Singapore (MAS). Find out more about the considerations for FI loans [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks). Do apply for an Approval-in-Principle with the FI to find out about your eligibility for an FI housing loan.
+Alternatively, you may take up a housing loan from the banks. Find out more about the considerations for FI loans [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks). Do apply for an Approval-in-Principle with the FI to find out about your eligibility for an FI housing loan.
 
 #### Using your CPF savings to finance your home
 
