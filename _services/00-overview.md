@@ -19,7 +19,7 @@ We have grouped the related services and resources based on typical needs in Sin
   <tr>
     <td class="tg-baqh"><a href=""><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits" width="375" height="375"></td>
     <td class="tg-baqh"><a href=""><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon" width="375" height="375"></td>
-    <td class="tg-baqh"><a href="/buying-a-hdb/"><img src="/images/05-move-house.png" alt="Housing and Property" width="375" height="375"></td>
+    <td class="tg-baqh"><a href="/_servicebundles/00-buy-from-hdb-overview.md"><img src="/images/05-move-house.png" alt="Housing and Property" width="375" height="375"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href=""><img src="/images/07-plan-legacy (coming soon).png" alt="Coming Soon" width="375" height="375"></td>
