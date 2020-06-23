@@ -10,20 +10,20 @@ We have grouped the related services and resources based on typical needs in Sin
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
-     <th class="tg-baqh"><a href=""><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon" width="375" height="375"></th>
+     <th class="tg-baqh"><a href=""><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon" width="500" height="500"></th>
   </tr>
   <tr>
-    <th class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support" width="375" height="375"></th>
+    <th class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support" width="500" height="500"></th>
   </tr>
   <tr>
-    <th class="tg-baqh"><a href=""><img src="/images/03-get-married(comingsoon).png" alt="Coming Soon" width="375" height="375"></th>
+    <th class="tg-baqh"><a href=""><img src="/images/03-get-married(comingsoon).png" alt="Coming Soon" width="500" height="500"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-baqh"><a href=""><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits" width="375" height="375"></td>
-    <td class="tg-baqh"><a href=""><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon" width="375" height="375"></td>
-    <td class="tg-baqh"><a href="/_servicebundles/00-buy-from-hdb-overview.md"><img src="/images/05-move-house.png" alt="Housing and Property" width="375" height="375"></td>
+    <td class="tg-baqh"><a href=""><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits" width="500" height="500"></td>
+    <td class="tg-baqh"><a href=""><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon" width="500" height=""></td>
+    <td class="tg-baqh"><a href="/_servicebundles/00-buy-from-hdb-overview.md"><img src="/images/05-move-house.png" alt="Housing and Property" width="500" height="500"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href=""><img src="/images/07-plan-legacy (coming soon).png" alt="Coming Soon" width="375" height="375"></td>
