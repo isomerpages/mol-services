@@ -32,7 +32,7 @@ table, tr, td {
   <tr>
     <td class="tg-baqh"><a href=""><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
     <td class="tg-baqh"><a href=""><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><a href="/_servicebundles/00-buy-from-hdb-overview.md"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
+    <td class="tg-baqh"><a href="/buying-a-hdb/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><a href=""><img src="/images/07-plan-legacy (coming soon).png" alt="Coming Soon"></td>
