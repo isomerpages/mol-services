@@ -1,12 +1,19 @@
 ---
 
 ---
-
+@font-face {
+  src: url(/fonts/Poppins-Regular.ttf);
+  font-family: poppins;
+}
+@font-face {
+  src: url(/fonts/Poppins-Bold.ttf);
+  font-family: poppins-bold;
+}
 @charset "utf-8";
 
 // Agency brand colors
-$primary: #F76c6c;
-$secondary: #374785;
+$primary: #db2230;
+$secondary: #231f20;
 $secondary-hover: darken(#d8c3A5, 30%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -252,15 +259,29 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
+.bp-container {
+  a, b, p, small {
+    font-family: poppins;
+  } 
+}
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5 {
-		color: $secondary;
+	h1, h2, h3, h4, h5{
+    color: $secondary;
+    font-family: poppins;
 		strong {
 			color: $secondary;
 		}
-	}
+  }
+  a, p, li {
+    color: $secondary;
+    font-size: 16.5px;
+    font-family: poppins;
+    line-height: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+  }
 	blockquote {
 		border-left-color: $secondary;
 	}
