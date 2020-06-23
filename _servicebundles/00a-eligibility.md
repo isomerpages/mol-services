@@ -6,9 +6,10 @@ third_nav_title: I want to buy a flat from HDB
 
 ## Step 1: Check your eligibility
 
-#### What type of HDB flats you are eligible to buy?
+#### What type of HDB flats are you eligible to buy?
 
-Different eligibility conditions apply when purchasing a new HDB flat, Design, Build and Sell Scheme (DBSS) flat, or Executive Condominium (EC). Read more [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats&rendermode=preview).
+Different eligibility conditions apply when purchasing a flat from HDB, whether it be a Build-to-Order (BTO) or Executive Condominium (EC). Read more about the different schemes and conditions to buy below:
+
 
 
   - [Build-to-Order (BTO)](https://www.hdb.gov.sg/cs/Satellite?c=Page&cid=1383797553343&pagename=InfoWEB%2FPage%2FArticleDetailPage&rendermode=preview)
