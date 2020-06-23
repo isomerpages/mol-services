@@ -11,18 +11,12 @@ We have grouped the related services and resources based on typical needs in Sin
 @media 
 only screen and (max-width: 760px),
 (min-device-width: 768px) and (max-device-width: 1024px)  {
-table, td, tr {
-  display: block;
-}
-table { 
-  width: 100%; 
-  border-collapse: collapse; 
-}
-td, th { 
-  padding: 6px; 
-  border: 1px solid #ccc; 
-  text-align: left; 
-}
+  table, th, td {
+    display: block;
+  }
+  table, tr, td {
+    border: none !important;
+  }
 }
 </style>
 <div class="tg-wrap"><table class="tg">
