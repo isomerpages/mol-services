@@ -8,7 +8,7 @@ third_nav_title: I want to buy a resale flat
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
-Do make sure that you have made your housing loan arrangements before you exercise your OTP. This could be either HDB Housing Loan Eligibility (HLE) letter or a valid Letter of Offer/Approval In-Principle (AIP) from any financial institutions (FI).
+Do make sure that you have made your housing loan arrangements before you exercise your OTP. This could be a valid HDB Housing Loan Eligibility (HLE) letter or a valid Letter of Offer/Approval In-Principle (AIP) from any financial institutions (FI).
 
 As OTP is a legal contract between you and the seller, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
 
