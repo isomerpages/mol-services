@@ -17,7 +17,9 @@ Found some defects? You can submit a request to HDB to help you with the [rectif
 
 #### Property tax
 
-Find out about your [property tax obligations](https://www.iras.gov.sg/irashome/Property/Property-owners/Working-out-your-taxes/Interactive-Property-Tax-Calculators/)
+Find out about your [property tax obligations](https://www.iras.gov.sg/irashome/Property-Tax-At-A-Glance/Property-Tax-At-A-Glance/)
+
+<em>Tip: Use this Property Tax Calculator to estimate your potential tax obligations for your new home.(https://www.iras.gov.sg/irashome/Property/Property-owners/Working-out-your-taxes/Interactive-Property-Tax-Calculators/)
 
 [Apply/Withdraw Owner-Occupier tax rates](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true)
 
