@@ -1,5 +1,5 @@
 ---
-title: Stay Emotionally Resilient
+title: Stay Resilient
 permalink: /financial-aid/
 third_nav_title: Get Support
 ---
