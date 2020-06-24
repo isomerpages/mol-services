@@ -13,3 +13,5 @@ You and the seller (or the salesperson) can proceed to submit the resale applica
 - Check [resale application status](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
 - Check if you have the necessary documents [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/additional-information-)
  
+
+<em>Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction](/resale/complete/) </em>
