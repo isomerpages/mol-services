@@ -11,6 +11,8 @@ Do check if you have the necessary documents [here](https://www.hdb.gov.sg/cs/in
 
 #### What to Expect
 After your submission, you would be invited to carry out a [few more steps](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/buying-process/application-procedure/resale-application) that include endorsing resale documents, paying the resale fees online - all before HDB's approval of the transaction.
+
+
 <em>Note that either you or the seller can be the first to submit, but the other party must submit their portion within 7 calendar days.</em>
 
 - Check your [resale application status](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp) or get notified via SMS once HDB uploads the approval letter on the resale portal.
