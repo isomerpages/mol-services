@@ -31,4 +31,4 @@ After submitting, you would need to endorse the documents and pay necessary fees
 - Check your [resale application status](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp) or get notified via SMS once HDB uploads the approval letter on the resale portal.
 
 
-<em>Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction](/resale/complete/) </em>
+<em>Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction](/selling/resale-complete/) </em>
