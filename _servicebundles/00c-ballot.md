@@ -10,7 +10,7 @@ third_nav_title: I want to buy a flat from HDB
 
 You can buy a flat via the following modes of [sale](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf).
 
-*Tip: Note that these are updated on a quarterly basis*
+*Note that these are updated on a quarterly basis*
 
 #### [Build-To-Order/ Sale of Balance Flats](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf)
 
