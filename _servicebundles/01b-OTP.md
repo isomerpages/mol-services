@@ -6,6 +6,14 @@ third_nav_title: I want to buy a resale flat
 
 ## Step 2 : Get Option to Purchase (OTP) from seller
 
+#### Decide if you prefer to get it done yourself or with an agent
+
+As most of us are digitally connected and with the launch of HDB resale portal, it is almost possible to complete the resale transaction yourself. However, there could still be merits to appoint salesperson(s) to guide you in the resale journey.
+
+Learn more about engaging a real estate agent [here](https://www.cea.gov.sg/4steps/).
+
+#### What is Option to Purchase (OTP)
+
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
 Do make sure that you have made your housing loan arrangements before you exercise your OTP. This could be a valid HDB Housing Loan Eligibility (HLE) letter or a valid Letter of Offer/Approval In-Principle (AIP) from any financial institutions (FI).
