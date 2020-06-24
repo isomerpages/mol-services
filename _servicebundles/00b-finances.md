@@ -42,7 +42,8 @@ Some CPF tools to help you estimate CPF usage.
 - For property bought [on or after 10 May 2019](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1)
 
 - For property bought [before 10 May 2019](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingWithdrawalLimits/CpfHousingWithdrawalLimits)
-*Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)*
+
+Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)*
 
 - A [1-minute tool](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate) to estimate the monthly installment payable on a housing loan
 
