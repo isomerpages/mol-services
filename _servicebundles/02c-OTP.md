@@ -1,7 +1,7 @@
 ---
 title: "Step 3 : Grant Option to Purchase (OTP)"
 permalink: /selling/OTP/
-third_nav_title: I want to sell a HDB flat
+third_nav_title: I want to sell an HDB flat
 ---
 
 # Step 3 : Grant Option to Purchase (OTP)
