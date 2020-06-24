@@ -1,6 +1,6 @@
 ---
 title: "Step 3 : Choose your financing mode"
-permalink: /resale/OTP/
+permalink: /resale/finances/
 third_nav_title: I want to buy a resale flat
 ---
 
