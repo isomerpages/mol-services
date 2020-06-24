@@ -49,3 +49,11 @@ You may be eligible to receive subsidies of up to $80,000 in the form of the Enh
 
 - Find out more about the CPF Housing grants [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats)
 - If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you [select a flat at your appointment](/buying-a-hdb/book-flat/).
+
+
+#### Other Housing Finance related matters:
+
+- Understand [HDB Property Tax](https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/Essential-Property-Tax-Information-for-HDB-Flat-Owners)
+- [Understand the costs of buying a home](https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home) as advised by MoneySense
+
+
