@@ -10,4 +10,8 @@ third_nav_title: I want to sell an HDB flat
 
 Read about things to do before the completion appointment and what will happen during the [appointment](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/selling-process/appointment-with-hdb).
 
-Also, find out how you can apply for a [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay-for-sellers) if you’re unable to move out immediately. 
+
+#### Temporary Extension of Stay
+Find out how you can apply for a [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay-for-sellers) if you’re unable to move out immediately. 
+
+However, do note that there could be property tax obligations during this extended period of stay. Find out more about the tax obligations [here](https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/Essential-Property-Tax-Information-for-HDB-Flat-Owners/#title3).
