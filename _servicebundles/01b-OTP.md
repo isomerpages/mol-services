@@ -1,10 +1,10 @@
 ---
-title: "Step 3 : Exercise Option To Purchase"
+title: "Step 3 : Get Option To Purchase"
 permalink: /resale/OTP/
 third_nav_title: I want to buy a resale flat
 ---
 
-# Step 3 : Exercise Option to Purchase (OTP) from seller
+## Step 2 : Get Option to Purchase (OTP) from seller
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
@@ -12,7 +12,7 @@ Do make sure that you have made your housing loan arrangements before you exerci
 
 As OTP is a legal contract between you and the seller, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
 
-## Procedures to enter into OTP contract with seller
+#### Procedures to enter into OTP contract with seller
 
 To enter into a OTP contract, you would be required to go through the following steps:
 
