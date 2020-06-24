@@ -1,4 +1,10 @@
-#### Plan your Finances
+---
+title: "Step 2 : Get Option To Purchase"
+permalink: /resale/OTP/
+third_nav_title: I want to buy a resale flat
+---
+
+## Plan your mode of financing your home
 
 Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
