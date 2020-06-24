@@ -22,4 +22,4 @@ Alternatively, you may consider applying for a flat online anytime under this mo
 
 At the end of the application period, HDB will ballot all applications for the queue position and inform you of the outcome of their applications. 
 
-*Tip: Already an applicant? You may check the [status of your application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1) when results are announced.
+<em>Tip: Already an applicant? You may check the [status of your application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1) when results are announced.</em>
