@@ -1,11 +1,11 @@
 ---
-title: "Step 7 : Collect your Keys"
+title: "Step 7 : Collect Keys to your Flat"
 permalink: /buying-a-hdb/keys/
 breadcrumb: 
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 7 : Collect your keys
+## Step 7 : Collect keys to your flat
 
 #### Check your HDB Appointment
 
