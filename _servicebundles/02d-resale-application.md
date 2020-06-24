@@ -1,10 +1,10 @@
 ---
-title: "Step 4: Submit Resale Application"
+title: "Step 4 : Submit Resale Application"
 permalink: /selling/resale-application/
 third_nav_title: I want to sell a HDB flat
 ---
 
-# Step 4: Submit Resale Application
+# Step 4 : Submit Resale Application
 
 Both the buyers and sellers must submit their respective portions of the resale application to HDB.
 

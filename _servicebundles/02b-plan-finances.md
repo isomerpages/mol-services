@@ -1,10 +1,10 @@
 ---
-title: "Step 2: Plan your Finances"
+title: "Step 2 : Plan your Finances"
 permalink: /selling/plan-finances/
 third_nav_title: I want to sell a HDB flat
 ---
 
-# Step 2: Plan your Finances
+# Step 2 : Plan your Finances
 
 ## Compute estimated sales proceeds
 Find out how you can [estimate the sales proceeds](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/finance/planning) that you could get from selling your flat.

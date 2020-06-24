@@ -1,10 +1,10 @@
 ---
-title: "Step 3: Exercise Option To Purchase"
+title: "Step 3 : Exercise Option To Purchase"
 permalink: /resale/OTP/
 third_nav_title: I want to buy a resale flat
 ---
 
-# Step 3: Exercise Option to Purchase (OTP) from seller
+# Step 3 : Exercise Option to Purchase (OTP) from seller
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 

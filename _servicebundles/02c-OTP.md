@@ -1,10 +1,10 @@
 ---
-title: "Step 3: Grant Option to Purchase (OTP)"
+title: "Step 3 : Grant Option to Purchase (OTP)"
 permalink: /selling/OTP/
 third_nav_title: I want to sell a HDB flat
 ---
 
-# Step 3: Grant Option to Purchase (OTP)
+# Step 3 : Grant Option to Purchase (OTP)
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 

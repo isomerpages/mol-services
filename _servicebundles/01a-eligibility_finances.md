@@ -1,11 +1,11 @@
 ---
-title: "Step 1: Check Eligibility and Finances"
+title: "Step 1 : Check Eligibility and Finances"
 permalink: /resale/eligibility-finances/
 breadcrumb: 
 third_nav_title: I want to buy a resale flat
 ---
 
-## Step 1: Check your Eligibility to Purchase Resale
+## Step 1 : Check your Eligibility to Purchase Resale
 
 There are a few eligibility schemes for you to purchase a resale flat, as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) listed in the application. 
 
