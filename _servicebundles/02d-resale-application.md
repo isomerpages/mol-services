@@ -1,7 +1,7 @@
 ---
 title: "Step 4 : Submit Resale Application"
 permalink: /selling/resale-application/
-third_nav_title: I want to sell a HDB flat
+third_nav_title: I want to sell an HDB flat
 ---
 
 ## Step 4 : Submit Resale Application
