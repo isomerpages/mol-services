@@ -54,6 +54,10 @@ You may be eligible to receive subsidies of up to $80,000 in the form of the Enh
 #### Other Housing Finance related matters:
 
 - Understand [HDB Property Tax](https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/Essential-Property-Tax-Information-for-HDB-Flat-Owners)
-- [Understand the costs of buying a home](https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home) as advised by MoneySense
+- [Maintenance, conservancy charges and utilities](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/finance/costs-and-fees)
+- Mortgage Insurance, or known as [CPF Home Protection Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/home-protection-scheme)
+- [Home Insurance](http://gia.org.sg/consumers/property.html)
+
+For more on understanding the costs of buying a home, read [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home).
 
 
