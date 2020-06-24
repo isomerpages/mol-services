@@ -1,12 +1,12 @@
 ---
-title: "Step 3 : Choose your financing mode"
+title: "Step 3 : Plan your Finances"
 permalink: /resale/finances/
 third_nav_title: I want to buy a resale flat
 ---
 
-## Step 3: Plan your mode of financing your home
+## Step 3: Plan your mode of financing
 
-Work out your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
+Do your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
 Buying a flat is a long-term financial commitment. Use the following to plan your finances.
 
