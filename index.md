@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Moments of Life
+title: ServiceSG
 description: Brief site description here
 image: /images/mol-logo.jpg
 permalink: /
