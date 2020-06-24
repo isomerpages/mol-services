@@ -23,16 +23,7 @@ This section summarises all the following to guide you in your planning for your
 Moving into a new home can be exciting yet exhausting at the same time. There will be many tasks and considerations. Fret not, we have put together some considerations to kickstart your move-in planning.
 
 
-## New content that will be added soon:
+# Not what you are looking for? 
+## Stay tuned.We have more coming to you soon.
 
-#### Considering new Childcare Arrangements in your new estate? 
-This section would help you move to a new place as a family, you may also need to consider and confirm childcare/school arrangements for your children. 
-
-
-#### Looking to help your family settle in?
-Moving into a new estate/ area can be unsettling for your family member(s). This section would help you find ways to explore the neighbourhood by participating in some of the nearby activities. It will be a good way to know your neighbours too.
-
-
-#### Need some help in planning finances for your family? 
-This section would help you find support/aid that could assist in planning your family finances.
 
