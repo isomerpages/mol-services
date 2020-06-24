@@ -1,5 +1,5 @@
 ---
-title: "Step 2 : Get Option To Purchase"
+title: "Step 3 : Choose your financing mode"
 permalink: /resale/OTP/
 third_nav_title: I want to buy a resale flat
 ---
