@@ -1,10 +1,10 @@
 ---
-title: Step 2 Register Intent to Buy
+title: "Step 2: Register Intent to Buy"
 permalink: /resale/intent-to-buy/
 third_nav_title: I want to buy a resale flat
 ---
 
-# Register Intent to Buy
+# Step 2: Register Intent to Buy
 
 Since 1 January 2018, resale flat buyers and sellers will have to login to the HDB Resale Portal using their SingPass. Hence for you to start buying a resale, you would need to register your [Intent to Buy](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp).
 

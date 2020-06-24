@@ -1,10 +1,10 @@
 ---
-title: Step 3 Submit Application
+title: "Step 3: Submit Application"
 permalink: /buying-a-hdb/apply/
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 3 Submit Application
+## Step 3: Submit Application
 
 #### Upcoming Sales Launches
 

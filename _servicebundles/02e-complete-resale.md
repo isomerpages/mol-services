@@ -1,5 +1,5 @@
 ---
-title: Step 5 Complete Resale Transaction
+title: "Step 5: Complete Resale Transaction"
 permalink: /selling/resale-complete/
 third_nav_title: I want to sell a HDB flat
 ---

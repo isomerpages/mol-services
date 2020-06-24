@@ -1,5 +1,5 @@
 ---
-title: Step 2 Plan Your Finances
+title: "Step 2: Plan your Finances"
 permalink: /selling/plan-finances/
 third_nav_title: I want to sell a HDB flat
 ---

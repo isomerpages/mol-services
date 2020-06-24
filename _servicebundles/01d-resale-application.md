@@ -1,5 +1,5 @@
 ---
-title: Step 4 Submit Resale application
+title: "Step 4: Submit Resale application"
 permalink: /resale/application/
 third_nav_title: I want to buy a resale flat
 ---

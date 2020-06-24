@@ -1,5 +1,5 @@
 ---
-title: Step 4 Apply for Loan
+title: "Step 4: Apply for Loan"
 permalink: /buying-a-hdb/mortgage/
 third_nav_title: I want to buy a flat from HDB
 ---

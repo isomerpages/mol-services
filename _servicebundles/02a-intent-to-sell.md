@@ -1,5 +1,5 @@
 ---
-title: Step 1 Register Intent to Sell
+title: "Step 1: Register Intent to Sell"
 permalink: /selling/intent/
 third_nav_title: I want to sell a HDB flat
 ---
