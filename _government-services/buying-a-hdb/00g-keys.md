@@ -4,7 +4,7 @@ permalink: /government-services/buying-a-hdb/keys/
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 7 : Collect keys to your flat
+## Step 7 : Collect Keys to Your Flat
 
 #### Check your HDB Appointment
 
