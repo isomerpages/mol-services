@@ -2,12 +2,11 @@
 title: Overview
 permalink: /government-services/buying-a-hdb/resale-overview/
 breadcrumb: 
-third_nav_title: I want to buy a resale flat
+third_nav_title: Buy a resale flat
 ---
 
 
 ## Getting Started to buying a resale flat
-
 
 Apart from buying a flat from HDB, you may also consider buying a resale flat from the open market. They come in various sizes and locations that may suit your needs as well.
 
