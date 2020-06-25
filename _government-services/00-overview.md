@@ -55,15 +55,17 @@ table, tr, td {
 <tbody>
   
   <tr>
-    <td class="tg-bagh"><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-bagh"><img src="/images/06-digital-readiness(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
-    <td class="tg-baqh"><img src="/images/03-get-married(comingsoon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Coming Soon"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/07-plan-legacy (coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/08-plan-retirement(coming soon).png" alt="CPF and Retirement"></td>
-    <td class="tg-baqh"><img src="/images/09-stay-healthy(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
+  </tr>
+    <tr>
+   <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
   </tr>
 </tbody>
 </table></div>
