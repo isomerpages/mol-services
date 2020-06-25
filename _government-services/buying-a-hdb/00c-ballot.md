@@ -1,10 +1,10 @@
 ---
-title: "Step 3 : Submit Application"
+title: "Step 3 : Submit your Application"
 permalink: /government-services/buying-a-hdb/ballot/
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 3 : Submit Application
+## Step 3 : Submit your Application
 
 #### Upcoming Sales Launches
 
