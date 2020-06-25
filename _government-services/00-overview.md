@@ -33,7 +33,7 @@ table, tr, td {
   </tbody>
 </table></div>
 
-  #### We will be adding more services to this listing too.
+  #### We will be adding more services to this listing. Do check back soon!
   
   
   <style>
