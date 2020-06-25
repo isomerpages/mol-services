@@ -13,7 +13,7 @@ Do your sums using the following resources or [HDB financial planning guide](htt
 
 - Read more about [eligibility conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions) for the HDB Housing loan
 
-- Check your eligibility for HDB Housing Loan [(HLE questionnaire)](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
+- Check your eligibility for HDB Housing Loan [(HLE e-Service)](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
 
 - Prepare for the [required documents](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents) to apply for your Housing Loan Eligibility letter (HLE)
 
