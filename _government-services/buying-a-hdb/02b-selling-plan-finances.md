@@ -1,17 +1,18 @@
 ---
 title: "Step 2 : Plan your Finances"
 permalink: /government-services/buying-a-hdb/selling-plan-finances/
-third_nav_title: I want to sell an HDB flat
+third_nav_title: Sell an HDB flat
 ---
 
-# Step 2 : Plan your Finances
+## Step 2 : Plan your Finances
 
-## Compute estimated sales proceeds
+#### Compute estimated sales proceeds
 Find out how you can [estimate the sales proceeds](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/finance/planning) that you could get from selling your flat.
 
 You can also use this [calculator](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc) to estimate how much cash proceeds you might receive and evaluate your financial position. This would be useful in assessing your budget for your next home as well.
 
-## What to consider when deciding selling price of flat
+
+#### What to consider when deciding selling price of flat
 
 Consider the costs & fees involved in selling your home (e.g. Stamp duty, legal fees, property tax) when deciding your selling price
 
