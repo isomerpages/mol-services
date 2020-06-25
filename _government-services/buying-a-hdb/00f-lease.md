@@ -1,7 +1,7 @@
 ---
 title: "Step 6 : Sign Agreement for Lease"
 permalink: /government-services/buying-a-hdb/lease/
-third_nav_title: I want to buy a flat from HDB
+third_nav_title: Buy a flat from HDB
 ---
 
 ## Step 6 : Sign Agreement for Lease
