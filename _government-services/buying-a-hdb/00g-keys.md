@@ -11,6 +11,7 @@ third_nav_title: Buy a flat from HDB
 Check your HDB appointment online [here](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)<br>
 <em>(Go to My Flat > Application Status > New Flat > Reg.No.)</em>
 
+
 #### Prepare for your move
 
 Some resources that might be useful:
@@ -19,6 +20,8 @@ Some resources that might be useful:
 - Apply for [HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)
 - Sign up for your [utilities account](https://www.spgroup.com.sg/home). It is advised to have your utilities account activated 1 day before you do your defects check.
 
+
 #### Some things to note as a HDB Owner
+
 - Find out more [Home Protection Scheme (HPS)](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes)
 - [Conditions after buying a flat](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/conditions-after-buying?anchor=takingahousing)

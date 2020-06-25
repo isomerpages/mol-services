@@ -8,7 +8,6 @@ third_nav_title: Buy a resale flat
 
 ## Getting Started to buying a resale flat
 
-
 Apart from buying a flat from HDB, you may also consider buying a resale flat from the open market. They come in various sizes and locations that may suit your needs as well.
 
 

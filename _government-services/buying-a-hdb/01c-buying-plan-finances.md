@@ -4,7 +4,7 @@ permalink: /government-services/buying-a-hdb/buying-plan-finances/
 third_nav_title: Buy a resale flat
 ---
 
-## Step 3: Plan your mode of financing
+## Step 3: Plan your Finances
 
 Buying a flat is a long-term financial commitment. 
 Do your sums using the following resources or [HDB financial planning guide](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
@@ -31,7 +31,7 @@ When you buy a new HDB flat and sell your current flat, the [Enhanced Contra Pay
 
 #### Using your CPF savings for your home
 
-Tools to help you estimate your CPF usage:
+Some tools to help you estimate your CPF usage for your housing:
 
 - Find out how you can use your CPF savings to pay for your HDB home [here](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme)
 
