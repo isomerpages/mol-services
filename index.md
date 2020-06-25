@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: ServiceSG
-description: Brief site description here
+description: Welcome to our new beta site to bring together Government Services to you, in one place. Try it out and let us know what you think!
 favicon: /images/mol_fav.ico
 image: /images/mol-logo.jpg
 permalink: /
@@ -14,7 +14,7 @@ sections:
         title: Government Services 
         image: /images/government-services.jpg
         alt: govt services
-        description: Government Services that might be useful for you, All put together in one place.
+        description: All Government Services and resources put together for you. In one place.
         button: Browse
         url: /government-services/overview
     - infobar:
