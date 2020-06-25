@@ -34,6 +34,26 @@ table, tr, td {
 </table></div>
 
   #### We will be adding more services to this listing too.
+  
+  
+  <style>
+@media
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px) {
+  table, th, td {
+    display: block;
+  }
+  table, tr, td {
+    border: none !important;
+  }
+}
+table, tr, td {
+  border: none !important;
+}
+</style>
+<div class="tg-wrap"><table class="tg">
+<tbody>
+  
   <tr>
     <td class="tg-bagh"><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
@@ -47,6 +67,7 @@ table, tr, td {
   </tr>
 </tbody>
 </table></div>
+
 
 #### Want to see more services?
 
