@@ -1,7 +1,7 @@
 ---
 title: An HDB Flat Buyer's Guide
 permalink: /government-services/buying-a-hdb/overview/
-third_nav_title: I want to buy a flat from HDB
+third_nav_title: Buy a flat from HDB
 ---
 
 ## An HDB Flat Buyer's Guide

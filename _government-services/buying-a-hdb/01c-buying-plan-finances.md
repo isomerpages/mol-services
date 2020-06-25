@@ -1,7 +1,7 @@
 ---
 title: "Step 3 : Plan your Finances"
 permalink: /government-services/buying-a-hdb/buying-plan-finances/
-third_nav_title: I want to buy a resale flat
+third_nav_title: Buy a resale flat
 ---
 
 ## Step 3: Plan your mode of financing

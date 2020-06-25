@@ -1,7 +1,7 @@
 ---
 title: "Step 4 : Apply for Housing Loan"
 permalink: /government-services/buying-a-hdb/mortgage/
-third_nav_title: I want to buy a flat from HDB
+third_nav_title: Buy a flat from HDB
 ---
 
 ## Step 4 : Apply for Housing Loan

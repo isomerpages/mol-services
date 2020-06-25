@@ -1,7 +1,7 @@
 ---
 title: "Step 5 : Complete resale transaction"
 permalink: /government-services/buying-a-hdb/buying-resale-complete/
-third_nav_title: I want to buy a resale flat
+third_nav_title: Buy a resale flat
 ---
 
 # Step 5 : Complete Resale Transaction

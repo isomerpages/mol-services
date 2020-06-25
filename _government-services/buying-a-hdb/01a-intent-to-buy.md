@@ -2,7 +2,7 @@
 title: "Step 1 : Register your Intent to Buy"
 permalink: /government-services/buying-a-hdb/intent-to-buy/
 breadcrumb: 
-third_nav_title: I want to buy a resale flat
+third_nav_title: Buy a resale flat
 ---
 
 ## Step 1 : Register your Intent to Buy 

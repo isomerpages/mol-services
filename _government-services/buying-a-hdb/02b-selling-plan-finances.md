@@ -1,7 +1,7 @@
 ---
 title: "Step 2 : Plan your Finances"
 permalink: /government-services/buying-a-hdb/selling-plan-finances/
-third_nav_title: I want to sell an HDB flat
+third_nav_title: Sell an HDB flat
 ---
 
 # Step 2 : Plan your Finances

@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /government-services/buying-a-hdb/selling-overview/
-third_nav_title: I want to sell an HDB flat
+third_nav_title: Sell an HDB flat
 ---
 
 ## Guide to selling an HDB flat

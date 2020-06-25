@@ -2,7 +2,7 @@
 title: Moving In 
 permalink: /government-services/buying-a-hdb/move-in/
 breadcrumb: 
-third_nav_title: I want to move into my HDB home
+third_nav_title: Move into my HDB home
 ---
 
 ## Prepare to move in

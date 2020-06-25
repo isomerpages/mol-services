@@ -1,7 +1,7 @@
 ---
 title: "Step 4 : Submit Resale Application"
 permalink: /government-services/buying-a-hdb/selling-resale-application/
-third_nav_title: I want to sell an HDB flat
+third_nav_title: Sell an HDB flat
 ---
 
 ## Step 4 : Submit Resale Application
