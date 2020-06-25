@@ -3,9 +3,9 @@ title: I Want To...
 permalink: /government-services/overview/
 ---
 
-#### SG Government Services and Resources in One Place.
+## SG Government Services and Resources in One Place.
 
-We have grouped the related services and resources based on typical needs in Singaporean life. Click on the icons below to read more about each service bundle.
+Click on the icons below to find a consolidated listing of services and resources grouped based on your needs.
 
 <style>
 @media
@@ -25,10 +25,11 @@ table, tr, td {
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
-    
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
     <td class="tg-baqh"><a href="/government-services/buying-a-hdb/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
+  
+  
   <tr>
     <td class="tg-bagh"><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
