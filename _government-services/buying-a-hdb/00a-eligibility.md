@@ -4,7 +4,7 @@ permalink: /government-services/buying-a-hdb/eligibility/
 third_nav_title: I want to buy a flat from HDB
 ---
 
-## Step 1 : Check your eligibility
+## Step 1 : Check your Eligibility
 
 #### What type of HDB flats are you eligible to buy?
 
