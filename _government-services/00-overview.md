@@ -30,7 +30,9 @@ table, tr, td {
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
     <td class="tg-baqh"><a href="/government-services/buying-a-hdb/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
-  
+  </tbody>
+</table></div>
+
   #### We will be adding more services to this listing too.
   <tr>
     <td class="tg-bagh"><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon"></td>
