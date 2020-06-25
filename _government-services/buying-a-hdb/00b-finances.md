@@ -20,7 +20,7 @@ Buying a flat is a long-term financial commitment. Use the following to plan you
 Alternatively, you may consider taking up a housing loan from the banks. 
 Find out more about the considerations for Financial Institutions (FIs) loans [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks). Do apply for an Approval-in-Principle with the FI to find out about your eligibility for an FI housing loan.
 
-*Tip: Find out more about housing loans and Financial Institutions regulated by Monetary Authority of Singapore (MAS) [here](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.pdf?la=en&hash=BE9E0DE08401B8C017DE51856BC2DEF23050414C)
+*Tip: Find out more about housing loans and Financial Institutions regulated by Monetary Authority of Singapore (MAS) [here](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.pdf?la=en&hash=BE9E0DE08401B8C017DE51856BC2DEF23050414C)*
 
 
 #### Understanding Contra Payment Facility
