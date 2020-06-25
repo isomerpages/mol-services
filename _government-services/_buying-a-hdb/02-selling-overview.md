@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /selling/
+permalink: government-services/buying-a-hdb/selling-overview/
 third_nav_title: I want to sell an HDB flat
 ---
 

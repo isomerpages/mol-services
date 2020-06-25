@@ -1,6 +1,6 @@
 ---
 title: "Step 1 : Register Intent to Sell"
-permalink: /selling/intent/
+permalink: /government-services/buying-a-hdb/intent-to-sell/
 third_nav_title: I want to sell an HDB flat
 ---
 

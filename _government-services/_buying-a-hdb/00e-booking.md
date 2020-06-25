@@ -1,7 +1,6 @@
 ---
 title: "Step 5 : Book a Flat"
-permalink: /buying-a-hdb/book-flat/
-breadcrumb: 
+permalink: government-services/buying-a-hdb/book-flat/
 third_nav_title: I want to buy a flat from HDB
 ---
 

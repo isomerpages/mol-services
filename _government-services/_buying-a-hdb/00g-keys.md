@@ -1,7 +1,6 @@
 ---
 title: "Step 7 : Collect Keys to your Flat"
-permalink: /buying-a-hdb/keys/
-breadcrumb: 
+permalink: government-services/buying-a-hdb/keys/
 third_nav_title: I want to buy a flat from HDB
 ---
 

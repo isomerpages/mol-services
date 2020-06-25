@@ -1,6 +1,6 @@
 ---
 title: "Step 5 : Complete resale transaction"
-permalink: /resale/complete/
+permalink: government-services/buying-a-hdb/buying-resale-complete/
 third_nav_title: I want to buy a resale flat
 ---
 

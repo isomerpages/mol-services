@@ -1,7 +1,6 @@
 ---
 title: "Step 2 : Plan your Finances"
-permalink: /buying-a-hdb/finances/
-breadcrumb:
+permalink: government-services/buying-a-hdb/finances/
 third_nav_title: I want to buy a flat from HDB
 ---
 

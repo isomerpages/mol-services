@@ -1,6 +1,6 @@
 ---
 title: "Step 5 : Complete Resale Transaction"
-permalink: /selling/resale-complete/
+permalink: /government-services/buying-a-hdb/selling-complete-resale/
 third_nav_title: I want to sell an HDB flat
 ---
 

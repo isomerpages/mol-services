@@ -1,6 +1,6 @@
 ---
 title: Moving In 
-permalink: /move-in/
+permalink: /government-services/buying-a-hdb/move-in/
 breadcrumb: 
 third_nav_title: I want to move into my HDB home
 ---
