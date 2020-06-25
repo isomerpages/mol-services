@@ -1,6 +1,6 @@
 ---
 title: "Step 2 : Get Option To Purchase"
-permalink: government-services/buying-a-hdb/buying-OTP/
+permalink: /government-services/buying-a-hdb/buying-OTP/
 third_nav_title: I want to buy a resale flat
 ---
 

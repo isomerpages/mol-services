@@ -1,6 +1,6 @@
 ---
 title: "Step 3 : Submit Application"
-permalink: government-services/buying-a-hdb/ballot/
+permalink: /government-services/buying-a-hdb/ballot/
 third_nav_title: I want to buy a flat from HDB
 ---
 

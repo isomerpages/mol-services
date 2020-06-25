@@ -1,6 +1,6 @@
 ---
 title: "Step 1 : Check your Eligibility"
-permalink: government-services/buying-a-hdb/eligibility/
+permalink: /government-services/buying-a-hdb/eligibility/
 third_nav_title: I want to buy a flat from HDB
 ---
 

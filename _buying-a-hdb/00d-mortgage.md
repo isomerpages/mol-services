@@ -1,6 +1,6 @@
 ---
 title: "Step 4 : Apply for Loan"
-permalink: government-services/buying-a-hdb/mortgage/
+permalink: /government-services/buying-a-hdb/mortgage/
 third_nav_title: I want to buy a flat from HDB
 ---
 

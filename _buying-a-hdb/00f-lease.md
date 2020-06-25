@@ -1,6 +1,6 @@
 ---
 title: "Step 6 : Sign HDB Lease"
-permalink: government-services/buying-a-hdb/lease/
+permalink: /government-services/buying-a-hdb/lease/
 third_nav_title: I want to buy a flat from HDB
 ---
 
