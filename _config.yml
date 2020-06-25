@@ -5,13 +5,13 @@ favicon: /images/mol_fav.ico
 markdown: CommonMarkGhPages
 
 collections:
-  services:
-    output: true
   guides:
     output: true
   servicebundles:
     output: true
   servicebundle_jobs:
+    output: true
+  government-services:
     output: true
 
 resources_name: media-centre
