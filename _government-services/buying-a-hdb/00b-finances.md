@@ -1,7 +1,7 @@
 ---
 title: "Step 2 : Plan your Finances"
 permalink: /government-services/buying-a-hdb/finances/
-third_nav_title: I want to buy a flat from HDB
+third_nav_title: Buy a flat from HDB
 ---
 
 ## Step 2 : Plan your Finances
