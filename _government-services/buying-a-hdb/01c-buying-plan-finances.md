@@ -6,9 +6,8 @@ third_nav_title: I want to buy a resale flat
 
 ## Step 3: Plan your mode of financing
 
-Do your sums with these [HDB financial planning tools](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
-
-Buying a flat is a long-term financial commitment. Use the following to plan your finances.
+Buying a flat is a long-term financial commitment. 
+Do your sums using the following resources or [HDB financial planning guide](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning).
 
 - [Step-by-step guide](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning)
 
@@ -20,11 +19,15 @@ Buying a flat is a long-term financial commitment. Use the following to plan you
 
 - Apply for the HLE letter to confirm your eligibility for an HDB housing loan [here](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome) with your income documents ready on hand
 
+Alternatively if you wish to go with a housing loan with [Financial Institutions (FIs)](https://eservices.mas.gov.sg/fid), read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks). 
+
+
+#### Consider Enhanced Contra Payment Facility
+
 When you buy a new HDB flat and sell your current flat, the [Enhanced Contra Payment Facility for New Flats](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/schemes-and-grants/enhanced-contra-facility) can help you:
 - Reduce the cash outlay needed for your resale HDB flat
 - Reduce the mortgage loan amount needed and the subsequent monthly repayments
 
-Alternatively if you wish to go with a housing loan with [Financial Institutions (FIs)](https://eservices.mas.gov.sg/fid), read more about loan ceiling and other information [here](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks). 
 
 #### Using your CPF savings for your home
 
