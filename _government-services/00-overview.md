@@ -3,9 +3,11 @@ title: I Want To . . .
 permalink: /government-services/overview/
 ---
 
-## SG Government Services and Resources in One Place.
+## Get the Government Services you need. In One Place.
 
-Click on the icons below to find a consolidated listing of services and resources grouped based on your needs.
+Here is a consolidated listing of services grouped based on your likely needs.
+Click on the icons below to browse what is relevant to your needs today.
+
 
 <style>
 @media
@@ -29,7 +31,7 @@ table, tr, td {
     <td class="tg-baqh"><a href="/government-services/buying-a-hdb/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   
-  
+  #### We will be adding more services to this listing too.
   <tr>
     <td class="tg-bagh"><img src="/images/06-digital-ready(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
