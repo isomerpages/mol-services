@@ -1,11 +1,10 @@
 ---
-title: Moving In 
+title: Moving In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
-breadcrumb: 
-third_nav_title: Move into my HDB home
+third_nav_title: Move into my new HDB home
 ---
 
-## Prepare to move in
+## Moving In Checklist
 
 #### Update your residential address 
 
@@ -17,19 +16,21 @@ Found some defects? You can submit a request to HDB to help you with the [rectif
 
 #### Property tax
 
-Property Tax is paid annually, and calculated based on the annual value of your property. You may [check the Annual Value (AV) of your current property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertyPortfolio) at no charge by viewing your property portfolio.
+Property Tax is paid annually, and calculated based on the annual value of your property. You may [check the Annual Value (AV) of your current property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true) at no charge by viewing your property portfolio.
 
 Find out more about your [property tax obligations](https://www.iras.gov.sg/irashome/Property-Tax-At-A-Glance/Property-Tax-At-A-Glance/)
 
-<em>Tip: Use this Interactive Property Tax Calculator to estimate your potential tax obligations for your new home.(https://www.iras.gov.sg/irashome/Property/Property-owners/Working-out-your-taxes/Interactive-Property-Tax-Calculators/)
+*Tip: Use this [Interactive Property Tax Calculator](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTCalculatorIntro) to estimate your potential tax obligations for your new home.*
 
 Learn more about [tax matters as a property owner](https://www.iras.gov.sg/irashome/Property/Property-owners/), or understand if you can [Apply/Withdraw Owner-Occupier tax rates](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true)
+
 
 #### Season Parking
 
 If you are a driver or own a car, you may wish to [apply new/transfer your existing season parking](https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure) to your new area. (Fees applies)
 
-#### Settle remaining finances
+
+#### Settle remaining housing-related finances
 
 Some useful links on servicing your HDB loan are as follows:
 - Application for Redemption of Housing Loan
@@ -37,6 +38,7 @@ Some useful links on servicing your HDB loan are as follows:
 - Statement of Account for Housing Loan
 
 For more information on servicing your HDB loan and related matters, you may find out more [here](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan)
+
 
 #### Maintenance tips for your HDB home
 
