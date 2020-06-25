@@ -1,6 +1,6 @@
 ---
 title: An HDB Flat Buyer's Guide
-permalink: /buying-a-hdb/
+permalink: /government-services/overview/buying-a-hdb/
 third_nav_title: I want to buy a flat from HDB
 ---
 

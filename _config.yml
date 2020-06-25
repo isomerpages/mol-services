@@ -5,14 +5,12 @@ favicon: /images/mol_fav.ico
 markdown: CommonMarkGhPages
 
 collections:
-  guides:
-    output: true
-  servicebundles:
-    output: true
-  servicebundle_jobs:
+  life-events:
     output: true
   government-services:
     output: true
+  buying-a-hdb:
+    output: true  
 
 resources_name: media-centre
 

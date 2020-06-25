@@ -1,6 +1,6 @@
 ---
 title: At a glance
-permalink: /all-guides
+permalink: /life-events
 breadcrumb: Suggested Guides
 ---
 
