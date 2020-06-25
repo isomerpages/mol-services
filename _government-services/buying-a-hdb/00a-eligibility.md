@@ -1,7 +1,7 @@
 ---
 title: "Step 1 : Check your Eligibility"
 permalink: /government-services/buying-a-hdb/eligibility/
-third_nav_title: I want to buy a flat from HDB
+third_nav_title: Buy a flat from HDB
 ---
 
 ## Step 1 : Check your Eligibility
