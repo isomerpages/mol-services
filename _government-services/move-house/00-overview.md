@@ -1,7 +1,6 @@
 ---
 title: Move House
 permalink: /government-services/move-house/overview/
-third_nav_title:I Want To . . .
 ---
 
 ## A SG Guide to Moving House
