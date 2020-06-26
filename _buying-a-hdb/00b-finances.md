@@ -57,13 +57,13 @@ You may be eligible to receive subsidies of up to $80,000 in the form of the Enh
 - If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you [select a flat at your appointment](/buying-a-hdb/book-flat/).
 
 
-#### Other housing related costs to consider
+### Other housing related costs to consider
 
 - Understand [HDB Property Tax](https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/Essential-Property-Tax-Information-for-HDB-Flat-Owners)
 - [Maintenance, conservancy charges and utilities](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/finance/costs-and-fees)
 - Mortgage Insurance, or known as [CPF Home Protection Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/home-protection-scheme)
 - [Home Insurance](http://gia.org.sg/consumers/property.html)
 
-For more on understanding the costs of buying a home, read [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home).
+For more information on how to plan your finances when buying a home, do read [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home).
 
 
