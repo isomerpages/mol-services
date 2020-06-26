@@ -42,7 +42,7 @@ Do use the [HDB Map Services](https://services2.hdb.gov.sg/web/fi10/emap.html) t
 
 ### What happens after
 
-After registering your Intent to Buy, you will be guided to apply for an HDB Loan Eligibility (HLE) letter, if you are eligible and intend to get a housing loan from HDB. 
+After registering your Intent to Buy, you will be guided to apply for an [HDB Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp), if you are eligible and intend to get a housing loan from HDB. 
 
 Otherwise, you will be advised to have an Approval In-Principle (AIP) from [Financial Institutions (FIs)](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks) before the seller can grant you the Option to Purchase.
 
