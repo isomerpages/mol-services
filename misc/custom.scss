@@ -12,9 +12,9 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: #db2230;
-$secondary: #231f20;
-$secondary-hover: darken(#d8c3A5, 30%);
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
@@ -277,10 +277,34 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
-	h1, h2, h3, h4, h5{
+	h1 {
     color: $secondary;
     font-family: poppins;
     font-size: 26px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+		strong {
+			color: $secondary;
+		}
+  }
+  h2 {
+    color: $primary;
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+		strong {
+			color: $secondary;
+		}
+  }
+  h3 {
+    color: $secondary;
+    font-family: poppins;
+    font-size: 20px;
     font-weight: 600;
     line-height: 28px;
     margin-top: 30px;
