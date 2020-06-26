@@ -22,7 +22,7 @@ Do make sure that you have made your housing loan arrangements before you exerci
 As OTP is a legal contract between you and the seller, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
 
 
-#### Procedures to enter into OTP contract with seller
+### Procedures to enter into OTP contract with seller
 
 To enter into a OTP contract, you would be required to go through the following steps:
 
