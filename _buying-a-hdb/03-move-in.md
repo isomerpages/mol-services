@@ -18,12 +18,16 @@ Found some defects before your renovation? You may submit a request to HDB to he
 
 ### Settle remaining housing-related finances
 
-Some useful links on servicing your HDB loan are as follows:
-- Application for Redemption of Housing Loan
-- Application for Partial Capital Repayment of Housing Loan
-- Statement of Account for Housing Loan
+You can use [My HDBPage](https://www.hdb.gov.sg/MyHDBPage) to submit your application to redeem your loan. Upon logging in, look under ‘My Flat > Purchased Flat > Financial Info > Other Related Services’.
 
-For more information on servicing your HDB loan and related matters, you may find out more [here](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan)
+Alternatively, here are some useful links on servicing your HDB loan are as follows:
+
+- [Application for Redemption of Housing Loan](https://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024)
+- [Application for Partial Capital Repayment of Housing Loan](http://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024)
+- Statement of Account for Housing Loan
+*You can retrieve your online statement of account from our HDB InfoWEB via [My HDBPage](http://www.hdb.gov.sg/myhdbpage) using your SingPass.*
+
+For more information on servicing your housing loan with HDB, you may find out more [here](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan)
 
 
 ### Understand your Property Tax obligations
