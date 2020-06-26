@@ -1,6 +1,10 @@
 ---
-title: get employed
+title: Get Employed
 permalink: /government-services/get-employed/overview/
 ---
 
-click here to [get employed](https://articles.life.gov.sg/financial-support-workers-self-employed/)
+## Resources to help you find employment
+
+
+#### Need Financial Help?
+Click here for the [latest update on financial support available](https://articles.life.gov.sg/financial-support-workers-self-employed/). It provides a consolidation of key services and available resources the government offers to support you in the tough times ahead.
