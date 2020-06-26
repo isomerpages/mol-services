@@ -19,12 +19,13 @@ Different eligibility conditions apply when purchasing a flat from HDB, whether 
 
 ### Priority Schemes for Balloting
 
-A computerised system conducts basic checks on all applications received. Thereafter, the applications are put through a computer ballot to determine the applicants' queue position for booking of a unit.<br>
+A computerised system conducts basic checks on all applications received and put through a balloting system to determine the applicants' queue position for booking of a unit.<br>
 
-You may improve chances of being balloted through priority schemes or other privileges, if you are a first-timer applicants and/or have urgent housing needs.<br>
+Your chances of being balloted may be improved through priority schemes or other privileges, if you are a first-timer applicants and/or have urgent housing needs.<br>
 
-  - Check if you qualify as a first-timer applicant [here](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
-  - Find out about the various priority schemes and how you may qualify [here](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
+Find out
+  - if you qualify as a first-timer applicant [here](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK)
+  - About the various priority schemes and how you may qualify [here](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes)
   
   
 ### Quick Link to Eligibility checker
