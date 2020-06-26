@@ -1,10 +1,8 @@
 ---
 title: Overview
 permalink: /government-services/buying-a-hdb/resale-overview/
-breadcrumb: 
 third_nav_title: Buy a resale flat
 ---
-
 
 ## Getting Started to buying a resale flat
 
