@@ -54,7 +54,7 @@ Some CPF tools to help you estimate CPF usage.
 You may be eligible to receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants. 
 
 - Find out more about the CPF Housing grants [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats)
-- If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you [select a flat at your appointment](/buying-a-hdb/book-flat/).
+- If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you [select a flat at your appointment](/government-services/buying-a-hdb/book-flat/).
 
 
 ### Other housing related costs to consider
