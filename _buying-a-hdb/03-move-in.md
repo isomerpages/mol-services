@@ -46,5 +46,5 @@ If you are a driver or own a car, you may wish to [apply new/transfer your exist
 
 Need some tips to maintain your new home? Read HDB's Home Care Guide [here](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
 
-For [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)(e.g. corridors), do contact your respective town council.
+For [maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)(e.g. corridors), do contact your respective town council.
 
