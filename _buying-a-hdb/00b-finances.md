@@ -6,7 +6,7 @@ third_nav_title: Buy a flat from HDB
 
 ## Step 2 : Plan your Finances
 
-#### Assessing your budget
+### Assessing your budget
 
 Buying a flat is a long-term financial commitment. Use the following to plan your finances.
 
@@ -23,7 +23,7 @@ Find out more about the considerations for Financial Institutions (FIs) loans [h
 *Tip: Find out more about housing loans and Financial Institutions regulated by Monetary Authority of Singapore (MAS) [here](https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.pdf?la=en&hash=BE9E0DE08401B8C017DE51856BC2DEF23050414C)*
 
 
-#### Understanding Contra Payment Facility
+### Understanding Contra Payment Facility
 You may apply for the [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats) when you are buying a flat from HDB and selling your existing flat concurrently. 
 
 Contra Payment Facility can help you:
@@ -34,7 +34,7 @@ Contra Payment Facility can help you:
 - Collect the keys to your flat while selling your existing flat
     
 
-#### Using your CPF savings to finance your home
+### Using your CPF savings to finance your home
 
 Some CPF tools to help you estimate CPF usage.
 
@@ -44,12 +44,12 @@ Some CPF tools to help you estimate CPF usage.
 
 - For property bought [before 10 May 2019](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingWithdrawalLimits/CpfHousingWithdrawalLimits)
 
-Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)*
+*Tip: Learn how you can change the proportion of CPF contribution [here](https://www.cpf.gov.sg/members/FAQ/schemes/housing/housing-scheme/FAQDetails?category=housing&group=Housing+Scheme&ajfaqid=2185620&folderid=11415)*
 
 - A [1-minute tool](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate) to estimate the monthly installment payable on a housing loan
 
 
-#### CPF Housing Grants
+### CPF Housing Grants
 
 You may be eligible to receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants. 
 
