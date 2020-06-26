@@ -1,7 +1,6 @@
 ---
 title: Get Employed
 permalink: /government-services/get-employed/overview/
-third_nav_title: I Want To . . .
 ---
 
 ## Resources to help you find employment
