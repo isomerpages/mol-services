@@ -10,4 +10,4 @@ If you are taking out a HDB Housing loan, submit request for [Housing Loan Eligi
 
 If you are taking out a housing loan from the banks, you may wish to ensure that you have received approval in principle (AIP) from them.
 
-<em>Tip: Log into [MyHDBpage](http://www.hdb.gov.sg/MyHDBPage) using your SingPass to retrieve the results (under My HDBPage > My Flat > Application Status > New Flat).</em>
+*Tip: Log into [MyHDBpage](http://www.hdb.gov.sg/MyHDBPage) using your SingPass to retrieve the results (under My HDBPage > My Flat > Application Status > New Flat).*
