@@ -13,7 +13,7 @@ As most of us are digitally connected and with the launch of HDB resale portal, 
 Learn more about engaging a real estate agent [here](https://www.cea.gov.sg/4steps/).
 
 
-#### What is Option to Purchase (OTP)
+### What is Option to Purchase (OTP)
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
@@ -34,7 +34,7 @@ To enter into a OTP contract, you would be required to go through the following 
 
 (4) Exercise OTP to proceed with the purchase 
 
-You can let the OTP expire if you decide not to proceed with the purchase.
+You can also choose to let the OTP expire if you decide not to proceed with the purchase.
 
-Read details on OTP procedures [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase).
+Read more on OTP procedures [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase).
 
