@@ -16,4 +16,4 @@ Read [Step 2](https://mol-services-staging.netlify.app/government-services/buyin
 
 ### There will be payment required at this step 
 
-Do find out more about the [required payments](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/staggered-downpayment-scheme) when you sign the Agreement for Lease.
+Do find out more about the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/staggered-downpayment-scheme" target="_blank">required payments</a> when you sign the Agreement for Lease.
