@@ -8,7 +8,7 @@ third_nav_title: Sell an HDB flat
 
 HDB’s Option to Purchase (OTP) is basically a form of contract between the buyer (you) and the seller, giving you exclusive right to purchase the flat within the option period of 21 calendar days.
 
-As OTP is a legal contract between you and the buyer, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
+As OTP is a legal contract between you and the buyer, it is best that you read all terms and conditions carefully. You can download a sample OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
 
 
 ### How to enter into OTP contract with buyer
