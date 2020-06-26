@@ -32,6 +32,8 @@ img {
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="/government-services/get-employed/overview/"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
+   </tr>
+   <tr>
     <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   </tbody>
