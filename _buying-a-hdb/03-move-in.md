@@ -42,7 +42,7 @@ Learn more about [tax matters as a property owner](https://www.iras.gov.sg/irash
 If you are a driver or own a car, you may wish to [apply new/transfer your existing season parking](https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure) to your new area. (Fees applies)
 
 
-#### Some maintenance tips for your new home
+### Some maintenance tips for your new home
 
 Need some tips to maintain your new home? Read HDB's Home Care Guide [here](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
 
