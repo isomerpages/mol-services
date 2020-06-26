@@ -13,6 +13,6 @@ The option fees are listed below for your reference, depending on the type of fl
 - $1,000 for 3-room flats 
 - $2,000 for 4 room or larger flats
 
-#### Application for Housing Grants
+### Application for Housing Grants
 
 You may also apply for housing grants during this appointment. Find out which one applies to you [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats).
