@@ -23,12 +23,16 @@ only screen and (max-width: 760px),
 table, tr, td {
   border: none !important;
 }
+img {
+  height: 243px !important;
+  width: 243px !important;
+}
 </style>
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
-    <td class="tg-baqh"><a href="/government-services/buying-a-hdb/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
+    <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   </tbody>
 </table></div>
