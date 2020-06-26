@@ -151,10 +151,20 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-button:hover {
   color: $secondary;
 }
+.bp-button.bp-dropdown-button.is-fullwidth {
+  p {
+    font-family: poppins;
+  }
+}
+.bp-dropdown-content {
+  p {
+    font-family: poppins;
+  }
+}
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
+	color: blue;
 	& span {
 		border-bottom: 2px solid $secondary !important;
 	}
@@ -295,9 +305,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	blockquote > ul {
 		color: $secondary;
-	}
+  }
+  a {
+    color: blue;
+  }
+  a:hover {
+    color: red;
+  }  
 }
-
 // Media category buttons - not used now but will be used in the future
 
 .media-category-button {
