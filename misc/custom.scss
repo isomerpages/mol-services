@@ -170,11 +170,11 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	&:hover {
 		& span {
-	    	border-bottom: 2px solid $secondary-hover !important;
-	    	color: $secondary-hover !important;
+	    	border-bottom: 2px solid #272c67 !important;
+	    	color: #272c67!important;
 	  	}
 	  	& i {
-	    	color: $secondary-hover !important;
+	    	color: #272c67!important;
 	  	}
 	}
 }
@@ -310,7 +310,7 @@ $desktop: 960px + (2 * $gap) !default;
     color: blue;
   }
   a:hover {
-    color: red;
+    color:#272c67;
   }  
 }
 // Media category buttons - not used now but will be used in the future
