@@ -11,7 +11,7 @@ HDB’s Option to Purchase (OTP) is basically a form of contract between the buy
 As OTP is a legal contract between you and the buyer, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form [here](https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link)
 
 
-#### Procedures to enter into OTP contract with buyer
+### How to enter into OTP contract with buyer
 
 To enter into a OTP contract, you would be required to go through the following steps:
 
