@@ -313,7 +313,7 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
-  a, p, li {
+  a, p, li, em {
     color: $secondary;
     font-size: 16.5px;
     font-family: poppins;
