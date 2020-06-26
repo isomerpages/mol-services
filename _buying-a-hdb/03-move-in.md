@@ -8,47 +8,42 @@ third_nav_title: Move into my new HDB home
 
 ### Update your residential address 
 
-After moving, do remember to [update your residential address](https://www.ica.gov.sg/documents/ic/update_residential_address) on  your identity documents with Immigration & Checkpoint Authority (ICA)
-
+After moving, do remember to <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address</a> on your identity documents with Immigration & Checkpoint Authority (ICA).
 
 ### Rectification works
 
-Found some defects before your renovation? You may submit a request to HDB to help you with the [rectification works](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview).
+Found some defects before your renovation? You may submit a request to HDB to help you with the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview" target="_blank">rectification works.</a>
 
 
 ### Settle remaining housing-related finances
 
-You can use [My HDBPage](https://www.hdb.gov.sg/MyHDBPage) to submit your application to redeem your loan. Upon logging in, look under ‘My Flat > Purchased Flat > Financial Info > Other Related Services’.
+You can use <a href="https://www.hdb.gov.sg/MyHDBPage" target="_blank">My HDBPage</a> to submit your application to redeem your loan. Upon logging in, look under ‘My Flat > Purchased Flat > Financial Info > Other Related Services’.
 
 Alternatively, here are some useful links on servicing your HDB loan are as follows:
 
-- [Application for Redemption of Housing Loan](https://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024)
-- [Application for Partial Capital Repayment of Housing Loan](http://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024)
+- <a href="https://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024" target="_blank">Application for Redemption of Housing Loan</a>
+- <a href="http://www20.hdb.gov.sg/isoa072p.nsf/PC66VByFormID/HAPF00024" target="_blank">Application for Partial Capital Repayment of Housing Loan</a>
 - Statement of Account for Housing Loan
-*You can retrieve your online statement of account from our HDB InfoWEB via [My HDBPage](http://www.hdb.gov.sg/myhdbpage) using your SingPass.*
+*You can retrieve your online statement of account from our HDB InfoWEB via <a href="https://www.hdb.gov.sg/MyHDBPage" target="_blank">My HDBPage</a> using your SingPass.*
 
-For more information on servicing your housing loan with HDB, you may find out more [here](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan)
-
+For more information on servicing your housing loan with HDB, you may find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan">here.</a>
 
 ### Understand your Property Tax obligations
 
-Property Tax is paid annually, and calculated based on the annual value of your property. You may [check the Annual Value (AV) of your current property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true) at no charge by viewing your property portfolio.
+Property Tax is paid annually, and calculated based on the annual value of your property. You may <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true" target="_blank">check the Annual Value (AV) of your current property</a> at no charge by viewing your property portfolio.
 
-Find out more about your [property tax obligations](https://www.iras.gov.sg/irashome/Property-Tax-At-A-Glance/Property-Tax-At-A-Glance/)
+Find out more about your <a href="https://www.iras.gov.sg/irashome/Property-Tax-At-A-Glance/Property-Tax-At-A-Glance/" target="_blank">property tax obligations.</a>
 
-*Tip: Use this [Interactive Property Tax Calculator](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTCalculatorIntro) to estimate your potential tax obligations for your new home.*
+*Tip: Use this <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTCalculatorIntro" target="_blank">Interactive Property Tax Calculator</a> to estimate your potential tax obligations for your new home.*
 
-Learn more about [tax matters as a property owner](https://www.iras.gov.sg/irashome/Property/Property-owners/), or understand if you can [Apply/Withdraw Owner-Occupier tax rates](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true)
-
+Learn more about <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/" target="_blank">tax matters as a property owner</a>, or understand if you can <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true" target="_blank">Apply/Withdraw Owner-Occupier tax rates.</a>
 
 ### Season Parking
 
-If you are a driver or own a car, you may wish to [apply new/transfer your existing season parking](https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure) to your new area. (Fees applies)
-
+If you are a driver or own a car, you may wish to <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure" target="_blank">apply new/transfer your existing season parking</a> to your new area. (Fees applies)
 
 ## Some maintenance tips for your new home
 
-Need some tips to maintain your new home? Read HDB's Home Care Guide [here](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
+Need some tips to maintain your new home? Read HDB's Home Care Guide <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide" target="_blank">here.</a>
 
-For [maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)(e.g. corridors), do contact your respective town council.
-
+For <a href="https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil" target="_blank">maintenance of common areas</a> (e.g. corridors), do contact your respective town council.
