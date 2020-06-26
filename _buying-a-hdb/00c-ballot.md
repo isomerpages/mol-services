@@ -6,7 +6,8 @@ third_nav_title: Buy a flat from HDB
 
 ## Step 3 : Submit your Application
 
-#### Upcoming Sales Launches
+
+### Upcoming Sales Launches
 
 You can buy a flat via the following modes of [sale](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf).
 
