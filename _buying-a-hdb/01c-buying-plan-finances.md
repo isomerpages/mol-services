@@ -29,7 +29,7 @@ When you buy a new HDB flat and sell your current flat, the [Enhanced Contra Pay
 - Reduce the mortgage loan amount needed and the subsequent monthly repayments
 
 
-### Using your CPF savings for your home
+### Use your CPF savings for your home
 
 Some tools to help you estimate your CPF usage for your housing:
 
