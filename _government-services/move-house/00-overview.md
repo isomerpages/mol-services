@@ -16,5 +16,4 @@ If you are thinking of getting a HDB flat, here are some quick links to navigate
 
 ### [Moving-In Checklist](/government-services/buying-a-hdb/move-in/)
 
-
-#### Back to [Government Services Overview](/government-services/overview/)
+**Back to [Government Services Overview](/government-services/overview/)**
