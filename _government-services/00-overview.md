@@ -63,7 +63,6 @@ table, tr, td {
   <tr>
     <td class="tg-bagh"><img src="/images/06-digital-readiness(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
-    
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Coming Soon"></td>
   </tr>
   <tr>
