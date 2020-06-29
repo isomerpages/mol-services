@@ -1,6 +1,7 @@
 title: 'ServiceSG'
 url: "https://services.life.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/mol_fav.ico
+google_analytics: UA-163259628-3
 
 markdown: CommonMarkGhPages
 
