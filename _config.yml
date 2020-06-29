@@ -9,7 +9,7 @@ collections:
     output: true
   government-services:
     output: true
-  buying-a-hdb:
+  move-house:
     output: true  
 
 resources_name: media-centre
