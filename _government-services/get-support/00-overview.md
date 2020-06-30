@@ -1,6 +1,6 @@
 ---
 title: Get Support
-permalink: /government-services/get-employed/overview/
+permalink: /government-services/get-support/overview/
 ---
 
 ## Financial Support for workers and self-employed
