@@ -10,9 +10,9 @@ If you are thinking of getting a HDB flat, here are some quick links to navigate
 
 ### [Buying a Flat from HDB](/government-services/buying-a-hdb/overview/)
 
-### [Buying a Resale Flat](/government-services/buying-a-hdb/resale-overview/)
+### [Buying a Resale Flat](/government-services/buying-a-hdb-resale/overview/)
 
-### [Selling an HDB Flat](/government-services/buying-a-hdb/selling-overview/)
+### [Selling an HDB Flat](/government-services/selling-a-hdb/overview/)
 
 ### [Moving-In Checklist](/government-services/buying-a-hdb/move-in/)
 
