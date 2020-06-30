@@ -12,6 +12,7 @@ sections:
         background: /images/hero banner3.jpeg
     - infopic:
         title: Government Services
+        image: /images/government-services.jpg
         alt: govt services
         description: All Government Services and Resources put together for you. In one place.
         button: Browse
