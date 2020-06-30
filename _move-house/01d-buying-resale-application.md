@@ -1,6 +1,6 @@
 ---
 title: "Step 4 : Submit Resale application"
-permalink: /government-services/buying-a-hdb/buying-resale-application/
+permalink: /government-services/buying-a-hdb/resale-application/
 third_nav_title: Buy a resale flat
 ---
 
