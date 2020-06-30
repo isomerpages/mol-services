@@ -16,9 +16,9 @@ You can buy a flat via the following modes of <a href="https://www.hdb.gov.sg/cs
 
 ### Build-To-Order/ Sale of Balance Flats
 
-You may apply for a flat in the <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf" target="_blank">upcoming projects</a> during a sales launch<br>
+You may apply for a flat in the <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/bto-sbf" target="_blank">upcoming projects</a> during a sales launch.<br>
 
-If you would like to receive email and/ or SMS alerts about our sales launches, please sign up for free <a href="http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp" target="_blank">HDB eAlert Service</a>
+If you would like to receive email and/ or SMS alerts about our sales launches, please sign up for free <a href="http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp" target="_blank">HDB eAlert Service.</a>
 
 ### Open Booking of flats
 
