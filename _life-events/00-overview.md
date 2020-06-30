@@ -1,6 +1,6 @@
 ---
 title: At a glance
-permalink: /life-events/overview
+permalink: /life-events/overview/
 ---
 
 ## Overview
