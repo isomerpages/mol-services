@@ -16,12 +16,16 @@ Includes information about looking for work, learning new skills and some recomm
 ### Getting Married
 
 *Coming Soon*
+
 Includes registration of marriage and considerations in planning to start your life as a married couple
+
 
 ### Starting a Family
 
 *Coming Soon*
+
 Includes some government services and considerations when planning to start a family
+
 
 ### [Growing and Caring for my Family](/growing-my-family/)
 
@@ -30,4 +34,5 @@ Includes suggested resources to help you manage your family finances and other s
 ### Staying Employed
 
 *Coming Soon*
+
 Includes services to support you in finding work and improving employment
