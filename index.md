@@ -8,7 +8,7 @@ permalink: /
 sections:
     - hero:
         title: Government Services in SG
-        subtitle: Simpler Services. Better Lives
+        subtitle: Simpler Services. Better Lives.
         background: /images/hero banner3.jpeg
     - infopic:
         title: Government Services
