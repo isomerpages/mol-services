@@ -21,6 +21,6 @@ sections:
         title: Life Events
         description: Not sure what to look out for when planning some of your major life decisions? Here are some recommendations for you.
         button: Learn More
-        url: /life-event/overview/
+        url: /life-events/overview/
 
 ---
