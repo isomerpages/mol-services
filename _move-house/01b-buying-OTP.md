@@ -19,7 +19,7 @@ HDB’s Option to Purchase (OTP) is basically a form of contract between the buy
 
 Do make sure that you have made your housing loan arrangements before you exercise your OTP. This could be a valid HDB Housing Loan Eligibility (HLE) letter or a valid Letter of Offer/Approval In-Principle (AIP) from any financial institutions (FI).
 
-As OTP is a legal contract between you and the seller, it is best that you read all terms and conditions carefully. You can download a copy of HDB-prescribed OTP form <a href="https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link" target="_blank">here.</a>
+As OTP is a legal contract between you and the seller, it is best that you read all terms and conditions carefully. You can download a sample HDB OTP form <a href="https://services2.hdb.gov.sg/webapp/BB24OTPDlWeb/BB24POptionToPurchaseDL_Link" target="_blank">here.</a>
 
 
 ### Procedures to enter into OTP contract with seller
