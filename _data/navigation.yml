@@ -4,14 +4,5 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/mol-logo.jpg
 
-links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Guides
-    collection: guides
-  - title: Media Centre
-    resource_room: true

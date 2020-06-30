@@ -1,35 +1,26 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: ServiceSG (in Collaboration with Public Service Division and GovTech)
+notification: This is a beta site to bring government services and resources closer to you. Try it out and let us know what you think!
+favicon: /images/mol_fav.ico
+image: /images/mol-logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        title: Government Services in SG
+        subtitle: Simpler Services. Better Lives
+        background: /images/hero banner3.jpeg
+    - infopic:
+        title: Government Services
+        image: /images/government-services.jpg
+        alt: govt services
+        description: All Government Services and Resources put together for you. In one place.
+        button: Browse
+        url: /government-services/overview
     - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+        title: Life Events
+        description: Not sure what to look out for when planning some of your major life decisions? Here are some recommendations for you.
+        button: Learn More
+        url: /life-events
+
 ---
