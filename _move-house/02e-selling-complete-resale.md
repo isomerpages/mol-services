@@ -1,6 +1,6 @@
 ---
 title: "Step 5 : Complete Resale Transaction"
-permalink: /government-services/buying-a-hdb/selling-complete-resale/
+permalink: /government-services/selling-a-hdb/complete/
 third_nav_title: Sell an HDB flat
 ---
 

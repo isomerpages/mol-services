@@ -1,6 +1,6 @@
 ---
 title: "Step 3 : Grant Option to Purchase (OTP)"
-permalink: /government-services/buying-a-hdb/selling-OTP/
+permalink: /government-services/selling-a-hdb/OTP/
 third_nav_title: Sell an HDB flat
 ---
 

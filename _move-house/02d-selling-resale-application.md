@@ -1,6 +1,6 @@
 ---
 title: "Step 4 : Submit Resale Application"
-permalink: /government-services/buying-a-hdb/selling-resale-application/
+permalink: /government-services/selling-a-hdb/application/
 third_nav_title: Sell an HDB flat
 ---
 
@@ -30,4 +30,4 @@ After submitting, you would need to endorse the documents and pay necessary fees
 
 - Check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.
 
-*Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/buying-a-hdb/selling-complete-resale/)*
+*Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*

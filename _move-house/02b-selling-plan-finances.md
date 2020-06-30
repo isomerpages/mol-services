@@ -1,6 +1,6 @@
 ---
 title: "Step 2 : Plan your Finances"
-permalink: /government-services/buying-a-hdb/selling-plan-finances/
+permalink: /government-services/selling-a-hdb/plan-finances/
 third_nav_title: Sell an HDB flat
 ---
 

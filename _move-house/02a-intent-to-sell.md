@@ -1,6 +1,6 @@
 ---
 title: "Step 1 : Register Intent to Sell"
-permalink: /government-services/buying-a-hdb/intent-to-sell/
+permalink: /government-services/selling-a-hdb/intent-to-sell/
 third_nav_title: Sell an HDB flat
 ---
 

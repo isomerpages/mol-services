@@ -1,6 +1,6 @@
 ---
 title: "Step 1 : Register your Intent to Buy"
-permalink: /government-services/buying-a-hdb/intent-to-buy/
+permalink: /government-services/buying-a-hdb-resale/intent-to-buy/
 third_nav_title: Buy a resale flat
 ---
 

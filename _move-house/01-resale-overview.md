@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /government-services/buying-a-hdb/resale-overview/
+permalink: /government-services/buying-a-hdb-resale/overview/
 third_nav_title: Buy a resale flat
 ---
 

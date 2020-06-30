@@ -1,6 +1,6 @@
 ---
 title: Guide to Selling an HDB Flat
-permalink: /government-services/buying-a-hdb/selling-overview/
+permalink: /government-services/selling-a-hdb/overview/
 third_nav_title: Sell an HDB flat
 ---
 
