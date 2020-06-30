@@ -19,7 +19,7 @@ Different eligibility conditions apply when purchasing a flat from HDB, whether 
 
 ### Priority Schemes for Balloting
 
-A computerised system conducts basic checks on all applications received and put through a balloting system to determine the applicants' queue position for booking of a unit.<br>
+A computerised system conducts basic checks on all applications received and put them through a balloting system to determine the applicants' queue position for booking of a unit.<br>
 
 Your chances of being balloted may be improved through priority schemes or other privileges, if you are a first-timer applicants and/or have urgent housing needs.<br>
 
