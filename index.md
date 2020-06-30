@@ -8,7 +8,7 @@ permalink: /
 sections:
     - hero:
         title: Government Services in SG
-        subtitle: Simpler Services. Better Lives
+        subtitle: Simpler Services. Better Lives.
         background: /images/hero banner3.jpeg
     - infopic:
         title: Government Services
@@ -21,6 +21,6 @@ sections:
         title: Life Events
         description: Not sure what to look out for when planning some of your major life decisions? Here are some recommendations for you.
         button: Learn More
-        url: /life-events
+        url: /life-events/overview/
 
 ---
