@@ -36,7 +36,7 @@ Find out more about your <a href="https://www.iras.gov.sg/irashome/Property-Tax-
 
 *Tip: Use this <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTCalculatorIntro" target="_blank">Interactive Property Tax Calculator</a> to estimate your potential tax obligations for your new home.*
 
-Learn more about <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/" target="_blank">tax matters as a property owner</a>, or understand if you can <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true" target="_blank">Apply/Withdraw Owner-Occupier tax rates.</a>
+Learn more about <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/" target="_blank">tax matters as a property owner</a>, or whether you can <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true" target="_blank">Apply/Withdraw Owner-Occupier tax rates.</a>
 
 ### Season Parking
 
