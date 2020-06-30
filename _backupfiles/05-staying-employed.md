@@ -1,6 +1,6 @@
 ---
 title: Staying Employed
-permalink: /staying-employed
+permalink: /jobs-and-career/
 breadcrumb: 
 ---
 
