@@ -1,6 +1,6 @@
 ---
 title: "Step 3 : Plan your Finances"
-permalink: /government-services/buying-a-hdb/buying-plan-finances/
+permalink: /government-services/buying-a-hdb/plan-finances/
 third_nav_title: Buy a resale flat
 ---
 
