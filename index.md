@@ -11,15 +11,14 @@ sections:
         subtitle: Simpler Services. Better Lives
         background: /images/hero banner3.jpeg
     - infopic:
-        title: Government Services 
-        image: /images/government-services.jpg
+        title: Government Services
         alt: govt services
-        description: All Government Services and resources put together for you. In one place.
+        description: All Government Services and Resources put together for you. In one place.
         button: Browse
         url: /government-services/overview
     - infobar:
         title: Life Events
-        description: Not sure what to look out for when planning some of your major life decisions? We have been through that time in life so here are some recommendations for you.
+        description: Not sure what to look out for when planning some of your major life decisions? Here are some recommendations for you.
         button: Learn More
         url: /life-events
 
