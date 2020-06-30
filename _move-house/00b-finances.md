@@ -8,19 +8,19 @@ third_nav_title: Buy a flat from HDB
 
 ### Assessing your budget
 
-Buying a flat is a long-term financial commitment. Use the following to plan your finances.
+Buying a flat is a long-term financial commitment. Do use the following to plan your finances.
 
 - <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning" target="_blank">Step-by-step guide</a>
 - Read more about <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions" target="_blank">eligibility conditions</a> for the HDB Housing loan
 - Check your eligibility for <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">HDB Housing Loan Eligibility (HLE) Letter</a>
 - Prepare the <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents" target="_blank">required documents</a> for the application of the HDB Loan Eligibility (HLE) letter if you wish to take an HDB housing loan.
 
-*All ready with the required documents? Apply for your HLE letter <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">here</a>*
+*All ready with the required documents? Head straight here to apply for your HLE letter <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">here</a>*
 
 Alternatively, you may consider taking up a housing loan from the banks. 
 Find out more about the considerations for Financial Institutions (FIs) loans <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks" target="_blank">here</a>. Do apply for an Approval-in-Principle with the FI to find out about your eligibility for an FI housing loan.
 
-*Tip: Find out more about housing loans and Financial Institutions regulated by Monetary Authority of Singapore (MAS) <a href="https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.pdf?la=en&hash=BE9E0DE08401B8C017DE51856BC2DEF23050414C" target="_blank">here</a>*
+*Read more about housing loans and Financial Institutions regulated by Monetary Authority of Singapore (MAS) <a href="https://www.moneysense.gov.sg/-/media/moneysense/media-article/about_home-loans_english.pdf?la=en&hash=BE9E0DE08401B8C017DE51856BC2DEF23050414C" target="_blank">here</a>*
 
 
 ### Understanding Contra Payment Facility
