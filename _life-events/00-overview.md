@@ -27,9 +27,9 @@ Includes registration of marriage and considerations in planning to start your l
 Includes some government services and considerations when planning to start a family
 
 
-### [Growing and Caring for my Family](/growing-my-family/)
+### Growing and Caring for my Family
 
-Includes suggested resources to help you manage your family finances and other services you may need at this stage such as moving house.
+Includes [suggested resources](/growing-my-family/) to help you manage your family finances and other services you may need at this stage such as moving house.
 
 ### Staying Employed
 
