@@ -11,7 +11,9 @@ collections:
   government-services:
     output: true
   move-house:
-    output: true  
+    output: true 
+  plan-retirement-funds:
+    output: true 
 
 resources_name: media-centre
 

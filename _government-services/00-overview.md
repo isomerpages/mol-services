@@ -36,6 +36,9 @@ img {
    <tr>
     <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
+  <tr>
+  <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
+  </tr>
   </tbody>
 </table></div>
 
@@ -68,7 +71,6 @@ table, tr, td {
   <tr>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
   </tr>
     <tr>
    <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
