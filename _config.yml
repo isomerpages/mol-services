@@ -12,7 +12,7 @@ collections:
     output: true
   move-house:
     output: true 
-  plan-retirement-funds:
+  plan-for-retirement:
     output: true 
 
 resources_name: media-centre
