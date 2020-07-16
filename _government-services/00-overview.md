@@ -30,6 +30,9 @@ img {
 </style>
 <div class="tg-wrap"><table class="tg">
 <tbody>
+   <tr>
+  <td class="tg-bagh"><a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/get-digitally-ready"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></td>
+  </tr>
   <tr>
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
   </tr>
@@ -37,10 +40,10 @@ img {
     <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/government-services/plan-my-legacy/overview/"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
-  </tr>
-  <tr>
     <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
+  </tr>
+    <tr>
+    <td class="tg-baqh"><a href="/government-services/plan-my-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></td>
   </tr>
   </tbody>
 </table></div>
@@ -67,7 +70,6 @@ table, tr, td {
 <tbody>
   
   <tr>
-    <td class="tg-bagh"><img src="/images/06-digital-readiness(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Coming Soon"></td>
   </tr>
