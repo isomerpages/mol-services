@@ -1,6 +1,6 @@
 ---
 title: Plan your Retirement Funds
-permalink: /government-services/plan-for-retirement/retirement-funds/
+permalink: /government-services/plan-for-retirement/plan-funds/
 ---
 
 ## Plan your Retirement Funds
