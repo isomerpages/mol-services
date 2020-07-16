@@ -18,7 +18,7 @@ It pays to plan for your retirement as early as possible. Find out more about wh
 
 By determining the lifestyle you want after retirement (e.g the house you would live in, hobbies you would like to pursue), you can estimate the amount of funds you would need for retirement. 
 
-*Tip: Read <a href="https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs" target="_blank">here</a> for tips on determining your retirement needs and considerations to better estimate your retirement funds required.
+*Tip: Read <a href="https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs" target="_blank">here</a> for tips on determining your retirement needs and considerations to better estimate your retirement funds required.*
 
 
 
