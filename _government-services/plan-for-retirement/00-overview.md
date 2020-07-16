@@ -10,10 +10,10 @@ It is often not until we are about to stop work that we start thinking about our
 Here are some resources from various government agencies that we thought would be useful in your retirement planning.
 
 
-### [Determine your retirement needs](/government-services/plan-for-retirement/determine-retirement-needs/)
+### [Determine your retirement needs](/government-services/plan-for-retirement/determine-needs/)
 
-### [Plan your retirement funds](/government-services/plan-for-retirement/plan-retirement-funds/)
+### [Plan your retirement funds](/government-services/plan-for-retirement/plan-funds/)
 
-### [Ways to stay engaged after retirement]
+### [Life after retirement](/government-services/plan-for-retirement/life/)
 
 **Back to [Government Services Overview](/government-services/overview/)**
