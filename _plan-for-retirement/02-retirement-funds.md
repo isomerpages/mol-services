@@ -40,6 +40,7 @@ Find out more details about how CPF can support your retirement planning [here](
 
 If you own an HDB flat or a property in Singapore, you could consider the following options to have another source of retirement income. 
 
+
 ### Right-sizing with Silver Housing Bonus
 
 Assuming that you no longer require such a spacious home after retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> to supplement your retirement income. As your adult children establish their own homes, you may consider selling your existing flat and buying a smaller flat from either the resale market or from the HDB.
@@ -65,6 +66,7 @@ If you are selling your current flat or private housing with Annual Value not ex
 ## Investing
 
 Alternatively, you may consider closing up the savings gap by investing. However, this approach may not be suitable for everyone so do take time to carefully consider whether it suits your financial situation and risk appetite. See also how you can <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing" target="_blank">Get Started with Investing</a>.
+
 
 
 **Back to [Plan for Retirement Overview](/government-services/plan-for-retirement/overview/)**
