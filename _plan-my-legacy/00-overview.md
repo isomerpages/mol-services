@@ -21,7 +21,7 @@ You can make a will as early as 21 years old. Writing a Will allows you to decid
 
 Do consider stating your preferences and views for other important healthcare decisions in your will too. Read more about [the considerations](https://www.mylegacy.gov.sg/guides/planning-ahead/other-healthcare-decisions/) to think about when writing your Will.
 
-*Tip: The first step could start with taking stock of your estate. Use this [net worth calculator](https://www.moneysense.gov.sg/financial-tools/net-worth-calculator) or get to know your assets [here](https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate)
+*Tip: The first step could start with taking stock of your estate. Use this [net worth calculator](https://www.moneysense.gov.sg/financial-tools/net-worth-calculator) or get to know your assets [here](https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate)*
 
 
 ### CPF nomination
@@ -32,7 +32,7 @@ Do consider stating your preferences and views for other important healthcare de
 
 [Guide to Making CPF nomination online](https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf)
 
-*Also see: [What happens to CPF monies after someone dies]*
+*See Also: [What happens to CPF monies after someone dies]*
 
 
 ### Make an Advance Care Plan
@@ -55,7 +55,7 @@ A lasting power of attorney (LPA) is a legal document that allows you (the 'dono
 
 If you don't have an LPA and you lose mental capacity, your family member is not automatically given the right to make legal decisions on your behalf. Your family member will have to apply to Court to be appointed as your deputy, before they are authorised to make decisions and act on your behalf.This can hinder their ability to care for you.
 
-*Tip: If you are ready to make your ACP, you may use this [tool](https://www.mylegacy.gov.sg/tools/lpa-acp-tool/) here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.
+*Tip: If you are ready to make your ACP, you may use this [tool](https://www.mylegacy.gov.sg/tools/lpa-acp-tool/) here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.*
 
 For a step-by-step guide, read [more](https://www.mylegacy.gov.sg/guides/planning-ahead/make-a-lasting-power-of-attorney/)
 
