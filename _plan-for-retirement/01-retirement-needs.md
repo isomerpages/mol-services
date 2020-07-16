@@ -1,6 +1,6 @@
 ---
 title: Determine your Retirement Needs
-permalink: /government-services/plan-for-retirement/retirement-needs/
+permalink: /government-services/plan-for-retirement/determine-needs/
 ---
 
 ## Determine your Retirement Needs
