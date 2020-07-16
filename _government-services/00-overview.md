@@ -32,12 +32,15 @@ img {
 <tbody>
   <tr>
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
   </tr>
   <tr>
-  <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
+    <td class="tg-baqh"><a href="/government-services/plan-my-legacy/overview/"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
   </tr>
   </tbody>
 </table></div>
@@ -70,7 +73,6 @@ table, tr, td {
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
   </tr>
     <tr>
    <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
