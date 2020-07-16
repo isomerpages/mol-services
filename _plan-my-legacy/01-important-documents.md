@@ -7,7 +7,7 @@ permalink: /government-services/plan-my-legacy/important-documents/
 
 We often take for granted that we will have the capacity to make our own decisions and speak for ourselves, thus we forget documenting our views and preferences for our future selves is also essential when planning ahead. 
 
-Read [here](https://www.mylegacy.gov.sg/guides/planning-ahead/organise-important-documents/) for a checklist of these important planning ahead documents.
+Read [here](https://www.mylegacy.gov.sg/guides/planning-ahead/organise-important-documents/) for a checklist of these important planning ahead documents as well as your personal documents.
 
 
 ### Share your funeral wishes
