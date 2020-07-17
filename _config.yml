@@ -16,6 +16,8 @@ collections:
     output: true 
   plan-my-legacy:
     output: true
+  get-digitally-ready:
+    output: true
 
 resources_name: media-centre
 
