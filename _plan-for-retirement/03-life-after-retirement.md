@@ -22,6 +22,7 @@ Apply for the course or activity that you could be looking for.
 - [PA Senior Academy Courses](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy)
 
 - [Learning Digital Skills](https://imsilver.imda.gov.sg/learn-digital-skills/attend-classes/digital-pods/)
+*You can also start learning online today [here](https://imsilver.imda.gov.sg/seniors-go-digital/3-tiers-of-digital-skills)*
 
 - [Silver Digital Creators](https://www.ntuclearninghub.com/silver-digital-creators/)
 
