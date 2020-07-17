@@ -12,7 +12,7 @@ Here are some resources from various government agencies that we thought would b
 
 ### [Determine your retirement needs](/government-services/plan-for-retirement/determine-needs/)
 
-### [Plan your retirement funds](/government-services/plan-for-retirement/plan-funds/)
+### [Plan your retirement funds](/government-services/plan-for-retirement/cpf-for-retirement/)
 
 ### [Life after retirement](/government-services/plan-for-retirement/life/)
 
