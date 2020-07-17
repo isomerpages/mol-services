@@ -1,6 +1,6 @@
 ---
 title: Learn Digital Skills 
-permalink: /government-services/get-digitally-ready/digital-skills/
+permalink: /government-services/get-digitally-ready/learn-skills/
 ---
 
 ## Learn Digital Skills
