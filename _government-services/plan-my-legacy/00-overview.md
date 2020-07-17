@@ -10,12 +10,8 @@ By planning ahead and sharing your preferences through conversations with your l
 
 Here's how you can get started in your planning.
 
-
 ### [Get Started in Planning Ahead](/government-services/plan-my-legacy/plan-ahead/)
 
-
 ### [Organising your important documents](/government-services/plan-my-legacy/important-documents/)
-
-
 
 **Back to [Government Services Overview](/government-services/overview/)**

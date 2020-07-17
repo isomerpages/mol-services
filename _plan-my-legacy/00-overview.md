@@ -32,18 +32,18 @@ Do consider stating your preferences and views for other important healthcare de
 
 <a href="https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf" target="_blank">Guide to Making CPF nomination online.</a>
 
-*See Also: [What happens to CPF monies after someone dies]*
+*See Also: <a href="https://www.moneysense.gov.sg/articles/2018/10/cpf-nominations-what-happens-to-your-cpf-when-you-pass-away" target="_blank">What happens to CPF monies after someone dies</a>*
 
 
 ### Make an Advance Care Plan
 
 Advance care planning (ACP) is the process of putting together a plan for your future health and personal care, which involves considerations of your own beliefs and preferences if you ever lose the capacity to make decisions or speak for yourself.
 
-Find out how you can make an advance care plan [here](https://www.mylegacy.gov.sg/guides/planning-ahead/make-an-advance-care-plan/how-to-make-an-advance-care-plan/).
+Find out how you can make an advance care plan <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/make-an-advance-care-plan/how-to-make-an-advance-care-plan/" target="_blank">here.</a>
 
 The ACP facilitator will then submit and record your advance care plan in the National ACP IT System.
 
-*Tip: Need to know more about advance care planning? Get details on Advance Care Planning [here](https://www.livingmatters.sg/advance-care-planning/about-acp/)*
+*Tip: Need to know more about advance care planning? Get details on Advance Care Planning <a href="https://www.livingmatters.sg/advance-care-planning/about-acp/" target="_blank">here.</a>*
 
 
 ### Make a Lasting Power of Attorney (LPA)
@@ -55,8 +55,10 @@ A lasting power of attorney (LPA) is a legal document that allows you (the 'dono
 
 If you don't have an LPA and you lose mental capacity, your family member is not automatically given the right to make legal decisions on your behalf. Your family member will have to apply to Court to be appointed as your deputy, before they are authorised to make decisions and act on your behalf.This can hinder their ability to care for you.
 
-*Tip: If you are ready to make your ACP, you may use this [tool](https://www.mylegacy.gov.sg/tools/lpa-acp-tool/) here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.*
+*Tip: If you are ready to make your ACP, you may use this <a href="https://www.mylegacy.gov.sg/tools/lpa-acp-tool/" target="_blank">tool</a> here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.*
 
-For a step-by-step guide, read [more](https://www.mylegacy.gov.sg/guides/planning-ahead/make-a-lasting-power-of-attorney/)
+For a step-by-step guide, read <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/make-a-lasting-power-of-attorney/" target="_blank">more here.</a>
 
-Looking for a provider to help you with your LPA? Click [here](https://www.mylegacy.gov.sg/tools/find-a-service/?type=lpa-certificate-issuers) for the listing. Do note that it would cost between $25 and $80 to get your LPA certified.
+Looking for a provider to help you with your LPA? Click <a href="https://www.mylegacy.gov.sg/tools/find-a-service/?type=lpa-certificate-issuers" target="_blank">here</a> for the listing. Do note that it would cost between $25 and $80 to get your LPA certified.
+
+**Back to [Plan My Legacy Overview](/government-services/plan-my-legacy/overview/)**
