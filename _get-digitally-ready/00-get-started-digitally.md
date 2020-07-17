@@ -1,6 +1,6 @@
 ---
 title: Get Started (digitally)
-permalink: /government-services/get-digitally-ready/resources/
+permalink: /government-services/get-digitally-ready/digital-access/
 ---
 
 ## Get Started (digitally)
