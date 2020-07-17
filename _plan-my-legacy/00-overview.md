@@ -7,30 +7,30 @@ permalink: /government-services/plan-my-legacy/plan-ahead/
 
 Planning ahead can help you receive the care you want, and it can also make things easier for your family or your loved ones when you are nearing the end of life.
 
-There are various ways you can plan ahead. For a detailed guide to help in your planning, click [here](https://www.mylegacy.gov.sg/guides/planning-ahead/why-plan-ahead/) to read more on the considerations.
+There are various ways you can plan ahead. For a detailed guide to help in your planning, click <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/why-plan-ahead/" target="_blank">here</a> to read more on the considerations.
 
 
 ### Start a Conversation
 
-[Start a conversation with your loved ones](https://www.livingmatters.sg/start-the-conversation/overview/). Having a discussion with them helps them in making difficult decisions later on without knowing what you want. 
+<a href="https://www.livingmatters.sg/start-the-conversation/overview/" target="_blank">Start a conversation with your loved ones</a>. Having a discussion with them helps them in making difficult decisions later on without knowing what you want. 
 
 
 ### Write a Will
 
-You can make a will as early as 21 years old. Writing a Will allows you to decide what happens to your assets and possession after your death. To find out more how you can do so, read [more](https://www.mylegacy.gov.sg/guides/planning-ahead/write-a-will/).
+You can make a will as early as 21 years old. Writing a Will allows you to decide what happens to your assets and possession after your death. To find out more how you can do so, read <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/write-a-will/" target="_blank">more.</a>
 
-Do consider stating your preferences and views for other important healthcare decisions in your will too. Read more about [the considerations](https://www.mylegacy.gov.sg/guides/planning-ahead/other-healthcare-decisions/) to think about when writing your Will.
+Do consider stating your preferences and views for other important healthcare decisions in your will too. Read more about <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/other-healthcare-decisions/" target="_blank">the considerations</a> to think about when writing your Will.
 
-*Tip: The first step could start with taking stock of your estate. Use this [net worth calculator](https://www.moneysense.gov.sg/financial-tools/net-worth-calculator) or get to know your assets [here](https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate)*
+*Tip: The first step could start with taking stock of your estate. Use this <a href="https://www.moneysense.gov.sg/financial-tools/net-worth-calculator" target="_blank">net worth calculator</a> or get to know your assets <a href="https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate" target="_blank">here.</a>*
 
 
 ### CPF nomination
 
 (1) Choose your nominees and decide how much each person should receive
 (2) Decide on the type of CPF nomination for each nominee
-(3) [Make your CPF nomination online](https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home) using your SingPass to log in or head down to CPF branch office in-person. 
+(3) <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home" target="_blank">Make your CPF nomination online</a> using your SingPass to log in or head down to CPF branch office in-person. 
 
-[Guide to Making CPF nomination online](https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf)
+<a href="https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf" target="_blank">Guide to Making CPF nomination online.</a>
 
 *See Also: [What happens to CPF monies after someone dies]*
 
