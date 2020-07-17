@@ -5,6 +5,7 @@ permalink: /government-services/get-digitally-ready/resources/
 
 ## Get Started (digitally)
 
+There are various government schemes available to support eligible Singaporeans in getting started on their digital access journey.
 
 ### Home Access Programme
 
@@ -16,6 +17,11 @@ Already an applicant? You may check your application status [here](https://eserv
 
 
 ### Digital Assistance for low-income families or persons with disabilities
+
+![IMDA Neu PC Plus](https://www.imda.gov.sg/-/media/Imda/Images/Content/Programme/NEU-PC-Plus/NEU-PC-Plus-Infographic.png?h=auto&w=50%25&la=en&hash=DAF3D47454E6A041166E78E06DA5D257E6FC382D)
+
+Find out more details and how to apply [here](https://www.imda.gov.sg/neupc).
+
 
 
 
