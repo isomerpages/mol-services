@@ -22,3 +22,5 @@ Feeling a little lost in the digital world? Fret not, we have put together a lis
 Need more assistance on the above? Register for an one-on-one session with our Digital Ambassadors at the Virtual Digital Clinics held every Friday between 2-5pm [here](https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/)
 
 More information on Virtual Digital Clinics can be found [here](https://imsilver.imda.gov.sg/get-one-on-one-assistance/virtual-digital-clinics/)
+
+You may also be interested to learn more about other [Digital Skills programmes for Adults, Seniors and Persons with Disabilities](https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities).
