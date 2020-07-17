@@ -10,6 +10,4 @@ Alternatively, you may consider closing up the savings gap by investing. However
 
 See also how you can <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing" target="_blank">Get Started with Investing</a>.
 
-
-
 **Back to [Plan for Retirement Overview](/government-services/plan-for-retirement/overview/)**

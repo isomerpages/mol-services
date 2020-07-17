@@ -14,7 +14,7 @@ Keen to get re-employed even after 62? Find out more about the eligibilty criter
 
 ### Work out your retirement sums
 
-It pays to plan for your retirement as early as possible. Find out more about what planning for retirement means [here](https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementCalculator/RetirementNeeds)
+It pays to plan for your retirement as early as possible. Find out more about what planning for retirement means <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementCalculator/RetirementNeeds" target="_blank">here.</a>
 
 By determining the lifestyle you want after retirement (e.g the house you would live in, hobbies you would like to pursue), you can estimate the amount of funds you would need for retirement. 
 

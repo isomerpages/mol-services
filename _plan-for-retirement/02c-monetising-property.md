@@ -8,11 +8,9 @@ third_nav_title: Plan your Retirement Funds
 
 If you own an HDB flat or a property in Singapore, you could consider the following options to have another source of retirement income. 
 
-
 ### Right-sizing with Silver Housing Bonus
 
 Assuming that you no longer require such a spacious home after retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> to supplement your retirement income. As your adult children establish their own homes, you may consider selling your existing flat and buying a smaller flat from either the resale market or from the HDB.
-
 
 ### HDB Lease BuyBack Scheme 
 
@@ -20,11 +18,9 @@ If you own an HDB flat, you can consider selling part of your flat’s lease bac
 
 Click to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/enhanced-lease-buyback-scheme/application-procedure" target="_blank">Apply for HDB Lease BuyBack</a>
 
-
 ### Renting out your property/ spare room
 
 If you own a HDB flat and have met your Minimum Occupation Period (MOP), you may consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/rent-out-your-flat-bedroom" target="_blank">renting out your entire HDB flat or spare bedroom</a>.
-
 
 ### Silver Housing Bonus
 

@@ -5,7 +5,6 @@ permalink: /government-services/plan-for-retirement/life/
 
 ## Life After Retirement
 
-
 ### Stay Active and Healthy
 
 Staying fit and healthy reduces trips to the doctor, and unnecessary medical expenses. Maintain a healthy and active lifestyle with a balance of [social activities](https://www.healthhub.sg/live-healthy/1382/rewire-after-you-retire) to keep you occupied. 
