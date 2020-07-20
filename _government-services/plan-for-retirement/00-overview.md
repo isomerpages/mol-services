@@ -10,7 +10,7 @@ It is often not until we are about to stop work that we start thinking about our
 Here are some resources from various government agencies that we thought would be useful in your retirement planning.
 
 
-### [Determine your retirement needs](/government-services/plan-for-retirement/determine-needs/)
+### [Decide your retirement lifestyle](/government-services/plan-for-retirement/determine-needs/)
 
 ### [Plan your retirement funds](/government-services/plan-for-retirement/cpf-for-retirement/)
 
