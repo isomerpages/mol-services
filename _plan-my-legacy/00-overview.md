@@ -50,8 +50,8 @@ The ACP facilitator will then submit and record your advance care plan in the Na
 
 A lasting power of attorney (LPA) is a legal document that allows you (the 'donor') to appoint someone you trust to make decisions and act on your behalf should ever you lose mental capacity.
 
-(1) Personal Welfare
-(2) Property and Affairs
+- (1) Personal Welfare
+- (2) Property and Affairs
 
 If you don't have an LPA and you lose mental capacity, your family member is not automatically given the right to make legal decisions on your behalf. Your family member will have to apply to Court to be appointed as your deputy, before they are authorised to make decisions and act on your behalf.This can hinder their ability to care for you.
 
