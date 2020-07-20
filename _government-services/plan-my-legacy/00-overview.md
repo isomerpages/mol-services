@@ -1,6 +1,6 @@
 ---
 title: Plan your Legacy
-permalink: /government-services/plan-my-legacy/overview/
+permalink: /government-services/plan-legacy/overview/
 ---
 
 ## Plan your Legacy
