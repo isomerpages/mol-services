@@ -1,15 +1,23 @@
 ---
-title: Determine your Retirement Needs
+title: Decide Retirement Lifestyle
 permalink: /government-services/plan-for-retirement/determine-needs/
 ---
 
-## Determine your Retirement Needs
+## Decide your Retirement Lifestyle
 
-### When to Retire
+
+### Check when to retire
 
 Find out what is the <a href="https://www.mom.gov.sg/employment-practices/retirement" target="_blank">minimum retirement age</a> to stop work in Singapore. 
 
 Keen to get re-employed even after 62? Find out more about the eligibilty criteria and guidelines [here](https://www.mom.gov.sg/employment-practices/re-employment#eligibility).
+
+
+### Determine your retirement needs
+
+There are various factors that may affect when and how much you would like to retire with. One of them being the kind of lifestyle you want to have after retirement. This would give you a good idea on the amount of savings you would need for your retirement.
+
+See tips on retirement planning in [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs).
 
 
 ### Work out your retirement sums
