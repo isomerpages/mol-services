@@ -39,7 +39,7 @@ img {
     <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/government-services/plan-my-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></td>
+    <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></td>
   </tr>
   </tbody>
 </table></div>
