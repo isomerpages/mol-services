@@ -26,9 +26,9 @@ Do consider stating your preferences and views for other important healthcare de
 
 ### CPF nomination
 
-(1) Choose your nominees and decide how much each person should receive
-(2) Decide on the type of CPF nomination for each nominee
-(3) <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home" target="_blank">Make your CPF nomination online</a> using your SingPass to log in or head down to CPF branch office in-person. 
+- (1) Choose your nominees and decide how much each person should receive
+- (2) Decide on the type of CPF nomination for each nominee
+- (3) <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home" target="_blank">Make your CPF nomination online</a> using your SingPass to log in or head down to CPF branch office in-person. 
 
 <a href="https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf" target="_blank">Guide to Making CPF nomination online.</a>
 
@@ -57,8 +57,10 @@ If you don't have an LPA and you lose mental capacity, your family member is not
 
 *Tip: If you are ready to make your ACP, you may use this <a href="https://www.mylegacy.gov.sg/tools/lpa-acp-tool/" target="_blank">tool</a> here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.*
 
-For a step-by-step guide, read <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/make-a-lasting-power-of-attorney/" target="_blank">more here.</a>
+See Also: <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/make-a-lasting-power-of-attorney/" target="_blank">Step-by-step guide to make a Lasting Power of Attorney (LPA)</a>.
 
 Looking for a provider to help you with your LPA? Click <a href="https://www.mylegacy.gov.sg/tools/find-a-service/?type=lpa-certificate-issuers" target="_blank">here</a> for the listing. Do note that it would cost between $25 and $80 to get your LPA certified.
+
+
 
 **Back to [Plan My Legacy Overview](/government-services/plan-my-legacy/overview/)**
