@@ -1,9 +1,9 @@
 ---
-title: Decide Retirement Lifestyle
+title: Decide Retirement Needs
 permalink: /government-services/plan-for-retirement/determine-needs/
 ---
 
-## Decide your Retirement Lifestyle
+## Decide your Retirement needs
 
 
 ### Check when to retire
