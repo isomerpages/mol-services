@@ -26,9 +26,9 @@ Do consider stating your preferences and views for other important healthcare de
 
 ### CPF nomination
 
-- (1) Choose your nominees and decide how much each person should receive
-- (2) Decide on the type of CPF nomination for each nominee
-- (3) <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home" target="_blank">Make your CPF nomination online</a> using your SingPass to log in or head down to CPF branch office in-person. 
+- Choose your nominees and decide how much each person should receive
+- Decide on the type of CPF nomination for each nominee
+- <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MakeCpfNomination/Home" target="_blank">Make your CPF nomination online</a> using your SingPass to log in or head down to CPF branch office in-person. 
 
 <a href="https://www.cpf.gov.sg/Assets/members/Documents/A_guide_to_Nom_Scheme.pdf" target="_blank">Guide to Making CPF nomination online.</a>
 
@@ -50,8 +50,8 @@ The ACP facilitator will then submit and record your advance care plan in the Na
 
 A lasting power of attorney (LPA) is a legal document that allows you (the 'donor') to appoint someone you trust to make decisions and act on your behalf should ever you lose mental capacity.
 
-- (1) Personal Welfare
-- (2) Property and Affairs
+- Personal Welfare
+- Property and Affairs
 
 If you don't have an LPA and you lose mental capacity, your family member is not automatically given the right to make legal decisions on your behalf. Your family member will have to apply to Court to be appointed as your deputy, before they are authorised to make decisions and act on your behalf.This can hinder their ability to care for you.
 
