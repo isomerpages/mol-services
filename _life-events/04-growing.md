@@ -24,9 +24,10 @@ This [section](/government-services/buying-a-hdb/overview/) summarises all the f
 Moving into a new home can be exciting yet exhausting at the same time. There will be many tasks and considerations. Fret not, we have put together [some considerations](/government-services/buying-a-hdb/move-in/) to kickstart your move-in planning.
 
 
+
 ## Not what you are looking for? 
 
 
-### Stay tuned.We have more coming to you soon.
+### Stay tuned. We have more coming to you soon.
 
 
