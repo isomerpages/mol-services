@@ -3,7 +3,7 @@ title: Life Events
 permalink: /life-events/overview/
 ---
 
-## Life Events 
+# Life Events 
 
 Life is full of experiences, challenges and opportunities. More so, when we are going through a major milestone in life such as planning to start a family or making career decisions. 
 
