@@ -19,7 +19,8 @@ Browse the selection of services and transactions relevant to you.
   1. [From HDB](/buying-a-hdb/overview/)
   2. [From resale market](/buying-a-hdb-resale/overview/)
   
-  ### [Selling your current HDB flat](/selling-a-hdb/overview/)
+  ### Selling your current HDB flat
+  1. [Step by Step guide to selling an HDB flat](/selling-a-hdb/overview/)
   
   ### Moving in
   1. [Change your address on identity document and update government records](https://www.ica.gov.sg/documents/ic/update_residential_address)
