@@ -48,30 +48,17 @@ Browse the selection of services and transactions relevant to you.
 
 </details>
 
-## Guides that we are still in the midst of putting together for you
 
+
+## Coming Soon
+ <details>
+  <summary>Guides that we are still putting together</summary>
+  
 ### Starting Out
-
-*Coming Soon*
-Includes information about looking for work, learning new skills and some recommended resources as you start out in the workforce
-
 
 ### Getting Married
 
-*Coming Soon*
-
-Includes services and other considerations when planning to start your life as a married couple
-
-
 ### Starting a Family
 
-*Coming Soon*
-
-Includes some government services and considerations when planning to start a family
-
-
 ### Staying Employed
-
-*Coming Soon*
-
-Includes some government services and considerations when building your career
+</details>
