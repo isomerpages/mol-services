@@ -8,7 +8,7 @@ third_nav_title: Buy a flat from HDB
 
 ### Assessing your budget
 
-Buying a flat is a long-term financial commitment. Do use the following to plan your finances.
+Buying a flat is a long-term financial commitment. To finance a flat purchase, buyers can use cash, CPF savings, housing grants (if eligible) and take a housing loan from HDB (if eligible) or from the financial institution. Use the following to plan your finances and check your eligibility if you wish to take up an HDB housing loan.
 
 - <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning" target="_blank">Step-by-step guide</a>
 - Read more about <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions" target="_blank">eligibility conditions</a> for the HDB Housing loan
@@ -51,7 +51,7 @@ Some CPF tools to help you estimate CPF usage.
 
 ### CPF Housing Grants
 
-You may be eligible to receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants. 
+You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants.
 
 - Find out more about the CPF Housing grants <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats" target="_blank">here</a>
 - If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">select a flat at your appointment</a>
