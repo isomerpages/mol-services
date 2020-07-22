@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: ServiceSG (in Collaboration with Public Service Division and GovTech)
-notification: This is a beta site to bring government services and resources closer to you. Try it out and let us know what you think!
+notification: This is a beta site to bring government services and resources closer to you. Try it out and <a href="/contact-us-now/">let us know what you think!</a>
 favicon: /images/mol_fav.ico
 image: /images/mol-logo.jpg
 permalink: /
