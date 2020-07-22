@@ -32,4 +32,4 @@ Find out
 
 Use this <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">eService</a> to do a quick check on your eligibility to buy a flat from HDB.
 
-
+**Back to [Move House Overview](/government-services/move-house/overview/)**

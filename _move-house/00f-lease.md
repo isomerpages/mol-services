@@ -17,3 +17,5 @@ Read [Step 2](/government-services/buying-a-hdb/finances/) for more information 
 ### There will be payment required at this step 
 
 Do find out more about the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/staggered-downpayment-scheme" target="_blank">required payments</a> when you sign the Agreement for Lease.
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

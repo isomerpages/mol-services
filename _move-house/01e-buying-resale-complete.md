@@ -30,3 +30,5 @@ Some other useful resources:
 - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">Get approval for renovation.</a> Find out if your renovation requires a permit and how you can obtain one
 - Apply for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance" target="_blank">HDB Fire Insurance</a>
 - Sign up for your <a href="https://www.spgroup.com.sg/home" target="_blank">utilities account.</a> It is advised to have your utilities account activated 1 day before you do your defects check.
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

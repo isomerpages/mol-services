@@ -13,3 +13,5 @@ If you are taking out a housing loan from the <a href="https://hdb.gov.sg/cs/inf
 Do read <a href="/government-services/buying-a-hdb/finances/">step 2</a> for more information and resources on housing loans.
 
 *Tip: Log into <a href="http://www.hdb.gov.sg/MyHDBPage" target="_blank">MyHDBpage</a> using your SingPass to retrieve the results (under My HDBPage > My Flat > Application Status > New Flat).*
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

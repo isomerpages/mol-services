@@ -47,3 +47,5 @@ If you are a driver or own a car, you may wish to <a href="https://www.hdb.gov.s
 Need some tips to maintain your new home? Read HDB's Home Care Guide <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide" target="_blank">here.</a>
 
 For <a href="https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil" target="_blank">maintenance of common areas</a> (e.g. corridors), do contact your respective town council.
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

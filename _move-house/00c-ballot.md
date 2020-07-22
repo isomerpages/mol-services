@@ -27,3 +27,5 @@ Alternatively, you may consider applying for a flat online anytime <a href="http
 At the end of the application period, HDB will ballot all applications for the queue position and inform you of the outcome of their applications. 
 
 *Tip: Already an applicant? You may check the <a href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1" target="_blank">status of your application</a> when results are announced.*
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

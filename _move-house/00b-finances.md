@@ -65,3 +65,5 @@ You may be eligible to receive subsidies of up to $80,000 in the form of the Enh
 - <a href="http://gia.org.sg/consumers/property.html" target="_blank">Home Insurance</a>
 
 For more information on how to plan your finances when buying a home, do read <a href="https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home" target="_blank">this article by MoneySense.</a>
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**
