@@ -13,14 +13,23 @@ Browse the selection of services and transactions relevant to you.
 
 ## Growing and Caring for my Family
 <details>
-  <summary>Moving to another HDB flat</summary>
+  <summary>Buying your next home</summary>
   
-  ### Buying your next home
+  ### Buying Options
   1. [From HDB](/buying-a-hdb/overview/)
   2. [From resale market](/buying-a-hdb-resale/overview/)
+</details>
+
+<details>
+  <summary>Selling your current home</summary>
   
-  ### Selling your current HDB flat
+  ### How to sell your HDB flat
   1. [Step by Step guide to selling an HDB flat](/selling-a-hdb/overview/)
+  
+ </details>
+ 
+ <details>
+  <summary>Moving house</summary>
   
   ### Moving in
   1. [Change your address on identity document and update government records](https://www.ica.gov.sg/documents/ic/update_residential_address)
@@ -30,9 +39,14 @@ Browse the selection of services and transactions relevant to you.
 
 
 ### Planning Ahead for Silver years
+<details>
+  
+### [Plan your retirement income](/plan-for-retirement/determine-needs/)
 
-Includes [suggested services and information] to help you in planning ahead for your silver years (e.g. retirement needs, staying active and estate planning)
 
+### [Protecting and Planning your legacy](/plan-my-legacy/plan-ahead/)
+
+</details>
 
 ## Guides that we are still in the midst of putting together for you
 
