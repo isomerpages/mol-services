@@ -1,16 +1,31 @@
 ---
-title: At a glance
+title: Life Events
 permalink: /life-events/overview/
 ---
 
-## Overview
+## Life Events 
 
-Life is full of experiences, challenges and opportunities. More so, when we are going through a major milestone in life such as planning to start a family or making career decisions. Here are some guides put together to help you plan ahead when going through milestones in every life stage.
+Life is full of experiences, challenges and opportunities. More so, when we are going through a major milestone in life such as planning to start a family or making career decisions. 
+
+To make it easier, we've gathered transactions you may need to help you when going through these stressful times.
+Browse the selection of services and transactions relevant to you.
 
 
-### Growing and Caring for my Family
-
-Includes [suggested services and information](/growing-my-family/) to help you in planning and taking care of your family (e.g. planning to move to another HDB flat, financial planning)
+## Growing and Caring for my Family
+<details>
+  <summary>Moving to another HDB flat</summary>
+  
+  ### Buying your next home
+  1. [From HDB](/buying-a-hdb/overview/)
+  2. [From resale market](/buying-a-hdb-resale/overview/)
+  
+  ### [Selling your current HDB flat](/selling-a-hdb/overview/)
+  
+  ### Moving in
+  1. [Change your address on identity document and update government records](https://www.ica.gov.sg/documents/ic/update_residential_address)
+  2. [Settle remaining post-sale paperwork](buying-a-hdb/move-in/)
+  
+</details>
 
 
 ### Planning Ahead for Silver years
