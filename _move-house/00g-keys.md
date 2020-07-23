@@ -8,7 +8,7 @@ third_nav_title: Buy a flat from HDB
 
 ### Check your HDB Appointment
 
-Check your HDB appointment online <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here</a><br>
+Check your HDB appointment online <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here.</a><br>
 *Note:Go to My Flat > Application Status > New Flat > Reg.No.*
 
 
