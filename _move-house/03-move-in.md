@@ -19,7 +19,7 @@ Found some defects before your renovation? You may submit a request to HDB to he
 
 You may submit your application via <a href="https://www.hdb.gov.sg/MyHDBPage" target="_blank">My HDBPage</a> using your SingPass. Go to ‘My Flat > Purchased Flat > Financial Info > Other Related Services’.
 
-For more information on servicing your housing loan with HDB, you may find out more as follows: 
+For more information on servicing your housing loan with HDB, you may find out more as follows:
 
 - <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">Application for Redemption of Housing Loan</a>
 - <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">Application for Partial Capital Repayment of Housing Loan</a>
