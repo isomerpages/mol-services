@@ -23,7 +23,7 @@ Alternatively if you wish to go with a housing loan with <a href="https://eservi
 
 ### Consider Enhanced Contra Payment Facility
 
-When you buy a new HDB flat and sell your current flat, the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/schemes-and-grants/enhanced-contra-facility" target="_blank">Enhanced Contra Payment Facility for New Flats</a> can help you:
+When you buy a resale flat, the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/schemes-and-grants/enhanced-contra-facility" target="_blank">Enhanced Contra Payment Facility</a> can help you:
 
 - Reduce the cash outlay needed for your resale HDB flat
 - Reduce the mortgage loan amount needed and the subsequent monthly repayments

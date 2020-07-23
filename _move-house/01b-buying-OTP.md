@@ -1,5 +1,5 @@
 ---
-title: "Step 2 : Get Option To Purchase"
+title: "Step 2 : Look for a flat and get Option To Purchase"
 permalink: /government-services/buying-a-hdb-resale/OTP/
 third_nav_title: Buy a resale flat
 ---
