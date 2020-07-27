@@ -5,6 +5,9 @@ permalink: /government-services/plan-for-retirement/life/
 
 ## Life After Retirement
 
+Wondering how you could stay active and engaged in your silver years? Here are some ideas to get started.
+
+
 ### Stay Active and Healthy
 
 Staying fit and healthy reduces trips to the doctor, and unnecessary medical expenses. Maintain a healthy and active lifestyle with a balance of <a href="https://www.healthhub.sg/live-healthy/1382/rewire-after-you-retire" target="_blank">social activities</a> to keep you occupied. 
@@ -29,8 +32,6 @@ Apply for the course or activity that you could be looking for.
 ### Manage your retirement dollars
 
 After retiring, it is important to continue keeping track of your expenses so you do not overspend your retirement funds. Read <a href="https://www.moneysense.gov.sg/articles/2018/10/managing-your-retirement-dollars" target="_blank">more</a> for a detailed guide by MoneySense on how you can manage your retirement dollars.
-
-*Tip: Find out what <a href="https://www.moneysense.gov.sg/articles/2018/11/options-for-your-retirement-income" target="_blank">other retirement income options you could have</a> and what you should do if there's a shortfall.*
 
 
 
