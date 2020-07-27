@@ -6,8 +6,14 @@ third_nav_title: Plan your Retirement Funds
 
 ## Investing
 
-Alternatively, you may consider closing up the savings gap by investing. However, this approach may not be suitable for everyone so do take time to carefully consider whether it suits your financial situation and risk appetite. 
+Alternatively, you may consider closing up the savings gap by investing. 
 
-See also how you can <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing" target="_blank">Get Started with Investing</a>.
+Other than CPF and <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-contributions/" target="_blank">Supplementary Retirement Scheme (SRS),There are also many other investment products in the market that can help you maintain and grow your wealth.
+
+This may not be for everyone, so do take time to understand your own risk appetite and the various investment products in the market.
+
+Read how you can <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing" target="_blank">Get Started with Investing</a>.
+
+
 
 **Back to [Plan for Retirement Overview](/government-services/plan-for-retirement/overview/)**
