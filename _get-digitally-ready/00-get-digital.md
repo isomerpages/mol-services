@@ -21,8 +21,6 @@ If you have already applied, you may check your application status <a href="http
 
 Don’t worry! The NeuPC Plus scheme helps students and persons with disabilities in need. 
 
-![IMDA Neu PC Plus](https://www.imda.gov.sg/-/media/Imda/Images/Content/Programme/NEU-PC-Plus/NEU-PC-Plus-Infographic.png?h=auto&w=50%25&la=en&hash=DAF3D47454E6A041166E78E06DA5D257E6FC382D)
-
 If you are eligible, you could receive:
 
 -	a new computer at subsidised cost (estimated around SGD 247.90)
