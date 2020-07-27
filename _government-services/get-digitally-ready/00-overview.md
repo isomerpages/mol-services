@@ -9,14 +9,15 @@ The Government has various schemes and services to help you get started on your 
 
 See below to get started:
 
-### [Getting Started (digitally)](/government-services/get-digitally-ready/digital-access/)
+### [Get Connected (digitally)](/government-services/get-digitally-ready/digital-access/)
+
 
 ### [Learn Digital Skills](/government-services/get-digitally-ready/learn-skills/)
 
 
 Find out more about our digital readiness initiative across the government <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/get-digitally-ready" target="_blank">here.</a>
 
-Alternatively, you may download this <a href="https://www.mci.gov.sg/-/media/mcicorp/doc/digital-readiness/mci-digital-readiness-bookletfa060518-9-jan-2019.ashx" target="_blank">PDF</a> for an overview of available resources to support Singaporeans in getting digitally ready.
+Alternatively, you may download this <a href="https://www.mci.gov.sg/-/media/mcicorp/doc/digital-readiness/mci-digital-readiness-bookletfa060518-9-jan-2019.ashx" target="_blank">PDF</a> for an overview of available resources to support Singaporeans in getting yourself digitally ready.
 
 
 
