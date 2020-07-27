@@ -1,13 +1,14 @@
 ---
-title: Planning Ahead
+title: Plan your Legacy
 permalink: /government-services/plan-my-legacy/plan-ahead/
 ---
 
-## How to Plan Ahead
+## Getting Started on Planning my Legacy
 
-Planning ahead can help you receive the care you want, and it can also make things easier for your family or your loved ones when you are nearing the end of life.
+Planning is critical. Part of planning is to do some self-reflection and have conversations with loved ones on the things that matter and make the right decisions about the legacy you want to leave behind. 
 
-There are various ways you can plan ahead. For a detailed guide to help in your planning, click <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/why-plan-ahead/" target="_blank">here</a> to read more on the considerations.
+
+For a detailed guide to help in your planning, click <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/why-plan-ahead/" target="_blank">here</a> to read more on the considerations.
 
 
 ### Start a Conversation
