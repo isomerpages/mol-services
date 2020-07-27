@@ -1,12 +1,9 @@
 ---
-title: Get Connected (digitally)
+title: How to Get Connected (digitally)
 permalink: /government-services/get-digitally-ready/digital-access/
 ---
 
-## Get Connected (digitally)
-
-There are various government schemes available to support eligible Singaporeans in getting started on their digital access journey.
-
+## How to Get Connected (digitally)
 
 ### Get subsidized WiFi connectivity at home
 
