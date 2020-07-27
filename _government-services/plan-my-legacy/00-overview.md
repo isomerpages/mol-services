@@ -5,13 +5,10 @@ permalink: /government-services/plan-legacy/overview/
 
 ## Plan your Legacy
 
-Planning ahead can help you receive the care you want, and it can also make things easier for your family when you are nearing the end of life. 
-By planning ahead and sharing your preferences through conversations with your loved ones, you can help your loved ones to carry out your wishes calmly and prepared with information, options and costs.
-
-Here's how you can get started in your planning.
+We all want to leave the best for our family after our time ends on this world. Here are some resources to help you plan ahead to make it easier for your family as you near the end of life.
 
 
-### [Get Started in Planning Ahead](/government-services/plan-my-legacy/plan-ahead/)
+### [Get Started in Planning your Legacy](/government-services/plan-my-legacy/plan-ahead/)
 
 
 ### [Organising your important documents](/government-services/plan-my-legacy/important-documents/)
