@@ -22,7 +22,7 @@ You can make a will as early as 21 years old. Writing a Will allows you to decid
 
 Do consider stating your preferences and views for other important healthcare decisions in your will too. Read more about <a href="https://www.mylegacy.gov.sg/guides/planning-ahead/other-healthcare-decisions/" target="_blank">the considerations</a> to think about when writing your Will.
 
-*Tip: The first step could start with taking stock of your estate. Use this <a href="https://www.moneysense.gov.sg/financial-tools/net-worth-calculator" target="_blank">net worth calculator</a> or get to know your assets <a href="https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate" target="_blank">here.</a>*
+*Tip: The first step could start with taking stock of your estate and assets. Use this <a href="https://www.moneysense.gov.sg/financial-tools/net-worth-calculator" target="_blank">net worth calculator</a> or get to know your assets <a href="https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate" target="_blank">here.</a>*
 
 
 ### CPF nomination
