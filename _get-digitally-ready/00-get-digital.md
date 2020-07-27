@@ -37,10 +37,8 @@ If you or your loved one is aged above 60 and keen to kick-start their digital j
 * <a href="https://www.tpgmobile.sg/seniors" target="_blank">TPG</a>
 
 
-Financial help is available for eligible seniors who need support to obtain smartphone and mobile plans. 
+Financial help is available for eligible seniors who need support to obtain smartphone and mobile plans.
 
-Find out more about getting mobile access plans for seniors [here](https://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors)
-
-
+Find out more about getting mobile access plans for seniors <a href="https://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors" target="_blank">here.</a>
 
 **Back to [Get Digitally Ready Overview](/government-services/get-digitally-ready/overview/)**
