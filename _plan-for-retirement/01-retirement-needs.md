@@ -6,27 +6,25 @@ permalink: /government-services/plan-for-retirement/determine-needs/
 ## Decide your Retirement needs
 
 
-### Check when to retire
+### What is the retirement age in Singapore?
 
-Find out what is the <a href="https://www.mom.gov.sg/employment-practices/retirement" target="_blank">minimum retirement age</a> to stop work in Singapore. 
+This is the <a href="https://www.mom.gov.sg/employment-practices/retirement" target="_blank">minimum retirement age</a> to stop work in Singapore. 
 
 Keen to get re-employed even after 62? Find out more about the eligibilty criteria and guidelines [here](https://www.mom.gov.sg/employment-practices/re-employment#eligibility).
 
 
-### Determine your retirement needs
+### How much money would you likely need to live comfortably during retirement?
 
-There are various factors that may affect when and how much you would like to retire with. One of them being the kind of lifestyle you want to have after retirement. This would give you a good idea on the amount of savings you would need for your retirement.
-
-See tips on retirement planning in [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs).
+The more you save today, the more flexibility you will have with your finances later during your retirement years. The type of lifestyle you want depends on how much you can start saving from today
 
 
-### Work out your retirement sums
+### Estimate how much you might need for your retirement
+
+Use this <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding" target="_blank">CPF retirement estimator</a> to work out your finances.
 
 It pays to plan for your retirement as early as possible. Find out more about what planning for retirement means <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementCalculator/RetirementNeeds" target="_blank">here.</a>
 
-By determining the lifestyle you want after retirement (e.g the house you would live in, hobbies you would like to pursue), you can estimate the amount of funds you would need for retirement. 
-
-*Tip: Read <a href="https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs" target="_blank">here</a> for tips on determining your retirement needs and considerations to better estimate your retirement funds required.*
+Read more on retirement planning in [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs).
 
 
 
