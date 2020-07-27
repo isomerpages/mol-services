@@ -18,14 +18,13 @@ Browse [here](https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/ove
 - <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/">E-payments</a>
 
 
-
 ### Need more help?
 
 Register for an one-on-one session with our Digital Ambassadors at the Virtual Digital Clinics held every Friday between 2-5pm <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here.</a>
 
 Alternatively, you may visit one of the [SG Digital Offices](https://sdo.gov.sg/sg-digital-community-hubs/) to have your query answered in-person.  
 
-You may also be interested to learn more about other <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities" target="_blank">Digital Skills programmes for Adults, Seniors and Persons with Disabilities.</a>
+You may also be interested to learn more about other <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities" target="_blank">Digital Skills programmes for Adults, Seniors and Persons with Disabilities</a> or <a href="https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy" target="_blank">  IT courses offered at community centres</a>.
 
 
 
