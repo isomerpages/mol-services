@@ -1,7 +1,7 @@
 ---
 title: Investing
 permalink: /government-services/plan-for-retirement/investing/
-third_nav_title: Plan your Retirement Funds
+third_nav_title: Plan your Retirement Finances
 ---
 
 ## Investing
