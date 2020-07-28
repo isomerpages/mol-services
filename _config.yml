@@ -11,7 +11,13 @@ collections:
   government-services:
     output: true
   move-house:
-    output: true  
+    output: true 
+  plan-for-retirement:
+    output: true 
+  plan-my-legacy:
+    output: true
+  get-digitally-ready:
+    output: true
 
 resources_name: media-centre
 

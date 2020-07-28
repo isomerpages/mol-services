@@ -11,3 +11,4 @@ Apart from buying a flat from HDB, you may also consider buying a resale flat fr
 
 ![Guide to Buying a Resale Flat](https://www.hdb.gov.sg/cs/infoweb/img/hdb-resale-portal-buyers-infographic.jpg;wa814283dea9e68219)
 
+**Back to [Move House Overview](/government-services/move-house/overview/)**

@@ -8,7 +8,7 @@ third_nav_title: Buy a flat from HDB
 
 ### Check your HDB Appointment
 
-Check your HDB appointment online <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here</a><br>
+Check your HDB appointment online <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here.</a><br>
 *Note:Go to My Flat > Application Status > New Flat > Reg.No.*
 
 
@@ -31,3 +31,5 @@ Some resources that might be useful:
 
 - Find out more <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes" target="_blank">Home Protection Scheme (HPS)</a>
 - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/conditions-after-buying?anchor=takingahousing" target="_blank">Conditions after buying a flat</a>
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

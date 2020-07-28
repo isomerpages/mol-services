@@ -154,6 +154,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-button.bp-dropdown-button.is-fullwidth {
   p {
     font-family: poppins;
+    font-size: 4vw;
   }
 }
 .bp-dropdown-content {
@@ -320,6 +321,18 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
+  h4 {
+    color: $secondary;
+    font-family: poppins-bold;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+		strong {
+			color: $secondary;
+		}
+  }
   a, p, li, em {
     color: $secondary;
     font-size: 16.5px;
@@ -343,6 +356,14 @@ $desktop: 960px + (2 * $gap) !default;
   a:hover {
     color:#272c67;
   }  
+}
+@media
+only screen and (max-width: 760px) {
+  .bp-section.is-small.bp-section-pagetitle {
+    b {
+      font-size: 12vw;
+    }
+  }
 }
 // Media category buttons - not used now but will be used in the future
 

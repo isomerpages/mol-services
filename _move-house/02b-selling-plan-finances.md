@@ -11,6 +11,7 @@ Find out how you can <a href="https://www.hdb.gov.sg/cs/infoweb/residential/sell
 
 You can also use this <a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">calculator</a> to estimate how much cash proceeds you might receive and evaluate your financial position. This would be useful in assessing your budget for your next home as well.
 
+Please ensure that you have secured sufficient financing for your next flat purchase, before deciding to proceed with the sale of your existing flat. Do refer to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/step-by-step-guide-to-financial-planning" target="_blank">the step-by-step guide to plan your finances.</a>
 
 ### Estimate the Costs to be incurred upon selling
 
@@ -27,3 +28,5 @@ Do also <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawal
 Also, do find out if you need to pay a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds/selling-a-flat---resale-levy" target="_blank">resale levy</a> when you purchase your next home.
 
 Do also refer to this <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/" target="_blank">Checklist of important taxation payments</a> and fees to settle before selling your flat.
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**

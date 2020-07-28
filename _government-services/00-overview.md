@@ -5,8 +5,7 @@ permalink: /government-services/overview/
 
 ## Get the Government Services you need. In One Place.
 
-Here is a consolidated listing of services grouped based on your likely needs.
-Click on the icons below to browse what is relevant to your needs today.
+Browse the listing of services and resources consolidated from various government agencies, grouped by your likely needs.
 
 
 <style>
@@ -31,10 +30,15 @@ img {
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
+    <td class="tg-bagh"><a href="/government-services/get-digitally-ready/overview/"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></td>
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></td>
-   </tr>
-   <tr>
+  </tr>
+  <tr>
     <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></td>
+    <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></td>
   </tr>
   </tbody>
 </table></div>
@@ -59,19 +63,13 @@ table, tr, td {
 </style>
 <div class="tg-wrap"><table class="tg">
 <tbody>
-  
   <tr>
-    <td class="tg-bagh"><img src="/images/06-digital-readiness(coming soon).png" alt="Coming Soon"></td>
     <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Coming Soon"></td>
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/07-plan-legacy(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></td>
-  </tr>
-    <tr>
-   <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
   </tr>
 </tbody>
 </table></div>

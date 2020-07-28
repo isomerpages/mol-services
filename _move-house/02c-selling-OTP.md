@@ -23,3 +23,5 @@ To enter into a OTP contract, you would be required to go through the following 
 (4) Decide when to submit resale application
 
 **Get more information on the procedures to complete the OTP transaction <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/selling-process/option-to-purchase" target="_blank">here.</a>**
+
+**Back to [Move House Overview](/government-services/move-house/overview/)**
