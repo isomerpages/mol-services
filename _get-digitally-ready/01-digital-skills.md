@@ -5,7 +5,8 @@ permalink: /government-services/get-digitally-ready/learn-skills/
 
 ## Learn Digital Skills
 
-With your digital device on hand now, you may browse through this list of resources to help you understand your device better:
+As a new user to your digital device, you may find this list of resources to help you understand what you could do online:
+
 Browse <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">here</a> for a more comprehensive list of supporting resources and informational guides.
 
 
@@ -22,7 +23,7 @@ Browse <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/o
 
 Register for an one-on-one session with our Digital Ambassadors at the Virtual Digital Clinics held every Friday between 2-5pm <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here.</a>
 
-Alternatively, you may visit one of the <a href="https://sdo.gov.sg/sg-digital-community-hubs/" target="_blank">SG Digital Offices</a> to have your query answered in-person.  
+Do visit one of the <a href="https://sdo.gov.sg/sg-digital-community-hubs/" target="_blank">SG Digital Offices</a> if you prefer to have your query answered in-person.  
 
 You may also be interested to learn more about other <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities" target="_blank">Digital Skills programmes for Adults, Seniors and Persons with Disabilities</a> or <a href="https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy" target="_blank">  IT courses offered at community centres</a>.
 
