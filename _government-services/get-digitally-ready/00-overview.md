@@ -15,9 +15,7 @@ See below to get started:
 ### [Learn Digital Skills](/government-services/get-digitally-ready/learn-skills/)
 
 
-You can also find out more about our digital readiness initiative across the Government <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/get-digitally-ready" target="_blank">here.</a>
-
-Download this <a href="https://www.mci.gov.sg/-/media/mcicorp/doc/digital-readiness/mci-digital-readiness-bookletfa060518-9-jan-2019.ashx" target="_blank">PDF</a> for an overview of available resources to support you in getting digitally ready.
+You can also find out more <a href="https://www.mci.gov.sg/en/portfolios/digital-readiness/get-digitally-ready" target="_blank">here</a> or download this <a href="https://www.mci.gov.sg/-/media/mcicorp/doc/digital-readiness/mci-digital-readiness-bookletfa060518-9-jan-2019.ashx" target="_blank">PDF</a> for an overview of available resources to support you in getting digitally ready.
 
 
 
