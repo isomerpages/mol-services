@@ -20,7 +20,9 @@ You also may consider selling your existing flat and buying a smaller flat from 
 
 In this option, you could continue living in your current HDB flat while selling part of your flat’s lease back to HDB. 
 
-The proceeds will be used to top up your CPF Retirement Account (RA), from which you will get a steady income under the CPF Life scheme. By doing so, you can still continue living in your flat throughout your retirement. 
+The proceeds will be used to top up your CPF Retirement Account (RA), from which you will get a steady income under the CPF Life scheme. 
+
+By doing so, you can still continue living in your flat throughout your retirement. 
 
 Find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/lease-buyback-scheme" target="_blank">here.</a>
 
