@@ -11,20 +11,20 @@ If you own an HDB flat or a property in Singapore, you could consider the follow
 
 ### (A) Right-sizing with Silver Housing Bonus
 
-After retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> and obtain Silver Housing Bonus (SHB) to supplement your retirement income. 
+After retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> and obtain Silver Housing Bonus (SHB) to supplement your retirement income.<br>
 
 You also may consider selling your existing flat and buying a smaller flat from either the resale market or from the HDB.
 
 
 ### (B) HDB Lease BuyBack Scheme 
 
-In this option, you could continue living in your current HDB flat while selling part of your flat’s lease back to HDB. 
+In this option, you could continue living in your current HDB flat while selling part of your flat’s lease back to HDB. <br>
 
-The proceeds will be used to top up your CPF Retirement Account (RA), from which you will get a steady income under the CPF Life scheme. 
+The proceeds will be used to top up your CPF Retirement Account (RA), from which you will get a steady income under the CPF Life scheme. <br>
 
-By doing so, you can still continue living in your flat throughout your retirement. 
+By doing so, you can still continue living in your flat throughout your retirement. <br>
 
-Find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/lease-buyback-scheme" target="_blank">here.</a>
+Find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/lease-buyback-scheme" target="_blank">here.</a><br>
 
 Apply directly for HDB Lease BuyBack <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/enhanced-lease-buyback-scheme/application-procedure" target="_blank">here</a>
 
