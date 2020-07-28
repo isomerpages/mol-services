@@ -3,7 +3,7 @@ title: Plan your Legacy
 permalink: /government-services/plan-my-legacy/plan-ahead/
 ---
 
-## Getting Started on Planning my Legacy
+## Getting Started
 
 Planning is critical. Part of planning is to do some self-reflection and have conversations with loved ones on the things that matter and make the right decisions about the legacy you want to leave behind. 
 
@@ -25,7 +25,7 @@ Do consider stating your preferences and views for other important healthcare de
 *Tip: The first step could start with taking stock of your estate and assets. Use this <a href="https://www.moneysense.gov.sg/financial-tools/net-worth-calculator" target="_blank">net worth calculator</a> or get to know your assets <a href="https://www.moneysense.gov.sg/articles/2018/11/calculating-the-value-of-your-estate" target="_blank">here.</a>*
 
 
-### CPF nomination
+### Make your CPF nomination
 
 - Choose your nominees and decide how much each person should receive
 - Decide on the type of CPF nomination for each nominee
