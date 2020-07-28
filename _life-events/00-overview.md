@@ -1,56 +1,38 @@
 ---
 title: Life Events
 permalink: /life-events/overview/
+accordion:
+  - title: Buying your next home
+    content: |
+        - [From HDB](/government-services/buying-a-hdb/overview/)
+        - [From resale market](/government-services/buying-a-hdb-resale/overview/)
+  - title: Selling your HDB flat
+    content: Access [here](/government-services/selling-a-hdb/overview)
+  - title: Moving in
+    content: Access [here](/government-services/buying-a-hdb/move-in/)
+planning-ahead:
+  - title: Plan your retirement finances
+    content: Access [here](/government-services/plan-for-retirement/finances/)
+  - title: Protecting and planning your legacy
+    content: Access [here](/government-services/plan-my-legacy/plan-ahead/)
+  - title: Staying ahead in a digital society
+    content: Access [here](/government-services/get-digitally-ready/digital-access/)
+coming-soon:
+  - title: Starting Out
+  - title: Getting Married
+  - title: Starting a Family
+  - title: Staying Employed
 ---
 
 # Life Events 
 
 Browse the services and transactions curated for you in the following listing.
 
+#### Growing and Caring for my Family
+{% include accordion.html %}
 
-## Growing and Caring for my Family
-<details>
-    <summary>Moving house</summary>
-  
-  ### Buying your next home
-  - [From HDB](/government-services/buying-a-hdb/overview/)
-  - [From resale market](/government-services/buying-a-hdb-resale/overview/)
+#### Planning Ahead for Silver Years
+{% include planning-ahead.html %}
 
-  
-  ### [Selling your HDB flat](/selling-a-hdb/overview/)
-  
-   
-  ### [Moving in](/government-services/buying-a-hdb/move-in/)
-
-  
-</details>
-
-
-## Planning Ahead for Silver years
-<details>
-  
-### [Plan your retirement finances](/government-services/plan-for-retirement/determine-needs/)
-
-
-### [Protecting and Planning your legacy](/government-services/plan-legacy/overview/)
-
-
-### [Staying ahead in digital society](/government-services/get-digitally-ready/digital-access/)
-
-</details>
-
-
-
-## Coming Soon
- <details>
-  <summary>Guides that we are still putting together</summary>
-  
-### Starting Out
-
-### Getting Married
-
-### Starting a Family
-
-### Staying Employed
-
-</details>
+#### Guides that are coming soon
+{% include coming-soon.html %}

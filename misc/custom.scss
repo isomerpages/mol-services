@@ -321,6 +321,18 @@ $desktop: 960px + (2 * $gap) !default;
 			color: $secondary;
 		}
   }
+  h4 {
+    color: $secondary;
+    font-family: poppins-bold;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+		strong {
+			color: $secondary;
+		}
+  }
   a, p, li, em {
     color: $secondary;
     font-size: 16.5px;
