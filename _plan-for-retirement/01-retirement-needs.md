@@ -10,7 +10,7 @@ permalink: /government-services/plan-for-retirement/determine-needs/
 
 This is the <a href="https://www.mom.gov.sg/employment-practices/retirement" target="_blank">minimum retirement age</a> to stop work in Singapore. 
 
-Keen to get re-employed even after 62? Find out more about the eligibilty criteria and guidelines [here](https://www.mom.gov.sg/employment-practices/re-employment#eligibility).
+Keen to get re-employed even after 62? Find out more about the eligibilty criteria and guidelines <a href="https://www.mom.gov.sg/employment-practices/re-employment#eligibility" target="_blank">here.</a>
 
 
 ### How much money would you likely need to live comfortably during retirement?
@@ -24,7 +24,7 @@ Use this <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/Re
 
 It pays to plan for your retirement as early as possible. Find out more about what planning for retirement means <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementCalculator/RetirementNeeds" target="_blank">here.</a>
 
-Read more on retirement planning in [this article by MoneySense](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs).
+Read more on retirement planning in <a href="https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs" target="_blank">this article by MoneySense.</a>
 
 
 
