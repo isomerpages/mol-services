@@ -5,9 +5,8 @@ permalink: /government-services/plan-for-retirement/overview/
 
 ## Plan for Retirement
 
-It is often not until we are about to stop work that we start thinking about our retirement. But if you would like to have a comfortable retirement lifestyle, it is never too early to start planning for the future.
-
-Here are some resources from various government agencies that we thought would be useful in your retirement planning.
+It is often not until we are about to stop work that we start thinking about our retirement. 
+Here are some resources from various government agencies that would be useful in your retirement planning.
 
 
 ### [Decide your retirement needs](/government-services/plan-for-retirement/determine-needs/)
