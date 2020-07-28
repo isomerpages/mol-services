@@ -6,9 +6,7 @@ third_nav_title: Plan your Retirement Finances
 
 ## Investing
 
-Alternatively, you may consider closing up the savings gap by investing. 
-
-Other than CPF and <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-contributions/" target="_blank">Supplementary Retirement Scheme (SRS)</a>, there are also many other investment products in the market that can help you maintain and grow your wealth.
+Other than CPF and <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-contributions/" target="_blank">Supplementary Retirement Scheme (SRS)</a>, there are also many other investment products in the market that can help you maintain and grow your retirement funds.
 
 This may not be for everyone, so do take time to understand your own risk appetite and the various investment products in the market.
 
