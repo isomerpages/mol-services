@@ -19,4 +19,6 @@ Do consider stating down your funeral wishes as part of your documents. Read thr
 
 Wills and other planning ahead documents would only be most useful if your loved ones are able to access them when they need it. Having a secure place to store them is essential. Store your important documents in <a href="https://www.mylegacy.gov.sg/vault" target="_blank">your Legacy Vault</a> using your SingPass and nominate who would be able to access these documents after your death.
 
-**Back to [Plan My Legacy Overview](/government-services/plan-my-legacy/overview/)**
+
+
+**Back to [I want to Plan My Legacy Overview](/government-services/plan-my-legacy/overview/)**
