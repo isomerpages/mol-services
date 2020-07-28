@@ -7,7 +7,7 @@ permalink: /government-services/get-digitally-ready/learn-skills/
 
 As a new user to your digital device, you may find this list of resources to help you understand what you could do online:
 
-Browse <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">here</a> for a more comprehensive list of supporting resources and informational guides.
+See <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">here</a> for a more comprehensive list of supporting resources and informational guides.
 
 
 ### Go online and enjoy digital services

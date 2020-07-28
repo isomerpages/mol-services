@@ -5,8 +5,7 @@ permalink: /government-services/overview/
 
 ## Get the Government Services you need. In One Place.
 
-Here is a consolidated listing of services grouped based on your likely needs.
-Click on the icons below to browse what is relevant to your needs today.
+Browse the listing of services and resources consolidated from various government agencies, grouped by your likely needs.
 
 
 <style>
