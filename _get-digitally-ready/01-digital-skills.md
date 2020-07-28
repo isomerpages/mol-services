@@ -25,7 +25,11 @@ Register for an one-on-one session with our Digital Ambassadors at the Virtual D
 
 Do visit one of the <a href="https://sdo.gov.sg/sg-digital-community-hubs/" target="_blank">SG Digital Offices</a> if you prefer to have your query answered in-person.  
 
-You may also be interested to learn more about other <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities" target="_blank">Digital Skills programmes for Adults, Seniors and Persons with Disabilities</a> or <a href="https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy" target="_blank">  IT courses offered at community centres</a>.
+You may also be interested to learn more about the following:
+
+- <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Skills-for-Adults-Seniors-and-Persons-with-Disabilities" target="_blank">Digital Skills programmes for Adults, Seniors and Persons with Disabilities</a>
+
+- <a href="https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy" target="_blank">  IT courses offered at community centres</a>.
 
 
 
