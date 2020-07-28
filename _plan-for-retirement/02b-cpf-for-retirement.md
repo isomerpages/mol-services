@@ -1,7 +1,7 @@
 ---
 title: CPF for Retirement
 permalink: /government-services/plan-for-retirement/cpf/
-third_nav_title: Plan your Retirement Funds
+third_nav_title: Plan your Retirement Finances
 ---
 
 ## Maximising CPF for Retirement
