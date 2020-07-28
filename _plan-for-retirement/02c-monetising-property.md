@@ -1,7 +1,7 @@
 ---
 title: Monetising your Property
 permalink: /government-services/plan-for-retirement/monetising-property/
-third_nav_title: Plan your Retirement Funds
+third_nav_title: Plan your Retirement Finances
 ---
 
 ## Monetising your property
