@@ -14,9 +14,9 @@ Find out more about how you and your family may qualify and apply <a href="https
 If you have already applied, you may check your application status <a href="https://eservice.imda.gov.sg/das/homepage" target="_blank">here</a>.
 
 
-### Want to get a computer but no or limited financial means to do so?
+### Want to get a computer but have limited finances?
 
-Don’t worry! The NeuPC Plus scheme helps students and persons with disabilities in need. 
+The NeuPC Plus scheme helps students and persons with disabilities in need. 
 
 If you are eligible, you could receive:
 
@@ -24,11 +24,11 @@ If you are eligible, you could receive:
 -	3 years of high-speed (fibre broadband) internet access at no cost
 
 
-Find out more details and how to apply <a href="https://www.imda.gov.sg/neupc" target="_blank">here.</a>
+Find out about the eligibility criteria and how to apply <a href="https://www.imda.gov.sg/neupc" target="_blank">here.</a>
 
 ### Looking to get a smartphone as a senior or for an elderly loved one?
 
-If you or your loved one is aged above 60 and keen to kick-start their digital journey, you may wish to sign up with participating telcos to enjoy Seniors Go Digital mobile plans.
+If you or your loved one is aged above 60 and keen to start your digital journey, you may wish to sign up with participating telcos to enjoy Seniors Go Digital mobile plans.
 
 * Circles.Life *(Coming Soon)*
 * <a href="https://www.m1.com.sg/mobile/special-benefits/seniors-go-digital" target="_blank">M1</a>
@@ -37,8 +37,10 @@ If you or your loved one is aged above 60 and keen to kick-start their digital j
 * <a href="https://www.tpgmobile.sg/seniors" target="_blank">TPG</a>
 
 
-Financial help is available for eligible seniors who need support to obtain smartphone and mobile plans.
+Financial help is also available for eligible seniors who need support to obtain smartphone and mobile plans.
 
-Find out more about getting mobile access plans for seniors <a href="https://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors" target="_blank">here.</a>
+Find out more about getting subsidised mobile access plans for seniors <a href="https://www.imda.gov.sg/programme-listing/Mobile-Access-for-Seniors" target="_blank">here.</a>
+
+
 
 **Back to [Get Digitally Ready Overview](/government-services/get-digitally-ready/overview/)**
