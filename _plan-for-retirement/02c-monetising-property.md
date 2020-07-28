@@ -11,7 +11,9 @@ If you own an HDB flat or a property in Singapore, you could consider the follow
 
 ### (A) Right-sizing with Silver Housing Bonus
 
-After retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> and obtain Silver Housing Bonus (SHB) to supplement your retirement income. As your adult children establish their own homes, you may consider selling your existing flat and buying a smaller flat from either the resale market or from the HDB.
+After retiring, you could consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">right-sizing your flat</a> and obtain Silver Housing Bonus (SHB) to supplement your retirement income. 
+
+You also may consider selling your existing flat and buying a smaller flat from either the resale market or from the HDB.
 
 
 ### (B) HDB Lease BuyBack Scheme 
@@ -22,8 +24,6 @@ Find out how you can do so <a href="https://www.hdb.gov.sg/cs/infoweb/residentia
 
 Keen to do so? Apply for HDB Lease BuyBack <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/enhanced-lease-buyback-scheme/application-procedure" target="_blank">here</a>
 
-See also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">Silver Housing Bonus (SHB)</a>. Find out how you can apply for the SHB and receive up to $30,000 cash bonus when you use some of your sale proceeds from right-sizing to top up your CPF Retirement Account and join CPF LIFE.
-
 
 ### Renting out your property/ spare room
 
@@ -33,6 +33,12 @@ If you own a HDB flat and have met your Minimum Occupation Period (MOP), you may
 ### Other retirement income options
 
 Understand other <a href="https://www.moneysense.gov.sg/articles/2018/11/options-for-your-retirement-income" target="_blank">Options for your retirement income by MoneySense</a>
+
+
+### Related links
+- <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">Silver Housing Bonus (SHB)</a> 
+
+- How to use some of your sale proceeds from right-sizing to top up your CPF Retirement Account and <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/LifeApplication/Index" target="_blank">join CPF LIFE</a>.
 
 
 
