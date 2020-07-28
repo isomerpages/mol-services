@@ -34,5 +34,5 @@ Browse the services and transactions curated for you in the following listing.
 #### Planning Ahead for Silver Years
 {% include planning-ahead.html %}
 
-#### Guides that are coming soon
+#### Coming Soon
 {% include coming-soon.html %}
