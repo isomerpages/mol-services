@@ -13,7 +13,7 @@ Here are some resources from various government agencies that would be useful in
 What is the retirement age? How do I know how much I need to live comfortably during retirement?
 
 
-### [Plan your retirement funds](/government-services/plan-for-retirement/cpf-for-retirement/)
+### [Plan your retirement funds](/government-services/plan-for-retirement/cpf/)
 How do I plan my finances to ensure I can live comfortably during retirement? 
 
 
