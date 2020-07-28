@@ -23,4 +23,4 @@ Store your important documents in your <a href="https://www.mylegacy.gov.sg/vaul
 You can also nominate who would be able to access these documents after your death.
 
 
-**Back to [I want to Plan My Legacy](/government-services/plan-my-legacy/overview/)**
+**Back to [I want to Plan My Legacy](/government-services/plan-legacy/overview/)**
