@@ -1,46 +1,58 @@
 ---
 title: Move-In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
-third_nav_title: What to Take Note before Moving
+checklist:
+  - title: Get ready to move in
+    content: |
+        - [Apply for Renovation Approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval)
+        - [Maintenance Tips From HDB](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
+       
+  - title: Notify change of address 
+    content: [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address) 
+  - title: Season Parking and other town council matters
+    content: |
+    - [Apply for New Season Parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp)
+    - [Check Season Parking Information](https://services2.hdb.gov.sg/webapp/BN22CpkVcncy/BN22SeasonParkInfoSearch.jsp)
+    - [Renew Season Parking](https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp)
+    - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)
+    - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils)
+housing-finances:
+    content: |
+    - [Apply for Redemption of Housing loan](https://services2.hdb.gov.sg/webapp/AB03AWRedemptionWeb/AB03SRedemption)
+    - [Apply for Partial Capital Repayment of Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
+    - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
+    - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true)
+school-arrangements:
+  - title: Find new schools for children
+    content: 
+    - [Apply for Primary School Transfer](https://beta.moe.gov.sg/primary/transfers/apply/)
+
+    
+community-activities:
+  - title: XX
 ---
 
-## Things to Know Before Moving in
+## Moving In Checklist
 
-### Notify your new residential address 
+Moving house can be a stressful time. To make it easier, we've gathered services and transactions you may need to help you alert the people you need to notify.
 
-After moving, do remember to <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address</a> on your identity documents with Immigration & Checkpoint Authority (ICA).
+Browse our selection to help you locate the transactions relevant to you.
+
+### 4 Things to Know Before Moving In
+{% include checklist.html %}
 
 
-### Settle remaining housing-related finances
+### Settle housing finances
+{% include housing-finances.html %}
 
-You may submit your application via <a href="https://www.hdb.gov.sg/MyHDBPage" target="_blank">My HDBPage</a> using your SingPass. Go to ‘My Flat > Purchased Flat > Financial Info > Other Related Services’.
 
-For more information on servicing your housing loan with HDB, you may find out more as follows:
+### Confirm School Arrangements
+{% include school-arrangements.html %}
 
-- <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">Application for Redemption of Housing Loan</a>
-- <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">Application for Partial Capital Repayment of Housing Loan</a>
-- Statement of Account for Housing Loan (*You can retrieve your online statement of account from our HDB InfoWEB via <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">My HDBPage</a> using your SingPass.*)
 
-For more information on servicing your housing loan with HDB, you may find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan">here.</a>
+### Participate in community and social activities
+{% include community-activities.html %}
 
-### Understand your Property Tax obligations
 
-Property Tax is paid annually, and calculated based on the annual value of your property. You may <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true" target="_blank">check the Annual Value (AV) of your current property</a> at no charge by viewing your property portfolio.
-
-Find out more about your <a href="https://www.iras.gov.sg/irashome/Property-Tax-At-A-Glance/Property-Tax-At-A-Glance/" target="_blank">property tax obligations.</a>
-
-*Tip: Use this <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTCalculatorIntro" target="_blank">Interactive Property Tax Calculator</a> to estimate your potential tax obligations for your new home.*
-
-Learn more about <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/" target="_blank">tax matters as a property owner</a>, or whether you can <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTOOPropertySearch&toLoginSelection=true" target="_blank">Apply/Withdraw Owner-Occupier tax rates.</a>
-
-### Season Parking
-
-If you are a driver or own a car, you may wish to <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure" target="_blank">apply new/transfer your existing season parking</a> to your new area. (Fees applies)
-
-## Some maintenance tips for your new home
-
-Need some tips to maintain your new home? Read HDB's Home Care Guide <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide" target="_blank">here.</a>
-
-For <a href="https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil" target="_blank">maintenance of common areas</a> (e.g. corridors), do contact your respective town council.
 
 **Back to [Move House Overview](/government-services/move-house/overview/)**
