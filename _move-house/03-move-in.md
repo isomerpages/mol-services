@@ -1,18 +1,14 @@
 ---
-title: Moving In Checklist
+title: Move-In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
-third_nav_title: Move into my new HDB home
+third_nav_title: What to Take Note before Moving
 ---
 
-## Moving In Checklist
+## Things to Know Before Moving in
 
-### Update your residential address 
+### Notify your new residential address 
 
 After moving, do remember to <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address</a> on your identity documents with Immigration & Checkpoint Authority (ICA).
-
-### Rectification works
-
-Found some defects before your renovation? You may submit a request to HDB to help you with the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview" target="_blank">rectification works.</a>
 
 
 ### Settle remaining housing-related finances
