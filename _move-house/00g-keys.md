@@ -12,6 +12,11 @@ Check your HDB appointment online <a href="https://services2.hdb.gov.sg/webapp/S
 *Note:Go to My Flat > Application Status > New Flat > Reg.No.*
 
 
+### Rectification works
+
+Found some defects before your renovation? You may submit a request to HDB to help you with the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats&rendermode=preview" target="_blank">rectification works.</a>
+
+
 ### Prepare for your move
 
 Get your <a href="/government-services/buying-a-hdb/move-in/">move-in checklist</a> ready.
