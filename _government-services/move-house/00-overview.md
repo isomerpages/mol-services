@@ -10,7 +10,7 @@ There are many options to getting a new home in Singapore. HDB is one of the mos
 If you are thinking of getting a HDB flat, here are some quick links to navigate around our guide on buying and selling a HDB.
 
 
-### [Buying a Flat from HDB](/government-services/buying-a-hdb/overview/)
+### [Buying a Flat from HDB](/government-services/move-house/overview/)
 
 ### [Buying a Resale Flat](/government-services/buying-a-hdb-resale/overview/)
 
