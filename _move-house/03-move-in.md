@@ -4,8 +4,10 @@ permalink: /government-services/buying-a-hdb/move-in/
 checklist:
   - title: Get ready to move in
     content: |
-        - [Apply for Renovation Approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval)
-        - [Maintenance Tips From HDB](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
+      - [Sign up for utilities account](https://www.spgroup.com.sg/home)
+      - [Apply for renovation approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval)
+      - [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)
+      - [Maintenance Tips From HDB](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
   - title: Notify change of address
     content: |
         [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address) 
