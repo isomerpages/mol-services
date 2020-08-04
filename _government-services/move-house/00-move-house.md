@@ -18,7 +18,7 @@ buying-hdb:
         - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1)
         - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)
   - title: Buying a resale flat
-    content:  |
+    content: |
        - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
        - [Check flat details when evaluating options](https://services2.hdb.gov.sg/web/fi10/emap.html)
        - [Check HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics)
