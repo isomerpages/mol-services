@@ -1,6 +1,7 @@
 ---
 title: Moving House
 permalink: /government-services/move-house/overview/
+third_nav_title: Overview
 housing-finances:
   - title: Planning your finances to buy an HDB flat
     content: |
