@@ -17,8 +17,6 @@ Upon registration, you will receive an instant assessment on:
 - Housing grants you are eligible for
 - Eligibility for an HDB housing loan
 
-If you are keen to manage your flat purchase yourself, read the detailed guide <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/ways-to-buy" target="_blank">here.</a>
-
 There are no fees involved in this step.
 
 
