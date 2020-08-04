@@ -22,6 +22,7 @@ housing-finances:
     content: |
       - [Apply for Redemption of Housing loan](https://services2.hdb.gov.sg/webapp/AB03AWRedemptionWeb/AB03SRedemption)
       - [Apply for Partial Capital Repayment of Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
+      - [Apply for/Adjust Home Protection Scheme (HPS) Cover](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes)
       - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true)
 education:
