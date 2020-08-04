@@ -8,7 +8,7 @@ third_nav_title: Sell an HDB flat
 
 ### Prepare & attend for resale completion appointment at HDB
 
-Read about things to do before the completion appointment and what will happen during the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/selling-process/appointment-with-hdb" target="_blank">appointment.</a>
+Read about things to do before the completion appointment and what will happen during the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb" target="_blank">appointment.</a>
 
 
 ### Temporary Extension of Stay
