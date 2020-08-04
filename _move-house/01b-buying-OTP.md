@@ -28,7 +28,7 @@ To enter into a OTP contract, you would be required to go through the following 
 
 (1) Negotiate and agree on Resale price
 
-(2) Seller grant OTP to you
+(2) Seller grant OTP to you via [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
 
 (3) Make use of the Option Period to review purchase
 
@@ -36,6 +36,5 @@ To enter into a OTP contract, you would be required to go through the following 
 
 You can also choose to let the OTP expire if you decide not to proceed with the purchase.
 
-Read more on OTP procedures <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase" target="_blank">here.</a>
 
 **Back to [Move House Overview](/government-services/move-house/overview/)**
