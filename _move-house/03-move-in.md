@@ -9,11 +9,12 @@ checklist:
   - title: Notify change of address
     content: |
         [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address) 
-  - title: Season Parking and other town council matters
+  - title: Season Parking
     content: |
       - [Apply for New Season Parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp)
       - [Check Season Parking Information](https://services2.hdb.gov.sg/webapp/BN22CpkVcncy/BN22SeasonParkInfoSearch.jsp)
       - [Renew Season Parking](https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp)
+  - title: Town Council matters
       - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)
       - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils)
 housing-finances:
@@ -23,22 +24,24 @@ housing-finances:
       - [Apply for Partial Capital Repayment of Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true)
-school-arrangements:
-  - title: Find new school(s) for your child(ren)
+education:
+  - title: Find new school(s) for your child
     content: |
       - [Apply for Primary School Transfer](https://beta.moe.gov.sg/primary/transfers/apply/)
       - [Register your child in Primary One Registration Exercise](beta.moe/gov.sg/primary/p1-registration)
       - [Search for a preschool nearby](https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD)
 community-activities:
-  - title: Library services 
+   - title: Know your neighborhood
+    content: |
+      - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/emap.html)
+      - [Check out upcoming community events near you](http://www20.hdb.gov.sg/fi10/fi10341p.nsf/new-and-upcoming-events?OpenForm)
+      - [Visit a Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden)
+   - title: Find library services nearby
     content: |
       - [Book your library visit](https://nlb.appointeze.com/online)
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/)
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register)
-      - [Guide to download NLB Mobile app for library eservices](https://mobileapp.nlb.gov.sg/)
-  - title: Knowing your neighborhood
-    content: |
-      - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/heartland/index.html)
+      - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/)
 ---
 
 ## Moving In Checklist
@@ -56,7 +59,7 @@ Browse our selection to help you locate the transactions relevant to you.
 
 
 ### Childcare/Education Services
-{% include school-arrangements.html %}
+{% include education.html %}
 
 
 ### Community and social activities
