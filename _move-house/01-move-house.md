@@ -1,6 +1,6 @@
 ---
 title: Moving House
-permalink: /government-services/move-house/overview/
+permalink: /government-services/move-house/
 housing-finances:
   - title: Planning your finances to buy an HDB flat
     content: |
