@@ -1,7 +1,6 @@
 ---
 title: Moving House
-permalink: /government-services/move-house/accordion/
-third_nav_title: Overview
+permalink: /government-services/move-house/overview/
 housing-finances:
   - title: Planning your finances to buy an HDB flat
     content: |
@@ -10,15 +9,15 @@ housing-finances:
         - [Apply for a Contra-payment facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats)
         - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1)
         - [Information on Housing loans from Banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks)
-buying-HDB:
-- title: Buying from HDB
+buying-hdb:
+  - title: Buying from HDB
     content: |
         - [Check upcoming HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO) 
         - [Sign up for free HDB alert service](http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp)
         - [Apply for Open Booking of flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html)
         - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1)
         - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp)
- - title: Buying a resale flat
+  - title: Buying a resale flat
     content:  |
        - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
        - [Check flat details when evaluating options](https://services2.hdb.gov.sg/web/fi10/emap.html)
@@ -26,13 +25,13 @@ buying-HDB:
        - [Engage a property agent](https://www.cea.gov.sg/4steps/)
        - [Check status of your resale application](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp)
 selling-hdb:
-- title: Selling an HDB flat
+  - title: Selling an HDB flat
     content: |
       - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc)
       - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement)
       - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/)
- - title: Sales Procedures
-  content: |
+  - title: Sales Procedures
+    content: |
       - [Register Intent to Sell on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell)
       - [Grant Option to Purchase to buyer](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase)
       - [Submit Resale Application on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application)
@@ -55,6 +54,7 @@ checklist:
       - [Check Season Parking Information](https://services2.hdb.gov.sg/webapp/BN22CpkVcncy/BN22SeasonParkInfoSearch.jsp)
       - [Renew Season Parking](https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp)
   - title: Town Council matters
+    content: |
       - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)
       - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils)
 other-finances:
@@ -72,12 +72,12 @@ education:
       - [Register your child in Primary One Registration Exercise](beta.moe/gov.sg/primary/p1-registration)
       - [Search for a preschool nearby](https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD)
 community-activities:
-   - title: Know your neighborhood
+  - title: Know your neighborhood
     content: |
       - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/emap.html)
       - [Check out upcoming community events near you](http://www20.hdb.gov.sg/fi10/fi10341p.nsf/new-and-upcoming-events?OpenForm)
       - [Visit a Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden)
-   - title: Find library services nearby
+  - title: Find library services nearby
     content: |
       - [Book your library visit](https://nlb.appointeze.com/online)
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/)

@@ -34,12 +34,12 @@ education:
       - [Register your child in Primary One Registration Exercise](beta.moe/gov.sg/primary/p1-registration)
       - [Search for a preschool nearby](https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD)
 community-activities:
-   - title: Know your neighborhood
+  - title: Know your neighborhood
     content: |
       - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/emap.html)
       - [Check out upcoming community events near you](http://www20.hdb.gov.sg/fi10/fi10341p.nsf/new-and-upcoming-events?OpenForm)
       - [Visit a Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden)
-   - title: Find library services nearby
+  - title: Find library services nearby
     content: |
       - [Book your library visit](https://nlb.appointeze.com/online)
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/)
