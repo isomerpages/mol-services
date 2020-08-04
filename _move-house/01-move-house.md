@@ -120,4 +120,4 @@ Browse our selection to help you locate the transactions relevant to you.
 
 
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [Move House Overview](/government-services/move-house/)**
