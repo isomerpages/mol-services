@@ -1,6 +1,6 @@
 ---
 title: Move House
-permalink: /government-services/move-house/overview/
+permalink: /government-services/move-house/
 ---
 
 ## An SG Guide to Moving House
@@ -15,5 +15,7 @@ If you are thinking of getting a HDB flat, here are some quick links to navigate
 ### [Selling an HDB Flat](/government-services/selling-a-hdb/overview/)
 
 ### [Moving-In Checklist](/government-services/buying-a-hdb/move-in/)
+
+
 
 **Back to [Government Services Overview](/government-services/overview/)**
