@@ -30,8 +30,6 @@ selling-hdb:
       - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc)
       - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement)
       - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/)
-  - title: Sales Procedures
-    content: |
       - [Register Intent to Sell on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell)
       - [Grant Option to Purchase to buyer](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase)
       - [Submit Resale Application on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application)
@@ -39,7 +37,7 @@ selling-hdb:
       - [Endorse resale documents and pay resale fees](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)
       - [Complete Resale Transaction at HDB appointment](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb)
 checklist:
-  - title: Get ready to move in
+  - title: Getting your new home ready
     content: |
       - [Sign up for utilities account](https://www.spgroup.com.sg/home)
       - [Apply for renovation approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval)
@@ -58,7 +56,7 @@ checklist:
       - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)
       - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils)
 other-finances:
-  - title: Be informed of housing-related finances
+  - title: Other housing-related finances
     content: |
       - [Apply for Redemption of Housing loan](https://services2.hdb.gov.sg/webapp/AB03AWRedemptionWeb/AB03SRedemption)
       - [Apply for Partial Capital Repayment of Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
@@ -92,31 +90,31 @@ Moving house can be a stressful time. To make it easier, we've gathered services
 Browse our selection to help you locate the transactions relevant to you.
 
 
-### Work out your sums 
+### Working out your sums 
 {% include housing-finances.html %}
 
 
-### Buying an HDB flat
+### Finding your next home
 {% include buying-hdb.html %}
 
 
-### Selling an HDB flat
+### Selling your current home
 {% include selling-hdb.html %}
 
 
-### 4 Things to Know Before Moving In
+### Moving In
 {% include checklist.html %}
 
 
-### Stay informed of other housing-related finances for your new home
+### Staying informed of other housing-related finances for your new home
 {% include other-finances.html %}
 
 
-### Childcare/Education 
+### Re-arranging Childcare and other education services
 {% include education.html %}
 
 
-### Community and social activities
+### Finding activities nearby
 {% include community-activities.html %}
 
 
