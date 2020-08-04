@@ -46,7 +46,7 @@ community-activities:
 
 ## Moving In Checklist
 
-Moving house can be a stressful time. To make it easier, we've gathered services and transactions you may need to help you alert the people you need to notify.
+Moving house can be a stressful time. To make it easier, we've gathered services and transactions you may need.
 
 Browse our selection to help you locate the transactions relevant to you.
 
