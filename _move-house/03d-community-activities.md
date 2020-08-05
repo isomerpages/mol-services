@@ -17,7 +17,7 @@ You can access the full suite of e-Library services via the [NLB app](https://mo
 -	Check your Account
 -	Pay fees 
 
-*Tip: If you do not have an account with our library, you can register [here](https://account.nlb.gov.sg/?type=register). Go to Membership - Registration > Singaporeans and PRs *
+*Tip: If you do not have an account with our library, you can register [here](https://account.nlb.gov.sg/?type=register). Go to Membership - Registration > Singaporeans and PRs.*
 
 
 The National Library Board (NLB) Singapore also organises events and programmes that are family-friendly. Check the latest events and programmes [here](https://www.nlb.gov.sg/golibrary2/c/30307529/). 
