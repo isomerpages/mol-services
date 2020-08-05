@@ -1,72 +1,28 @@
 ---
-title: Move-In Checklist
+title: 4 things to know before you move in
 permalink: /government-services/buying-a-hdb/move-in/
-checklist:
-  - title: Get ready to move in
-    content: |
-      - [Sign up for utilities account](https://www.spgroup.com.sg/home)
-      - [Apply for renovation approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval)
-      - [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance)
-      - [Maintenance Tips From HDB](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/home-care-guide)
-  - title: Notify change of address
-    content: |
-        [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address) 
-  - title: Season Parking
-    content: |
-      - [Apply for New Season Parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp)
-      - [Check Season Parking Information](https://services2.hdb.gov.sg/webapp/BN22CpkVcncy/BN22SeasonParkInfoSearch.jsp)
-      - [Renew Season Parking](https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp)
-  - title: Town Council matters
-      - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil)
-      - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils)
-housing-finances:
-  - title: Settle housing-related finances
-    content: |
-      - [Apply for Redemption of Housing loan](https://services2.hdb.gov.sg/webapp/AB03AWRedemptionWeb/AB03SRedemption)
-      - [Apply for Partial Capital Repayment of Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
-      - [Apply for/Adjust Home Protection Scheme (HPS) Cover](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes)
-      - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
-      - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true)
-education:
-  - title: Find new school(s) for your child
-    content: |
-      - [Apply for Primary School Transfer](https://beta.moe.gov.sg/primary/transfers/apply/)
-      - [Register your child in Primary One Registration Exercise](beta.moe/gov.sg/primary/p1-registration)
-      - [Search for a preschool nearby](https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD)
-community-activities:
-  - title: Know your neighborhood
-    content: |
-      - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/emap.html)
-      - [Check out upcoming community events near you](http://www20.hdb.gov.sg/fi10/fi10341p.nsf/new-and-upcoming-events?OpenForm)
-      - [Visit a Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden)
-  - title: Find library services nearby
-    content: |
-      - [Book your library visit](https://nlb.appointeze.com/online)
-      - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/)
-      - [Register for your NLB account](https://account.nlb.gov.sg/?type=register)
-      - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/)
+third nav title: Make your home ready to live in 
 ---
 
-## Moving In Checklist
+## Make your home ready to live in
 
-Moving house can be a stressful time. To make it easier, we've gathered services and transactions you may need.
+### Congratulations on your new home! 
 
-Browse our selection to help you locate the transactions relevant to you.
+Before you start your renovation, do remember to apply for your renovation permit at HDB [here](https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval). 
 
-### 4 Things to Know Before Moving In
-{% include checklist.html %}
+More information and guidelines on renovating your HDB flat can be found [here](hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation).
 
-
-### Housing-related finances
-{% include housing-finances.html %}
+If you own a vehicle and would like to transfer your season parking, you can apply [here](https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/transfer-procedure). For new application, you may log in to this [eService](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp) with your SingPass. 
 
 
-### Childcare/Education Services
-{% include education.html %}
+Details on HDB Season Parking can be found [here](hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket).
 
 
-### Community and social activities
-{% include community-activities.html %}
+### Facing issues with your new flat or common properties? 
+
+-	For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you [here](hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs) 
+
+-	For maintenance of common properties, more information can be found [here](hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-service-centres-and-town-councils).
 
 
 
