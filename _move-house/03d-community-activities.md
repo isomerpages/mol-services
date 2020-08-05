@@ -4,7 +4,7 @@ permalink: /government-services/buying-a-hdb/move-in/knowyourneighborhood/
 third_nav_title: 4 things to know before you move in  
 ---
 
-## Finding out what is in your neighborhood 
+## Know your neighborhood 
 Moving in to a new place can be daunting. Participating in your community can help you and your family to transit and to get to know your neighbors better.
 
 ### Library Services
