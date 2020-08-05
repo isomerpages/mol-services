@@ -1,6 +1,6 @@
 ---
 title: "Knowing your neighborhood"
-permalink: /government-services/buying-a-hdb/move-in/community/
+permalink: /government-services/buying-a-hdb/move-in/knowyourneighborhood/
 third_nav_title: 4 things to know before you move in  
 ---
 
