@@ -1,6 +1,6 @@
 ---
 title: "Confirm school arrangements"
-permalink: /government-services/buying-a-hdb/move-in/
+permalink: /government-services/buying-a-hdb/move-in/arrangements/
 third_nav_title: 4 things to know before you move in  
 ---
 
