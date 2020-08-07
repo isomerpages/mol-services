@@ -1,6 +1,6 @@
 ---
 title: Stay Healthy
-permalink: /government-services/stay-healthy/overview/
+permalink: /government-services/stay-healthy/
 ---
 
 ## Stay Healthy with these services and tools
@@ -8,7 +8,7 @@ permalink: /government-services/stay-healthy/overview/
 Curated list for healthcare-related services and tools across government agencies
 
 
-### Finding support for healthcare expenses
+### [Finding support for healthcare expenses](/government-services/stay-healthy/overview/)
 
 ### Getting help in your home
 
