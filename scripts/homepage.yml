@@ -1,0 +1,53 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/lifesg_fav.ico
+
+# Agency logo
+agency-logo: /images/lifesg-logo.jpg
+
+# Hero Banner
+hero-title: Find Government Services
+hero-subtitle: Easier. Simpler.
+hero-banner: /images/hero banner3.jpeg
+
+# Hero Dropdown Main Text
+hero-dropdown-text: "I want to..."
+
+# I want to dropdown
+i-want-to:
+  - title: Get Digitally Ready
+    url: /government-services/get-digitally-ready/overview/
+  - title: Get Support
+    url: https://articles.life.gov.sg/financial-support-workers-self-employed/
+  - title: Move House
+    url: /government-services/move-house/overview/
+  - title: Plan for Retirement
+    url: /government-services/plan-for-retirement/overview/
+  - title: Plan my Legacy
+    url: /government-services/plan-legacy/overview/
+  - title: Stay Healthy
+    url: /government-services/stay-healthy/overview/
+   
+    
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Download the App
+    section-description: Access the most used services and information on the go. LifeSG Mobile app is available on the Apple AppStore and Google Play Store. 
+    section-more-button: Install now
+    section-more-button-url: 
+    section-image-path: /images/LifeSg Refreshed (GovTech Owned).png
+    section-image-alt: Download LifeSG Mobile app QR code
+  - section-title: 
+    section-subtitle: Learn more
+    section-description: Planning for some of your major life decisions? Here are some recommendations for you. 
+    section-more-button: Search by Life Events
+    section-more-button-url: /life-events/overview/
+    section-image-path: 
+    section-image-alt: 
+
