@@ -12,8 +12,6 @@ sections:
         background: /images/hero banner3.jpeg
     - infopic:
         title: Browse all
-        image: /images/government-services.jpg
-        alt: govt services
         description: Most used services and information put together for you.
         button: Government Services
         url: /government-services/overview/
