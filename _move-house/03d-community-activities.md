@@ -1,8 +1,7 @@
 ---
 title: "Know your neighborhood"
 permalink: /government-services/buying-a-hdb/move-in/knowyourneighborhood/
-third_nav_title: 4 things to know before you move in
-published: false  
+third_nav_title: 4 things to know before you move in 
 ---
 
 ## Know your neighborhood 
