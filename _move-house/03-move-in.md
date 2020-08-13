@@ -2,6 +2,7 @@
 title: Moving In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: Move into my new HDB home
+published: false
 ---
 
 ## Moving In Checklist
