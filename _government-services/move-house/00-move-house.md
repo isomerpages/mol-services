@@ -4,7 +4,8 @@ permalink: /government-services/move-house/overview/
 housing-finances:
   - title: Planning your finances to buy an HDB flat
     content: |
-        - [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
+        [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}<br>
+        hello this is new
         - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
         - [Apply for a Contra-payment facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"}
         - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
