@@ -12,9 +12,9 @@ Browse the services and transactions curated for you in the following listing.
 ## Growing and Caring for my Family
   
 - Buying your next home
-  - [From HDB](/government-services/buying-a-hdb/overview/)
-  - [From resale market](/government-services/buying-a-hdb-resale/overview/)
-- [Selling your HDB flat](/government-services/selling-a-hdb/overview)
+  - [From HDB](/government-services/buying-a-hdb/eligibility/)
+  - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
+- [Selling your HDB flat](/government-services/selling-a-hdb/overview/)
 - [Moving in](/government-services/buying-a-hdb/move-in/)
 
 ---
