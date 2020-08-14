@@ -37,11 +37,14 @@ Consider these factors when evaluating the flat options you intend to buy:
 
 Do use the <a href="https://services2.hdb.gov.sg/web/fi10/emap.html" target="_blank">HDB Map Services</a> to obtain these information by keying in the postal code or flat details.
 
+See also: [Detailed guide on managing your flat purchase with an appointed estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/ways-to-buy)
+
 
 ### What happens after
 
 After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. 
 
 Otherwise, you will be advised to have an Approval In-Principle (AIP) from <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks" target="_blank">Financial Institutions (FIs)</a> before the seller can grant you the Option to Purchase.
+
 
 **Back to [Move House Overview](/government-services/move-house/overview/)**
