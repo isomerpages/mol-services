@@ -17,4 +17,6 @@ The option fees are listed below for your reference, depending on the type of fl
 
 You may also apply for housing grants during this appointment. Find out which one applies to you <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats" target="_blank">here.</a>
 
+
+
 **Back to [Move House Overview](/government-services/move-house/overview/)**
