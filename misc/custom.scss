@@ -158,7 +158,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 .bp-dropdown-content {
-  p {
+  p, h5 {
     font-family: poppins;
   }
 }
@@ -266,6 +266,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     img {
       max-height: 56.25px !important;
+      max-width: 127.83px !important;
     }
   }
 .navbar-item:hover {
