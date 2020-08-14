@@ -11,9 +11,9 @@ third_nav_title: Buy a flat from HDB
 Different eligibility conditions apply when purchasing a flat from HDB, whether it be a Build-to-Order (BTO) or Executive Condominium (EC). Read more about the different schemes and conditions to buy below:
 
 
-  - <a href="https://www.hdb.gov.sg/cs/Satellite?c=Page&cid=1383797553374&pagename=InfoWEB%2FPage%2FArticleDetailPage&rendermode=preview" target="_blank">HDB Flat (2-room flexi flats)</a><br>
+  - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/2-room-flexi-flat" target="_blank">HDB Flat (2-room flexi flats)</a><br>
   *[Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]*<br>
-  - <a href="https://www.hdb.gov.sg/cs/Satellite?c=Page&cid=1383797553343&pagename=InfoWEB%2FPage%2FArticleDetailPage&rendermode=preview" target="_blank">HDB Flat (3-room flats and bigger)</a>
+  - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat" target="_blank">HDB Flat (3-room flats and bigger)</a>
   - <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/executive-condominiums" target="_blank">Executive Condominium</a>
 
 ### Priority Schemes for Balloting
