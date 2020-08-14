@@ -16,7 +16,7 @@ More information and guidelines on renovating your HDB flat can be found <a href
 ### Apply for your HDB season parking 
 If you own a vehicle and would like to transfer your season parking, you can apply <a href="https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp" target="_blank">here</a>. For new application, you may log in to this <a href="https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp" target="_blank">eService</a> with your SingPass. 
 
-Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/application-procedure" target"_blank">here</a>.
+Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/application-procedure" target="_blank">here</a>.
 
 
 ### Facing issues with your new flat or common properties? 
