@@ -37,4 +37,6 @@ To enter into a OTP contract, you would be required to go through the following 
 You can also choose to let the OTP expire if you decide not to proceed with the purchase.
 
 
+More information on OTP procedures [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase)
+
 **Back to [Move House Overview](/government-services/move-house/overview/)**
