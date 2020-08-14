@@ -1,6 +1,6 @@
 ---
 title: Move House
-permalink: /move-house/overview/
+permalink: /overview/
 housing-finances:
   - title: Planning your finances to buy an HDB flat
     content: |
