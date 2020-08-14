@@ -10,6 +10,21 @@ sections:
         title: Find Government Services
         subtitle: Easier. Simpler.
         background: /images/hero banner3.jpeg
+        dropdown:
+            title: I want to...
+            options:
+            - title: Get Digitally Ready
+              url: /government-services/get-digitally-ready/overview/
+            - title: Get Support
+              url: https://articles.life.gov.sg/financial-support-workers-self-employed/
+            - title: Move House
+              url: /government-services/move-house/overview/
+            - title: Plan for Retirement
+              url: /government-services/plan-for-retirement/overview/
+            - title: Plan my Legacy
+              url: /government-services/plan-legacy/overview/
+            - title: Stay Healthy
+              url: /government-services/stay-healthy/overview/
     - infopic:
         title: Browse all
         description: Most used services and information put together for you.

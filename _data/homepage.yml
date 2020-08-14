@@ -32,15 +32,13 @@ i-want-to:
     url: /government-services/plan-legacy/overview/
   - title: Stay Healthy
     url: /government-services/stay-healthy/overview/
-   
-    
+
 # Info Sections
 info-sections:
   - section-title: 
     section-subtitle: Download the App
     section-description: Access the most used services and information on the go. LifeSG Mobile app is available on the Apple AppStore and Google Play Store. 
     section-more-button: Install now
-    section-more-button-url: 
     section-image-path: /images/LifeSg Refreshed (GovTech Owned).png
     section-image-alt: Download LifeSG Mobile app QR code
   - section-title: 
@@ -48,6 +46,3 @@ info-sections:
     section-description: Planning for some of your major life decisions? Here are some recommendations for you. 
     section-more-button: Search by Life Events
     section-more-button-url: /life-events/overview/
-    section-image-path: 
-    section-image-alt: 
-
