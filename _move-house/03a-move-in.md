@@ -25,6 +25,8 @@ Details on HDB Season Parking can be found [here](hdb.gov.sg/cs/infoweb/car-park
 
 -	For maintenance of common properties, more information can be found [here](hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-service-centres-and-town-councils).
 
+- Information on [Rectification works for new flats](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats)
+
 
 ### Understand the T&Cs
 
