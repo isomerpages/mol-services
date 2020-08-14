@@ -21,6 +21,7 @@ Found some defects before your renovation? You may submit a request to HDB to he
 
 Get your <a href="/government-services/buying-a-hdb/move-in/">move-in checklist</a> ready.
 
+
 Some resources that might be useful:
 
 - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/guidelines" target="_blank">HDB renovation guidelines</a>
