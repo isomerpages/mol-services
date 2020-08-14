@@ -20,4 +20,6 @@ Do find out more about the <a href="https://www.hdb.gov.sg/cs/infoweb/residentia
 
 Eligible flat buyers may also use the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a> where they can pay their downpayment in 2 instalments i.e. half when they sign the Agreement for Lease and the remaining amount when they collect the keys to their flat.
 
+
+
 **Back to [Move House Overview](/government-services/move-house/overview/)**
