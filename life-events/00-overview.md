@@ -3,23 +3,23 @@ title: Life Events
 permalink: /life-events/overview/
 ---
 
-# Life Events 
+## Life Events 
 
 Browse the services and transactions curated for you in the following listing.
 
 ---
 
-## Growing and Caring for my Family
+### Growing and Caring for my Family
   
 - Buying your next home
-  - [From HDB](/government-services/buying-a-hdb/overview/)
-  - [From resale market](/government-services/buying-a-hdb-resale/overview/)
+  - [From HDB](/government-services/buying-a-hdb/eligibility/)
+  - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
 - [Selling your HDB flat](/government-services/selling-a-hdb/overview)
 - [Moving in](/government-services/buying-a-hdb/move-in/)
 
 ---
 
-## Planning Ahead for Silver Years
+### Planning Ahead for Silver Years
 
 - [Plan your retirement finances](/government-services/plan-for-retirement/finances/)
 - [Protecting and planning your legacy](/government-services/plan-my-legacy/plan-ahead/)
