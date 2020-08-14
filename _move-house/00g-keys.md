@@ -23,7 +23,7 @@ Get your <a href="/government-services/buying-a-hdb/move-in/">move-in checklist<
 
 Some resources that might be useful:
 
-- <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation&rendermode=preview" target="_blank">HDB renovation guidelines</a>
+- <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/guidelines" target="_blank">HDB renovation guidelines</a>
 
 - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">Get approval for renovation.</a> Find out if your renovation requires a permit and how you can obtain one.
 
