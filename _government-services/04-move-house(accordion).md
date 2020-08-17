@@ -1,6 +1,6 @@
 ---
 title: Move House
-permalink: /overview/
+permalink: /housing/accordion/
 housing-finances:
   - title: Planning your housing finances
     content: |
