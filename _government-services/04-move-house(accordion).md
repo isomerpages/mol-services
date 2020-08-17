@@ -2,12 +2,14 @@
 title: Move House
 permalink: /overview/
 housing-finances:
-  - title: Planning your finances to buy an HDB flat
+  - title: Planning your housing finances
     content: |
         [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}<br>
         hello this is new
         - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
         - [Apply for a Contra-payment facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"}
+   - title: Utilising CPF for your mortgage
+    content: |
         - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
         - [Information on Housing loans from Banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
 buying-hdb:
@@ -91,7 +93,7 @@ Moving house can be a stressful time. To make it easier, we've gathered services
 Browse our selection to help you locate the transactions relevant to you.
 
 
-### Working out your sums 
+### Financing your home 
 {% include housing-finances.html %}
 
 
