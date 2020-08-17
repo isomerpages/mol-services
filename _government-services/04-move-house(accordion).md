@@ -14,11 +14,13 @@ housing-finances:
 buying-hdb:
   - title: Buying from HDB
     content: |
+        - [Apply for a Build-To-Order/Sale of Balance Flat](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
         - [Check upcoming HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
         - [Sign up for free HDB alert service](http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp){:target="_blank"}
         - [Apply for Open Booking of flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}
         - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"}
         - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"}
+        - [Information on HDB Flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
   - title: Buying an HDB resale flat
     content: |
        - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
