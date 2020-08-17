@@ -27,7 +27,7 @@ buying-hdb:
        - [Engage a property agent](https://www.cea.gov.sg/4steps/){:target="_blank"}
        - [Check status of your resale application](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
 selling-hdb:
-  - title: Selling an HDB flat
+  - title: What you would need
     content: |
       - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
       - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
