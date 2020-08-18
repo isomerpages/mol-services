@@ -25,14 +25,12 @@ sections:
               url: /government-services/plan-legacy/overview/
             - title: Stay Healthy
               url: /government-services/stay-healthy/overview/
-    - infobar:
-        title: Browse all
-        description: Most used services and information put together for you.
-        button: Government Services
+    - key-highlights:
+        title: Government Services
         url: /government-services/overview/
-    - infobar:
-        title: Search by
-        description: Planning for some of your major life decisions? Here are some recommendations for you.
-        button: Life Events
+        external: true
+    - key-highlights:
+        title: Search by Life Events
         url: /life-events/overview/
+        external: true
 ---
