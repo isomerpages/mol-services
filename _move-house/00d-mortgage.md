@@ -14,4 +14,4 @@ Do read <a href="/government-services/buying-a-hdb/finances/">step 2</a> for mor
 
 *Tip: Log into <a href="http://www.hdb.gov.sg/MyHDBPage" target="_blank">MyHDBpage</a> using your SingPass to retrieve the results (under My HDBPage > My Flat > Application Status > New Flat).*
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
