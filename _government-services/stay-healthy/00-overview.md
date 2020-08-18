@@ -7,13 +7,17 @@ permalink: /government-services/stay-healthy/
 
 Includes healthcare-related services and online tools across government agencies for you and your family.
 
-
-### Get personal health tips and habits  *coming soon*
 <br>
 
-### [Being healthy as a family](/government-services/stay-healthy/with-family/)
+**Personal health tips and habits**
+
+*coming soon*
 <br>
 
-### [Managing your healthcare costs](/government-services/stay-healthy/subsidies-assistance/)
+**[Being healthy as a family](/government-services/stay-healthy/with-family/)**
+<br>
+
+
+**[Managing your healthcare costs](/government-services/stay-healthy/subsidies-assistance/)**
 
 
