@@ -1,15 +1,12 @@
 ---
-title: Stay Healthy With my family
+title: Being Healthy with my family
 permalink: /government-services/stay-healthy/with-family/
 ---
 
-## Stay Active
+## Being Healthy with my family
 
-Have a health goal in mind? Join a health challenge or adopt any of the action plans <a href="https://track.healthhub.sg/action-plans" target="_blank">here</a> to help you stay on track.
 
-## Ways to keep your family's health in Check
-
-### Health screenings
+### Keep you and your family's health in check
 
 <a href="https://eservices.healthhub.sg/PersonalHealth/ScreeningEligibility" target="_blank">Check your eligibility for subsidised screenings</a> using your SingPass login.
 
@@ -23,6 +20,12 @@ More information about Screen for Life Programme <a href="https://www.healthhub.
 - <a href="https://eservices.healthhub.sg/childhealth" target="_blank">Track your child's health progress and access their health records</a>
 - <a href="https://eservices.healthhub.sg/Appointments/Dashboard/Index/4935e4b7cfef40ea7501eb24e2e12fed" target="_blank">Check for upcoming medical appointments</a>
 
+
+### Healthy habits for your children - starts from home
+
+Looking to cook healthy options for your family? Explore healthy recipes and ideas <a href="https://www.healthhub.sg/programmes/54/recipes" target="_blank">here</a> to cook up a storm for you and your family.
+
+Workout resources for the whole family can be found <a href="https://www.healthhub.sg/programmes/170/StayWell#resources" target="_blank">here</a>.
 
 
 ### Caring for someone with a condition
