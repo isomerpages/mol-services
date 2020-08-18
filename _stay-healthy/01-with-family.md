@@ -30,11 +30,6 @@ Workout resources for the whole family can be found <a href="https://www.healthh
 
 ### Caring for someone with a condition
 
-- [Apply for CHAS card for you and your household members](https://chas.moh.gov.sg/) to get subsidised care
-- [Renew CHAS card](https://www.chas.sg/content.aspx?id=1091) This is only applicable if you receive a renewal letter from Ministry of Health.
-- [Locate a CHAS clinic near you](https://www.chas.sg/clinic_locator.aspx?id=90)
-
-With [CHAS subsidies](https://www.chas.sg/content.aspx?id=636), you could enjoy subsidised treatments for  common illnesses, chronic conditions under the [MOH’s Chronic Disease Management Programme (CDMP)](https://www.moh.gov.sg/policies-and-legislation/chronic-disease-management-programme-(cdmp)), and selected dental services.
 
 
 
