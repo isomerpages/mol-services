@@ -34,3 +34,5 @@ More information about Screen for Life Programme <a href="https://www.healthhub.
 With [CHAS subsidies](https://www.chas.sg/content.aspx?id=636), you could enjoy subsidised treatments for  common illnesses, chronic conditions under the [MOH’s Chronic Disease Management Programme (CDMP)](https://www.moh.gov.sg/policies-and-legislation/chronic-disease-management-programme-(cdmp)), and selected dental services.
 
 
+
+**[Back to I Want to Stay Healthy](/government-services/stay-healthy/)**
