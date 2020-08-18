@@ -30,7 +30,7 @@ As a caregiver, you could also apply for the <a href="https://www.aic.sg/financi
 ### Related Resources and Links:
 
 - <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies" target="_blank">Healthcare Schemes and Subsidies</a>
-- >How to <a href="https://www.aic.sg/financial-assistance/medical-fee-exemption-card" target="_blank"apply Medical Fee Exemption Card</a> for a loved one staying in nursing homes
+- How to <a href="https://www.aic.sg/financial-assistance/medical-fee-exemption-card" target="_blank">apply Medical Fee Exemption Card</a> for a loved one staying in nursing homes
 - Defray costs of caregiving expenses with <a href="https://www.aic.sg/financial-assistance/home-caregiving-grant" target="_blank">Home Caregiving Grant</a>
 
 
