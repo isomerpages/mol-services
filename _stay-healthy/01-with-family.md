@@ -35,7 +35,8 @@ Make fitness fun for you and your family through the programmes <a href="https:/
 ### Other related links:
 - <a href="https://www.myactivesg.com/Whats-On" target="_blank">Upcoming ActiveSG events</a>
 - <a href="https://www.healthhub.sg/events" target="_blank">Upcoming events by HPB</a>
-- <a href="https://www.merdekageneration.sg/en/benefitspioneers.sg" target="_blank">Check your benefits as a Merdeka Generation or Pioneer Generation Senior</a>
+- <a href="https://www.merdekageneration.sg/en/benefits" target="_blank">Check your benefits as a Merdeka Generation (MG) Senior</a>
+- <a href="https://www.pioneers.sg/en-sg/Materials/PG%20Subsidy%20Table%20for%20outpatient%20care.pdf" target="_blank">Check your benefits as a Pioneer Generation (PG) Senior</a>
 
 
 
