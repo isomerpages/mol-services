@@ -3,15 +3,17 @@ title: Stay Healthy
 permalink: /government-services/stay-healthy/
 ---
 
-## Ways to Stay Healthy 
+## Stay Healthy
 
-Curated list for healthcare-related services and tools across government agencies
-(Proposed listing for package 16, combined with package 17 and other health-related services under senior packages too)
+Includes healthcare-related services and online tools across government agencies for you and your family.
 
-### *Maintaining Personal wellbeing- coming soon*
 
+### Get personal health tips and habits  *coming soon*
+<br>
 
 ### [Being healthy as a family](/government-services/stay-healthy/with-family/)
+<br>
+
+### [Managing your healthcare costs](/government-services/stay-healthy/subsidies-assistance/)
 
 
-### Managing your healthcare costs
