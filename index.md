@@ -25,7 +25,6 @@ sections:
               url: /government-services/plan-legacy/overview/
             - title: Stay Healthy
               url: /government-services/stay-healthy/overview/
-
 infobar:
      - infobar:
         title: Government Services
