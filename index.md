@@ -25,14 +25,23 @@ sections:
               url: /government-services/plan-legacy/overview/
             - title: Stay Healthy
               url: /government-services/stay-healthy/overview/
-    - infobar:
+
+info-sections:
+     - info-section:
         title: Government Services
         description: Most used government services in one place
         button: View more
-        url: /government-services/overview/
-    - infobar:
+        url: /life-events/overview/
+     - info-section:
         title: Search by Life Events
-        description: Most used government services in one place
+        description: Curated list of services and transactions that you may need
         button: View more
         url: /life-events/overview/
+     - info-section:
+        title: Download LifeSG
+        infopic: https://drive.google.com/drive/folders/1wxt3laVfTqvJuvq_DXA7d2yP2i5V3f42
+        description: Access these services on the go
+        button: Install LifeSG Mobile app
+        url: https://go.life.gov.sg/tgzE
+        
 ---
