@@ -9,4 +9,4 @@ third_nav_title: Buy a resale flat
 ![HDB Resale Guide](https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg)
 
 
-### Back to [Move House Overview](/government-services/move-house/overview/)
+### Back to [I Want to Move House](/government-services/move-house/overview/)
