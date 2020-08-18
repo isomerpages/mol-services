@@ -37,8 +37,8 @@ sections:
         url: /life-events/overview/
     - infopic:
         title: Download Now
-        image: https://drive.google.com/drive/folders/1wxt3laVfTqvJuvq_DXA7d2yP2i5V3f42
-        alt: govt services
+        image: images/QR download lifesg.png
+        alt: Download app QR code
         description: Access these services on the go
         button: Install LifeSG Mobile app
         url: https://go.life.gov.sg/tgzE
