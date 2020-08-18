@@ -6,11 +6,9 @@ permalink: /government-services/stay-healthy/
 ## Stay Healthy
 
 Includes healthcare-related services and online tools across government agencies for you and your family.
-
 <br>
 
 **Personal health tips and habits**
-
 *coming soon*
 <br>
 
