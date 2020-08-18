@@ -26,22 +26,21 @@ sections:
             - title: Stay Healthy
               url: /government-services/stay-healthy/overview/
 
-info-sections:
-     - info-section:
+infobar:
+     - infobar:
         title: Government Services
         description: Most used government services in one place
         button: View more
         url: /life-events/overview/
-     - info-section:
+     - infobar:
         title: Search by Life Events
         description: Curated list of services and transactions that you may need
         button: View more
         url: /life-events/overview/
-     - info-section:
+     - infobar:
         title: Download LifeSG
         infopic: https://drive.google.com/drive/folders/1wxt3laVfTqvJuvq_DXA7d2yP2i5V3f42
         description: Access these services on the go
         button: Install LifeSG Mobile app
-        url: https://go.life.gov.sg/tgzE
-        
+        url: https://go.life.gov.sg/tgzE       
 ---
