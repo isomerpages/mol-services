@@ -4,8 +4,12 @@
 #                                #
 ##################################
 
-logo: /images/mol-logo.jpg
+logo: /images/lifesg-logo.jpg
 
 links:
+  - title: FAQ
+    url: https://form.gov.sg/5ed0995e42ee5f00110e10cc
   - title: Feedback
     url: /feedback/
+  - title: Contact Us
+    url: https://www.life.gov.sg/

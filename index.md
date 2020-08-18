@@ -2,8 +2,8 @@
 layout: homepage
 title: ServiceSG (in Collaboration with Public Service Division and GovTech)
 notification: <p style="font-size:16px;font-family:poppins">This is a beta site to bring government services and resources closer to you. Try it out and <a href="/feedback/">let us know what you think!</a></p>
-favicon: /images/mol_fav.ico
-image: /images/mol-logo.jpg
+favicon: /images/lifesg_fav.ico
+image: /images/lifesg-logo.jpg
 permalink: /
 sections:
     - hero:
