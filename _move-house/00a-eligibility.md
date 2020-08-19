@@ -14,7 +14,7 @@ Different eligibility conditions apply when purchasing a flat from HDB, whether 
   - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/2-room-flexi-flat" target="_blank">HDB Flat (2-room flexi flats)</a><br>
   *[Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]*<br>
   - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat" target="_blank">HDB Flat (3-room flats and bigger)</a>
-  - <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/executive-condominiums" target="_blank">Executive Condominium</a>
+  - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/executive-condominiums" target="_blank">Executive Condominium</a>
 
 ### Priority Schemes for Balloting
 
