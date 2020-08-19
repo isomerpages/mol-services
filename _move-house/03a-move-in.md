@@ -2,6 +2,7 @@
 title: "Make your home ready to live in"
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: 4 things to know before you move in
+published: false
 ---
 
 ## Make your home ready to live in
@@ -29,4 +30,4 @@ Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/in
 
 
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
