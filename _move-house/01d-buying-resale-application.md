@@ -7,7 +7,7 @@ third_nav_title: Buy a resale flat
 ## Step 4 : Submit Resale Application
 
 You and the seller (or the salesperson) can proceed to submit the resale application after you have exercised the Option to Purchase (OTP).
-Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/additional-information-" target="_blank">here.</a>
+Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application" target="_blank">here.</a>
 
 
 ### What to Expect
