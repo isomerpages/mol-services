@@ -16,8 +16,6 @@ Browse the curated listing of services and transactions grouped based on life ev
   - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
 - [Selling your HDB flat](/government-services/selling-a-hdb/overview/)
 - [Moving in](/government-services/buying-a-hdb/move-in/)
-- [Being healthy with my family](/government-services/stay-healthy/with-family/)
-- [Caring for someone with a condition](/government-services/stay-healthy/subsidies-assistance/)
 
 ---
 
