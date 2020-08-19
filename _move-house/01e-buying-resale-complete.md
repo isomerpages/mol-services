@@ -10,7 +10,7 @@ third_nav_title: Buy a resale flat
 
 The process is completed with an appointment at HDB.
 
-- Check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">your appointment details</a>
+You can check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">your HDB appointment details</a>
 
 
 ### Prepare to Move in
@@ -27,7 +27,7 @@ Some other useful resources:
 
 ### Understand your T&Cs
 
-Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/conditions-after-buying" target="_blank">[Conditions after buying an HDB resale flat]</a>.
+Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/conditions-after-buying" target="_blank">Conditions after buying an HDB resale flat</a>.
 
 
 
