@@ -1,9 +1,9 @@
 ---
 layout: homepage
-title: Find your government services easier. 
-notification: <p style="font-size:16px;font-family:poppins">Access these services on the go on <a href="https://go.life.gov.sg/tgzE">LifeSG mobile app!</a></p>
+title: services.life.gov.sg
+notification: <p style="font-size:16px;font-family:poppins">Get <a href="https://go.life.gov.sg/tgzE" target="_blank">LifeSG app</a> on your mobile to access services on the go!<a href="/feedback/"></p>
 favicon: /images/lifesg_fav.ico
-image: /images/lifesg-logo.png
+image: /images/lifesg-logo.jpg
 permalink: /
 sections:
     - hero:
@@ -22,9 +22,9 @@ sections:
         url: /life-events/overview/
     - infopic:
         title: Download Now
-        image: images/QR download lifesg.png
-        alt: Download app QR code
-        description: Access these services on the go
-        button: Install LifeSG Mobile app
+        image: /images/life-sg-qr-code.jpg
+        alt: Download LifeSG Mobile QR code
+        description: Access governments services on the go
+        button: Install LifeSG app 
         url: https://go.life.gov.sg/tgzE
 ---

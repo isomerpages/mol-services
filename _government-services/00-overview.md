@@ -69,7 +69,7 @@ table, tr, td {
   </tr>
   <tr>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
-    <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/09-stay-healthy.png" alt="Healthcare"></td>
   </tr>
 </tbody>
 </table>

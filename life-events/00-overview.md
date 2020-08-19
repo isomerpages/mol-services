@@ -11,10 +11,17 @@ Browse the curated listing of services and transactions grouped based on life ev
 
 ### Growing and Caring for my Family
   
+<<<<<<< HEAD
 - Buying the next home
   - [From HDB](/government-services/buying-a-hdb/eligibility/)
   - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
 - [Selling your HDB flat](/government-services/selling-a-hdb/overview/)
+=======
+- Buying your next home
+  - [From HDB](/government-services/buying-a-hdb/eligibility/)
+  - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
+- [Selling your HDB flat](/government-services/selling-a-hdb/overview)
+>>>>>>> origin/master
 - [Moving in](/government-services/buying-a-hdb/move-in/)
 
 ---
