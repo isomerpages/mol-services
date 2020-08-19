@@ -4,8 +4,12 @@
 #                                #
 ##################################
 
-logo: /images/mol-logo.jpg
+logo: /images/lifesg-logo.jpg
 
 links:
+  - title: FAQ
+    url: https://smartnation.gov.sg/what-is-smart-nation/initiatives/moments-of-life/faq
   - title: Feedback
     url: /feedback/
+  - title: Contact Us
+    url: https://www.life.gov.sg/
