@@ -35,5 +35,10 @@ Some resources that might be useful:
 - Find out more <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes" target="_blank">Home Protection Scheme (HPS)</a>
 
 
+### Understanding T&Cs
+
+- Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/conditions-after-buying" target="_blank">Conditions after buying a new HDB</a> on the obligations as an HDB owner
+
+
 
 **Back to [I Want to Move House](/government-services/move-house/overview/)**
