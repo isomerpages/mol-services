@@ -1,6 +1,7 @@
 ---
 title: Being Healthy with my family
 permalink: /government-services/stay-healthy/with-family/
+published: false
 ---
 
 ## Being Healthy with my family
@@ -27,7 +28,7 @@ You can also grant access to your trusted family member, next-of-kin or friend <
 
 Looking to cook healthy options for your family? Explore healthy recipes and ideas <a href="https://www.healthhub.sg/programmes/54/recipes" target="_blank">here</a> to cook up a storm for you and your family. 
 
-You can also get <a href"https://www.healthhub.sg/live-healthy?category=Food-Nutrition" target="_blank">more tips</a> on choosing healthy foods for you and your family. 
+You can also get [more tips](https://www.healthhub.sg/live-healthy?category=Food-Nutrition) on choosing healthy foods for you and your family. 
 
 Make fitness fun for you and your family through the programmes <a href="https://www.healthhub.sg/programmes/170/StayWell#resources" target="_blank">here</a>.
 
