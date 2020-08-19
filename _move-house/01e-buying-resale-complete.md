@@ -27,8 +27,8 @@ Some other useful resources:
 
 ### Understand your T&Cs
 
-Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/conditions-after-buying" target="_blank">Conditions after buying an HDB resale flat</a>.
+Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/conditions-after-buying" target="_blank">[Conditions after buying an HDB resale flat]</a>.
 
 
 
-**Back to [I Want to Move House](/government-services/move-house/overview/)**
+**Back to [Move House Overview](/government-services/move-house/overview/)**

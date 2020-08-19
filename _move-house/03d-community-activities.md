@@ -2,7 +2,6 @@
 title: "Know your neighborhood"
 permalink: /government-services/buying-a-hdb/move-in/knowyourneighborhood/
 third_nav_title: 4 things to know before you move in 
-published: false
 ---
 
 ## Know your neighborhood 
@@ -29,5 +28,3 @@ o	Early Literacy Programs (eg: Play@Library)
 o	Teens Programs (eg: Pixel Lab with IMDA) 
 o	Molly, your mobile library bus!  *Currently not available* 
 
-
-**Back to [I Want to Move House](/government-services/move-house/overview/)**
