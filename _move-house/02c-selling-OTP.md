@@ -17,7 +17,7 @@ To enter into a OTP contract, you would be required to go through the following 
 
 (1) Negotiate and agree on Resale price
 
-(2) You <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/option-to-purchaseOTP" target="_blank">grant the OTP</a>to Buyer via [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain)
+(2) You <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase" target="_blank">grant the OTP</a> to Buyer via [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain)
 
 (3) Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.
 
@@ -27,4 +27,4 @@ See also: <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-
 
 
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
