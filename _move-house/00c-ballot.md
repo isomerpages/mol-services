@@ -28,6 +28,7 @@ Alternatively, you may consider applying for a flat online anytime <a href="http
 
 Flat buyers can apply online anytime and receive a queue number for flat booking on a first-come-first-served basis, and book a flat as early as the next working day, where possible.
 
-*Tip: Already an applicant? You may check the <a href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1" target="_blank">status of your application</a> when results are announced.*
+*Tip: Already an applicant? You may check the <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">status of your application</a> when results are announced.*
+
 
 **Back to [I Want to Move House](/government-services/move-house/overview/)**
