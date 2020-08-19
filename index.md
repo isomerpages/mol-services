@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: services.life.gov.sg
-notification: <p style="font-size:16px;font-family:poppins">Get LifeSG app on your mobile to access services on the go!<a href="/feedback/"></p>
+notification: <p style="font-size:16px;font-family:poppins">Get <a href="https://go.life.gov.sg/tgzE" target="_blank">LifeSG app</a> on your mobile to access services on the go!<a href="/feedback/"></p>
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
