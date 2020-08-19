@@ -23,7 +23,7 @@ To enter into a OTP contract, you would be required to go through the following 
 
 (4) Decide when to submit resale application
 
-See also: <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target"_blank">Important notes on OTP</a>
+See also: <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">Important notes on OTP</a>
 
 
 
