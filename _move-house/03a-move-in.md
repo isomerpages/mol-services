@@ -2,6 +2,7 @@
 title: "Make your home ready to live in"
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: 4 things to know before you move in
+published: false
 ---
 
 ## Make your home ready to live in
@@ -28,5 +29,4 @@ Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/in
 - Information on <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">Rectification works for new flats</a>
 
 
-
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
