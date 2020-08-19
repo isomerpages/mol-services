@@ -2,7 +2,6 @@
 title: Moving In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: Move into my new HDB home
-published: false
 ---
 
 ## Moving In Checklist
@@ -48,4 +47,4 @@ Need some tips to maintain your new home? Read HDB's Home Care Guide <a href="ht
 
 For <a href="https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil" target="_blank">maintenance of common areas</a> (e.g. corridors), do contact your respective town council.
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
