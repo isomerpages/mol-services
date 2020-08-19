@@ -22,7 +22,7 @@ sections:
         url: /life-events/overview/
     - infopic:
         title: Download Now
-        image: /images/QR download lifesg.png
+        image: /images/life-sg-qr-code.jpg
         alt: Download LifeSG Mobile QR code
         description: Access governments services on the go
         button: Install LifeSG app 
