@@ -39,4 +39,5 @@ You can also choose to let the OTP expire if you decide not to proceed with the 
 
 More information on OTP procedures [here](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/option-to-purchase)
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
