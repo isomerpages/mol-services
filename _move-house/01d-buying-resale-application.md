@@ -12,7 +12,7 @@ Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/
 
 ### What to Expect
 
-After your submission, you would be invited to carry out a <a href="hhttps://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application)" target="_blank">few more steps</a> that include endorsing resale documents, paying the resale fees online - all before HDB's approval of the transaction.
+After your submission, you would be invited to carry out a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)" target="_blank">few more steps</a> that include endorsing resale documents, paying the resale fees online - all before HDB's approval of the transaction.
 
 *Note that either you or the seller can be the first to submit, but the other party must submit their portion within 7 calendar days.*
 
