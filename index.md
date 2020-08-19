@@ -7,7 +7,7 @@ image: /images/lifesg-logo.png
 permalink: /
 sections:
     - hero:
-        title: Find Government Services
+        title: Government Services in SG
         subtitle: Easier. Simpler.
         background: /images/hero banner3.jpeg
     - infobar:
