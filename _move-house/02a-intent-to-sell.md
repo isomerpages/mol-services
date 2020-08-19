@@ -12,4 +12,4 @@ You will also receive information about your flat (e.g. the Ethnic Integration P
 
 Find out about the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registration procedures</a> and what to take note.
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**

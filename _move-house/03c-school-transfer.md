@@ -1,8 +1,8 @@
 ---
 title: "Confirm school arrangements"
 permalink: /government-services/buying-a-hdb/move-in/arrangements/
-third_nav_title: 4 things to know before you move in
-published: false  
+third_nav_title: 4 things to know before you move in  
+published: false
 ---
 
 ## Confirm your children's school arrangements
@@ -22,3 +22,5 @@ To transfer your children to a primary school within your new neighborhood,  do 
 
 For other levels, do contact the respective schools to find out more. You can [search for the list of schools in your area](https://beta.moe.gov.sg/schoolfinder/).
 
+
+**Back to [I Want to Move House](/government-services/move-house/overview/)**

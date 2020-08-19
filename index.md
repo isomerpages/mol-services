@@ -8,17 +8,17 @@ permalink: /
 sections:
     - hero:
         title: Government Services in SG
-        subtitle: Simpler Services. Better Lives.
+        subtitle: Easier. Simpler.
         background: /images/hero banner3.jpeg
     - infobar:
-        title: Government Services
-        description: All Government Services and Resources put together for you. In one place.
-        button: Browse
-        url: /government-services/overview
+        title: Browse all
+        description: Most used services and information put together for you.
+        button: Government Services
+        url: /government-services/overview/
     - infobar:
-        title: Life Events
-        description: Not sure what to look out for when planning some of your major life decisions? Here are some recommendations for you.
-        button: Learn More
+        title: Search by
+        description: Planning for some of your major life decisions? Here are some recommendations for you.
+        button: Life Events
         url: /life-events/overview/
     - infopic:
         title: Download Now

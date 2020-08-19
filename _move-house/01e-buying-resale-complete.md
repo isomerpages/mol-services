@@ -10,7 +10,7 @@ third_nav_title: Buy a resale flat
 
 The process is completed with an appointment at HDB.
 
-- Check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">appointment details</a>
+You can check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB appointment details here</a> using your SingPass login.
 
 
 ### Prepare to Move in
@@ -25,4 +25,10 @@ Some other useful resources:
 - Sign up for your <a href="https://www.spgroup.com.sg/home" target="_blank">utilities account.</a> It is advised to have your utilities account activated 1 day before you do your defects check.
 - Find out more about <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes" target="_blank">Home Protection Scheme (HPS)</a>
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+### Understand your T&Cs
+
+Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/conditions-after-buying" target="_blank">Conditions after buying an HDB resale flat</a>.
+
+
+
+**Back to [I Want to Move House](/government-services/move-house/overview/)**

@@ -8,7 +8,7 @@ third_nav_title: Sell an HDB flat
 
 You and the buyer (or the salesperson) can proceed to submit the resale application after you have exercised the Option to Purchase (OTP).
 
-Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/selling-process/resale-application" target="_blank">here</a>. 
+Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application" target="_blank">here</a>. 
 *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
 
 You would also need these documents on hand:
@@ -24,6 +24,8 @@ Read more about these <a href="https://www.hdb.gov.sg/cs/infoweb/residential/sel
 
 ### What to Expect
 
+**After Submission**
+
 After submitting, you would need to endorse the documents and pay necessary fees online before your resale application can be approved. Read <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-" target="_blank">more</a> before proceeding with the submission.
 
 *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
@@ -32,4 +34,14 @@ After submitting, you would need to endorse the documents and pay necessary fees
 
 *Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+
+**During HDB appointment**
+
+Read about what to expect during your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb" target="_blank">upcoming HDB appointment</a>.
+
+ 
+Meanwhile, you could also find out how you can apply for a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">Temporary Extension of Stay</a>.
+
+
+
+**Back to [I Want to Move House](/government-services/move-house/overview/)**

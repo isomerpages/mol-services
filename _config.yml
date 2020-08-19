@@ -16,6 +16,8 @@ collections:
     output: true
   get-digitally-ready:
     output: true
+  stay-healthy:
+    output: true
 
 resources_name: media-centre
 

@@ -53,7 +53,7 @@ Some CPF tools to help you estimate CPF usage.
 
 You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants.
 
-- Find out more about the CPF Housing grants <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/cpf-housing-grants-for-hdb-flats" target="_blank">here</a>
+- Find out more about the CPF Housing grants <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/first-timer-applicants" target="_blank">here</a>
 - If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">select a flat at your appointment</a>
 
 
@@ -66,4 +66,5 @@ You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housi
 
 For more information on how to plan your finances when buying a home, do read <a href="https://www.moneysense.gov.sg/articles/2018/10/understand-the-costs-of-buying-a-home" target="_blank">this article by MoneySense.</a>
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+
+### Back to [I Want to Move House](/government-services/move-house/overview/)
