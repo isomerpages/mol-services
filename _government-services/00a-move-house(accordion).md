@@ -1,6 +1,7 @@
 ---
 title: Move House
 permalink: /overview/
+published: false
 housing-finances:
   - title: Planning your housing finances
     content: |
@@ -85,7 +86,6 @@ community-activities:
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
       - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
-published: false
 ---
 
 ## Moving House
