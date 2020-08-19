@@ -30,4 +30,4 @@ Flat buyers can apply online anytime and receive a queue number for flat booking
 
 *Tip: Already an applicant? You may check the <a href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1" target="_blank">status of your application</a> when results are announced.*
 
-**Back to [I Want to Move House](/government-services/move-house/overview/**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
