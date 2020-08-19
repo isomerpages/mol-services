@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: services.life.gov.sg
-notification: <p style="font-size:16px;font-family:poppins">Try this beta site to bring government services and resources closer to you. <a href="/feedback/">Let us know what you think!</a></p>
+notification: <p style="font-size:16px;font-family:poppins">Get LifeSG app on your mobile to access services on the go!<a href="/feedback/"></p>
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
