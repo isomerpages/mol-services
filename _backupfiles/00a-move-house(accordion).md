@@ -1,6 +1,5 @@
 ---
 title: Move House
-<<<<<<< HEAD:_backupfiles/00a-move-house(accordion).md
 permalink: /overview/
 published: false
 housing-finances:
@@ -87,9 +86,7 @@ community-activities:
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
       - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
-=======
 permalink: /government-services/move-house/overview/
->>>>>>> origin/master:_government-services/move-house/00-move-house.md
 ---
 
 ## Moving into your next home
@@ -99,12 +96,9 @@ Moving house can be a stressful time. To make it easier, we’ve gathered servic
 
 ### Options to Buying a home
 
-<<<<<<< HEAD:_backupfiles/00a-move-house(accordion).md
 ### Financing your home 
 {% include housing-finances.html %}
-=======
 - [Buying an HDB flat](/government-services/buying-a-hdb/eligibility/)
->>>>>>> origin/master:_government-services/move-house/00-move-house.md
 
 - [Buying an HDB resale](/government-services/buying-a-hdb-resale/intent-to-buy/)
 
