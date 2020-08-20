@@ -12,4 +12,5 @@ If you have an existing HDB flat and plan to buy another HDB flat, do browse thr
 
 *Tip: Check your eligibility to sell your existing HDB flat <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility" target="_blank">here.</a>*
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
