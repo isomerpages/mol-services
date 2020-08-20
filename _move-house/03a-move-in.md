@@ -21,9 +21,9 @@ Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/in
 
 ### Facing issues with your new flat or common properties? 
 
--	For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you <a href="hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs" target="_blank">here</a>.
+-	For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs" target="_blank">here</a>.
 
--	For maintenance of common properties, more information can be found <a href="hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-service-centres-and-town-councils" target="_blank">here</a>.
+-	For maintenance of common properties, more information can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance" target="_blank">here</a>.
 
 - Information on <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">Rectification works for new flats</a>
 
