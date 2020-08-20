@@ -60,7 +60,6 @@ You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housi
 ### Other housing related costs to consider
 
 - Understand <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/Learning-the-basics/Essential-Property-Tax-Information-for-HDB-Flat-Owners" target="_blank">HDB Property Tax</a>
-- <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/finance/costs-and-fees" target="_blank">Maintenance, conservancy charges and utilities</a>
 - Mortgage Insurance, or known as <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/home-protection-scheme" target="_blank">CPF Home Protection Scheme</a>
 - <a href="http://gia.org.sg/consumers/property.html" target="_blank">Home Insurance</a>
 
