@@ -1,6 +1,6 @@
 ---
 title: "An HDB Resale Buyer's Guide"
-permalink: /government-services/buying-a-hdb-resale/intent-to-buy/
+permalink: /government-services/buying-a-hdb-resale/overview/
 third_nav_title: Buy a resale flat
 ---
 
