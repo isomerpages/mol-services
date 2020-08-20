@@ -39,7 +39,7 @@ After submitting, you would need to endorse the documents and pay necessary fees
 Read about what to expect during your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb" target="_blank">upcoming HDB appointment</a>.
 
  
-Meanwhile, you could also find out how you can apply for a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay-for-sellers" target="_blank">Temporary Extension of Stay</a>.
+Meanwhile, you could also find out how you can apply for a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">Temporary Extension of Stay</a>.
 
 
 
