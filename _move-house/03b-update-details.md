@@ -2,7 +2,6 @@
 title: "Update your personal details"
 permalink: /government-services/buying-a-hdb/move-in/notify/
 third_nav_title: 4 things to know before you move in 
-published: false
 ---
 
 ## Update your personal details
