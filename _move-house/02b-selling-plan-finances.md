@@ -30,4 +30,4 @@ Also, do find out if you need to pay a <a href="https://www.hdb.gov.sg/cs/infowe
 
 Do also refer to this <a href="https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/" target="_blank">Checklist of important taxation payments</a> and fees to settle before selling your flat.
 
-**Back to [Move House Overview](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
