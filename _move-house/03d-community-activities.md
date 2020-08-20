@@ -42,7 +42,7 @@ You could discover the five community garden trails if you are staying in these 
 
 More information on <a href="https://www.nparks.gov.sg/gardening/community-in-bloom-initiative" target="_blank">Community in Bloom initiative</a>.
 
-Or you could head out to explore the <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network" target="_blank">park connector network</a> loop for a 'City in Nature' experience.
+Or you could head out for a 'City in Nature' experience by exploring the <a href="https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network" target="_blank">neighborhood Park Connector Network</a> loop nearest to you. 
 
 
 
