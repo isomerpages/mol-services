@@ -17,7 +17,7 @@ Please ensure that you have secured sufficient financing for your next flat purc
 
 Consider the costs & fees involved in selling your home (e.g. Stamp duty, legal fees, property tax) when deciding your selling price
 
-Find out what these <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees" target="_blank">costs and fees</a> could be, which requires payment upon selling your flat.
+Find out what these <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees" target="_blank">costs and fees</a> could be, which requires payment upon selling your flat.
 
 Do also <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement" target="_blank">check the amount of CPF monies to be refunded</a> to your CPF Ordinary Account (OA) after your sale.
 
