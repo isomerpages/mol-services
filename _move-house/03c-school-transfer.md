@@ -17,10 +17,10 @@ For preschool enrolment and application, you would need to contact the respectiv
 
 ### MOE School transfers
 
-To transfer your children to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/ target="_blank">here</a>.
+To transfer your children to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
 
 
-For other levels, you would need to contact the respective schools to find out more. You can <a href="https://beta.moe.gov.sg/schoolfinder/ target="_blank">search for the list of schools in your area</a>.
+For other levels, you would need to contact the respective schools to find out more. You can <a href="https://beta.moe.gov.sg/schoolfinder/" target="_blank">search for the list of schools in your area</a>.
 
 
 
