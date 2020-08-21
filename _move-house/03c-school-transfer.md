@@ -1,10 +1,10 @@
 ---
 title: "Confirm school arrangements"
 permalink: /government-services/buying-a-hdb/move-in/arrangements/
-third_nav_title: 4 things to know before you move in  
+third_nav_title: 4 things to plan before moving
 ---
 
-## Confirm your children's school arrangements
+## Confirm the children's school arrangements
 
 ### Preschool and Childcare
 
