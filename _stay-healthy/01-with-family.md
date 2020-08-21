@@ -6,7 +6,7 @@ permalink: /government-services/stay-healthy/with-family/
 ## Being Healthy with my family
 
 
-### Get your health checks regularly
+### Do regular health checkups with your family
 
 It is recommended to keep track of your health through regular screenings. <a href="https://eservices.healthhub.sg/PersonalHealth/ScreeningEligibility" target="_blank">Check your eligibility for subsidised screenings</a> using your SingPass login.
 
