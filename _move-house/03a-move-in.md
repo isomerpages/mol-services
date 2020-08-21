@@ -1,7 +1,7 @@
 ---
 title: "Make your home ready to live in"
 permalink: /government-services/buying-a-hdb/move-in/
-third_nav_title: 4 things to know before you move in
+third_nav_title: 4 things to plan before moving
 ---
 
 ## Make your home ready to live in
