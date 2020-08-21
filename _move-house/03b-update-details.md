@@ -1,7 +1,7 @@
 ---
 title: "Update my personal details"
 permalink: /government-services/buying-a-hdb/move-in/notify/
-third_nav_title: 4 things to plan before moving 
+third_nav_title: Things to plan before moving in
 ---
 
 ## Update my personal details
