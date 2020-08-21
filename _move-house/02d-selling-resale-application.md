@@ -8,7 +8,7 @@ third_nav_title: Sell an HDB flat
 
 You and the buyer (or the salesperson) can proceed to submit the resale application after you have exercised the Option to Purchase (OTP).
 
-Do check if you have the necessary documents <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application" target="_blank">here</a>. 
+Details on the application process can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application" target="_blank">here</a>. 
 *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
 
 You would also need these documents on hand:

@@ -60,8 +60,10 @@ If you don't have an LPA and you lose mental capacity, your family member is not
 
 See Also: <a href="https://www.mylegacy.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/" target="_blank">Step-by-step guide to make a Lasting Power of Attorney (LPA)</a>.
 
-Looking for a provider to help you with your LPA? Click <a href="https://www.mylegacy.gov.sg/find-a-service/find-lasting-power-of-attorney-certificate-issuer/" target="_blank">here</a> for the listing. Do note that it would cost between $25 and $80 to get your LPA certified.
+
+Looking for a provider to help you with your LPA? See <a href="https://www.mylegacy.gov.sg/find-a-service/find-lasting-power-of-attorney-certificate-issuer/" target="_blank">here</a> for the listing of certified issuers. Do note that it would cost between $25 and $80 to get your LPA certified.
 
 
 
-**Back to [I want to Plan My Legacy](/government-services/plan-legacy/overview/)**
+
+**Back to [I Want to Plan My Legacy](/government-services/plan-legacy/overview/)**

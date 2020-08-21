@@ -1,7 +1,6 @@
 ---
 title: Move House
 permalink: /overview/
-published: false
 housing-finances:
   - title: Planning your housing finances
     content: |
@@ -86,32 +85,42 @@ community-activities:
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
       - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
-permalink: /government-services/move-house/overview/
 ---
 
-## Moving into your next home
+## Moving House
 
+Moving house can be a stressful time. To make it easier, we've gathered services and transactions you may need.
 
-Moving house can be a stressful time. To make it easier, we’ve gathered services and transactions you may need.
+Browse our selection to help you locate the transactions relevant to you.
 
-### Options to Buying a home
 
 ### Financing your home 
 {% include housing-finances.html %}
-- [Buying an HDB flat](/government-services/buying-a-hdb/eligibility/)
 
-- [Buying an HDB resale](/government-services/buying-a-hdb-resale/intent-to-buy/)
+
+### Finding your next home
+{% include buying-hdb.html %}
 
 
 ### Selling your current home
+{% include selling-hdb.html %}
 
-- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
 
 ### Moving In
-
-- [Moving In Checklist](/government-services/buying-a-hdb/move-in/)
-
+{% include checklist.html %}
 
 
-**Back to [Government Services Overview](/government-services/overview/)**
+### Staying informed of other housing-related finances for your new home
+{% include other-finances.html %}
 
+
+### Re-arranging Childcare and other education services
+{% include education.html %}
+
+
+### Finding activities nearby
+{% include community-activities.html %}
+
+
+
+**Back to [I Want to...](/government-services/overview/)**

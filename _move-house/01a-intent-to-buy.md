@@ -37,7 +37,7 @@ Consider these factors when evaluating the flat options you intend to buy:
 
 Do use the <a href="https://services2.hdb.gov.sg/web/fi10/emap.html" target="_blank">HDB Map Services</a> to obtain these information by keying in the postal code or flat details.
 
-See also: [Detailed guide on managing your flat purchase with an appointed estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/ways-to-buy)
+See also: [Detailed guide on managing your flat purchase with an appointed estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase)
 
 
 ### What happens after

@@ -11,19 +11,23 @@ Browse the curated listing of services and transactions grouped based on life ev
 
 ### Growing and Caring for my Family
   
-- Buying your next home
-  - [From HDB](/government-services/buying-a-hdb/eligibility/)
-  - [From resale market](/government-services/buying-a-hdb-resale/intent-to-buy/)
-- [Selling your HDB flat](/government-services/selling-a-hdb/overview/)
-- [Moving in](/government-services/buying-a-hdb/move-in/)
+
+- Finding my next home
+  - <a href="/government-services/buying-a-hdb/overview/" target="_blank">Buying from HDB</a>
+  - <a href="/government-services/buying-a-hdb-resale/overview/" target="_blank">Buying from resale market</a>
+- <a href="/government-services/selling-a-hdb/overview/" target="_blank">Selling your HDB flat</a>
+- <a href="/government-services/buying-a-hdb/move-in/" target="_blank">Moving house with family</a>
+- <a href="/government-services/stay-healthy/with-family/" target="_blank">Having a Healthy Family</a>
+- <a href="/government-services/stay-healthy/subsidies-assistance/" target="_blank">Managing my family's healthcare costs</a>
+
 
 ---
 
 ### Planning Ahead for Silver Years
 
-- [Planning for your retirement](/government-services/plan-for-retirement/finances/)
-- [Protecting and planning your legacy](/government-services/plan-my-legacy/plan-ahead/)
-- [Staying ahead in a digital society](/government-services/get-digitally-ready/digital-access/)
+- <a href="/government-services/plan-for-retirement/finances/" target="_blank">Planning for your retirement</a>
+- <a href="/government-services/plan-my-legacy/plan-ahead/" target="_blank">Protecting and planning your legacy</a>
+- <a href="/government-services/get-digitally-ready/digital-access/" target="_blank">Staying ahead in a digital society</a>
 
 ---
 

@@ -22,14 +22,15 @@ A computerised system conducts basic checks on all applications received and put
 
 Your chances of being balloted may be improved through priority schemes or other privileges, if you are a first-timer applicants and/or have urgent housing needs.<br>
 
-Find out
-  - if you qualify as a first-timer applicant <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">here</a>
-  - About the various priority schemes and how you may qualify <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes" target="_blank">here</a>
-  
-  
-### Quick Link to Eligibility checker
-
 Use this <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">eService</a> to do a quick check on your eligibility to buy a flat from HDB.
+
+
+### Related Links
+  - <a href="https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes" target="_blank">Other priority schemes and how you may qualify</a>
+  
+  
+
+
 
 
 
