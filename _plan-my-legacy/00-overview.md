@@ -56,9 +56,7 @@ A lasting power of attorney (LPA) is a legal document that allows you (the 'dono
 
 If you don't have an LPA and you lose mental capacity, your family member is not automatically given the right to make legal decisions on your behalf. Your family member will have to apply to Court to be appointed as your deputy, before they are authorised to make decisions and act on your behalf.This can hinder their ability to care for you.
 
-*Tip: If you are ready to make your ACP, you may use this <a href="https://www.mylegacy.gov.sg/lpa-acp-tool/" target="_blank">tool</a> here to fill out both your LPA and ACP forms online. After your form has been completed with the ACP facilitator, both you and your selected healthcare spokesperson(s) need to sign the completed form.*
-
-See Also: <a href="https://www.mylegacy.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/" target="_blank">Step-by-step guide to make a Lasting Power of Attorney (LPA)</a>.
+See Also: <a href="https://www.mylegacy.gov.sg/end-of-life-planning/make-a-lasting-power-of-attorney/" target="_blank">Step-by-step guide to make a Lasting Power of Attorney (LPA) </a>where you find more information and a 1-minute tool to help you make your LPA and ACP online.
 
 
 Looking for a provider to help you with your LPA? See <a href="https://www.mylegacy.gov.sg/find-a-service/find-lasting-power-of-attorney-certificate-issuer/" target="_blank">here</a> for the listing of certified issuers. Do note that it would cost between $25 and $80 to get your LPA certified.
