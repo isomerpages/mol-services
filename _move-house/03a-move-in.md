@@ -6,7 +6,7 @@ third_nav_title: Things to plan before moving in
 
 ## Make my home ready to live in
 
-### Renovating and Refurbishing your new home
+### Renovating and refurbishing your new home
 
 Before you start your renovation, do remember to apply for your renovation permit at HDB <a href="https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">here</a>. 
 
