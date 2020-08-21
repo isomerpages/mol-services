@@ -39,7 +39,6 @@ img {
   </tr>
   <tr>
     <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
-    <td class="tg-baqh"><a href="/government-services/stay-healthy/overview/"><img src="/images/09-stay-healthy.png" alt="Healthcare"></a></td>
   </tr>
 </tbody>
 </table>
@@ -66,10 +65,11 @@ table, tr, td {
 <tbody>
   <tr>
     <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
-    <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Marriage"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Coming Soon"></td>
+    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
+    <td class="tg-baqh"><img src="/images/09-stay-healthy(coming soon).png" alt="Healthcare"></a></td>
   </tr>
 </tbody>
 </table>
