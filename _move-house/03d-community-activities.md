@@ -1,11 +1,13 @@
 ---
-title: "Explore your neighborhood"
+title: "Explore the new neighborhood"
 permalink: /government-services/buying-a-hdb/move-in/activities/
-third_nav_title: 4 things to know before you move in 
+third_nav_title: 4 things to plan before you moving 
 ---
 
-## Explore your neighborhood 
+## Explore the new neighborhood 
+
 Participating in your community can help you and your family to transit and to get to know your neighbors better.
+
 
 ### Find the latest events and programmes at your nearest library
 
