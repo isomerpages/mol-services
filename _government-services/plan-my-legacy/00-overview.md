@@ -1,9 +1,9 @@
 ---
-title: Plan your Legacy
+title: Plan My Legacy
 permalink: /government-services/plan-legacy/overview/
 ---
 
-## Plan your Legacy
+## Plan My Legacy
 
 We all want to leave the best for our family after our time ends on this world. 
 
