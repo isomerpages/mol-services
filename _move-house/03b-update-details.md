@@ -14,5 +14,4 @@ As a resident in Singapore, you may bring your current NRIC and <a href="https:/
 
 More information on how to update your residential address at ICA <a href()
 
-
-**Back to [I Want to Move House](/government-services/move-house/overview/)**
+**Back to [I Want to Move House](/government-services/move-house/overview)**

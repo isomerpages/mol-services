@@ -2,7 +2,6 @@
 title: Moving In Checklist
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: Move into my new HDB home
-published: false
 ---
 
 ## Moving In Checklist
@@ -26,7 +25,7 @@ For more information on servicing your housing loan with HDB, you may find out m
 - <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">Application for Partial Capital Repayment of Housing Loan</a>
 - Statement of Account for Housing Loan (*You can retrieve your online statement of account from our HDB InfoWEB via <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">My HDBPage</a> using your SingPass.*)
 
-For more information on servicing your housing loan with HDB, you may find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/more-information-on-your-hdb-housing-loan">here.</a>
+For more information on servicing your housing loan with HDB, you may find out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-loan">here.</a>
 
 ### Understand your Property Tax obligations
 
@@ -40,7 +39,7 @@ Learn more about <a href="https://www.iras.gov.sg/irashome/Property/Property-own
 
 ### Season Parking
 
-If you are a driver or own a car, you may wish to <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/application-procedure" target="_blank">apply new/transfer your existing season parking</a> to your new area. (Fees applies)
+If you are a driver or own a car, you may wish to <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking-ticket/application-procedure" target="_blank">apply new/transfer your existing season parking</a> to your new area. (Fees applies)
 
 ## Some maintenance tips for your new home
 

@@ -42,4 +42,5 @@ Some tools to help you estimate your CPF usage for your housing:
 
 - A <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate" target="_blank">1-minute tool</a> to estimate the monthly instalment payable on a housing loan
 
+
 **Back to [I Want to Move House](/government-services/move-house/overview/)**

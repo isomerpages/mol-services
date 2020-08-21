@@ -24,4 +24,5 @@ For other levels, you would need to contact the respective schools to find out m
 
 
 
-**Back to [I Want to Move House](/government-services/move-house/overview)**
+**Back to [I Want to Move House](/government-services/move-house/overview/)**
+

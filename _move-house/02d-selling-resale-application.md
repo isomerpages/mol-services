@@ -34,6 +34,7 @@ After submitting, you would need to endorse the documents and pay necessary fees
 
 *Tip: Do note that it takes about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
 
+
 **During HDB appointment**
 
 Read about what to expect during your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb" target="_blank">upcoming HDB appointment</a>.

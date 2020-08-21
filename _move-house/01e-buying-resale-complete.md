@@ -10,7 +10,7 @@ third_nav_title: Buy a resale flat
 
 The process is completed with an appointment at HDB.
 
-- Check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">your appointment details</a>
+You can check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB appointment details here</a> using your SingPass login.
 
 
 ### Prepare to Move in

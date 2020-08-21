@@ -11,7 +11,6 @@ Read <a href="https://www.mylegacy.gov.sg/end-of-life-planning/organise-importan
 
 
 ### Storing these documents in myLegacy Vault
-
 Wills and other planning ahead documents would only be most useful if your loved ones are able to access them when they need it.<br>
 
 Store your important documents in your <a href="https://www.mylegacy.gov.sg/vault" target="_blank">Legacy Vault</a> with your SingPass.<br>
