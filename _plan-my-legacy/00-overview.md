@@ -1,5 +1,5 @@
 ---
-title: Plan your Legacy
+title: Plan My Legacy
 permalink: /government-services/plan-my-legacy/plan-ahead/
 ---
 
