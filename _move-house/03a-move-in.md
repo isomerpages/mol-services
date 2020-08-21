@@ -1,10 +1,10 @@
 ---
-title: "Getting ready"
+title: "Get my home ready to live in"
 permalink: /government-services/buying-a-hdb/move-in/
 third_nav_title: 4 things to plan before moving
 ---
 
-## Make my home ready to live in
+## Get my home ready to live in
 
 ### Renovating & Refurbishing your new home
 
@@ -13,7 +13,8 @@ Before you start your renovation, do remember to apply for your renovation permi
 More information and guidelines on renovating your HDB flat can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/guidelines" target="_blank">here</a>.
 
 
-### Apply for your HDB season parking 
+### Apply or transfer season parking for your vehicle
+
 If you own a vehicle and would like to transfer your season parking, you can apply <a href="https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp" target="_blank">here</a>. For new application, you may log in to this <a href="https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp" target="_blank">eService</a> with your SingPass. 
 
 Details on HDB Season Parking can be found <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/application-procedure" target="_blank">here</a>.
