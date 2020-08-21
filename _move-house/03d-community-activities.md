@@ -1,7 +1,7 @@
 ---
 title: "Explore the new neighborhood"
 permalink: /government-services/buying-a-hdb/move-in/activities/
-third_nav_title: 4 things to plan before moving 
+third_nav_title: Things to plan before moving in
 ---
 
 ## Explore the new neighborhood 
