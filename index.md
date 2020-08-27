@@ -41,3 +41,4 @@ sections:
         button: Install LifeSG app 
         url: https://go.life.gov.sg/tgzE
 ---
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>

@@ -2,6 +2,7 @@
 title: Life Events
 permalink: /life-events/overview/
 ---
+<script src="https://assets.dcube.cloud/scripts/wogaa.js"></script>
 
 ## Life Events 
 
