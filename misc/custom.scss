@@ -11,8 +11,6 @@
 }
 @charset "utf-8";
 
-@import "node_modules/govuk-frontend/govuk/all";
-
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
