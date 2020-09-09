@@ -5,7 +5,7 @@ eligibility-checker:
   - title: Check for eligibility
     content: |
         - [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
-plan-finances:
+housing-finances:
   - title: Work out your finances
       content: |
         - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
@@ -108,7 +108,7 @@ Use this list below to guide your journey in getting a new home.
 
 
 ### TWO
-{% include plan-finances.html %}
+{% include housing-finances.html %}
 
 
 ### THREE
