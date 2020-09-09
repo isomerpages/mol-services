@@ -66,14 +66,14 @@
         list-style-type: decimal; 
         border-top: 0; 
     }
-    </style>
+</style>
     
-    <ul class="jekyllcodex_accordion">
-        {% for item in page.eligibility-checker %}
-            <li><input id="eligibility-checker{{ forloop.index }}" type="checkbox" /><label for="eligibility-checker{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
-        {% endfor %}
-    </ul>
+<ul class="jekyllcodex_accordion">
+    {% for item in page.eligibility-checker %}
+        <li><input id="eligibility-checker{{ forloop.index }}" type="checkbox" /><label for="eligibility-checker{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% endfor %}
+</ul>
     
-    <script src="/jquery/jquery.min.js"></script>
-    <script src="/jquery/scroll-top.js"></script>
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/scroll-top.js"></script>
     

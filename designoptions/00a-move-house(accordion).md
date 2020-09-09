@@ -4,42 +4,42 @@ permalink: /overview/v2/
 eligibility-checker:
   - title: Check for eligibility
     content: |
-        - [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
+      - [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
 housing-finances:
   - title: Work out your finances
-      content: |
-        - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
-        - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-        - [Information on Housing loans from Banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}  
-        - [Check eligibility for Contra-payment facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"}
-        - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
-        - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
-        - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
+    content: |
+      - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
+      - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
+      - [Information on Housing loans from Banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}  
+      - [Check eligibility for Contra-payment facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"}
+      - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
+      - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
+      - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
 housing-options:
   - title: Decide your housing options
     content: |
-        - [Information on HDB Flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
-        - [Check upcoming HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
-        - [Sign up for free HDB alert service](http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp){:target="_blank"}
- buying-process:
-   - title: Apply for a flat from HDB
+      - [Information on HDB Flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
+      - [Check upcoming HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
+      - [Sign up for free HDB alert service](http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp){:target="_blank"}
+buying-process:
+  - title: Apply for a flat from HDB
     content: |       
-        - [Apply for a Build-To-Order/Sale of Balance Flat](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
-        - [Apply for Open Booking of flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}
-        - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"}
-        - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"}
- resale-process:
+      - [Apply for a Build-To-Order/Sale of Balance Flat](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
+      - [Apply for Open Booking of flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}
+      - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"}
+      - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"}
+resale-process:
   - title: Buy an HDB resale
     content: |
-       - [Get information on the HDB resale process as a Buyer](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures){:target="_blank"}
-       - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
-       - [Check flat details when evaluating options](https://services2.hdb.gov.sg/web/fi10/emap.html){:target="_blank"}
-       - [Check HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics){:target="_blank"}
-       - [Receive Option to Purchase (OTP) from Seller with the agreed price](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/option-to-purchase){:target="_blank"}
-       - [How to engage an estate agent](https://www.cea.gov.sg/4steps/){:target="_blank"}
+      - [Get information on the HDB resale process as a Buyer](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures){:target="_blank"}
+      - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
+      - [Check flat details when evaluating options](https://services2.hdb.gov.sg/web/fi10/emap.html){:target="_blank"}
+      - [Check HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics){:target="_blank"}
+      - [Receive Option to Purchase (OTP) from Seller with the agreed price](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/option-to-purchase){:target="_blank"}
+      - [How to engage an estate agent](https://www.cea.gov.sg/4steps/){:target="_blank"}
       - [Submit Resale Application on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application){:target="_blank"}
-       - [Check status of your resale application](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
-       - [Acknowledge and endorse resale documents (fees applicable)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application){:target="_blank"}
+      - [Check status of your resale application](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
+      - [Acknowledge and endorse resale documents (fees applicable)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application){:target="_blank"}
       - [Complete Resale Transaction at HDB appointment](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-completion-){:target="_blank"}
 selling-process:
   - title: Sell your current HDB flat to a buyer (Open Market)
@@ -65,7 +65,7 @@ before-move:
 moving-in:
   - title: Notify change of address
     content: |
-        [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} 
+      - [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} 
   - title: Season Parking
     content: |
       - [Apply for New Season Parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp){:target="_blank"}
@@ -94,14 +94,12 @@ related-content:
       - [Apply for/Adjust Home Protection Scheme (HPS) Cover](https://www.cpf.gov.sg/eSvc/Web/Schemes/ApplyOrAdjustHpsCover/ImportantNotes){:target="_blank"}
       - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
-
 ---
 
 ## Moving House
 
 Moving house can be a stressful time with several tasks on hand to keep track of.
 Use this list below to guide your journey in getting a new home.
-
 
 ### ONE
 {% include eligibility-checker.html %}
