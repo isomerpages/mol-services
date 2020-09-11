@@ -3,6 +3,15 @@ title: "Update my personal details"
 permalink: /government-services/buying-a-hdb/move-in/notify/
 third_nav_title: Things to plan before moving in
 ---
+Contents
+
+- [Overview](/overview/v2/)
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- Moving-in
+
+---------------------------------------
 
 ## Update my personal details
 

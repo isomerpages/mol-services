@@ -4,6 +4,16 @@ permalink: /government-services/buying-a-hdb/book-flat/
 third_nav_title: Buy a flat from HDB
 ---
 
+Contents
+
+- [Overview](/overview/v2/)
+- Buying an HDB flat
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
+
 ## Step 5 : Book a Flat
 
 You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat.

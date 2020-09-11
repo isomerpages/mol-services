@@ -4,6 +4,16 @@ permalink: /government-services/buying-a-hdb-resale/OTP/
 third_nav_title: Buy a resale flat
 ---
 
+Contents
+
+- [Overview](/overview/v2/)
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- Buying an HDB Resale flat
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
+
 ## Step 2 : Get Option to Purchase (OTP)
 
 ### Decide if you prefer to get it done yourself or with an agent

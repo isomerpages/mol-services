@@ -1,12 +1,14 @@
 ---
-title: Housing Journey
-permalink: /overview/v2/
+title: I Want to Move House
+permalink: /move-house/v2/
 eligibility-checker:
   - title: Check for eligibility
     content: |
-      - [Check eligibility to buy an HDB flat and/or get HDB Housing Loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
+      - [Check your eligibility to buy an HDB flat](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
+      - [Understand HDB Priority Schemes and how you may apply](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes){:target="_blank"}
+      - [Information about Eligibilty schemes according to HDB flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility){:target="_blank"}
 housing-finances:
-  - title: Work out your finances
+  - title: Plan your finances
     content: |
       - [Apply for HDB Housing Loan Eligibility letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"}
       - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
@@ -16,10 +18,10 @@ housing-finances:
       - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
       - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
 housing-options:
-  - title: Decide your housing options
+  - title: Decide your preferred housing options
     content: |
-      - [Information on HDB Flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
       - [Check upcoming HDB sales launches](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
+      - [Information on HDB Flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
       - [Sign up for free HDB alert service](http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp){:target="_blank"}
 buying-process:
   - title: Apply for a flat from HDB
@@ -29,7 +31,7 @@ buying-process:
       - [Check status of your HDB application](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"}
       - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"}
 resale-process:
-  - title: Buy an HDB resale
+  - title: Buy an HDB resale flat
     content: |
       - [Get information on the HDB resale process as a Buyer](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures){:target="_blank"}
       - [Register Intent to buy on HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
@@ -42,7 +44,7 @@ resale-process:
       - [Acknowledge and endorse resale documents (fees applicable)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application){:target="_blank"}
       - [Complete Resale Transaction at HDB appointment](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-completion-){:target="_blank"}
 selling-process:
-  - title: Sell your current HDB flat to a buyer (Open Market)
+  - title: Sell your current HDB flat 
     content: |
       - [Register the Intent to Sell your HDB flat on HDB Resale Portal](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell){:target="_blank"}
       - [Grant Option to Purchase (OTP) to Buyer](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
@@ -51,7 +53,7 @@ selling-process:
       - [Endorse resale documents and pay resale fees](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-){:target="_blank"}
       - [Complete Resale Transaction at HDB appointment](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
 before-move:
-  - title: Getting your new home ready
+  - title: Get your new home ready
     content: |
       - [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}
       - [Apply for renovation approval](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval){:target="_blank"}
@@ -63,19 +65,19 @@ before-move:
       - [Register your child in Primary One Registration Exercise](beta.moe/gov.sg/primary/p1-registration){:target="_blank"}
       - [Search for a preschool nearby](https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD){:target="_blank"}
 moving-in:
-  - title: Notify change of address
+  - title: Notify your change of address
     content: |
       - [Update address on NRIC/FIN](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} 
-  - title: Season Parking
+  - title: Confirm vehicle arrangements in new estate
     content: |
       - [Apply for New Season Parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp){:target="_blank"}
       - [Check Season Parking Information](https://services2.hdb.gov.sg/webapp/BN22CpkVcncy/BN22SeasonParkInfoSearch.jsp){:target="_blank"}
       - [Renew Season Parking](https://services2.hdb.gov.sg/webapp/BN22ERENEW/BN22PRenewTerms.jsp){:target="_blank"}
-  - title: Town Council matters
+  - title: Understand Town Council and related matters
     content: |
-      - [Know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil){:target="_blank"}
-      - [Understanding common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
-  - title: Know your neighborhood
+      - [Get to know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil){:target="_blank"}
+      - [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
+  - title: Explore your neighborhood
     content: |
       - [Find nearby amenities](https://services2.hdb.gov.sg/web/fi10/emap.html){:target="_blank"}
       - [Check out upcoming community events near you](http://www20.hdb.gov.sg/fi10/fi10341p.nsf/new-and-upcoming-events?OpenForm){:target="_blank"}
@@ -86,7 +88,7 @@ moving-in:
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
       - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
-related-content:
+related-housing-content:
   - title: Other housing-related finances
     content: |
       - [Apply for Redemption of Housing loan](https://services2.hdb.gov.sg/webapp/AB03AWRedemptionWeb/AB03SRedemption){:target="_blank"}
@@ -96,10 +98,11 @@ related-content:
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
 ---
 
-## Moving House
+## Overview
 
-Moving house can be a stressful time with several tasks on hand to keep track of.
-Use this list below to guide your journey in getting a new home.
+The entire journey of finding a new home, selling your home then moving can be stressful. The process can take up to years depending on circumstances.
+
+Here are some general steps to guide you:
 
 ### ONE
 {% include eligibility-checker.html %}
@@ -133,9 +136,18 @@ Use this list below to guide your journey in getting a new home.
 {% include moving-in.html %}
 
 
-### YOU MIGHT ALSO BE INTERESTED IN
-{% include related-content.html %}
+## Related Contents 
+{% include related-housing-content.html %}
 
 
+## Suggested for you:
+
+- Overview
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
 
 **Back to [I Want to...](/government-services/overview/)**
