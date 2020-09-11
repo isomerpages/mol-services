@@ -97,7 +97,17 @@ related-housing-content:
       - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
 ---
+# IN THIS GUIDE
 
+You can find:
+
+- Overview
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
 ## Overview
 
 The entire journey of finding a new home, selling your home then moving can be stressful. The process can take up to years depending on circumstances.
@@ -136,18 +146,20 @@ Here are some general steps to guide you:
 {% include moving-in.html %}
 
 
+---------------------------------------
+
+**PREVIOUS**
+[I Want to...](/government-services/overview/)
+
+---------------------------------------
+**NEXT**
+[Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+
+---------------------------------------
 ## Related Contents 
 {% include related-housing-content.html %}
 
 
-## Suggested for you:
+## Suggested Topics
 
-- Overview
-- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
-- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
-- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Moving-in](/government-services/buying-a-hdb/move-in/)
-
----------------------------------------
-
-**Back to [I Want to...](/government-services/overview/)**
+- [Growing and Caring for your Family](/life-events/overview/)
