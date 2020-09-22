@@ -4,9 +4,18 @@ permalink: /move-house/v2/
 eligibility-checker:
   - title: Check for eligibility
     content: |
-      - [Check your eligibility to buy an HDB flat](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}
-      - [Understand HDB Priority Schemes and how you may apply](https://hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes){:target="_blank"}
-      - [Information about Eligibilty schemes according to HDB flat types](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility){:target="_blank"}
+      Different HDB types may have different eligibility conditions:
+
+        - [2-room Flexi](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/2-room-flexi-flat){:target="_blank}
+        *[Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]*<br>
+        - [HDB Flat (3-room flats and bigger)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank}
+        - [Executive Condominium (EC)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/executive-condominiums){:target="_blank}
+
+      You can [check your eligibility to buy an HDB flat](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}.
+
+      A computerised balloting system will determine your queue number for selection of flats. Your chances may be improved through HDB priority schemes.
+
+      [Find out more](/government-services/buying-a-hdb/eligibility/){:target="_blank"}
 housing-finances:
   - title: Plan your finances
     content: |
@@ -97,32 +106,23 @@ related-housing-content:
       - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
       - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
 ---
-# IN THIS GUIDE
-
-You can find:
-
-- Overview
-- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
-- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
-- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Moving-in](/government-services/buying-a-hdb/move-in/)
 
 ---------------------------------------
-## Overview
+## <a name="top"></a>I Want to Move House
 
 The entire journey of finding a new home, selling your home then moving can be stressful. The process can take up to years depending on circumstances.
 
-Here are some general steps to guide you:
+Here are some general steps:
 
-### ONE
+### ELIGIBILITY 
 {% include eligibility-checker.html %}
 
 
-### TWO
+### HOUSING FINANCES
 {% include housing-finances.html %}
 
 
-### THREE
+### SELECTING HOUSING TYPES
 {% include housing-options.html %}
 
 
@@ -146,20 +146,31 @@ Here are some general steps to guide you:
 {% include moving-in.html %}
 
 
+## Related Contents 
+{% include related-housing-content.html %}
+
+## Explore more:
+
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+## Suggested Topics
+
+- [Growing and Caring for your Family](/life-events/overview/)
+
 ---------------------------------------
 
 **PREVIOUS**
 [I Want to...](/government-services/overview/)
 
 ---------------------------------------
-**NEXT**
-[Buying an HDB flat](/government-services/buying-a-hdb/overview/)
 
----------------------------------------
-## Related Contents 
-{% include related-housing-content.html %}
+This page will be updated as additional schemes and measures are introduced.
 
+Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-## Suggested Topics
-
-- [Growing and Caring for your Family](/life-events/overview/)
+Last updated: 22 September 2020
+ 
+[Back to top](#top)
