@@ -86,11 +86,8 @@ buying-process:
   - title: <a name="book"></a>Book your preferred flat unit
     content: | 
       You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat. You will also be invited to [apply housing grants](#grants) if eligible.
-
-      The option fees depends on the type of flat you choose.
-        - $500 for 2-room flexi flats
-        - $1,000 for 3-room flats 
-        - $2,000 for 4 room or larger flats
+      
+      The [option fees](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees){:target="_blank"} depends on the type of flat you choose (e.g. $1000 for 3-room flats and $2000 for 4-room or larger flats).
       
   - title: <a name="sign"></a>Sign Agreement for Lease
     content: | 
