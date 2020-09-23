@@ -44,7 +44,7 @@ housing-finances:
         You can also take [housing loans from Financial Institutions (e.g. banks)](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
   - title: What is Contra Payment Facility
     content: |
-      [Contra Payment Facility]((https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
+      [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
         - Reduce the cash outlay needed for your flat
         - Reduce the housing loan amount needed and the subsequent monthly repayments (thereby saving on interest payments)
         - Collect the keys to your flat while selling your existing flat<br>
@@ -67,12 +67,12 @@ buying-process:
     content: | 
       A typical process and timeline when buying a flat from HDB is as follows:
 
-        - Announcement of [Sales Launches]
-        - [Application Period](#apply) (usually 1 week from announcement date, to be done online)
-        - [Notification of Ballot Results](#results) (about 3 weeks for BTO and 6 weeks for Sales of Balance Flats)
-        - [Booking of Flat](#book)
-        - [Signing of Lease Agreement](#sign)
-        - [Keys Collection](#keys)
+        - Announcement of [Sales Launches](#sales)
+        - [Application Period](#apply) (usually 1 week from announcement date)
+        - [Notification of Ballot Results](#results) (about 3 weeks for BTO; 6 weeks for Sales of Balance Flats)
+        - [Booking of Flat](#book)(depends on your queue position)
+        - [Signing of Lease Agreement](#sign)(within 4 months of booking a flat)
+        - [Keys Collection](#keys)(by the Estimated Completed Date indicated on Lease Agreement)
 
   - title: <a name="apply"></a>How to Apply
     content: |
