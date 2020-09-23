@@ -33,7 +33,7 @@ eligibility-checker:
       [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale).
 
 housing-finances:
-  - title: Eligibilty Conditions for HDB Housing Loan
+  - title: Eligibility Conditions for HDB Housing Loan
     content: |
       HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. [Check your eligibility](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. 
   - title: How to apply
