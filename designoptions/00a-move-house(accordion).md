@@ -48,7 +48,7 @@ housing-finances:
         - Reduce the cash outlay needed for your flat
         - Reduce the housing loan amount needed and the subsequent monthly repayments (thereby saving on interest payments)
         - Collect the keys to your flat while selling your existing flat<br>
-  - title: CPF housing grants
+  - title: <a name="grants"></a>CPF housing grants
     content: |
       You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants.
 
@@ -65,24 +65,19 @@ housing-finances:
 buying-process:
   - title: Process and Timeline
     content: | 
-      A typical process and timeline when buying a flat from HDB is as follows:
-
         - Announcement of [Sales Launches](#sales)
         - [Application Period](#apply) (usually 1 week from announcement date)
         - [Notification of Ballot Results](#results) (about 3 weeks for BTO; 6 weeks for Sales of Balance Flats)
         - [Booking of Flat](#book)(depends on your queue position)
         - [Signing of Lease Agreement](#sign)(within 4 months of booking a flat)
         - [Keys Collection](#keys)(by the Estimated Completed Date indicated on Lease Agreement)
-
   - title: <a name="apply"></a>How to Apply
     content: |
       You may apply for a flat in the following purchase modes
         - [Build-To-Order/Sale of Balance Flats](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
 
-        - [Open Booking of Flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}
-        *You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.*
-
-      [Do check your eligibility](#eligibility).
+        - [Open Booking of Flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}<br>
+       *You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.*
   - title: <a name="results"></a>Check Application Status
     content: |        
       If you are already an applicant, you can log in to My HDBPage via SingPass to 
@@ -90,20 +85,18 @@ buying-process:
         - [Check your HDB appointment details](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"}
   - title: <a name="book"></a>Book your preferred flat unit
     content: | 
-      The selection exercise commences 1 to 2 weeks from the release of the ballot results and is dependent on your queue position.
-
-      You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat.
+      You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat. You will also be invited to [apply housing grants](#grants) if eligible.
 
       The option fees depends on the type of flat you choose.
         - $500 for 2-room flexi flats
         - $1,000 for 3-room flats 
         - $2,000 for 4 room or larger flats
-      If you have booked a flat, you can also apply for [housing grants](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/cpf-housing-grants-for-hdb-flats){:target="_blank"}
+      
   - title: <a name="sign"></a>Sign Agreement for Lease
     content: | 
-      This is usually within four months from the date of booking a flat, and downpayment will be required at this stage.
+      A downpayment will be required at this stage.
 
-      You may also be eligible to use the [Staggered Downpayment Scheme](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme){:target="_blank"} to split your downpayment into 2 instalments.(1st half when signing the Lease and the remaining amount when collecting your keys)
+      You may also be eligible for [Staggered Downpayment Scheme](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme){:target="_blank"} to split your downpayment into 2 instalments.(1st half when signing the Lease and the remaining amount when collecting your keys)
   - title: <a name="keys"></a>Collect your keys
     content: | 
       Check your HDB appointment online to know when to collect your keys <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here.</a><br>
