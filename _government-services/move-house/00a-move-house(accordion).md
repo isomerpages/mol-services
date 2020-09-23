@@ -1,6 +1,6 @@
 ---
 title: Move House
-permalink: /move-house/v2/
+permalink: /government-services/move-house/v2/
 third_nav_title Design Option 2
 housing-options:
   - title: Types of HDB flats
