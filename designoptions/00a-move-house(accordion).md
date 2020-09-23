@@ -8,11 +8,7 @@ housing-options:
       - 2-room Flexi for small families, singles and elderly
       - 3-room for cosy and compact home
       - 4-room for a comfortable living space
-      - 5-room for larger households
-      - 3Gen for multi-generation families
-      - Executive Flats
-      - Executive Condominiums (ECs) *built by private developers*
-      
+      - 5-room for larger households      
       [Find out more about the various types and its features](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats){:target="_blank"}
 
   - title: <a name="sales"></a>Sales Launches
@@ -28,7 +24,7 @@ eligibility-checker:
        - [Executive Condominium (EC)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/executive-condominiums){:target="_blank}<br>
   - title: Resale flats
     content: |
-      You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the various eligibility schemes <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-" target="_blank">here.</a>
+      You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the [other eligibility conditions](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-){:target="_blank"}
   - title: Priority Schemes
     content: | 
       A computerised balloting system will determine your queue number for selection of flats. Your chances may be improved through [HDB priority schemes](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes){:target="_blank"}. [More details here](/government-services/buying-a-hdb/eligibility/){:target="_blank"}
@@ -37,46 +33,34 @@ eligibility-checker:
       [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale).
 
 housing-finances:
-  - title: About HDB housing loan
+  - title: Eligibilty Conditions for HDB Housing Loan
     content: |
       HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. [Check your eligibility](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. 
-  - title: How to apply for HDB housing loan
+  - title: How to apply
     content: |
         Get your [required income documents ready](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents){:target="_blank"} such as your payslips for the past three months and latest 15 months' CPF contribution history.
-      
-        [Apply for a HDB Housing Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"} before your HDB appointment. 
-
-        For purchase of a flat from HDB (after Aug 2018), you can submit your HLE application when you apply for your flat during [sales launches](#sales)
-        
-        Alternatively, you may take [loans from Financial Institutions (e.g. banks)](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
+        [Apply for your Housing Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"} before your HDB appointment. 
+       
+        You can also take [housing loans from Financial Institutions (e.g. banks)](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
   - title: What is Contra Payment Facility
     content: |
-      Contra Payment Facility can help you:
+      [Contra Payment Facility]((https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
         - Reduce the cash outlay needed for your flat
         - Reduce the housing loan amount needed and the subsequent monthly repayments (thereby saving on interest payments)
-        - Collect the keys to your flat while selling your existing flat
-
-        [Find out more](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"}
+        - Collect the keys to your flat while selling your existing flat<br>
   - title: CPF housing grants
     content: |
       You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants.
 
       Find out more about the CPF Housing grants <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/cpf-housing-grants-for-hdb-flats/firsttimer-applicants" target="_blank">here</a>
       
-      If you are eligibile, you will be invited by HDB to apply for the Enhanced CPF Housing Grant (EHG) when you <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">select a flat at your appointment</a>.
+      If you are eligible, you will be invited to apply when you <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">select a flat at your appointment</a>.
   - title: Some financial tools
     content: |
       - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-
-      - <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme" target="_blank">Find out</a> how you can use your CPF savings to pay for your HDB home
-
-      - For property bought <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">on or after 10 May 2019</a>
-
-      - For property bought <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingWithdrawalLimits/CpfHousingWithdrawalLimits" target="_blank">before 10 May 2019</a>
-
-      - A <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate" target="_blank">1-minute tool</a> to estimate the monthly installment payable on a housing loan
-
-      [Read more on how to plan your finances](/government-services/buying-a-hdb/finances/){:target="_blank"}
+      - <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme" target="_blank">How to use your CPF savings to pay for your HDB home</a>
+      - [Check CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
+      - [Estimate monthly installment payable](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate){:target="_blank"}
 
 buying-process:
   - title: Process and Timeline
@@ -127,37 +111,33 @@ buying-process:
 resale-process:
   - title: What to Expect
     content: | 
-       A typical process would be:
-        - Register Intent to Buy
-        - Evaluate Suitable Flat Options 
-        - Get Option to Purchase (OTP)
-        - Choose Mode of Financing
-        - Submit Resale Application
-        - Acknowledge Resale Documents and Pay Fees Online
-        - Receive HDB's Approval of Resale
-        - Complete Resale Transaction at HDB appointment
+      A typical process could take about 8 weeks from HDB's acknowledgement of the resale application to the final step of completing the resale transaction.
 
-        *It could take about 8 weeks from HDB's acknowledgement of the resale application to the final step.*
+      You also can [engage an estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase){:target="_blank"} to manage your flat purchase.
 
-        You also can [engage an estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase){:target="_blank"} to manage your flat purchase.
   - title: Register as a Buyer
     content: |
-      To start buying a resale flat, register your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy.</a>
-    
-      You will receive an instant assessment on your eligibility to:
+      Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know if you can:
         - Buy a HDB resale flat
-        - Know which housing grants to apply for
-        - Know whether you are eligible for HDB housing loan (only applicable if you intend to loan from HDB)
+        - Apply for which housing grants
+        - Apply for HDB housing loan (if you intend to loan from HDB)
 
       *Do note that your Intent to Buy is valid for 12 months. You will need to reapply if there is no resale application submitted within this period.*
   - title: Evaluate Suitable Flat Options
     content: |
-      Use the [HDB map eservice](https://services2.hdb.gov.sg/web/fi10/emap.html){:target="_blank"} to check flat details (such as past resale transactions, Ethnic Integration Policy quotas, Singapore/PR quotas) when evaluating options.
-
-      [Check other HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics){:target="_blank"}
+      When evaluating options,
+        - [Check details of the flat options](https://services2.hdb.gov.sg/web/fi10/emap.html){:target="_blank"} such as past resale transactions, Ethnic Integration Policy quotas, Singapore/PR quotas
+        
+        - [Check other HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics){:target="_blank"} such as resale price index for overall HDB resale pricing trends
   - title: Get Option to Purchase (OTP)
     content: |
-      - [Receive Option to Purchase (OTP) from Seller with the agreed price](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/option-to-purchase){:target="_blank"}
+      To enter into a OTP contract, you would be required to go through the following steps:
+
+        1. Negotiate and agree on Resale price<br>
+        2. Seller grant OTP to you via <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal</a><br>
+        3. Review purchase during Option Period of 14 days<br>
+        4. Exercise OTP to proceed with the purchase <br>
+        *You can also choose to let the OTP expire if you decide not to purchase.*<br>
   - title: Choose Mode of Financing
     content: |
       After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. 
@@ -183,32 +163,24 @@ resale-process:
 selling-process:
   - title: What to Expect 
     content: |
-      If you own an existing HDB flat, you would have to let go of your current home before the collection of keys for your new home.
-      
-      How the resale process would be like (simplified):
-        - Register the Intent to Sell your HDB flat on HDB Resale Portal
-        - Grant Option to Purchase (OTP) to Buyer
-        - Submit Resale Application on HDB Resale Portal
-        - Check status of resale application
-        - Endorse resale documents and pay resale fees
-        - Complete Resale Transaction at HDB appointment
+      If you own an existing HDB flat, you will need to sell your current home. 
 
-        *[Check your eligibility to sell your existing HDB flat.](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}*
+      [Check if you are eligible to sell your existing HDB flat.](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}
   - title: Register Intent to Sell
     content: | 
-      [WIP]((https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell){:target="_blank"}
+      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell){:target="_blank"}
   - title: Grant Option to Purchase (OTP) to Buyer
     content: | 
-      [WIP]((https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
+      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
   - title: Submit Resale Application
     content: | 
-      [WIP]((https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
+      [WIP](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
   - title: Endorse Resale Documents and Pay Fees Online
     content: | 
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-){:target="_blank"}
   - title: Complete Resale Transaction
     content: | 
-      [WIP]((https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
+      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
   - title: Budgeting for your next home
     content: | 
       Working out how much you could get from selling your flat will also help you calculate the budget for your next flat.
@@ -244,9 +216,9 @@ before-move:
       For preschool enrolment and application, you will need to contact the respective preschools. <a href="https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD" target="_blank">Search for your desired preschool and register interest</a>.
 
       To transfer your child(ren) to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
-  - title: Notify your change of address
+  - title: Update change of address
     content: |
-      After moving to your new home, you may bring your NRIC and any documentary evidence showing your new address to [update your details]https://www.ica.gov.sg/documents/ic/update_residential_address).
+      After moving to your new home, you may bring your NRIC and any documentary evidence showing your new address to [update your details](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"}.
   - title: Season Parking
     content: |
       If you own a vehicle, you will need to:
@@ -263,13 +235,13 @@ moving-in:
       - [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
   - title: Explore your neighborhood
     content: |
-      You can also find the [nearest park connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network){:target="_blank"} for a walk or visit a Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden){:target="_blank"}.
+      You can also find the [nearest park connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network){:target="_blank"} for a walk or visit a [Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden){:target="_blank"}.
   - title: Find library services nearby
     content: |
       - [Book your library visit](https://nlb.appointeze.com/online){:target="_blank"}
       - [Find upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
-      - [Guide to download NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
+      - [Find out more about NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
 related-housing-content:
   - title: Housing Finances as an HDB owner
     content: |
