@@ -142,19 +142,16 @@ resale-process:
   - title: Complete Resale Transaction
     content: |
       The transaction is completed with an [appointment with HDB](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-completion-){:target="_blank"}. Find out <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">when your appointment will be</a>.    
-
 selling-process:
   - title: What to Expect 
     content: |
-      If you own an existing HDB flat, you will need to sell your current home. 
-
-      [Check if you are eligible to sell your existing HDB flat.](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}
+      If you own an existing HDB flat, you will need to sell your current home. Check if you are eligible to [sell your existing HDB flat](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}
   - title: Register Intent to Sell
     content: | 
       Upon <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to sell. Find out <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">more</a>.
-  - title: Decide selling price (and if you will sell before buying your new home)
+  - title: Decide selling price
     content: |
-      Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. Stamp duty, legal fees, resale levy, property tax) when deciding your selling price.
+      Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. Stamp duty, property tax) when deciding your selling price.
 
       You can<a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">estimate sales proceeds</a> and [assess if you have enough cash to buy your next home](#nexthome).
 
@@ -176,7 +173,7 @@ selling-process:
       These remaining fees includes the payment to the lawyer (appointed by HDB) and agent commissions. Some of them may be payable through CPF, do check with the law firm.
   - title: <a name="nexthome"></a>Budgeting for your next home
     content: | 
-      Working out how much you could get from selling your flat will also help you calculate the budget for your next home. Based on your flat's estimated sales proceeds:
+      Working out how much you could get from selling your flat will also help you calculate the budget for your next home. Based on your flat's estimated sales proceeds, you can:
         - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
         - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
         - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
@@ -231,9 +228,9 @@ moving-in:
 related-housing-content:
   - title: Housing Finances as an HDB owner
     content: |
-      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. Find out what they are, and how to make payment for them.
+      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. Find out more.
 
-      You can refinance your HDB housing loan with one from a bank. However, please note that once you refinance your HDB housing loan with a bank, you cannot refinance that loan with HDB subsequently.
+      You can refinance your HDB housing loan with one from a bank. However, you cannot refinance bank loans with HDB subsequently.
   - title: Detailed Guides
     content: |
       - [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
