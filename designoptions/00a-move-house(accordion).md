@@ -44,7 +44,7 @@ housing-finances:
         You can also take [housing loans from Financial Institutions (e.g. banks)](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
   - title: What is Contra Payment Facility
     content: |
-      [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
+      If you are buying a new flat, [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
         - Reduce the cash outlay needed for your flat
         - Reduce the housing loan amount needed and the subsequent monthly repayments (thereby saving on interest payments)
         - Collect the keys to your flat while selling your existing flat<br>
@@ -57,8 +57,8 @@ housing-finances:
     content: |
       You can [use your CPF Ordinary Account (OA) savings](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme){:target="_blank"} to buy new or resale HDB flats. These tools can help you in your planning:
 
-      - Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-      - Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your OA savings for your home.
+      - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
+      - [Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your OA savings for your home.
 
 buying-process:
   - title: Process and Timeline
