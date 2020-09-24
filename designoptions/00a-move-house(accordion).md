@@ -148,7 +148,6 @@ selling-process:
       If you own an existing HDB flat, you will need to sell your current home. Check if you are eligible to [sell your existing HDB flat](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}
   - title: Register Intent to Sell
     content: | 
-<<<<<<< HEAD
       Upon <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to sell. Find out <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">more</a>.
   - title: Decide selling price
     content: |
@@ -157,9 +156,7 @@ selling-process:
       You can<a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">estimate sales proceeds</a> and [assess if you have enough cash to buy your next home](#nexthome).
 
       If you are selling your old home before buying the new one, work out the time till you can move in and plans for temporary accommodation (if need be).
-=======
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell){:target="_blank"}
->>>>>>> parent of 37892bb... Update 00a-move-house(accordion).md
   - title: Grant Option to Purchase (OTP) to Buyer
     content: | 
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
@@ -174,14 +171,10 @@ selling-process:
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
   - title: Budgeting for your next home
     content: | 
-<<<<<<< HEAD
       Working out how much you could get from selling your flat will also help you calculate the budget for your next home. Based on your flat's estimated sales proceeds, you can:
-=======
-      Working out how much you could get from selling your flat will also help you calculate the budget for your next flat.
 
       Some of the tools you could use:
         - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
->>>>>>> parent of 37892bb... Update 00a-move-house(accordion).md
         - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
         - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
         - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
@@ -216,12 +209,10 @@ before-move:
   - title: Season Parking
     content: |
       If you own a vehicle, you will need to:
-      - [Transfer your season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp){:target="_blank"}
+      - [Transfer your season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp){:target="_blank"}; or
+      - [Apply for a new season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp){:target="_blank"}<br>
+      *if you do not have one for your vehicle.*
       
-      Or
-      - [Apply for a new season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp){:target="_blank"} if you do not have one for your vehicle.
-
-      Learn how to <a href="https://www.hdb.gov.sg/cs/infoweb/car-parks/season-parking/season-parking/application-procedure" target="_blank">apply for HDB Season Parking</a>.
 moving-in:
   - title: Town Council and related matters
     content: |
