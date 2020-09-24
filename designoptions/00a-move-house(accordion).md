@@ -22,15 +22,15 @@ eligibility-checker:
        *[Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]*<br>
        - [HDB Flat (3-room flats and bigger)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank}<br>
        - [Executive Condominium (EC)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/executive-condominiums){:target="_blank}<br>
+  - title: Priority Schemes for New Flats
+    content: | 
+      A computerised balloting system will determine your queue number for selection of flats. Your chances may be improved through [HDB priority schemes](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes){:target="_blank"}. [More details here](/government-services/buying-a-hdb/eligibility/){:target="_blank"}
   - title: Resale flats
     content: |
       You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the [other eligibility conditions](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility-){:target="_blank"}
-  - title: Priority Schemes
-    content: | 
-      A computerised balloting system will determine your queue number for selection of flats. Your chances may be improved through [HDB priority schemes](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes){:target="_blank"}. [More details here](/government-services/buying-a-hdb/eligibility/){:target="_blank"}
-  - title: Check your eligibility
+  - title: Do a quick check
     content: |
-      [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale).
+      [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale) with your gross monthly income.
 
 housing-finances:
   - title: Eligibility Conditions for HDB Housing Loan
@@ -212,7 +212,7 @@ before-move:
       - [Transfer your season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp){:target="_blank"}; or
       - [Apply for a new season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eApplication/BN22PApplicationTerms.jsp){:target="_blank"}<br>
       *if you do not have one for your vehicle.*
-      
+
 moving-in:
   - title: Town Council and related matters
     content: |
