@@ -50,17 +50,15 @@ housing-finances:
         - Collect the keys to your flat while selling your existing flat<br>
   - title: <a name="grants"></a>CPF housing grants
     content: |
-      You may receive subsidies of up to $80,000 in the form of the Enhanced CPF Housing Grants.
-
-      Find out more about the CPF Housing grants <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/cpf-housing-grants-for-hdb-flats/firsttimer-applicants" target="_blank">here</a>
+      You may receive subsidies of up to $80,000 in the form of the [CPF Housing Grants](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/cpf-housing-grants-for-hdb-flats/firsttimer-applicants){:target="_blank"}.
       
-      If you are eligible, you will be invited to apply when you <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">select a flat at your appointment</a>.
-  - title: Some financial tools
+      You will be invited to apply if you are eligible at <a href="/government-services/buying-a-hdb/book-flat/" target="_blank">your appointment with HDB</a>.
+  - title: Financing your flat with CPF
     content: |
-      - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-      - <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme" target="_blank">How to use your CPF savings to pay for your HDB home</a>
-      - [Check CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-      - [Estimate monthly installment payable](https://www.cpf.gov.sg/eSvc/Web/Schemes/MonthlyInstallment/MonthlyInstallmentCalculate){:target="_blank"}
+      You can [use your CPF Ordinary Account (OA) savings](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme){:target="_blank"} to buy new or resale HDB flats. These tools can help you in your planning:
+
+      - Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
+      - Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your OA savings for your home.
 
 buying-process:
   - title: Process and Timeline
@@ -107,12 +105,11 @@ resale-process:
 
   - title: Register as a Buyer
     content: |
-      Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know if you can:
+      Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know whether you can:
         - Buy a HDB resale flat
         - Apply for which housing grants
-        - Apply for HDB housing loan (if you intend to loan from HDB)
-
-      *Do note that your Intent to Buy is valid for 12 months. You will need to reapply if there is no resale application submitted within this period.*
+        - Apply for HDB housing loan (if you intend to loan from HDB)<br>
+        *Do note that your Intent to Buy is valid for 12 months and you need to reapply if no resale application is submitted.*
   - title: Evaluate Suitable Flat Options
     content: |
       When evaluating options,
@@ -121,34 +118,30 @@ resale-process:
         - [Check other HDB resale statistics](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics){:target="_blank"} such as resale price index for overall HDB resale pricing trends
   - title: Get Option to Purchase (OTP)
     content: |
-      To enter into a OTP contract, you would be required to go through the following steps:
-
-        1. Negotiate and agree on Resale price<br>
-        2. Seller grant OTP to you via <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal</a><br>
-        3. Review purchase during Option Period of 14 days<br>
-        4. Exercise OTP to proceed with the purchase <br>
-        *You can also choose to let the OTP expire if you decide not to purchase.*<br>
+      To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.
+        1. Seller grant OTP <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">online to you</a><br>
+        2. Review purchase during Option Period of 14 days<br>
+        3. Exercise OTP to proceed with the purchase <br>
+      *You can also choose to let the OTP expire if you decide not to purchase.*<br>
   - title: Choose Mode of Financing
     content: |
       After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. 
 
-      If you do not require a housing loan from HDB or intend to get a [housing loan from a financial institution (FI)](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks"){:target="_blank"}, you may proceed to look for a suitable flat within your budget and obtain an Option To Purchase (OTP) from the sellers. 
+      You can also get a [housing loan from a financial institution (FI)](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks"){:target="_blank"}. 
   - title: Submit Resale Application
     content: |
       You and the seller (or the salesperson) can proceed to [submit the resale application](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application){:target="_blank"} after you have exercised the Option to Purchase (OTP).
   - title: Acknowledge Resale Documents and Pay Fees Online
     content: |
-      After your submission, you would be invited to carry out a <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)" target="_blank">few more steps</a> that include endorsing resale documents, paying the resale fees online - all before HDB's approval of the transaction.
+      You will be invited to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)" target="_blank">endorse resale documents and pay the resale fees online</a> before HDB approves the transaction.
 
       *Note that either you or the seller can be the first to submit, but the other party must submit their portion within 7 calendar days.*
-  - title: Receive HDB's Approval
+  - title: Get HDB Approval on Application
     content: |
       Check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB updates on the status via HDB resale portal.
   - title: Complete Resale Transaction
     content: |
-      The process is completed with an [appointment at HDB](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-completion-){:target="_blank"}.
-
-      Do check <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">when is your HDB appointment</a> on My HDBPage using your SingPass login.    
+      The transaction is completed with an [appointment with HDB](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-completion-){:target="_blank"}. Find out <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">when your appointment will be</a>.    
 
 selling-process:
   - title: What to Expect 
