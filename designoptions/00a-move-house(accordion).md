@@ -176,14 +176,11 @@ selling-process:
       These remaining fees includes the payment to the lawyer (appointed by HDB) and agent commissions. Some of them may be payable through CPF, do check with the law firm.
   - title: <a name="nexthome"></a>Budgeting for your next home
     content: | 
-      Working out how much you could get from selling your flat will also help you calculate the budget for your next home.
-
-        - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
+      Working out how much you could get from selling your flat will also help you calculate the budget for your next home. Based on your flat's estimated sales proceeds:
         - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
         - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
         - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
         - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
-
 
 before-move:
   - title: Renovation Checklist
