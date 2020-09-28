@@ -35,7 +35,7 @@ eligibility-checker:
 housing-finances:
   - title: HDB Housing Loan or Bank Loan
     content: |
-      HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. [Check your eligibility to loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. You can also take [housing loans from banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
+      HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. Check your [eligibility to loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. You can also take [housing loans from banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
   - title: How to apply HDB Housing Loan
     content: |
         Get your [required income documents ready](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents){:target="_blank"} such as your payslips for the past three months and latest 15 months' CPF contribution history.
