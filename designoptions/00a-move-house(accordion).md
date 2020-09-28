@@ -168,7 +168,7 @@ selling-process:
         - Seller Particulars
         - Buyer Particulars
         - Existing loans with HDB / Financial Institutions
-        - Declarations of Purchase
+        - Declarations of Purchase<br>
         *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
 
         If you would like to apply for the temporary extension of stay, you must seek your buyer’s agreement and indicate your request when you submit your resale application.
