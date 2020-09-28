@@ -159,7 +159,8 @@ selling-process:
       To enter into an <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">OTP contract</a>, you need to:
         1. Negotiate and agree on Resale price
         2. You <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase" target="_blank">grant the OTP</a> to Buyer via <a href="https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain" target="_blank">HDB Resale Portal</a> and indicate the agreed Option Fee (between $1 and $1000).
-        3. Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.4. Decide when to submit resale application
+        3. Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.<br>
+        4. Decide when to submit resale application
   - title: Submit Resale Application
     content: | 
       You will <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/additional-information-for-selling-a-resale-flat" target="_blank">require these documents</a> on hand:
