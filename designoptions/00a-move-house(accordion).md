@@ -154,7 +154,6 @@ selling-process:
       You can<a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">estimate sales proceeds</a> and [assess if you have enough cash to buy your next home](#nexthome).
 
       If you are selling your old home before buying the new one, work out the time till you can move in and plans for temporary accommodation (if need be).
-      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell){:target="_blank"}
   - title: Grant Option to Purchase (OTP) to Buyer
     content: | 
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
@@ -169,14 +168,13 @@ selling-process:
       [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
   - title: Budgeting for your next home
     content: | 
-      Working out how much you could get from selling your flat will also help you calculate the budget for your next home. Based on your flat's estimated sales proceeds, you can:
+      The final sale proceeds from selling your flat is estimated based on the price that you are selling your flat at, less the following components:
+      - [Outstanding mortgage loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
+      - [Return of CPF monies used with accrued interest](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
+      - Earlier-received deposit (up to $5,000; from option fee and deposit)
+      - Any other amounts payable, e.g. resale levy, upgrading costs, [outstanding property taxes](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
 
-      Some of the tools you could use:
-        - [Estimate how much you can get from selling your flat](https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc){:target="_blank"}
-        - [Check the amount of CPF monies to be refunded after selling your flat](https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement){:target="_blank"}
-        - [View Statement of Account for Housing Loan](https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc)
-        - [Check Annual Value of property](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MPTPropertySearch&toLoginSelection=true){:target="_blank"}
-        - [Check the taxation checklist to be completed when selling your property](https://www.iras.gov.sg/irashome/Property/Property-owners/Selling-renting-out-carrying-out-works/Selling-your-Property/){:target="_blank"}
+      Based on the estimated sales proceeds, you can [calculate your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
 
 before-move:
   - title: Renovation Checklist
@@ -304,7 +302,7 @@ You can learn about:
 
 {% include related-housing-content.html %}
 
----------------------------------------
+
 
 **PREVIOUS**
 [I Want to...](/government-services/overview/)
@@ -315,6 +313,6 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 23 September 2020
+Last updated: 28 September 2020
  
 [Back to top](#top)
