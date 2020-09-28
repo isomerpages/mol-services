@@ -151,13 +151,13 @@ selling-process:
     content: |
       Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. Stamp duty, property tax) when deciding your selling price.
 
-      You can<a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">estimate sales proceeds</a> and [assess if you have enough cash to buy your next home](#nexthome).
+      You can <a href="https://services2.hdb.gov.sg/webapp/BB24SaleProceedCalculator/BB24SSaleProceedsCalc" target="_blank">estimate your sales proceeds</a> and [assess if you have enough cash to buy your next home](#nexthome).
 
-      If you are selling your old home before buying the new one, work out the time till you can move in and plans for temporary accommodation (if need be).
+      If you are selling your old home before buying the new one, work out your moving plans and decide if you need temporary accommodation.
   - title: Grant Option to Purchase (OTP) to Buyer
     content: | 
       To enter into an <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">OTP contract</a>, you need to:
-        1. Negotiate and agree on Resale price
+        1. Negotiate and agree on selling price
         2. You <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase" target="_blank">grant the OTP</a> to Buyer via <a href="https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain" target="_blank">HDB Resale Portal</a> and indicate the agreed Option Fee (between $1 and $1000).
         3. Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.<br>
         4. Decide when to submit resale application
@@ -169,9 +169,8 @@ selling-process:
         - Buyer Particulars
         - Existing loans with HDB / Financial Institutions
         - Declarations of Purchase<br>
-        *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
 
-        If you would like to apply for the temporary extension of stay, you must seek your buyer’s agreement and indicate your request when you submit your resale application.
+        *Either you or the buyer can be the first to submit, but the other party must submit  within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.*
   - title: Endorse Resale Documents and Pay Fees Online
     content: | 
       You will need to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-" target="_blank">endorse</a> the documents and pay necessary fees online before your resale application can be approved.
@@ -241,7 +240,7 @@ moving-in:
 related-housing-content:
   - title: Housing Payments to note as an HDB owner
     content: |
-      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. You may consider refinancing your HDB housing loan with the bank. However, you cannot refinance bank loans with HDB subsequently.
+      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. You may consider refinancing your HDB housing loan with the bank. However, you will not be able to refinance with HDB subsequently.
   - title: Detailed Guides
     content: |
       - [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
