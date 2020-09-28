@@ -226,11 +226,9 @@ moving-in:
       - [Register for your NLB account](https://account.nlb.gov.sg/?type=register){:target="_blank"}
       - [Find out more about NLB Mobile app](https://mobileapp.nlb.gov.sg/){:target="_blank"}
 related-housing-content:
-  - title: Housing Finances as an HDB owner
+  - title: Housing Payments to note as an HDB owner
     content: |
-      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. Find out more.
-
-      You can refinance your HDB housing loan with one from a bank. However, you cannot refinance bank loans with HDB subsequently.
+      As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. You may consider refinancing your HDB housing loan with the bank. However, you cannot refinance bank loans with HDB subsequently.
   - title: Detailed Guides
     content: |
       - [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
