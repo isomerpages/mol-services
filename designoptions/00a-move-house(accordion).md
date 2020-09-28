@@ -55,8 +55,8 @@ housing-finances:
     content: |
       You can [use your CPF Ordinary Account (OA) savings](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme){:target="_blank"} to buy new or resale HDB flats. These tools can help you in your planning:
 
-      - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-      - [Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your OA savings for your home.
+      - [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}<br>
+      - [Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your OA savings for your home
 
 buying-process:
   - title: Process and Timeline
