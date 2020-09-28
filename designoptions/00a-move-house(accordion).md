@@ -176,11 +176,11 @@ selling-process:
     content: | 
       You will need to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-" target="_blank">endorse</a> the documents and pay necessary fees online before your resale application can be approved.
       
-      You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.
-      *Note that this step can take about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
+      You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.<br>
+      *Note that this step can take about 8 weeks from here to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
   - title: Complete Resale Transaction
     content: | 
-      Before the resale completion appointment, do rectify any unauthorised renovation works and vacate the flat before the Date of Completion so that the buyer can take possession of the resale flat after the Completion Appointment. Find out how you can apply for [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"} if you are unable to vacate in time.
+      You will need to rectify any unauthorised renovation works and vacate the flat before the Completion Appointment so that the buyer can take possession of the resale flat after. Apply for [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"} if you are unable to vacate in time.
   - title: Budgeting for your next home
     content: | 
       The final sale proceeds from selling your flat is estimated based on the price that you are selling your flat at, less the following components:
