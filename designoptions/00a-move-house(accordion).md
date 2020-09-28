@@ -33,15 +33,13 @@ eligibility-checker:
       [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale) with your gross monthly income.
 
 housing-finances:
-  - title: Eligibility Conditions for HDB Housing Loan
+  - title: HDB Housing Loan or Bank Loan
     content: |
-      HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. [Check your eligibility](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. 
-  - title: How to apply
+      HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. [Check your eligibility to loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. You can also take [housing loans from banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
+  - title: How to apply HDB Housing Loan
     content: |
         Get your [required income documents ready](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents){:target="_blank"} such as your payslips for the past three months and latest 15 months' CPF contribution history.
         [Apply for your Housing Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"} before your HDB appointment. 
-       
-        You can also take [housing loans from Financial Institutions (e.g. banks)](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks){:target="_blank"}
   - title: What is Contra Payment Facility
     content: |
       If you are buying a new flat, [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} can help you:
