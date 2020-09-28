@@ -117,7 +117,7 @@ resale-process:
   - title: Get Option to Purchase (OTP)
     content: |
       To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.
-        1. Seller grant OTP <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">online to you</a><br> with the agreed amount of Option Fee (between $1 to $1,000))
+        1. Seller grant OTP <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">online to you</a> with the agreed amount of Option Fee (between $1 to $1,000))
         2. Review purchase during Option Period of 14 days<br>
         3. Exercise OTP to proceed with the purchase <br>
       *You can also choose to let the OTP expire if you decide not to purchase.*<br>
