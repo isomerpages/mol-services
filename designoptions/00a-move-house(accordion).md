@@ -156,16 +156,30 @@ selling-process:
       If you are selling your old home before buying the new one, work out the time till you can move in and plans for temporary accommodation (if need be).
   - title: Grant Option to Purchase (OTP) to Buyer
     content: | 
-      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase){:target="_blank"}
+      To enter into an <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">OTP contract</a>, you need to:
+        1. Negotiate and agree on Resale price
+        2. You <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase" target="_blank">grant the OTP</a> to Buyer via <a href="https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain" target="_blank">HDB Resale Portal</a> and indicate the agreed Option Fee (between $1 and $1000).
+        3. Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.4. Decide when to submit resale application
   - title: Submit Resale Application
     content: | 
-      [WIP](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}
+      You will <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/additional-information-for-selling-a-resale-flat" target="_blank">require these documents</a> on hand:
+        - Option-To-Purchase (OTP) contract details
+        - Seller Particulars
+        - Buyer Particulars
+        - Existing loans with HDB / Financial Institutions
+        - Declarations of Purchase
+        *Note that either you or the buyer can be the first to submit, but the other party must submit their portion within 7 calendar days.*
+
+        If you would like to apply for the temporary extension of stay, you must seek your buyer’s agreement and indicate your request when you submit your resale application.
   - title: Endorse Resale Documents and Pay Fees Online
     content: | 
-      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-){:target="_blank"}
+      You will need to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-" target="_blank">endorse</a> the documents and pay necessary fees online before your resale application can be approved.
+      
+      You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.
+      *Note that this step can take about 8 weeks from HDB accepting the resale application to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
   - title: Complete Resale Transaction
     content: | 
-      [WIP](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/appointment-at-hdb){:target="_blank"}
+      Before the resale completion appointment, do rectify any unauthorised renovation works and vacate the flat before the Date of Completion so that the buyer can take possession of the resale flat after the Completion Appointment. Find out how you can apply for [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"} if you are unable to vacate in time.
   - title: Budgeting for your next home
     content: | 
       The final sale proceeds from selling your flat is estimated based on the price that you are selling your flat at, less the following components:
