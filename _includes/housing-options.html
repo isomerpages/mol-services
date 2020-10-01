@@ -39,7 +39,7 @@ ul.jekyllcodex_accordion li input:checked + label {
 
 ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
-    height: 400px;
+    height: 200px;
     padding: 0;
     overflow: auto;
 }
@@ -69,11 +69,10 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.other-finances %}
-        <li><input id="other-finances{{ forloop.index }}" type="checkbox" /><label for="other-finances{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.housing-options %}
+        <li><input id="housing-options{{ forloop.index }}" type="checkbox" /><label for="housing-options{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
-<script src="/jquery/transition.js"></script>
