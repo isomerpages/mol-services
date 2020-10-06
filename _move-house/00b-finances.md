@@ -3,6 +3,15 @@ title: "Step 2 : Plan your Finances"
 permalink: /government-services/buying-a-hdb/finances/
 third_nav_title: Buy a flat from HDB
 ---
+Contents
+
+- [Overview](/overview/v2/)
+- Buying an HDB flat
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
 
 ## Step 2 : Plan your Finances
 

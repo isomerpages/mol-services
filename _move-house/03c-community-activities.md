@@ -4,6 +4,16 @@ permalink: /government-services/buying-a-hdb/move-in/activities/
 third_nav_title: Things to plan before moving in
 ---
 
+Contents
+
+- [Overview](/overview/v2/)
+- [Buying an HDB flat](/government-services/buying-a-hdb/overview/)
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- Moving-in
+
+---------------------------------------
+
 ## Explore my neighborhood 
 
 Participating in your community can help you and your family to transit and to get to know your neighbors better.

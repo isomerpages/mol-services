@@ -4,6 +4,16 @@ permalink: /government-services/buying-a-hdb/keys/
 third_nav_title: Buy a flat from HDB
 ---
 
+Contents
+
+- [Overview](/overview/v2/)
+- Buying an HDB flat
+- [Buying an HDB Resale flat](/government-services/buying-a-hdb-resale/overview/)
+- [Selling an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Moving-in](/government-services/buying-a-hdb/move-in/)
+
+---------------------------------------
+
 ## Step 7 : Collect Keys to Your Flat
 
 ### Check your HDB Appointment

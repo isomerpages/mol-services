@@ -69,10 +69,11 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.planning-ahead %}
-        <li><input id="planning-ahead{{ forloop.index }}" type="checkbox" /><label for="planning-ahead{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.selling-process %}
+        <li><input id="selling-process{{ forloop.index }}" type="checkbox" /><label for="selling-process{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
+
