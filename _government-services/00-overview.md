@@ -1,11 +1,11 @@
 ---
-title: I Want To . . .
+title: Find What You Need. In One Place.
 permalink: /government-services/overview/
 ---
 
-## Get the Government Services you need. In One Place.
+## I Want To...
 
-Browse the listing of services and resources consolidated from various government agencies, grouped by your likely needs.
+Making it easier for you to find government services you may need
 
 # LATEST
 <style>
@@ -87,6 +87,6 @@ table, tr, td {
 </div>
 
 
-## Want to see more services?
+## Give us your feedback
 
 Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
