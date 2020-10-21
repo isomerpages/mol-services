@@ -20,7 +20,7 @@ sections:
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat
                 url: /government-services/sell-hdb/
-              - title: Move Into A New Flat
+              - title: Move Into An HDB Flat
                 url: /government-services/move-in/
               - title: Plan for Retirement
                 url: /government-services/plan-for-retirement/overview/

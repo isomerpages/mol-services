@@ -1,5 +1,5 @@
 ---
-title: Move Into A New Flat
+title: Move Into An HDB Flat
 permalink: /government-services/move-in/
 
 before-move:
@@ -52,7 +52,7 @@ owner-finance:
 
       You may also consider refinancing your HDB housing loan with the bank. However, you will not be able to refinance with HDB subsequently.
 ---
-## <a name="top"></a>I Want to Move into A New Flat
+## <a name="top"></a>I Want to Move into An HDB Flat
 
 **ON THIS PAGE**
 
