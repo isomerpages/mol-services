@@ -13,7 +13,7 @@ sell-eligibility:
       If you are selling your old home before buying the new one, work out your moving plans and decide if you need [temporary extension of stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"}.
 
 sales-finances:
-  - title: How to calculate your (actual) sales proceeds
+  - title: Calculate your (actual) sales proceeds
     content: |
       Your sales proceeds should be first used to:
 
@@ -23,7 +23,7 @@ sales-finances:
         - [Pay any other additional costs and fees](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} which could cost you close to S$3000 
 
       *See Also: [HDB Sales Proceeds Calculator](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds){:target="_blank"}*
-  - title: Buying your next home
+  - title: Financing your next home
     content: |
       Based on the estimated sales proceeds, you can [calculate your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
       
@@ -80,18 +80,35 @@ selling-process:
 
 ## <a name="top"></a>I Want to Sell an HDB flat
 
-**ON THIS PAGE**
+<div id="toc_container">
+<p class="toc_title"><b>ON THIS PAGE</b></p>
+<ul class="toc_list">
+  <li><a href="#plan">1. Before You Decide to Sell</a>
+  <ul>
+    <li>1.1 Things to consider before selling</li>
+    <li>1.2 Check your eligibility to sell</li>
+  </ul>
+</li>
+<li><a href="#nexthome">2. Budgeting for Your Next Home</a></li>
+  <ul>
+    <li>2.1 Calculate your (actual) sales proceeds</li>
+    <li>2.2 Financing your next home</li>
+  </ul>
+<li><a href="#timeline">3. Sale Process and Timeline</a></li>
+  <ul>
+    <li>3.1 What to Expect and Timeline</li>
+    <li>3.2 Register your Intent to Sell</li>
+    <li>3.3 Decide selling price</li>
+    <li>3.4 Grant Option to Purchase (OTP) to Buyer</li>
+    <li>3.5 Submit Resale Application</li>
+    <li>3.6 Endorse Resale Documents and Pay Fees Online</li>
+    <li>3.7 Get HDB approval on application</li>
+    <li>3.8 Complete Resale Transaction</li>
+  </ul>  
+</ul>
+</div>
 
-- [Before You Decide to Sell](#plan)
-- [Budgeting for Your Next Home](#nexthome)
-- [Sale Process and Timeline](#timeline)
 
-**You may also be interested in:**
-- [Buy an HDB flat](/government-services/buy-hdb/overview/)
-- [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Move into a new HDB estate](/government-services/move-in/overview)
-
----------------------------------------
 
 # <a name="plan"></a>Before You Decide to Sell
 
@@ -99,6 +116,7 @@ selling-process:
 
 
 # <a name="nexthome"></a>Budgeting for Your Next Home
+
 {% include sales-finances.html %}
 
 
@@ -113,8 +131,14 @@ selling-process:
 
 [**BACK TO TOP**](#top)
 
-
 ---------------------------------------
+**You may also be interested in:**
+
+- [Buy an HDB flat](/government-services/buy-hdb/overview/)
+- [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/)
+- [Move into a new HDB estate](/government-services/move-in/overview)
+---------------------------------------
+
 
 This page will be updated as additional schemes and measures are introduced.
 

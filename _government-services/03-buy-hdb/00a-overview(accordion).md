@@ -5,9 +5,10 @@ permalink: /government-services/buy-hdb/
 housing-options:
   - title: New VS Resale Flats
     content: |
-      See table below for some notable differences between new and resale HDB flats.
+      Key differences between new and resale HDB flats
 
       ![Comparing New Flats and Resale Flats](/images/New VS Resale Flat.png)
+
   - title: Types of New Flats
     content: |
       There are various types of flats that are built to suit a variety of needs.
@@ -16,18 +17,21 @@ housing-options:
         - 4-room for a comfortable living space
         - 5-room for larger households  
 
-      [Find out more about the various types and its features](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats){:target="_blank"}
+      See Also: [HDB flat types and its specifications](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats){:target="_blank"}
   - title: Eligibility Conditions for New Flats
     content: | 
-       The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat (also known as co-applicant). These factors determines which scheme you will be applying under.
+       The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat (also known as 'co-applicant'). These factors determines which scheme you will be applying under.
 
-       The other key criteria is that you must dispose any existing HDB flat or private property that you or your co-applicants own within 6 months of flat purchase.
+       Another criteria to note is that you (and whoever listed in your application) do not own other property overseas or locally, and have not disposed of any within the last 30 months.
+
+       See Also: [Overview of Eligibility Conditions](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank"}
        
 housing-finances:
   - title: HDB Housing Loan or Bank Loan
     content: |
-      HDB housing loans depend on [citizenship, income and other conditions](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/eligibility-conditions){:target="_blank"}. Check your [eligibility to loan](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"}. You can also take [housing loans from banks](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks)
-      {:target="_blank"}
+      ![HDB Loan or Bank Loan](https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png)
+
+      Use the [1-step Eligibility Checker](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to know what flat types you can purchase and whether you can take an HDB housing loan.
   - title: How to use CPF savings to pay for your flat
     content: |
       You can [use your CPF Ordinary Account (OA) savings](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme){:target="_blank"} to buy new or resale HDB flats. 
@@ -172,13 +176,6 @@ resale-process:
 </ul>
 </div>
 
----------------------------------------
-**You may also be interested in:**
-  - [Sell An HDB Flat](/government-services/sell-hdb/)
-  - [Move Into Another Estate](/government-services/move-in/)
-  - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/)
-
----------------------------------------
 
 # <a name="plan"></a>Planning your Flat Purchase
 
@@ -212,8 +209,13 @@ resale-process:
 
 [**BACK TO TOP**](#top)
 
-
 ---------------------------------------
+**You may also be interested in:**
+  - [Sell An HDB Flat](/government-services/sell-hdb/)
+  - [Move Into Another Estate](/government-services/move-in/)
+  - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/)
+---------------------------------------
+
 
 This page will be updated as additional schemes and measures are introduced.
 
