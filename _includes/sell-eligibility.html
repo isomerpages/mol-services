@@ -23,7 +23,7 @@
         margin: 0; 
         font-size: 18.5px;
         font-family: 'Poppins',sans-serif;
-        color: #db2230;
+        color: #c60021;
     }
     
     ul.jekyllcodex_accordion li div {
@@ -69,8 +69,8 @@
 </style>
     
 <ul class="jekyllcodex_accordion">
-    {% for item in page.eligibility-checker %}
-        <li><input id="eligibility-checker{{ forloop.index }}" type="checkbox" /><label for="eligibility-checker{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.sell-eligibility %}
+        <li><input id="sell-eligibility{{ forloop.index }}" type="checkbox" /><label for="sell-eligibility{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
     

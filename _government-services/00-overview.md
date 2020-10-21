@@ -7,6 +7,7 @@ permalink: /government-services/overview/
 
 Browse the listing of services and resources consolidated from various government agencies, grouped by your likely needs.
 
+# LATEST
 <style>
 @media
 only screen and (max-width: 760px),
@@ -27,6 +28,19 @@ img {
 }
 </style>
 
+
+<div class="tg-wrap"><table class="tg">
+<tbody>
+    <tr>
+    <td class="tg-baqh"><a href="/government-services/buy-hdb/"><img src="/images/06-buy-hdb.png" alt="Buy an HDB Flat"></a></td>
+    <td class="tg-baqh"><a href="/government-services/sell-hdb/"><img src="/images/07-sell-hdb.png" alt="Sell an HDB Flat"></a></td>
+    <td class="tg-baqh"><a href="/government-services/move-in/overview/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+# FEATURED
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
@@ -34,17 +48,14 @@ img {
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></a></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></a></td>
     <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
-  </tr>
-  <tr>
     <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
   </tr>
 </tbody>
 </table>
 </div>
 
-### More services coming your way. Do check back soon!
+# COMING SOON
   
 <style>
 @media
