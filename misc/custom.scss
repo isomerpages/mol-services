@@ -191,7 +191,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: #000000 !important;
 }
 
 // Pagination
@@ -287,7 +287,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1 {
-    color: $secondary;
+    color: #000000;
     font-family: poppins;
     font-size: 26px;
     font-weight: 600;
@@ -299,7 +299,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h2 {
-    color: $primary;
+    color: #000000;
     font-family: poppins;
     font-size: 20px;
     font-weight: 600;
@@ -428,4 +428,24 @@ only screen and (max-width: 760px) {
   @include touch() {
     width: 100%;
   }
+}
+
+// Table of Contents
+#toc_container {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin-bottom: 1em;
+  padding: 20px;
+  width: auto;
+}
+
+.toc_title {
+  font-weight: 700;
+  text-align: left
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+  list-style: outside none none !important;
 }
