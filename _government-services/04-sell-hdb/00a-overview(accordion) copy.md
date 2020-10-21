@@ -86,10 +86,10 @@ selling-process:
 - [Budgeting for Your Next Home](#nexthome)
 - [Sale Process and Timeline](#timeline)
 
-**Jump to Other Sections:**
-- [Buying an HDB flat](/government-services/buy-hdb/overview/)
+**You may also be interested in:**
+- [Buy an HDB flat](/government-services/buy-hdb/overview/)
 - [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Moving into a new HDB estate](/government-services/move-in/overview)
+- [Move into a new HDB estate](/government-services/move-in/overview)
 
 ---------------------------------------
 

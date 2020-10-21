@@ -3,22 +3,26 @@ title: Buy an HDB Flat
 permalink: /government-services/buy-hdb/
 
 housing-options:
-  - title: Types of HDB flats
+  - title: New VS Resale Flats
     content: |
-      The different types of homes are built to suit a variety of needs such as:
-      - 2-room Flexi for small families, singles and elderly
-      - 3-room for cosy and compact home
-      - 4-room for a comfortable living space
-      - 5-room for larger households      
+      See table below for some notable differences between new and resale HDB flats.
+
+      ![Comparing New Flats and Resale Flats](/images/New VS Resale Flat.png)
+  - title: Types of New Flats
+    content: |
+      There are various types of flats that are built to suit a variety of needs.
+        - 2-room Flexi for small families, singles and elderly
+        - 3-room for cosy and compact home
+        - 4-room for a comfortable living space
+        - 5-room for larger households  
+
       [Find out more about the various types and its features](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats){:target="_blank"}
   - title: Eligibility Conditions for New Flats
     content: | 
-       - [2-room Flexi](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/2-room-flexi-flat){:target="_blank}<br>
-       *[Note: This scheme replaces the existing 2-room flat scheme and Studio Apartment (SA) scheme.]*<br>
-       - [HDB Flat (3-room flats and bigger)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat){:target="_blank}<br>
-       - [Executive Condominium (EC)](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/executive-condominiums){:target="_blank}<br>
+       The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat (also known as co-applicant). These factors determines which scheme you will be applying under.
 
-
+       The other key criteria is that you must dispose any existing HDB flat or private property that you or your co-applicants own within 6 months of flat purchase.
+       
 housing-finances:
   - title: HDB Housing Loan or Bank Loan
     content: |
@@ -69,7 +73,7 @@ buying-process:
         - [Keys Collection](#keys)(by the Estimated Completed Date indicated on Lease Agreement)
   - title: <a name="apply"></a>Before You Apply 
     content: |
-      [Use this <a name="eligibility"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale) with information e.g. gross monthly income of you and your co-applicants.
+      [Use this <a name="check"></a>tool](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to check your eligibility to buy an HDB flat (new or resale) with information e.g. gross monthly income of you and your co-applicants.
   - title: <a name="application"></a>How to Apply
     content: |
       You may apply for a flat in the following purchase modes
@@ -142,22 +146,31 @@ resale-process:
 
 ## <a name="top"></a>I Want to Buy an HDB flat
 
-### ON THIS PAGE
-- [Planning your Flat Purchase](#plan)
-  - [Decide on your housing option](#options)
-  - [Plan your finances](#finances)
-
-- [Applying for a Flat from HDB](#apply)
-  - [HDB Sales Launches](#sales)
-  - [About HDB Priority Schemes](#priority)
-  - [Before You Apply](#apply)
-  - [What to Expect and Timeline](#timeline)
-  - [Steps Involved](#application)
-  
-- [Buying an HDB Resale Flat](#resale)
-  - [Eligibility Conditions for Resale Flats](#eligibility)
-  - [What to Expect and Timeline](#process)
-  - [Steps Involved](#steps)
+<div id="toc_container">
+<p class="toc_title"><b>ON THIS PAGE</b></p>
+<ul class="toc_list">
+  <li><a href="#plan">1. Planning your Flat Purchase</a>
+  <ul>
+    <li><a href="#options">1.1 Decide on your housing option</a></li>
+    <li><a href="#finances">1.2 Plan your finances</a></li>
+  </ul>
+</li>
+<li><a href="#apply">2. Applying for a Flat from HDB</a></li>
+  <ul>
+    <li><a href="#sales">2.1 HDB Sales Launches</a></li>
+    <li><a href="#priority">2.2 About HDB Priority Schemes</a></li>
+    <li><a href="#check">2.3 Before You Apply</a></li>
+    <li><a href="#timeline">2.4 What to Expect and Timeline</a></li>
+    <li><a href="#application">2.5 Steps Involved</a></li>
+  </ul>
+<li><a href="#resale">3. Buying an HDB Resale Flat</a></li>
+  <ul>
+    <li><a href="#eligibility">3.1 Eligibility Conditions for Resale Flats</a></li>
+    <li><a href="#process">3.2 What to Expect and Timeline</a></li>
+    <li><a href="#steps">3.3 Steps Involved</a></li>
+  </ul>  
+</ul>
+</div>
 
 ---------------------------------------
 **You may also be interested in:**
@@ -173,6 +186,7 @@ resale-process:
 
 {% include housing-options.html %}
 
+
 ### <a name="finances"></a>Plan your finances
 
 {% include housing-finances.html %}
@@ -182,6 +196,7 @@ resale-process:
 
 
 # Applying for a Flat from HDB
+
 ![HDB Infographic Guide to Buying from HDB](https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png)
 
 {% include buying-process.html %}
@@ -190,6 +205,7 @@ resale-process:
 
 
 # <a name="resale"></a>Buying an HDB Resale Flat
+
 ![HDB Resale Guide](https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg)
 
 {% include resale-process.html %}

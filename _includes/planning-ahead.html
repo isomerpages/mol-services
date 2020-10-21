@@ -46,7 +46,7 @@ ul.jekyllcodex_accordion li input:checked + label + div {
 
 ul.jekyllcodex_accordion li label::before {
     content: "+"; font-weight: normal;
-    font-size: 130%;
+    font-size: 100%;
     line-height: 1.1rem; 
     padding: 0; 
     position: absolute; right: 0.5rem; 
@@ -69,10 +69,12 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.before-move %}
-        <li><input id="before-move{{ forloop.index }}" type="checkbox" /><label for="before-move{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.planning-ahead %}
+        <li><input id="planning-ahead{{ forloop.index }}" type="checkbox" /><label for="planning-ahead{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
+
+

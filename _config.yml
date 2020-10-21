@@ -18,19 +18,13 @@ collections:
     output: true
   stay-healthy:
     output: true
-  hdb-buying:
-    output: true
-  hdb-selling: 
-    output: true
-  move-in:
-    output: true
 
 resources_name: media-centre
 
 # Site colors
 colors:
-  primary-color: '#E3E3E3'
-  secondary-color: '#231f20'
+  primary-color: '#487F9C'
+  secondary-color: '#fa2d48'
   media-colors:
     - title: media-color-one
       color: '#49759a'

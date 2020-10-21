@@ -11,21 +11,24 @@ favicon: /images/lifesg_fav.ico
 agency-logo: /images/lifesg-logo.jpg
 
 # Hero Banner
-hero-title: Find Government Services
-hero-subtitle: Easier. Simpler.
+hero-subtitle: Find What You Need. Faster.
 hero-banner: /images/hero banner3.jpeg
 
 # Hero Dropdown Main Text
-hero-dropdown-text: "I want to..."
+hero-dropdown-text: "Find Government Services"
 
-# I want to dropdown
+# Government Services dropdown
 i-want-to:
   - title: Get Digitally Ready
     url: /government-services/get-digitally-ready/overview/
   - title: Get Support
     url: https://articles.life.gov.sg/financial-support-workers-self-employed/
-  - title: Move House
-    url: /government-services/move-house/overview/
+  - title: Buy an HDB Flat
+    url: /government-services/buy-hdb/
+  - title: Sell an HDB Flat
+    url: /government-services/sell-hdb/
+  - title: Move Into A New Flat
+    url: /government-services/move-in/
   - title: Plan for Retirement
     url: /government-services/plan-for-retirement/overview/
   - title: Plan my Legacy
@@ -35,14 +38,9 @@ i-want-to:
 
 # Info Sections
 info-sections:
-  - section-title: 
-    section-subtitle: Download the App
+  - section-title: Download the App
+    section-subtitle: 
     section-description: Access the most used services and information on the go. LifeSG Mobile app is available on the Apple AppStore and Google Play Store. 
     section-more-button: Install now
     section-image-path: /images/LifeSg Refreshed (GovTech Owned).png
     section-image-alt: Download LifeSG Mobile app QR code
-  - section-title: 
-    section-subtitle: Learn more
-    section-description: Planning for some of your major life decisions? Here are some recommendations for you. 
-    section-more-button: Search by Life Events
-    section-more-button-url: /life-events/overview/

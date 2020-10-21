@@ -1,6 +1,6 @@
 ---
 title: Life Events
-permalink: /life-events/overview-copy/
+permalink: /life-events/overview/
 accordion:
   - title: Buying your next home
     content: |

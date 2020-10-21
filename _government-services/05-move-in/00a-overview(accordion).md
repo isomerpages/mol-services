@@ -60,7 +60,7 @@ owner-finance:
 - [Planning the Move](#plan)
 - [Things to Note as HDB Owner](#tips)
 
-**Jump to Other Sections:**
+**You may also be interested in:**
   - [Buy an HDB flat](/government-services/buy-hdb/)
   - [Sell an HDB Flat](/government-services/sell-hdb/)
   - [Detailed Move-In Checklist](/government-services/buying-a-hdb/move-in/)
