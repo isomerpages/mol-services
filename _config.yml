@@ -27,11 +27,11 @@ colors:
   secondary-color: '#07335b'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#744d9f'
     - title: media-color-two
       color: '#744d9f'
     - title: media-color-three
-      color: '#00838f'
+      color: '#744d9f'
     - title: media-color-four
       color: '#00838f'
     - title: media-color-five
@@ -51,7 +51,7 @@ defaults:
     values:
       layout: "page"
 # Custom CSS file path
-custom_css_path: "/misc/custom.css"
+custom_css_path: "/misc/custom.scss"
 custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
