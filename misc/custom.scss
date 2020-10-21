@@ -1,4 +1,6 @@
 ---
+
+---
 @font-face {
   src: url(/fonts/Poppins-Regular.ttf);
   font-family: poppins;
@@ -60,19 +62,19 @@ $desktop: 960px + (2 * $gap) !default;
     background-size: cover;
   }
   &-2{
-    //background-color: $primary;
+    //background-color: $info;
     background: url('https://c.stocksy.com/a/FY3500/z0/1205295.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-3{
-    //background-color: $primary;
+    //background-color: $warning;
     background: url('https://c.stocksy.com/a/L1o500/z0/1383923.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
   }
   &-4{
-    //background-color: $primary;
+    //background-color: $danger;
     background: url('https://c.stocksy.com/a/Z22000/z0/7847.jpg') no-repeat left 50%;
     -webkit-background-size: cover;
     background-size: cover;
@@ -426,23 +428,4 @@ only screen and (max-width: 760px) {
   @include touch() {
     width: 100%;
   }
-}
-
-#toc_container {
-  background: #f9f9f9 none repeat scroll 0 0;
-  border: 1px solid #aaa;
-  display: table;
-  font-size: 95%;
-  margin-bottom: 1em;
-  padding: 20px;
-  width: auto;
-}
-
-.toc_title {
-  font-weight: 700;
-  text-align: left;
-}
-
-#toc_container li, #toc_container ul, #toc_container ul li{
-  list-style: outside none none !important;
 }
