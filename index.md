@@ -29,10 +29,10 @@ sections:
               - title: Stay Healthy
                 url: /government-services/stay-healthy/overview/
     - infopic:
-        title: Do more on the LifeSG APp
-        image: /images/life-sg-qr-code.jpg
+        title: Do more on your mobile
+        image: /images/government-services.jpg
         alt: Download LifeSG Mobile QR code
         description: Access government services on the go
-        button: Install now
+        button: Install LifeSG app now
         url: https://go.life.gov.sg/tgzE
 ---
