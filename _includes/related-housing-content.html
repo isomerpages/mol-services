@@ -69,8 +69,13 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
+<<<<<<< Updated upstream:_includes/related-housing-content.html
     {% for item in page.related-housing-content %}
         <li><input id="related-housing-content{{ forloop.index }}" type="checkbox" /><label for="related-housing-content{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+=======
+    {% for item in page.before-move %}
+        <li><input id="before-move{{ forloop.index }}" type="checkbox" /><label for="before-move{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+>>>>>>> Stashed changes:_includes/before-move.html
     {% endfor %}
 </ul>
 
