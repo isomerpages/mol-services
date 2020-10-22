@@ -53,7 +53,7 @@ owner-finance:
       - Maintenance/Conservancy fees 
         - Ranging from $20 to $90 a month for Singapore citizens (subsidised)
         - Check with your town council for details
-      - Mortgate repayments 
+      - Monthly housing loan repayments 
   - title: Using CPF for your home
     content: |
       Housing is a major financial purchase, which reduces your retirement savings. Consider [early repayment of your housing loan](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/cpf-rules-early-repayment){:target="_blank"} to balance your housing and retirement needs before you reach age 55.
@@ -117,7 +117,7 @@ owner-finance:
 **You may also be interested in:**
   - [Buy an HDB flat](/government-services/buy-hdb/)
   - [Sell an HDB Flat](/government-services/sell-hdb/)
-  - [Detailed Move-In Checklist](/government-services/buying-a-hdb/move-in/)
+  - [Step-by-Step Guide to Moving Into An HDB Flat](/government-services/buying-a-hdb/move-in/)
 
   
 ---------------------------------------

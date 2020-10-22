@@ -32,31 +32,29 @@ sales-finances:
       Based on the estimated sales proceeds, you can [work out your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
       
       [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} or check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your CPF savings for your home.
-
-      You can also use the [Stamp Duty Calculator](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro){:target="_blank"}  from the Inland Revenue Authority of Singapore website to calculate the stamp duty payable for your flat purchase.
  
 selling-process:
   - title: What to Expect and Timeline
     content: | 
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="HDB Resale Portal">
-        <img src="/images/hdb-resale-portal.jpg" alt="HDB Resale Portal" style="width:150px">
+      <a target="_blank" href="/images/hdb-resale-portal.jpg">
+        <img src="/images/hdb-resale-portal.jpg" alt="HDB Resale Portal" style="width:300px">
       </a>
 
   - title: Register your Intent to Sell
     content: |
-      Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to <a name="sell"></a>sell immediately. 
-
-      You will also receive information about the Ethnic Integration Policy/ Singapore Permanent Resident (EIP/ SPR) Quota for your block, status of upgrading, billing of upgrading costs, and recent transacted prices of nearby flats.
+      Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to <a name="sell"></a>sell immediately. You will also receive information about the Ethnic Integration Policy/ Singapore Permanent Resident (EIP/ SPR) Quota for your block, status of upgrading, billing of upgrading costs, and recent transacted prices of nearby flats.
 
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="Who needs to register intent to sell">
-        <img src="/images/who-needs-to-register-intent-to-sell.png" alt="Register Intent to Sell" style="width:150px">
+      <a target="_blank" href="/images/who-needs-to-register-intent-to-sell.png">
+        <img src="/images/who-needs-to-register-intent-to-sell.png" alt="Register Intent to Sell" style="width:300px">
       </a>
 
   - title: Decide selling price
     content: | 
       Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. resale levy, stamp duty, property tax) when deciding your selling price.
+
+      Use this online [Stamp Duty Calculator](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro){:target="_blank"}  from the Inland Revenue Authority of Singapore website to calculate the stamp duty payable for your flat.
   - title: Grant Option to Purchase (OTP) to Buyer 
     content: |
       To enter into an <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">OTP contract</a>, you need to:
