@@ -3,17 +3,21 @@ title: Sell an HDB Flat
 permalink: /government-services/sell-hdb/
 
 sell-eligibility:
-  - title: Things to consider before selling
+  - title: Before You Decide to Sell
     content: |
-      First of all, you should check if you have completed your Minimum Occupation Period (MOP) of 5 years. You can login to [My HDBPage](http://www.hdb.gov.sg/myhdbpage) with your SingPass and check if you have met the MOP to sell your flat, under My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP).
-  - title: Check your eligibility to sell
+      Firstly, you should check if you have completed your Minimum Occupation Period (MOP) of 5 years. 
+      
+      Log into [My HDBPage](http://www.hdb.gov.sg/myhdbpage) with your SingPass and check if you have met the MOP to sell your flat, under My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP).
+  - title: Check Your Eligibility to Sell
     content: |
-      You can only own one HDB flat at a time. You will need to sell your current home before you sign lease agreement of another HDB flat. Check if you are eligible to [sell your existing HDB flat](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility){:target="_blank"}
+      You can only own one HDB flat at a time and will need to sell your current home before you sign lease agreement of another HDB flat. 
+      
+      Check your eligibility to sell your flat by [registering your Intent to Sell](#sell) through the [HDB Resale Portal](https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp){:target="_blank"}.
 
       If you are selling your old home before buying the new one, work out your moving plans and decide if you need [temporary extension of stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"}.
 
 sales-finances:
-  - title: Calculate your (actual) sales proceeds
+  - title: Estimate Sales Proceeds
     content: |
       Your sales proceeds should be first used to:
 
@@ -23,29 +27,36 @@ sales-finances:
         - [Pay any other additional costs and fees](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} which could cost you close to S$3000 
 
       *See Also: [HDB Sales Proceeds Calculator](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds){:target="_blank"}*
-  - title: Financing your next home
+  - title: Budgeting for Your Next Home
     content: |
-      Based on the estimated sales proceeds, you can [calculate your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
+      Based on the estimated sales proceeds, you can [work out your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
       
-      (1) [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
-      
-      (2) Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your CPF savings for your home
+      [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} or check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your CPF savings for your home.
+
+      You can also use the [Stamp Duty Calculator](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro){:target="_blank"}  from the Inland Revenue Authority of Singapore website to calculate the stamp duty payable for your flat purchase.
  
 selling-process:
   - title: What to Expect and Timeline
     content: | 
-        - Announcement of [Sales launches](#sales)
-        - [Application period](#apply) (usually 1 week from announcement date)
-        - [Notification of Application Results](#results) (about 3 weeks for BTO; 6 weeks for Sales of Balance Flats)
-        - [Booking of Flat](#book)(depends on your queue position)
-        - [Signing of Lease Agreement](#sign)(within 4 months of booking a flat)
-        - [Keys Collection](#keys)(by the Estimated Completed Date indicated on Lease Agreement)
+      <p align="center">Click to enlarge</p>
+      <a target="_blank" href="HDB Resale Portal">
+        <img src="/images/hdb-resale-portal.jpg" alt="HDB Resale Portal" style="width:150px">
+      </a>
+
   - title: Register your Intent to Sell
     content: |
-      Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to sell. 
+      Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to <a name="sell"></a>sell immediately. 
+
+      You will also receive information about the Ethnic Integration Policy/ Singapore Permanent Resident (EIP/ SPR) Quota for your block, status of upgrading, billing of upgrading costs, and recent transacted prices of nearby flats.
+
+      <p align="center">Click to enlarge</p>
+      <a target="_blank" href="Who needs to register intent to sell">
+        <img src="/images/who-needs-to-register-intent-to-sell.png" alt="Register Intent to Sell" style="width:150px">
+      </a>
+
   - title: Decide selling price
     content: | 
-      Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. Stamp duty, property tax) when deciding your selling price.
+      Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. resale levy, stamp duty, property tax) when deciding your selling price.
   - title: Grant Option to Purchase (OTP) to Buyer 
     content: |
       To enter into an <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf" target="_blank">OTP contract</a>, you need to:
@@ -67,15 +78,25 @@ selling-process:
     content: |        
       You will need to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-" target="_blank">endorse</a> the documents and pay necessary fees online before your resale application can be approved.
       
-      You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.<br>
-      
-      *Note: this step can take about 8 weeks from here to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
-  - title: Get HDB approval on application
+      You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.<
+  - title: Before Resale Completion Appointment
     content: |
-      Check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB updates on the status via HDB resale portal.
+      You will need to rectify any unauthorised renovation works and vacate the flat before the  <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Resale Appointment</a> so that the buyer can take possession of the resale flat after. 
+
+      Apply for [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"} if you are unable to vacate in time.
+
+      *Note: this step can take about 8 weeks from here to the [final step of completing the resale transaction.](/government-services/selling-a-hdb/complete/)*
   - title: Complete Resale Transaction
     content: | 
-      You will need to rectify any unauthorised renovation works and vacate the flat before the Completion Appointment so that the buyer can take possession of the resale flat after. Apply for [Temporary Extension of Stay](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay){:target="_blank"} if you are unable to vacate in time.
+      Once HDB has scheduled your appointment, you will also receive SMS notification on your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">appointment with HDB</a>. 
+      
+      This is the only resale appointment at HDB you and the seller need to attend. 
+      
+      At this appointment, you (and the seller) will:
+        - Sign the sales agreement (if you are taking an HDB housing loan)
+        - Hand over the keys to the buyer
+        - Agree on the payment arrangement of the outstanding property tax with the buyer
+
 ---
 
 ## <a name="top"></a>I Want to Sell an HDB flat
@@ -83,31 +104,30 @@ selling-process:
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#plan">1. Before You Decide to Sell</a>
+  <li><a href="#plan">Before You Decide to Sell</a>
   <ul>
-    <li>1.1 Things to consider before selling</li>
-    <li>1.2 Check your eligibility to sell</li>
+    <li>Things to consider before selling</li>
+    <li>Check your eligibility to sell</li>
   </ul>
 </li>
-<li><a href="#nexthome">2. Budgeting for Your Next Home</a></li>
+<li><a href="#nexthome">Budgeting for Your Next Home</a></li>
   <ul>
-    <li>2.1 Calculate your (actual) sales proceeds</li>
-    <li>2.2 Financing your next home</li>
+    <li>Calculate your (actual) sales proceeds</li>
+    <li>Financing your next home</li>
   </ul>
-<li><a href="#timeline">3. Sale Process and Timeline</a></li>
+<li><a href="#timeline">Sale Process and Timeline</a></li>
   <ul>
-    <li>3.1 What to Expect and Timeline</li>
-    <li>3.2 Register your Intent to Sell</li>
-    <li>3.3 Decide selling price</li>
-    <li>3.4 Grant Option to Purchase (OTP) to Buyer</li>
-    <li>3.5 Submit Resale Application</li>
-    <li>3.6 Endorse Resale Documents and Pay Fees Online</li>
-    <li>3.7 Get HDB approval on application</li>
-    <li>3.8 Complete Resale Transaction</li>
+    <li>What to Expect and Timeline</li>
+    <li>Register your Intent to Sell</li>
+    <li>Decide selling price</li>
+    <li>Grant Option to Purchase (OTP) to Buyer</li>
+    <li>Submit Resale Application</li>
+    <li>Endorse Resale Documents and Pay Fees Online</li>
+    <li>Get HDB approval on application</li>
+    <li>Complete Resale Transaction</li>
   </ul>  
 </ul>
 </div>
-
 
 
 # <a name="plan"></a>Before You Decide to Sell
@@ -124,7 +144,6 @@ selling-process:
 
 
 # <a name="timeline"></a>Sale Process and Timeline
-![HDB Resale Portal](/images/hdb-resale-portal.jpg)
 
 {% include selling-process.html %}
 
@@ -136,7 +155,7 @@ selling-process:
 
 - [Buy an HDB flat](/government-services/buy-hdb/overview/)
 - [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Move into a new HDB estate](/government-services/move-in/overview)
+- [Move into an HDB Flat](/government-services/move-in/overview)
 ---------------------------------------
 
 

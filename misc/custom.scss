@@ -378,7 +378,7 @@ $desktop: 960px + (2 * $gap) !default;
 #toc_container li, #toc_container ul, #toc_container ul li{
   list-style: outside none none !important;
 }	      
-	      
+
 @media
 only screen and (max-width: 760px) {
   .bp-section.is-small.bp-section-pagetitle {

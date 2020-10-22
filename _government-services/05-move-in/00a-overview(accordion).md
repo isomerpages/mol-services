@@ -3,7 +3,7 @@ title: Move Into An HDB Flat
 permalink: /government-services/move-in/
 
 before-move:
-  - title: Get your new home ready
+  - title: Renovate Your New Home
     content: |
       Before you start your renovation, you would need to:
         1. Check for defects after collection of keys. For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works to be done by HDB</a>.
@@ -13,12 +13,12 @@ before-move:
         3. [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}
         
         4. [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance){:target="_blank"}
-  - title: Transfer your children to nearby schools
+  - title: Make New School Arrangements for Your Children
     content: |
       For preschool enrolment and application, you will need to contact the respective preschools. <a href="https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD" target="_blank">Search for your desired preschool and register interest</a>.
 
       To transfer your child(ren) to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
-  - title: Update change of address
+  - title: Update Residential Address
     content: |
       After moving to your new home, you may bring your NRIC and [any documentary evidence](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} showing your new address to a neighbourhood police post, neighbourhood police centre or [Immigration & Checkpoints Authority](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"}.
   - title: Transfer or Re-apply for Season Parking
@@ -29,24 +29,32 @@ before-move:
       *if you do not have one for your vehicle.*
 
 moving-in:
-  - title: Get help for defects and common areas
+  - title: Get Help for Defects and Common Areas
     content: |
       - [Get to know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil){:target="_blank"}
       - [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
       - For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs" target="_blank">here</a>.
       
       More information can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance" target="_blank">here</a>.
-  - title: Explore your neighborhood
+  - title: Explore Your Neighborhood
     content: |
       You can also find the [nearest park connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network){:target="_blank"} for a walk or visit a [Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden){:target="_blank"}.
 
       You can also [book your library visit](https://nlb.appointeze.com/online){:target="_blank"} or [search for upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}.
 
 owner-finance:
-  - title: Financial Obligations as HDB owner
+  - title: Financial Obligations as HDB Owner
     content: |
       As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. 
-  - title: Understand the pros and cons of using CPF for your home
+
+      - Property Taxes
+        - Determined by your home’s Annual Value (AV). The AV is the annual amount that you would get from renting out your property. You can use this [online calculator](https://www.iras.gov.sg/Tax%20Calculators/PT%20HDBNew/HDB.html){:target="_blank"}.
+      - Home Insurance Premiums
+      - Maintenance/Conservancy fees 
+        - Ranging from $20 to $90 a month for Singapore citizens (subsidised)
+        - Check with your town council for details
+      - Mortgate repayments 
+  - title: Using CPF for your home
     content: |
       Housing is a major financial purchase, which reduces your retirement savings. Consider [early repayment of your housing loan](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/cpf-rules-early-repayment){:target="_blank"} to balance your housing and retirement needs before you reach age 55.
 
@@ -54,16 +62,29 @@ owner-finance:
 ---
 ## <a name="top"></a>I Want to Move into An HDB Flat
 
-**ON THIS PAGE**
-
-- [Before the Move](#reno)
-- [Planning the Move](#plan)
-- [Things to Note as HDB Owner](#tips)
-
-**You may also be interested in:**
-  - [Buy an HDB flat](/government-services/buy-hdb/)
-  - [Sell an HDB Flat](/government-services/sell-hdb/)
-  - [Detailed Move-In Checklist](/government-services/buying-a-hdb/move-in/)
+<div id="toc_container">
+<p class="toc_title"><b>ON THIS PAGE</b></p>
+<ul class="toc_list">
+  <li><a href="#reno">Before the Move</a>
+  <ul>
+    <li>Renovate Your New Home</li>
+    <li>Make New School Arrangements for Your Children</li>
+    <li>Update Residential Address</li>
+    <li>Transfer or Re-apply for Season Parking</li>
+  </ul>
+</li>
+<li><a href="#plan">Moving In</a></li>
+  <ul>
+    <li>Get Help for Defects and Common Areas</li>
+    <li>Explore Your Neighborhood</li>
+  </ul>
+<li><a href="#tips">Things to Note as HDB Owner</a></li>
+  <ul>
+    <li>Financial Obligations as HDB Owner</li>
+    <li>Using CPF for your home</li>
+  </ul>  
+</ul>
+</div>
 
 ---------------------------------------
 
@@ -93,6 +114,13 @@ owner-finance:
 
 ---------------------------------------
 
+**You may also be interested in:**
+  - [Buy an HDB flat](/government-services/buy-hdb/)
+  - [Sell an HDB Flat](/government-services/sell-hdb/)
+  - [Detailed Move-In Checklist](/government-services/buying-a-hdb/move-in/)
+
+  
+---------------------------------------
 This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
