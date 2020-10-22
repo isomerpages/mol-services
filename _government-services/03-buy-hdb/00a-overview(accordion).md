@@ -6,12 +6,10 @@ housing-options:
   - title: New VS Resale Flats
     content: |
       Differences between new and resale HDB flats
-
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="HDB Resale Guide">
-        <img src="/images/New VS Resale Flat.png" alt="Comparing New Flats and Resale Flats" style="width:150px">
+      <a target="_blank" href="/images/New-vs-Resale-Flat.jpg">
+        <img src="/images/New-vs-Resale-Flat.jpg" alt="Comparing New Flats and Resale Flats" style="width:300px">
       </a>
-
   - title: Types of New Flats
     content: |
       There are various types of flats that are built to suit a variety of needs.
@@ -33,8 +31,8 @@ housing-finances:
   - title: HDB Housing Loan or Bank Loan
     content: |
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="HDB Loan or Bank Loan">
-        <img src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" alt="HDB Loan or Bank Loan" style="width:150px">
+      <a target="_blank" href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
+        <img src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" alt="HDB Loan or Bank Loan" style="width:300px">
       </a>
 
       Use the [1-step Eligibility Checker](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to know what flat types you can purchase and whether you can take an HDB housing loan.
@@ -47,11 +45,12 @@ housing-finances:
       (2) Check your [CPF Housing Usage Limit](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"} so you do not use up your CPF savings for your home
   - title: Financial Commitment as HDB Flat Owner
     content: |
-      If you are a first-time homebuyer, you should also include the [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} you would have to consider in your housing budget.
+      If you are a first-time homebuyer, you should also consider the [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} in your housing budget.
   - title: How to Apply for HDB Housing Loan
     content: |
-      Get your [required income documents ready](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents){:target="_blank"} such as your payslips for the past three months and latest 15 months' CPF contribution history.
-        [Apply for your Housing Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"} before your HDB appointment. 
+      Get your [required income documents ready](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents){:target="_blank"} such as your payslips for the past three months and CPF contribution history for the last 15 months.
+
+      [Apply for your Housing Loan Eligibility (HLE) letter](https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome){:target="_blank"} before your HDB appointment. 
   - title: Use Contra Payment Facility if you are an existing HDB flat owner
     content: |
       You can consider [Contra Payment Facility](https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats){:target="_blank"} if you are buying an HDB flat and currently owns another HDB flat. 
@@ -76,8 +75,8 @@ buying-process:
   - title: <a name="timeline"></a>What to Expect and Timeline
     content: | 
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="HDB Infographic Guide to Buying from HDB">
-        <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style="width:200px">
+      <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png">
+        <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style="width:300px">
       </a>
   - title: <a name="check"></a>Before You Apply 
     content: |
@@ -88,38 +87,37 @@ buying-process:
       You may apply for a flat in the following purchase modes
         - [Build-To-Order/Sale of Balance Flats](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO){:target="_blank"}
         - [Open Booking of Flat](https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html){:target="_blank"}<br>
+
        *You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.*
   - title: Check Flat Application Status
     content: |        
-      If you have already applied, you can [check your application status](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"} and whether a queue number has been balloted to you. 
+      As an applicant, you can [check for updates](https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1){:target="_blank"} regarding your flat application and whether a queue number has been balloted to you. 
   - title: Book your preferred flat unit
     content: | 
-      You will be invited to an [HDB flat selection appointment](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"} within two weeks from your appointment.
+      You will be invited to an [HDB flat selection appointment](https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp){:target="_blank"} within two weeks from your HDB appointment.
       
-      You will be required to pay an option fee via NETS when you head down to HDB for the appointment to book your flat. You will also be invited to [apply housing grants](#grants) if eligible.
+      At this appointment, you will be required to pay a booking fee via NETS. You can also [apply housing grants](#grants) if eligible.
       
-      The [option fees](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees){:target="_blank"} depends on the type of flat you choose (e.g. $1000 for 3-room flats and $2000 for 4-room or larger flats).
+      The [booking fees](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees){:target="_blank"} range from $1000 to $2000 depending on the type of flat you choose.
   - title: Sign Agreement for Lease
     content: | 
-      A 5% downpayment will be required at this stage. You can also consider if you can split your downpayment into 2 instalments using [Staggered Downpayment Scheme](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme){:target="_blank"}.
-
       You (and all persons listed in the application) will also need to bring along original copies of these [documents](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists){:target="_blank"}:
-      - Identity cards
-      - Receipt of booking fee
-      - Bank passbook and/or a photo of bank statements with your name and bank account number (for the booking fee to be returned to you)
-      - Letter of Offer from the bank that you will be taking housing loan
-      - Latest CPF statement(s) if you are currently employed
-      - Power of Attorney (if you are authorising someone to represent you)
-        - The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney
+        - Identity cards
+        - Receipt of booking fee
+        - Bank passbook and/or a photo of bank statements with your name and bank account number (for the booking fee to be returned to you)
+        - Letter of Offer from the bank that you will be taking housing loan
+        - Latest CPF statement(s) if you are currently employed
+        - Power of Attorney (if you are authorising someone to represent you)
+          - The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney
 
-      You will also need to log into your SingPass during your appointment if you intend to use CPF savings to pay for your downpayment. 
+      You will also need to log into your SingPass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using [Staggered Downpayment Scheme](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme){:target="_blank"}.
   - title: <a name="keys"></a>Collect Your Keys
     content: | 
       You will be invited by HDB to collect your keys when your project is ready.
-      Check your HDB appointment online to know when to collect your keys <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">here.</a><br>
+      Check your <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">HDB appointment online</a> to know when you can collect your keys.<br>
 
-      You (and all persons listed in the application) will also need to bring along original copies of these [documents](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists){:target="_blank"}:
-      - Identity cards
+      Do bring along original copies of these [documents](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists){:target="_blank"} for your appointment:
+      - Identity cards of all persons listed in the application
       - Certificate of insurance
         - You must buy fire insurance from HDB's appointed insurer, [FWD Singapore Pte Ltd (FWD)](https://www.fwd.com.sg/fire-insurance/){:target="_blank"}, if you are taking an HDB housing loan. 
       - Latest CPF statement(s) if you are currently employed
@@ -127,7 +125,7 @@ buying-process:
         - The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney
       - Signed GIRO form if you are paying monthly loan instalments partially or fully by cash
       
-      You will also log into your SingPass during your appointment if you intend to use CPF savings to pay for your monthly loan instalments 
+      You will also be required to log into your SingPass during your appointment if you intend to use CPF savings to pay for your monthly loan instalments.
       
 resale-process:
   - title: <a name="eligibility"></a>Eligibility Conditions for Resale Flats
@@ -136,8 +134,8 @@ resale-process:
   - title: <a name="process"></a>What to Expect and Timeline
     content: | 
       <p align="center">Click to enlarge</p>
-      <a target="_blank" href="HDB Resale Guide">
-        <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" alt="HDB Resale Guide" style="width:150px">
+      <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg">
+        <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" alt="HDB Resale Guide" style="width:300px">
       </a>
 
       You also can [engage an estate agent](https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase){:target="_blank"} to manage your flat purchase.
@@ -239,8 +237,6 @@ resale-process:
 
 # <a name="apply"></a>Applying for a Flat from HDB
 
-
-
 {% include buying-process.html %}
 
 [**BACK TO TOP**](#top)
@@ -248,17 +244,18 @@ resale-process:
 
 # <a name="resale"></a>Buying an HDB Resale Flat
 
-
-
 {% include resale-process.html %}
 
 [**BACK TO TOP**](#top)
 
 ---------------------------------------
 **You may also be interested in:**
+
   - [Sell An HDB Flat](/government-services/sell-hdb/)
   - [Move Into An HDB Flat](/government-services/move-in/)
   - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/)
+
+  
 ---------------------------------------
 
 
