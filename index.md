@@ -6,11 +6,11 @@ image: /images/lifesg-logo.jpg
 permalink: /
 sections:
     - hero:
-        title: 
-        subtitle: 
+        title: Find Government Services 
+        subtitle: You Need
         background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
         dropdown:
-            title: Find the services you need, faster.
+            title: I Want To...
             options:
               - title: Get Digitally Ready
                 url: /government-services/get-digitally-ready/overview/
@@ -36,3 +36,4 @@ sections:
         button: Install LifeSG app now
         url: https://go.life.gov.sg/tgzE
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
