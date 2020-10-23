@@ -26,5 +26,4 @@ After moving to your new home, you and your family members can update your detai
 Click the image above for more information.
 
 
-
 **Back to [I Want to Move House](/government-services/move-house/overview)**
