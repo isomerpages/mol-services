@@ -34,7 +34,7 @@ img {
     <tr>
     <td class="tg-baqh"><a href="/government-services/buy-hdb/"><img src="/images/06-buy-hdb.png" alt="Buy an HDB Flat"></a></td>
     <td class="tg-baqh"><a href="/government-services/sell-hdb/"><img src="/images/07-sell-hdb.png" alt="Sell an HDB Flat"></a></td>
-    <td class="tg-baqh"><a href="/government-services/move-in/overview/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
+    <td class="tg-baqh"><a href="/government-services/move-in/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
   </tr>
 </tbody>
 </table>
