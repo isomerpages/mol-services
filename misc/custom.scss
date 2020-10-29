@@ -113,10 +113,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Color definitions
 .is {
 	&-primary {
-		background-color: #C6B79B !important;
+		background-color: #F40009 !important;
 	}
 	&-secondary {
-		background-color: #EE442F !important;
+		background-color: #000000 !important;
 	}
 }
 
@@ -185,7 +185,7 @@ $desktop: 960px + (2 * $gap) !default;
 	a {
 		background-color: $secondary;
 	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+	      background-color: lighten($secondary,20%) !important;
 	    }
 	}
 }
