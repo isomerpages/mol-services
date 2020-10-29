@@ -11,9 +11,9 @@ Check what  <a href="https://articles.life.gov.sg/financial-support-workers-self
 
 
 
-### <a name="Seniors Discount"></a>For Meredeka Generation (MG) Seniors
+### <a name="SeniorsDisc"></a>For Meredeka Generation (MG) Seniors
 
-Flash your physical Pioneer Generation (PG) or Merdeka Generation (MG) cards or MG e-card to enjoy discounts at these merchants (sorted by alphabetical order).
+Flash your physical Pioneer Generation (PG) or Merdeka Generation (MG) cards or MG e-card to enjoy [discounts](#SeniorsDisc) at these merchants (sorted by alphabetical order).
 
 <style>
 @media
