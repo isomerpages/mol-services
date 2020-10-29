@@ -113,10 +113,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Color definitions
 .is {
 	&-primary {
-		background-color: #F40009 !important;
+		background-color: #000000 !important;
 	}
 	&-secondary {
-		background-color: #000000 !important;
+		background-color: #F40009 !important;
 	}
 }
 
