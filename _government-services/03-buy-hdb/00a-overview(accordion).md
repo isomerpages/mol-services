@@ -38,7 +38,12 @@ housing-finances:
       Use the [1-step Eligibility Checker](https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK){:target="_blank"} to know what flat types you can purchase and whether you can take an HDB housing loan.
   - title: How to use CPF savings to pay for your flat
     content: |
-      You can [use your CPF Ordinary Account (OA) savings](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/public-housing-scheme){:target="_blank"} to buy new or resale HDB flats. 
+      You can use your CPF Ordinary Account (OA) savings to buy new or resale HDB flats. 
+
+      <p align="center">Click for more details</p>
+      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/Documents/Financing_Your_Home_with_CPF.pdf">
+        <img src="/images/use CPF OA savings for home.png" alt="" style="width:300px">
+      </a>
       
       (1) [Estimate how much CPF you can use to buy your next home](https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1){:target="_blank"}
       
