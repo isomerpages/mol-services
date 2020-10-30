@@ -23,7 +23,7 @@ sections:
               - title: Move Into An HDB Flat
                 url: /government-services/move-in/
               - title: Plan for Retirement
-                url: /government-services/plan-for-retirement/overview/
+                url: /government-services/retirement/
               - title: Plan my Legacy
                 url: /government-services/plan-legacy/overview/
 
