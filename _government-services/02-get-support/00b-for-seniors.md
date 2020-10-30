@@ -1,24 +1,19 @@
 ---
-title: Get Support
-permalink: /government-services/get-support/overview/
+title: Get Discounts for Seniors
+permalink: /government-services/get-support/seniorsdiscount/
 ---
 
-# <a name = "top"></a>Getting Financial Support and Aid
+# Seniors' Discounts
 
-### For Workers and Self-Employed
+Flash your physical Pioneer Generation (PG) or Merdeka Generation (MG) cards or MG e-card (from [LifeSG mobile app](https://www.life.gov.sg/)) to enjoy discounts at these merchants (sorted by alphabetical order).
 
-Check what  <a href="https://articles.life.gov.sg/financial-support-workers-self-employed/" target="_blank">financial support and grants</a> you can get to tide through these tough times.
+### Note that most of the discounts for seniors will end 31 Dec 2020
 
-
-
-### <a name="SeniorsDisc"></a>For Meredeka Generation (MG) Seniors
-
-Flash your physical Pioneer Generation (PG) or Merdeka Generation (MG) cards or MG e-card to enjoy [discounts](#SeniorsDisc) at these merchants (sorted by alphabetical order).
-
+<html>
 <style>
 @media
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px) {
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{
   table, th, td {
     display: block;
   }
@@ -36,7 +31,7 @@ img {
 </style>
 
 
-
+<div style="overflow-x:auto;">
 <div class="tg-wrap"><table class="tg">
 <thead>
   <tr>
@@ -134,8 +129,8 @@ img {
 </tbody>
 </table>
 </div>
+<html>
 
-[Back to top](#top)
 
 --------------------------------------- 
 <br>
@@ -148,5 +143,3 @@ DISCLAIMER
 
 <li>The information on merchants’ promotions, goods and services is as provided by merchants at the time of publication in this website. The Government of Singapore will not assume responsibility for the accuracy, currency, correctness or completeness of the information or any changes made after publication. Any enquires should be made directly with the merchant(s).</li>
 </ol>
-
- 

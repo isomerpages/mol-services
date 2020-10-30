@@ -62,8 +62,7 @@ retire-life:
 
 # <a name="needs"></a>Deciding Your Retirement Lifestyle and Needs
 
-
-
+{% include retire-needs.html %}
 [Back to top](#top)
 
 
