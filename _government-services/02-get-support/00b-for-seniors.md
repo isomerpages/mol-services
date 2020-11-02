@@ -7,7 +7,7 @@ permalink: /government-services/get-support/seniorsdiscount/
 
 Flash your physical Pioneer Generation (PG) or Merdeka Generation (MG) cards or MG e-card (from [LifeSG mobile app](https://www.life.gov.sg/)) to enjoy discounts at these merchants (sorted by alphabetical order).
 
-### Note that most of the discounts for seniors will end 31 Dec 2020
+### <a name="top"></a>Note that most of these discounts for seniors will end 31 Dec 2020
 
 <html>
 <style>
@@ -131,6 +131,7 @@ img {
 </div>
 <html>
 
+[Back to Top](#top)
 
 --------------------------------------- 
 <br>
