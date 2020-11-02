@@ -77,8 +77,6 @@ retire-life:
 
 {% include retire-life.html %}
 
-
-
 [Back to top](#top)
 
 
