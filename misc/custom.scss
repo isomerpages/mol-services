@@ -116,13 +116,13 @@ $desktop: 960px + (2 * $gap) !default;
 		background-color: #000000 !important;
 	}
 	&-secondary {
-		background-color: #F40009 !important;
+		background-color: #ff3a22 !important;
 	}
 }
 
 // Text color
 .has-text-primary {
-	color: #000000 !important;
+	color: $primary !important;
 }
 .has-text-secondary {
 	color: $secondary !important;
@@ -311,7 +311,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h3 {
-    color: $secondary;
+    color: #BA0F30;
     font-family: poppins;
     font-size: 20px;
     font-weight: 600;
@@ -323,7 +323,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h4 {
-    color: $secondary;
+    color: #BA0F30;
     font-family: poppins-bold;
     font-size: 20px;
     font-weight: 600;
