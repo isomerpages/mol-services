@@ -5,16 +5,17 @@ permalink: /government-services/retirement/
 retire-needs:
   - title: Plan when to retire
     content: |
-        What is the retirement age? How do I know how much I need to live comfortably during retirement?
+      - What is the retirement age? 
+      - How do I know how much I need to live comfortably during retirement?
   - title: Decide the retirement life you want
     content: |
-        It is often not until we are about to stop work that we start thinking about our retirement. 
-        Here are some resources from various government agencies that would be useful in your retirement planning.
+      - It is often not until we are about to stop work that we start thinking about our retirement. 
+      - Here are some resources from various government agencies that would be useful in your retirement planning.
 
 retire-funds:
   - title: Plan your source of retirement income
     content: | 
-       How do I plan my finances to ensure I can live comfortably during retirement? 
+      - How do I plan my finances to ensure I can live comfortably during retirement? 
 
 retire-life:
   - title: Stay Active and Healthy
@@ -63,19 +64,17 @@ retire-life:
 # <a name="needs"></a>Deciding Your Retirement Lifestyle and Needs
 
 {% include retire-needs.html %}
+
 [Back to top](#top)
 
 
-# <a name="money"></a>Plan Your Source of Retirement Income
-
-{% include retire-funds.html %}
+# <a name="money"></a>Plan Your Retirement Funds
 
 [Back to top](#top)
 
 
 # <a name="active"></a>Stay Active and Engaged After Retirement
 
-{% include retire-life.html %}
 
 [Back to top](#top)
 
