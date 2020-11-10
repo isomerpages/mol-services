@@ -23,8 +23,8 @@ resources_name: media-centre
 
 # Site colors
 colors:
-  primary-color: '#ff5668'
-  secondary-color: '#07335b'
+  primary-color: '#BA0F30'
+  secondary-color: '#272c67'
   media-colors:
     - title: media-color-one
       color: '#744d9f'

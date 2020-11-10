@@ -6,8 +6,8 @@ image: /images/lifesg-logo.jpg
 permalink: /
 sections:
     - hero:
-        title: Find Government Services 
-        subtitle: You Need
+        title: Find What You Need
+        subtitle: 
         background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
         dropdown:
             title: I Want To...
@@ -15,7 +15,9 @@ sections:
               - title: Get Digitally Ready
                 url: /government-services/get-digitally-ready/overview/
               - title: Get Support
-                url: https://articles.life.gov.sg/financial-support-workers-self-employed/
+                url: /government-services/get-support/overview/
+              - title: Get Discounts as a Senior
+                url: /government-services/get-support/seniorsdiscount/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat
@@ -23,11 +25,10 @@ sections:
               - title: Move Into An HDB Flat
                 url: /government-services/move-in/
               - title: Plan for Retirement
-                url: /government-services/plan-for-retirement/overview/
+                url: /government-services/retirement/
               - title: Plan my Legacy
                 url: /government-services/plan-legacy/overview/
-              - title: Stay Healthy
-                url: /government-services/stay-healthy/overview/
+
     - infopic:
         title: Access Services
         image: /images/government-services.jpg
