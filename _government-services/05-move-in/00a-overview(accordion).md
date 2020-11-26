@@ -20,7 +20,12 @@ before-move:
       To transfer your child(ren) to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
   - title: Update Residential Address
     content: |
-      After moving to your new home, you may bring your NRIC and [any documentary evidence](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} showing your new address to a neighbourhood police post, neighbourhood police centre or [Immigration & Checkpoints Authority](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"}.
+      After moving to your new home, you may <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address with [any documentary evidence](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} showing your new address to a neighbourhood police post, neighbourhood police centre or [Immigration & Checkpoints Authority](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"}.
+
+      <p align="center">Click to enlarge</p>
+      <a target="_blank" href="https://www.ica.gov.sg/eservicesandforms/ecoa">
+        <img src="https://www.ica.gov.sg/images/default-source/ica-images/contents/change-of-address-procedure.png?sfvrsn=2aca00c_4" alt="ICA Change Address Online" style="width:300px">
+      </a>
   - title: Transfer or Re-apply for Season Parking
     content: |
       If you own a vehicle, you will need to:
@@ -125,6 +130,6 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 22 October 2020
+Last updated: 26 November 2020
  
 [Back to top](#top)
