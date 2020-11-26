@@ -18,7 +18,7 @@ collections:
     output: true
   stay-healthy:
     output: true
-  detailed-guides:
+  backupfiles:
     output: true
 
 resources_name: media-centre
