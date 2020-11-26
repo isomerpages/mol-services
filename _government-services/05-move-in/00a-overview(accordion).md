@@ -122,8 +122,6 @@ owner-finance:
 **You may also be interested in:**
   - [Buy an HDB flat](/government-services/buy-hdb/)
   - [Sell an HDB Flat](/government-services/sell-hdb/)
-  - [Step-by-Step Guide to Moving Into An HDB Flat](/government-services/buying-a-hdb/move-in/)
-
   
 ---------------------------------------
 This page will be updated as additional schemes and measures are introduced.
