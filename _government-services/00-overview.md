@@ -48,7 +48,7 @@ img {
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></a></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
+    <td class="tg-baqh"><a href="/government-services/retirement/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
     <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
   </tr>
 </tbody>
