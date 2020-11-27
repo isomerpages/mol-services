@@ -20,7 +20,7 @@ before-move:
       To transfer your child(ren) to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
   - title: Update Residential Address
     content: |
-      After moving to your new home, you may <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address with [any documentary evidence](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"} showing your new address to a neighbourhood police post, neighbourhood police centre or [Immigration & Checkpoints Authority](https://www.ica.gov.sg/documents/ic/update_residential_address){:target="_blank"}.
+      After moving to your new home, you may <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address online</a> from 1 Oct 2020 onwards. If you are unable to transact online and need help, please visit ICA.
 
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.ica.gov.sg/eservicesandforms/ecoa">
