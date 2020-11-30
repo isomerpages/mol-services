@@ -146,7 +146,7 @@ retire-funds:
         - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">Right-size to a smaller flat</a>. You can use the sales proceeds and Silver Housing Bonus to top up your CPF.
     
         - Sell your lease back to HDB. You can then continue living in your current HDB flat while you get to receive monthly income from HDB.
-      
+     
         *<a href="https://services2.hdb.gov.sg/webapp/BF13AWAppointmentWeb/branch/" target="_blank">Make an e-Appointment</a> with HDB Branch Office to find out more about the HDB Lease Buyback Scheme.*
   - title: <a name="CPF-deceased"></a>What Happens to My CPF if I Pass On?
     content: |
@@ -176,14 +176,10 @@ retire-life:
       By the time your retirement happens, you may be content with the idea of spending days in relaxation and doing the things that make you happy. While those are obviously important, it’s also necessary to focus on your long-term wellness. 
 
       Get your health regularly checked at <a href="https://www.healthhub.sg/programmes/61/Screen_for_Life" target="_blank">Screen-for-Life programmes</a> at a subsidised rate of $2 or below (free for Pioneer Generation Seniors and $2 for Merdeka Generation seniors). 
-  - title: <a name="wellness"></a>Maintain Your Wellness
-    content: |
-      Many retirees may set out with grand plans but it is important to also do things at a pace you are comfortable with. Stay healthy does not have to be a grueling workout regimen. You can participate in <a href="https://www.healthhub.sg/programmes/160/AAP" target="_blank">active ageing programmes</a> to sweat it out while connecting with others.
-
-      See Also: [Stay Healthy As a Senior](/government-services/stay-healthy/)
   - title: <a name="skills"></a>Pick Up Some New Skills or Hobbies
     content: |
       Retirement may also be the right time to pick up new hobbies or a skill that you have always wanted to. 
+      You may wish to:
         - <a href="https://imsilver.imda.gov.sg/learn-digital-skills/overview/>Learn digital skills</a>
         - <a href="https://www.nsa.org.sg/">Attend short courses</a> or even get certified (using your skillsfuture credit)
         - <a href="https://rsvp.org.sg/" target="_blank">Find volunteering opportunities</a> and meet new friends
@@ -224,7 +220,6 @@ retire-life:
 <li><a href="#retire-life">4 Stay Active and Engaged After Retirement</a></li>
   <ul>
     <li><a href="#check-up"> Keep Your Health in Check</a></li>
-    <li><a href="#wellness">  Maintain Your Wellness</a></li>
     <li><a href="#skills"> Pick Up Some New Skills or Hobbies</a></li>
    </ul>  
   </ul>
@@ -270,7 +265,7 @@ retire-life:
   - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
   - [Overview of CPF Schemes](https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview)
   - Take Care of the Unexpected and [Plan Your Legacy](https://www.mylegacy.gov.sg/end-of-life-planning/)
-  - <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/right-size-with-silver-housing-bonus" target="_blank">Silver Housing Bonus (SHB)</a>
+ 
   
 
 ---------------------------------------
@@ -279,7 +274,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 4 December 2020
+Last updated: 8 December 2020
  
 [Back to top](#top)
 
