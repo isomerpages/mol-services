@@ -187,11 +187,11 @@ retire-life:
       See also: [Active Ageing: Rewire After You Retire](https://www.healthhub.sg/live-healthy/1382/rewire-after-you-retire){:target="_blank"}
   - title: <a name="CPF-deceased"></a>Organise Your Important Legacy Documents
     content: |
-      If you have made a <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" target="_blank">CPF nomination</a>, your CPF savings (including those in your CPF Retirement Account) will be distributed to the nominees as per your nomination.
+      The two most important assets that most of Singaporeans have are property and CPF savings. If you have made a <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" target="_blank">CPF nomination</a>, your CPF savings (including those in your CPF Retirement Account) will be distributed to the nominees as per your nomination.
 
       If you have not made a CPF nomination, your CPF savings will be distributed according to the <a href="https://sso.agc.gov.sg/Act/ISA1967" target="_blank">Intestacy Laws of Singapore</a> by the [Public Trustee Office](https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/).
 
-      <p align="center">Click to enlarge</p>
+      <p align="center">Click to view more details</p>
       <a target="_blank" href="https://sso.agc.gov.sg/Act/ISA1967" >
         <img src="/images/Intestacy.png" alt="Intestacy" style="width:300px">
       </a>
