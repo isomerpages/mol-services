@@ -170,6 +170,8 @@ retire-funds:
 
         See Also: <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing?starterpack_tab=tab-content" target="_blank">Get Started with Investing by MoneySense</a>
 
+        *A note of advice is not to resort to gambling as an option. You could also consider applying for [Casino Exclusion](https://www.ncpg.org.sg/en/Pages/DealWithProblemGambling.aspx?categ=2&article=11){:target="blank"} for yourself or your loved ones to curb addiction.*
+
 retire-life:
   - title: <a name="check-up"></a>Keep Your Health in Check
     content: |
