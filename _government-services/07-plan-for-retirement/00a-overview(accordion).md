@@ -10,7 +10,7 @@ retire-job:
       This means your employers cannot ask you to retire before this age. But you can choose to retire earlier and are not expected to work till 67 unless you want to.
   - title: Retirement age VS Re-employment age
     content: |
-      If you are healthy and eligible for re-employment (details in next section), your employer has to offer you a re-e,mployment contract if you want to continue working until the [re-employment age of 67](https://www.mom.gov.sg/employment-practices/re-employment). 
+      If you are healthy and eligible for [re-employment](#eligibility), your employer has to offer you a re-employment contract if you want to continue working until [your re-employment age of 67](https://www.mom.gov.sg/employment-practices/re-employment). 
 
       Both the retirement age and the re-employment age are meant to protect the interest of workers, not their company. 
   - title: <a name="eligibility"></a>Check Your Eligibility for Re-employment
@@ -21,6 +21,10 @@ retire-job:
         - Considered to have performed well at work, as assessed by the employer
         - Medically fit to continue working
         - Born on or after 1 July 1952
+
+      Upon being re-employed at 65, your employer will receive an additional [Special Employment Credit (SEC)](https://www.sec.gov.sg/){:target="_blank"} of up to 3% of your monthly wage. 
+
+      See also: [Eligibility for Re-Employment](https://www.mom.gov.sg/employment-practices/re-employment#eligibility){:target="_blank"}
   - title: <a name="employer"></a>What It Means for Your Employer
     content: |
       If you are eligible for re-employment but your employer is unable to offer you a position, then your employer must:
@@ -30,34 +34,31 @@ retire-job:
     content: |
       If you are not being offered re-employment within the last 1 month after the last day of your employment, you can notify <a href="https://www.mom.gov.sg/appeal-dismissal" target="_blank">Commmisioner for Labor online</a>.
 
-      If you find the terms and conditions in your re-employment contract or the EAP amount unreasonable, you can approach <a href="https://www.tal.sg/tadm/eServices" target="_blank">TADM</a> within 6 months after last day of your employment.
+      To dispute unreasonable terms and conditions in your re-employment contract, you can approach <a href="https://www.tal.sg/tadm/eServices" target="_blank">TADM</a> within 6 months from the last day of your employment.
 
 retire-needs:
   - title: <a name="goals"></a>Set Your Retirement Goals
     content: |
       Planning your retirement as early as possible gives you more time to prepare. By estimating your current monthly expenses and checking your CPF savings, you can use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding" target="_blank">CPF Retirement Estimator</a> to gauge how much you need to set aside.
       
-      Using <a href="https://www.areyouready.gov.sg/YourLifeEvents/Pages/GoldenYears-StartingEarly.aspx" target="_blank">CPF Rule of Thumb</a>, you would need at least 60% to 70% of your last drawn income for your retirement expenses.
+      As <a href="https://www.areyouready.gov.sg/YourLifeEvents/Pages/GoldenYears-StartingEarly.aspx" target="_blank">CPF Rule of Thumb</a>, you would need at least 60% to 70% of your last drawn income for your retirement expenses.
   - title: <a name="ready"></a>Assess if You Are Ready for Retirement
     content: |
       Ensure that you:
-      - Have a roof over your head (that is fully paid for)
-      - Are free of any debt obligations that you need to pay off<br>
-      *Tip: You can <a href ="https://www.creditbureau.com.sg/available-options.html" target="_blank">check your outstanding debts across credit providers</a> (chargeable at $6.42 including GST).*
-      - <a href="/government-services/healthcare/costs/" target="_blank">Have adequate health insurance cover for medical expenses</a>
-      - Have enough savings or passive income to pay for the retirement lifestyle you want
+        * Have a roof over your head (that is fully paid for)
+        * Are free of any debt obligations that you need to pay off<br>
+        The fastest and easiest way is to simply log into www.creditbureau.com.sg with your SingPass ID and password to purchase your credit report at $6.42 (including GST).
+        * <a href="/government-services/healthcare/costs/" target="_blank">Have adequate health insurance cover</a> for future medical expenses
+        * Have enough savings or passive income to pay for the retirement lifestyle you want
+        
+        See Also: [3 Tips on Life and Retirement by Retirees in Singapore](https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-3-Tips-On-Life-And-Retirement-by-Retirees-in-Singapore.aspx){:target="_blank"}
   - title: <a name="estimate"></a>Estimate Your Monthly Expenses
-    content: |
-      Begin by <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding" target="_blank">estimating the monthly expenditure</a> for your daily needs and desired lifestyle during retirement. 
+    content: |    
+      Use <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding" target="_blank">CPF Retirement Calculator</a>​ to get a quick idea of how much you need for your desired retirement lifestyle.
       
-      You can also do your own projection based on your current expenses for necessities, and costs for leisure activities you may want to pursue in your golden years.
-      
-      A good estimate is about 60-70% of your last drawn salary. This is likely the amount you will need a month for a comfortable retirement.
-  - title: <a name="calculate"></a>Calculate How Much You Need to Set Aside Now
-    content: |
-      For an in-depth assessment of your retirement goals that gives you a clearer picture of what is needed. <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementCalculator/CoverPage" target="_blank">Try the CPF Retirement Calculator</a>​.
+      A good estimate is about 60-70% of your last drawn salary. This is likely the amount you will need a month for a comfortable retirement. 
     
-      If you are turning 55 this year, you can refer to the <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Retirement/Retirement-Sum-Scheme/FAQDetails?category=Retirement&group=Retirement%20Sum%20Scheme&folderid=18088&ajfaqid=2190574" target="_blank">this general guide</a> on the retirement sum you will need to set aside for your desired CPF Life monthly payouts.
+      See also: [Determining Your Retirement Needs](https://www.moneysense.gov.sg/articles/2018/10/determine-your-retirement-needs){:target="_blank"}
 
 retire-funds:
   - title: <a name="cpf"></a>Your CPF is 1st Step to Retirement
@@ -67,6 +68,8 @@ retire-funds:
       - MediSave for Healthcare
       - CPF Ordinary Account (CPF OA) for Education and Housing
       - CPF Special Account (CPF SA) for Retirement
+
+      See also: [Overview of CPF accounts and interest rates](https://www.cpf.gov.sg/members/aboutus/about-us-info/cpf-overview){:target="_blank"}
   - title: <a name="rstu"></a>Manage Your CPF Well
     content: |
       Your CPF Savings grow in the following ways:
@@ -78,11 +81,12 @@ retire-funds:
       *Tip: Get dollar-for-dollar tax relief of a maximum of $14,000 (up to $7000 for self and up to $7000 for your loved ones) for all top-ups in cash, while enjoying an <a href="https://www.cpf.gov.sg/members/aboutus/about-us-info/cpf-interest-rates" target="_blank">increased interest rate of up to 6% per annum.</a>*
 
       <a href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/WelcomePage" target="_blank">Check your CPF balances</a> regularly to see if you are on track to reaching your retirement goals. 
+
   - title: <a name="at55"></a>What Happens To Your CPF Savings At 55? 
     content: |
       When you reach 55 years old, your Special and Ordinary Account savings, up to the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" target="_blank">Full Retirement Sum (FRS)</a>, will be transferred to a Retirement Account (CPF-RA). 
 
-      See next section on [CPF LIFE](#CPFLIFE)
+      Check <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Retirement/Retirement-Sum-Scheme/FAQDetails?category=Retirement&group=Retirement%20Sum%20Scheme&folderid=18088&ajfaqid=2190574" target="_blank">this general guide</a> on the retirement sum you will need to set aside for your desired CPF LIFE monthly payouts.
   - title: <a name="CPFLIFE"></a>How CPF LIFE works
     content: |
       <a href ="https://www.cpf.gov.sg/members/schemes/schemes/retirement/cpf-life" target="_blank">CPF LIFE</a> allows you to get a monthly payout of a basic amount, drawn from your Retirement Account to take care of basic needs after 65.
@@ -93,40 +97,46 @@ retire-funds:
       - The CPF LIFE plan you choose
       - CPF interest rates
 
-      *You may choose to defer your monthly payouts until 70 years old and continue to grow your retirement savings at an interest rate of up to 6% per annum. After 70, the payouts are automatically activated and paid to your bank accounts.*
+      *Tip: You may choose to defer your monthly payouts until 70 years old and continue to grow your retirement savings at an interest rate of up to 6% per annum. After 70, the payouts are automatically activated and paid to your bank accounts.*
 
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/cpf-life#Item1596">
+      <p align="center">Click to enlarge image</p>
+      <a target="_blank" href="https://dollarsandsense.sg/wp-content/uploads/2019/01/CPF-LIFE-Auto-Inclusion.png">
         <img src="https://dollarsandsense.sg/wp-content/uploads/2019/01/CPF-LIFE-Auto-Inclusion.png" alt="CPF LIFE" style="width:300px">
       </a>
   - title: <a name="RSS"></a>Retirement Sum Scheme VS CPF LIFE
     content: |
-      CPF LIFE has since replaced the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" target="_blank">CPF Retirement Sum Scheme</a> as the default CPF payout scheme for Singapore Citizens and Permanent Residence (born after 1959) in our retirement.
+      CPF LIFE has since replaced the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" target="_blank">CPF Retirement Sum Scheme</a> as the default CPF payout scheme for Singapore Citizens and Permanent Residents (born after 1959) in our retirement.
 
       If you are born before 1958 and/or were already receiving CPF payouts from the Retirement Sum Scheme in 2009, you might be one of those who are still under the Retirement Sum Scheme.
 
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-Am-I-on-the-Retirement-Sum-Scheme-or-CPF-LIFE-What-you-should-know-if-you-were-born-on-1-May-1961-or-after.aspx">
+      <p align="center">Click to view image</p>
+      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-Am-I-on-the-Retirement-Sum-Scheme-or-CPF-LIFE-What-you-should-know-if-you-were-born-on-1-May-1961-or-after/Am%20I%20on%20the%20Retirement%20Sum%20Scheme%20or%20CPF%20LIFE%20What%20you%20should%20know%20if%20you%20were%20born%20on%201%20May%201961%20or%20after.png">
         <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-Am-I-on-the-Retirement-Sum-Scheme-or-CPF-LIFE-What-you-should-know-if-you-were-born-on-1-May-1961-or-after/Am%20I%20on%20the%20Retirement%20Sum%20Scheme%20or%20CPF%20LIFE%20What%20you%20should%20know%20if%20you%20were%20born%20on%201%20May%201961%20or%20after.png" alt="CPF LIFE and RSS" style="width:300px">
       </a>
-  - title: <a name="CPF-RA"></a>About CPF Retirement Account (CPF-RA)
+  - title: <a name="CPF-RA"></a>What is CPF Retirement Account (CPF RA)
     content: |
-      CPF LIFE has since replaced the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" target="_blank">CPF Retirement Sum Scheme</a> as the default CPF payout scheme for Singapore Citizens and Permanent Residence (born after 1959) in our retirement.
+      Upon turning 55, your CPF savings from your Ordinary Account (OA) and Special Account (SA) will be transferred to your RA (up to the Full Retirement Sum) to form your retirement savings (where CPF LIFE monthly payouts will be drawn from).
 
-      If you are born before 1958 and/or were already receiving CPF payouts from the Retirement Sum Scheme in 2009, you might be one of those who are still under the Retirement Sum Scheme.
-
-      <p align="center">Click to enlarge</p>
+      <p align="center">Click to view CPF Retirement Planning Guide</p>
       <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/Documents/CPF_Retirement_Planning_Booklet.pdf" >
         <img src="https://dollarsandsense.sg/wp-content/uploads/2018/09/CPF-LIFE-RA.png" alt="CPF RA" style="width:300px">
       </a>
+
+      See also: [CPF Clarifies on Retirement Sum](https://www.cpf.gov.sg/members/aboutus/about-us-info/cpf-clarifies/policy-faqs/at-age-55,-why-are-my-special-account-savings-first-transferred-to-my-retirement-account-to-form-the-full-retirement-sum,-before-my-ordinary-account-savings-are-transferred?category=Retirement%20Sum&folderid=19778&faqid=8619961){:target="_blank"}
+
   - title: <a name="FRS"></a>How Much Do I Need in My CPF at 55?
     content: |
-      At age 55, you can choose your desired future monthly payout (to be given at the payout eligibility age) from the three levels of retirement sums.
+      To help you plan your retirement early, the government has made known the amounts for up till 2022: At age 55, you can choose your desired future monthly payout (to be given at the payout eligibility age) from the [three levels of retirement sums](https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-CPF-Retirement-Sum-Explained-for-Young-Singaporeans-MoneySmart.aspx){:target="_blank"}.
+        - Basic Retirement Sum (BRS)
+          This applies to property owners with remaining lease of at least 40 years and can live on smaller CPF LIFE payouts. 
+          Otherwise, you will be required to pledge your property to CPF (i.e if you were to sell or transfer property, you need to top-up your CPF to meet the FRS amount)
+        - Full Retirement Sum (FRS)
+          For those who are unable the BRS conditions, you will need to meet the FRS instead.
+        - Enhanced Retirement Sum (ERS)
+          For those who wants higher monthly payouts from CPF LIFE during retirement, but completely on voluntary basis.
 
-      To help you plan your retirement early, the government has made known the amounts until 2022:
-
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" >
+      <p align="center">See Comparison of all 3 levels of payouts</p>
+      <a target="_blank" href="/images/CPF-FRS-BRS-ERS.png" >
         <img src="/images/CPF-FRS-BRS-ERS.png" alt="3 levels of CPF retirement sums" style="width:300px">
       </a>
   - title: <a name="BRS"></a>When Your CPF Balances Fall below Basic Retirement Sum (BRS)
@@ -138,7 +148,7 @@ retire-funds:
         <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" >
         <img src="/images/CPF-FRS-BRS-ERS-payout.png" alt="3 levels of CPF retirement sums" style="width:300px">
       </a> 
-  - title: <a name="top-up RA"></a>Ways to Top Up Your Retirement Account
+  - title: <a name="top-up RA"></a>How to Top Up Your Retirement Account (CPF RA)
     content: |          
       You have a few options to top up to the Retirement Sum.
         - Use cash on hand to top up. Do this as early as possible to maximize the compounding interest rate on your CPF savings.
@@ -148,27 +158,17 @@ retire-funds:
         - Sell your lease back to HDB. You can then continue living in your current HDB flat while you get to receive monthly income from HDB.
      
         *<a href="https://services2.hdb.gov.sg/webapp/BF13AWAppointmentWeb/branch/" target="_blank">Make an e-Appointment</a> with HDB Branch Office to find out more about the HDB Lease Buyback Scheme.*
-  - title: <a name="CPF-deceased"></a>What Happens to My CPF if I Pass On?
-    content: |
-      If you have made a <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" target="_blank">CPF nomination</a>, your CPF savings (including those in your CPF Retirement Account) will be distributed to the nominees as per your nomination.
-
-      If you have not made a CPF nomination, your CPF savings will be distributed according to the <a href="https://sso.agc.gov.sg/Act/ISA1967" target="_blank">Intestacy Laws of Singapore</a> by the [Public Trustee Office](https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/).
-
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://sso.agc.gov.sg/Act/ISA1967" >
-        <img src="/images/Intestacy.png" alt="Intestacy" style="width:300px">
-      </a> 
   - title: <a name="income"></a>Build Your Alternative Income Stream(s)
     content: | 
       There are a few options you can consider to get alternative income streams during your retirement years.
         - Rent out a room in your flat
         If you own a HDB flat and have met your Minimum Occupation Period (MOP), you may consider <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/for-our-seniors/rent-out-your-flat-bedroom" target="_blank">renting out your entire HDB flat or spare bedroom</a>.
         - Consider working part-time or as a freelancer
-        You may have retired, but if you're still healthy and able, you may wish to consider part-time or temporary positions, or turn a hobby into gainful employment. 
+        You may have retired, but if you're still healthy and able, you may wish to consider [part-time or temporary positions](https://www.mycareersfuture.gov.sg/){:target="_blank"}, or turn a hobby into gainful employment. 
         - Investing 
-        You can consider growing your savings by using your Supplementary Retirement Scheme (SRS) account or spare cash on hard to invest. However, this approach may not be for everyone so do take time to carefully consider your circumstances and risk appetite. 
+        You can consider growing your savings by using your [Supplementary Retirement Scheme (SRS)](https://www.ifaq.gov.sg/mof/apps/fcd_faqmain.aspx?qst=hRhkP9BzcBImsx2TBbssMsxu7lqt6UJK70a1wAEVmycfm8edPX1dfnExl%2FPIIivbmZUw6xsEEXZ5JbzTDC30P5spbPMxv8H4R3hr7mXvUYX8kZKPLoLCfTcCoTcKmo0mYSFsjnHiwYE2OJ487PqkNktKMsKmGPnrR1qfFcRLDL3GwTZAobcqAw2CQHsVXORCfiq8r00jgpb1gSuoYW7sXMUpUL%2BnQEIhnhS1hlVsGBU%3D){:target="_blank"} account or spare cash on hard to invest. However, do note that investing may not be for everyone so do take time to carefully consider your circumstances and risk appetite. 
 
-      *See Also: <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing?starterpack_tab=tab-content" target="_blank">Get Started with Investing by MoneySense</a>*
+        See Also: <a href="https://www.moneysense.gov.sg/starter-packs/get-started-with-investing?starterpack_tab=tab-content" target="_blank">Get Started with Investing by MoneySense</a>
 
 retire-life:
   - title: <a name="check-up"></a>Keep Your Health in Check
@@ -180,9 +180,22 @@ retire-life:
     content: |
       Retirement may also be the right time to pick up new hobbies or a skill that you have always wanted to. 
       You may wish to:
-        - <a href="https://imsilver.imda.gov.sg/learn-digital-skills/overview/>Learn digital skills</a>
-        - <a href="https://www.nsa.org.sg/">Attend short courses</a> or even get certified (using your skillsfuture credit)
+        - <a href="https://imsilver.imda.gov.sg/learn-digital-skills/overview">Learn digital skills</a>
+        - <a href="https://www.nsa.org.sg/">Attend short courses</a> or even get certified <a href="https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2020-12-01T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=*%3A*">(using your skillsfuture credits)</a>
         - <a href="https://rsvp.org.sg/" target="_blank">Find volunteering opportunities</a> and meet new friends
+
+      See also: [Active Ageing: Rewire After You Retire](https://www.healthhub.sg/live-healthy/1382/rewire-after-you-retire){:target="_blank"}
+  - title: <a name="CPF-deceased"></a>Organise Your Important Legacy Documents
+    content: |
+      If you have made a <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/cpf-nomination-scheme" target="_blank">CPF nomination</a>, your CPF savings (including those in your CPF Retirement Account) will be distributed to the nominees as per your nomination.
+
+      If you have not made a CPF nomination, your CPF savings will be distributed according to the <a href="https://sso.agc.gov.sg/Act/ISA1967" target="_blank">Intestacy Laws of Singapore</a> by the [Public Trustee Office](https://pto.mlaw.gov.sg/deceased-cpf-estate-monies/information-for-next-of-kin-cpf-monies/).
+
+      <p align="center">Click to enlarge</p>
+      <a target="_blank" href="https://sso.agc.gov.sg/Act/ISA1967" >
+        <img src="/images/Intestacy.png" alt="Intestacy" style="width:300px">
+      </a>
+      See also: [Guide to Planning Legacy](https://www.mylegacy.gov.sg/end-of-life-planning/organise-important-documents/){:target="blank"}
 ---
 ## <a name="top"></a>I Want to Plan for Retirement
 
@@ -201,26 +214,25 @@ retire-life:
   <ul>
     <li><a href="#goals">Set Your Retirement Goals</a></li>
     <li><a href="#ready">Assess if You Are Ready for Retirement</a></li>
-    <li><a href="#estimate"> Estimate Your Monthly Expenses</a></li>
-    <li><a href="#calculate"> Calculate How Much You Need to Set Aside</a></li>
+    <li><a href="#estimate"> Calculate How Much You Need</a></li>
   </ul>
 <li><a href="#retire-funds">3 Work Towards Your Retirement Goals</a></li>
   <ul>
     <li><a href="#cpf">Your 1st CPF Contribution is the 1st Step to Retirement</a></li>
-    <li><a href="#rstu"> Manage Your CPF Well to Retire Well</a></li>
+    <li><a href="#rstu"> Manage Your CPF Well</a></li>
     <li><a href="#at55"> What Happens To Your CPF Savings At 55</a></li>
     <li><a href="#CPFLIFE"> How CPF LIFE Works</a></li>
     <li><a href="#RSS"> CPF Retirement Sum Scheme VS CPF LIFE</a></li>
-    <li><a href="#CPF-RA"> About CPF Retirement Account (CPF-RA)</a></li>
+    <li><a href="#CPF-RA"> What is CPF Retirement Account (CPF-RA)</a></li>
     <li><a href="#FRS"> How Much Do I Need in My CPF at 55?</a></li>
     <li><a href="#BRS"> When Your CPF Balances Fall below Basic Retirement Sum (BRS)</a></li>
-    <li><a href="#CPF-deceased"> What Happens to My CPF if I Pass On?</a></li>
     <li><a href="#income"> Build Your Alternative Income Stream(s)</a></li>
   </ul>
 <li><a href="#retire-life">4 Stay Active and Engaged After Retirement</a></li>
   <ul>
     <li><a href="#check-up"> Keep Your Health in Check</a></li>
     <li><a href="#skills"> Pick Up Some New Skills or Hobbies</a></li>
+    <li><a href="#CPF-deceased"> Organise Your Important Legacy Documents</a></li>
    </ul>  
   </ul>
 </div>
@@ -263,8 +275,9 @@ retire-life:
 **You may also be interested in:**
 
   - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
-  - [Overview of CPF Schemes](https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview)
-  - Take Care of the Unexpected and [Plan Your Legacy](https://www.mylegacy.gov.sg/end-of-life-planning/)
+  - [Be Ready with CPF: new CPF planner](https://www.bereadywithcpf.gov.sg/)
+  - [Take Care of the Unexpected](https://www.moneysense.gov.sg/articles/2018/10/intestacy-what-if-you-dont-have-an-estate-plan)
+  - [MoneySense Guide to Estate Planning](https://www.moneysense.gov.sg/articles/2018/10/what-is-estate-planning)
  
   
 
