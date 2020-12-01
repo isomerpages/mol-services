@@ -52,7 +52,7 @@ retire-needs:
         * Have enough savings or passive income to pay for the retirement lifestyle you want
         
         See Also: [3 Tips on Life and Retirement by Retirees in Singapore](https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-3-Tips-On-Life-And-Retirement-by-Retirees-in-Singapore.aspx){:target="_blank"}
-  - title: <a name="estimate"></a>Estimate Your Monthly Expenses
+  - title: <a name="estimate"></a>Calculate How Much You Need
     content: |    
       Use <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding" target="_blank">CPF Retirement Calculator</a>​ to get a quick idea of how much you need for your desired retirement lifestyle.
       
