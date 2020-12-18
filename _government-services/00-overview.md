@@ -7,7 +7,7 @@ permalink: /government-services/overview/
 
 Making it easier for you to find government services you may need
 
-# LATEST
+# FEATURED
 <style>
 @media
 only screen and (max-width: 760px),
@@ -36,27 +36,16 @@ img {
     <td class="tg-baqh"><a href="/government-services/sell-hdb/"><img src="/images/07-sell-hdb.png" alt="Sell an HDB Flat"></a></td>
     <td class="tg-baqh"><a href="/government-services/move-in/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
   </tr>
-</tbody>
-</table>
-</div>
-
-# FEATURED
-<div class="tg-wrap"><table class="tg">
-<tbody>
   <tr>
-    <td class="tg-bagh"><a href="/government-services/get-digitally-ready/overview/"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></a></td>
-    <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></a></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"><a href="/government-services/retirement/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
-    <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
+  <td class="tg-baqh"><a href="/government-services/govt-benefits/"><img src="/images/govt-benefits.png" alt="Govt Schemes and Benefits"></a></td>
+  <td class="tg-baqh"><a href="/government-services/stay-healthy/"><img src="/images/09-stay-healthy.png" alt="Stay Healthy"></a></td>
+  <td class="tg-baqh"><a href="/government-services/stay-healthy/#healthcare-expenses"><img src="/images/healthcare-costs.png" alt="manage healthcare costs"></td>
   </tr>
 </tbody>
 </table>
 </div>
 
 # COMING SOON
-  
 <style>
 @media
 only screen and (max-width: 760px),
@@ -77,16 +66,18 @@ table, tr, td {
   <tr>
     <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Marriage"></td>
+    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
-    <td class="tg-baqh"><img src="/images/09-stay-healthy(coming soon).png" alt="Healthcare"></td>
-  </tr>
+    <td class="tg-bagh"><a href="/government-services/get-digitally-ready/overview/"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></a></td>
+    <td class="tg-baqh"><a href="/government-services/retirement/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
+    <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
+  </tr> 
 </tbody>
 </table>
 </div>
 
 
-## Give us your feedback
+# Give us your feedback
 
 Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
