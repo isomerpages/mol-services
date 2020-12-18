@@ -102,7 +102,7 @@ parent-tax-reliefs:
     See Also: [Check Your Tax Reliefs]
 ---      
 
-## <a name="top"></a>I Want to Check My Government Benefits
+## <a name="top"></a>I Want to Know My Government Benefits
 
 
 <div id="toc_container">
