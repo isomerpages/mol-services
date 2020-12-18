@@ -16,8 +16,6 @@ sections:
                 url: /government-services/get-digitally-ready/overview/
               - title: Know my Government Benefits
                 url: /government-services/govt-benefits/
-              - title: Get Discounts as a Senior
-                url: /government-services/get-support/seniorsdiscount/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat
