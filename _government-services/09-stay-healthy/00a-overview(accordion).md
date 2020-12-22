@@ -66,7 +66,7 @@ caregivers:
     
     - <a href="https://www.aic.sg/financial-assistance/medical-fee-exemption-card" target="_blank"> Medical Fee Exemption Card</a> for a loved one staying in nursing homes
 
-    -<a href="https://www.aic.sg/financial-assistance/home-caregiving-grant" target="_blank">Home Caregiving Grant</a>
+    - <a href="https://www.aic.sg/financial-assistance/home-caregiving-grant" target="_blank">Home Caregiving Grant</a>
 ---
 
 ## <a name="top"></a>I Want to Stay Healthy
@@ -75,9 +75,9 @@ caregivers:
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
   <li><a href="#health">Keep Your Health in Check</a></li>
-  <li><a href="#habits">Healthy Living at Home</a></li>
-  <li><a href="#activities">Participate in Activities</a></li>
+  <li><a href="#habits">Build Healthy Habits at Home</a></li>
   <li><a href="#expenses">Manage Your Healthcare Expenses</a></li>
+  <li><a href="#caregivers">Support for Caregivers</a></li>
 </ul>
 </div>
 

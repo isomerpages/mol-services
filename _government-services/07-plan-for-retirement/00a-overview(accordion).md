@@ -278,7 +278,7 @@ retire-life:
 
   - [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
   - [Tax Reliefs You Can Get While Planning for Retirement](/government-services/govt-benefits/#tax-relief)
-  - [Stay Healthy](/government-services/stay-healthy/)
+  - [Finding Ways to Stay Healthy](/government-services/stay-healthy/)
 
   **Other Retirement Planning Resources**
   - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
