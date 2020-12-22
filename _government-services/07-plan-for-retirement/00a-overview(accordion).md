@@ -204,7 +204,7 @@ retire-life:
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#retire-job">1 What is Retirement</a></li>
+  <li><a href="#retire-job">What is Retirement</a></li>
   <ul>
     <li><a href="#age">What Retirement Age Means to You</a></li>
     <li><a href="#age">Retirement Age Vs Re-employment Age</a></li>
@@ -212,13 +212,13 @@ retire-life:
     <li><a href="#employer">What It Means for Your Employer</a></li>
     <li><a href="#employer">Handling Re-employment Disputes With Your Employer</a></li>
   </ul>
-<li><a href="#retire-needs">2 Plan for a Comfortable Retirement</a></li>
+<li><a href="#retire-needs">Plan for a Comfortable Retirement</a></li>
   <ul>
     <li><a href="#goals">Set Your Retirement Goals</a></li>
     <li><a href="#ready">Assess if You Are Ready for Retirement</a></li>
     <li><a href="#estimate"> Calculate How Much You Need</a></li>
   </ul>
-<li><a href="#retire-funds">3 Work Towards Your Retirement Goals</a></li>
+<li><a href="#retire-funds">Work Towards Your Retirement Goals</a></li>
   <ul>
     <li><a href="#cpf">Your 1st CPF Contribution is the 1st Step to Retirement</a></li>
     <li><a href="#rstu"> Manage Your CPF Well</a></li>
@@ -245,28 +245,28 @@ retire-life:
 # What Does It Take to Retire in Singapore?
 
 
-## <a name="retire-job"></a>1. What is Retirement
+## <a name="retire-job"></a>What is Retirement
 
 {% include retire-job.html %}
 
 [**BACK TO TOP**](#top)
 
 
-## <a name="retire-needs"></a>2. Plan for a Comfortable Retirement
+## <a name="retire-needs"></a>Plan for a Comfortable Retirement
 
 {% include retire-needs.html %}
 
 [**BACK TO TOP**](#top)
 
 
-## <a name="retire-funds"></a>3. Work Towards Your Retirement Goals
+## <a name="retire-funds"></a>Work Towards Your Retirement Goals
 
 {% include retire-funds.html %}
 
 [**BACK TO TOP**](#top)
 
 
-## <a name="retire-life"></a>4. Stay Active and Engaged After Retirement
+## <a name="retire-life"></a>Stay Active and Engaged After Retirement
 
 {% include retire-life.html %}
 
@@ -276,12 +276,15 @@ retire-life:
 ---------------------------------------
 **You may also be interested in:**
 
+  - [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
+  - [Tax Reliefs You Can Get While Planning for Retirement](/government-services/govt-benefits/#tax-relief)
+  - [Stay Healthy](/government-services/stay-healthy/)
+
+  **Other Retirement Planning Resources**
   - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
   - [Be Ready with CPF: new CPF planner](https://www.bereadywithcpf.gov.sg/)
   - [Take Care of the Unexpected](https://www.moneysense.gov.sg/articles/2018/10/intestacy-what-if-you-dont-have-an-estate-plan)
   - [MoneySense Guide to Estate Planning](https://www.moneysense.gov.sg/articles/2018/10/what-is-estate-planning)
- 
-  
 
 ---------------------------------------
 
@@ -289,7 +292,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 8 December 2020
+Last updated: 30 December 2020
  
 [Back to top](#top)
 

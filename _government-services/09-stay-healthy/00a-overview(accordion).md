@@ -75,9 +75,9 @@ caregivers:
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
   <li><a href="#health">Keep Your Health in Check</a></li>
-<li><a href="#habits">Healthy Living at Home</a></li>
-<li><a href="#activities">Participate in Activities</a></li>
-<li><a href="#expenses">Manage Your Healthcare Expenses</a></li>
+  <li><a href="#habits">Healthy Living at Home</a></li>
+  <li><a href="#activities">Participate in Activities</a></li>
+  <li><a href="#expenses">Manage Your Healthcare Expenses</a></li>
 </ul>
 </div>
 
@@ -111,9 +111,10 @@ caregivers:
 ---------------------------------------
 **You may also be interested in:**
 
-- [Check Your Government Benefits](/government-services/govt-benefits/)
-- [Plan Your Retirement](/government-services/govt-benefits/)
 - [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2)
+- [Know Your Government Benefits](/government-services/govt-benefits/)
+- [Plan Your Retirement](/government-services/retirement/)
+- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
 
 ---------------------------------------
 

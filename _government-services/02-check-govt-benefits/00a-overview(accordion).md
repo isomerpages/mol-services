@@ -230,9 +230,9 @@ claim:
     <li><a href="#job-leave">Mandatory Leave Schemes</a></li>
     <li><a href="#tax-relief">Getting Tax Reliefs</a></li>     
   </ul>
-<li><a href="#check">Check Your Entitlement and How to Claim Reliefs</a></li>
+<li><a href="#check">How to Check Your Entitlement and Claim Reliefs</a></li>
   <ul>
-    <li><a href="#calculator">Use these to check your entitlement</a></li>
+    <li><a href="#calculator">Check Your Entitlement</a></li>
     <li><a href="#claim">How to File Tax Relief Claims</a></li>
   </ul>
 </ul>
@@ -287,7 +287,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
 [**BACK TO TOP**](#top)
 
 
-# <a name="check"></a>Check Your Entitlement and How to Claim Reliefs
+# <a name="check"></a>How to Check Your Entitlement and Claim Reliefs
 
 ### <a name="calculator"></a>Check Your Leave Entitlement
 
@@ -299,12 +299,13 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
 
 [**BACK TO TOP**](#top)
 
+
 ---------------------------------------
 **You may also be interested in:**
 
-- [Healthcare Subsidies and Medical Assistance](https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies)
+- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
 - [Housing Schemes and Grants](/government-services/buy-hdb/#finances)
-- [Stay Healthy](/government-services/stay-healthy/)
+- [Plan for Your Retirement](/government-services/retirement/)
   
 ---------------------------------------
 
