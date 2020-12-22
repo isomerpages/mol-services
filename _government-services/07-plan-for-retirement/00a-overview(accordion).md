@@ -230,7 +230,7 @@ retire-life:
     <li><a href="#BRS"> When Your CPF Balances Fall below Basic Retirement Sum (BRS)</a></li>
     <li><a href="#income"> Build Your Alternative Income Stream(s)</a></li>
   </ul>
-<li><a href="#retire-life">4 Stay Active and Engaged After Retirement</a></li>
+<li><a href="#retire-life">Stay Active and Engaged After Retirement</a></li>
   <ul>
     <li><a href="#check-up"> Keep Your Health in Check</a></li>
     <li><a href="#skills"> Pick Up Some New Skills or Hobbies</a></li>
