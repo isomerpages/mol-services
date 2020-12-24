@@ -5,22 +5,22 @@ permalink: /government-services/govt-benefits/
 child-benefits:
 - title: Baby-bonus Cash Gift
   content: |
-    For each Singaporean child born, you will receive cash of $6,000 for your 1st and 2nd child, and subsequently $8,000 for each of your 3rd and 4th child. This [cash gift](http://www.go.gov.sg/bbo) is disbursed over 4 installments in the first 18 months of the birth of your child.
+    For each Singaporean child born, you will receive cash of $6,000 for your 1st and 2nd child, and subsequently $8,000 for each of your 3rd and 4th child. This [cash gift](http://www.go.gov.sg/bbo){:target="_blank"} is disbursed over 4 installments in the first 18 months of the birth of your child.
 
-    To check if the child is eligible for Baby Bonus cash gift, Baby Support Grant and/or CDA benefits, you can use this [Eligibility Checker Tool](https://www.babybonus.msf.gov.sg/parent-helper/).
+    To check if the child is eligible for Baby Bonus cash gift, Baby Support Grant and/or CDA benefits, you can use this [Eligibility Checker Tool](https://www.babybonus.msf.gov.sg/parent-helper/){:target="_blank"}.
 - title: Child Development Account (CDA)
   content: |
-    The [Baby Bonus Child Development Account (CDA)](https://www.madeforfamilies.gov.sg/raising-families/baby-bonus) is a special savings account. Your child (as a Singapore Citizen) will receive $3,000 upon the opening of the CDA First Step with any of the three banks (DBS, OCBC or UOB). You can continue to save beyond this initial balance and enjoy dollar-for-dollar matching, up to the Government contribution cap in the CDA.
-
-    CDA can be used for your child's medical and education needs at the [list of Approved Institutions](http://www.go.gov.sg/listofai). Any unused balances from this account will be transferred to your child’s [Post-Secondary Education Account](#PSEA) when your child turns 13. 
-
+    The [Baby Bonus Child Development Account (CDA)](https://www.madeforfamilies.gov.sg/raising-families/baby-bonus){:target="_blank"} is a special savings account. Your child (as a Singapore Citizen) will receive $3,000 upon the opening of the CDA First Step with any of the three banks (DBS, OCBC or UOB). You can continue to save beyond this initial balance and enjoy dollar-for-dollar matching, up to the Government contribution cap in the CDA.
+- title: Uses of CDA balance
+  content: |
+    CDA can be used for your child's medical and education needs at the [list of Approved Institutions](http://www.go.gov.sg/listofai){:target="_blank"}. Any unused balances from this account will be transferred to your child’s [Post-Secondary Education Account](#PSEA) when your child turns 13. 
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2">
         <img src="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2" alt="CDA" style="width:300px">
       </a>
 - title: MediSave Grant For Newborns
   content: |
-    All Singaporean babies will qualify for the [MediSave Grant for Newborns](https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns) of $4,000. A CPF MediSave account will be opened for each newborn automatically, with the grant credited.
+    All Singaporean babies will qualify for the [MediSave Grant for Newborns](https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns){:target="_blank"} of $4,000. A CPF MediSave account will be opened for each newborn automatically, with the grant credited.
 
     This is to support your child in his or her medical expenses such as MediShield Life premiums, vaccinations, hospitalisation and approved outpatient treatments.
 - title: Edusave Account
@@ -29,20 +29,21 @@ child-benefits:
       
     These contributions are made by the government in the following ways:
       - Government Annual Top-ups: Every February, between age 6 and 16
-      - One-off Budget Top-ups: Amount depends on the [annual value of your home](https://www.singaporebudget.gov.sg/docs/default-source/budget_2019/download/pdf/annexd4.pdf)
-      - [Edusave Awards and Scholarships](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/): Students who have made significant achievements in school academically and non-academically are awarded with Edusave top-ups to their accounts.
+      - One-off Budget Top-ups: Amount depends on the [annual value of your home](https://www.singaporebudget.gov.sg/docs/default-source/budget_2019/download/pdf/annexd4.pdf){:target="_blank"}
+      - [Edusave Awards and Scholarships](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/){:target="_blank"}: Students who have made significant achievements in school academically and non-academically are awarded with Edusave top-ups to their accounts.
 - title: <a name ="PSEA"></a>Post-Secondary Education Account (PSEA)
   content: |
-    [Post Secondary Edusave Account (PSEA)](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/) is an account that is set up for every Singaporean child when they turn 13.
+    [Post Secondary Edusave Account (PSEA)](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/){:target="_blank"} is an account that is set up for every Singaporean child when they turn 13.
 
-    This account consists of any unused funds from your child's [Edusave](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/edusave-contributions/) and CDA account. The PSEA balance earns an interest of 2.5% per annum.
-
+    This account consists of any unused funds from your child's [Edusave](https://beta.moe.gov.sg/fees-assistance-awards-scholarships/edusave-contributions/){:target="_blank"} and CDA account. The PSEA balance earns an interest of 2.5% per annum.
+- title: What Happens to PSEA after 30
+  content: |
     When your child reach the age of 30, any remaining funds your child have will be transferred to your CPF Ordinary Account (OA) which gives a higher interest rate of up to 3.5% and also can be used for his or her future needs (e.g. housing, education and healthcare).
 
 family-leave:
 - title: Maternity Leave for Working Mothers
   content: |   
-    <b>[Government-Paid Maternity Leave (GPML)](https://www.profamilyleave.gov.sg/Pages/GPML.aspx)</b>
+    <b>[Government-Paid Maternity Leave (GPML)](https://www.profamilyleave.gov.sg/Pages/GPML.aspx){:target="_blank"}</b>
     If you are a working mother, you can enjoy maternity leave under the GPML scheme. This will help provide sufficient time to recover from childbirth and care for newborns.
 
     If your employment contract ended before your childbirth, Government-Paid Maternity Benefit (GPMB)
@@ -62,7 +63,7 @@ family-leave:
       </a>
 - title: Shared Parental Leave (SPL)
   content: | 
-    <b>[Government-Paid Shared Parental Leave (SPL)](https://www.profamilyleave.gov.sg/Pages/SPL.aspx)</b>
+    <b>[Government-Paid Shared Parental Leave (SPL)](https://www.profamilyleave.gov.sg/Pages/SPL.aspx){:target="_blank"}</b>
       As a working mother, you can opt to share part of your 4-month maternity leave or adoption leave with your husband under the SPL scheme.
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/SPL/w.jpg">
@@ -70,11 +71,11 @@ family-leave:
       </a>
 - title: Childcare Leave and Extended Childcare Leave
   content: |
-    <b>[Government-Paid Shared Parental Leave (SPL)](https://www.profamilyleave.gov.sg/Pages/GPCL.aspx)</b>
+    <b>[Government-Paid Shared Parental Leave (SPL)](https://www.profamilyleave.gov.sg/Pages/GPCL.aspx){:target="_blank"}</b>
       Working parents can enjoy more quality time with your children (who are Singapore Citizens and aged below 7 years old) by using the child care leave under this scheme.
 - title: Adoption Leave
   content: |
-    <b>[Adoption Leave](https://www.profamilyleave.gov.sg/Pages/AL.aspx)</b>
+    <b>[Adoption Leave](https://www.profamilyleave.gov.sg/Pages/AL.aspx){:target="_blank"}</b>
       Adoptive working parents (including self-employed) can enjoy adoption leave benefits as well. 
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/AL/after1jul.png">
@@ -82,10 +83,10 @@ family-leave:
       </a>
 - title: How to Apply
   content: |
-      For instructions on applying for leave or claiming reimbursement, you can use this [online demo](https://www.profamilyleave.gov.sg/Pages/Online-Demo.aspx) as a guide. 
+      For instructions on applying for leave or claiming reimbursement, you can use this [online demo](https://www.profamilyleave.gov.sg/Pages/Online-Demo.aspx){:target="_blank"} as a guide. 
 - title: Leave Calculator
   content: |
-    Use this Government Paid Leave calculator (https://www.profamilyleave.gov.sg/Pages/Calculator.aspx) to calculate how much you can get.
+    Use this Government Paid Leave calculator (https://www.profamilyleave.gov.sg/Pages/Calculator.aspx){:target="_blank"} to calculate how much you can get.
 
 parent-tax-reliefs:
 - title: Tax Reliefs for Married Couples
@@ -132,7 +133,7 @@ employee-benefits:
 job-leave:
 - title: Annual Leave
   content: |
-    If you are an employee working under a contract of service and have worked for at least 3 months with your employer, you are entitled to annual leave.
+    If you are an employee working under a contract of service and have worked for at least 3 months with your employer, you are entitled to annual leave as per the terms in your contract.
 - title: Sick Leave
   content: |
     Similar to Annual Leave, you are also entitled to paid sick leave and paid hospitalisation leave after at least 3 months of current employment and have tried to inform your employer of your absence within 48 hours.
@@ -174,14 +175,14 @@ individual-tax-reliefs:
     You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the [different types of donations and their respective tax deductibility]( https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/){:target="_blank"}
 
     [Other information on tax reliefs and the qualifying conditions](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"}
+  
+calculator:
 - title: Check Your Eligibility
   content: |
     You can claim [Tax Reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"} if all the following apply:
       - You are a Singapore Citizen
       - You are married or legally separated
       - You meet the qualifying conditions for the specific tax relief
-  
-calculator:
 - title: Tax Relief Calculator
   content: |
     You can use the [IRAS Personal Relief Eligibility tool](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/Copy%20of%20Personal%20Reliefs%20Eligibility%20Tool.xls){:target="_blank"} to evaluate whether you would benefit from tax relief on your voluntary CPF contributions and make an informed decision. 
@@ -195,12 +196,14 @@ claim:
 - title: Submit Your Claim During eFiling
   content: |
     During efiling, you can submit your claim if this is the first time you are claiming this relief or you need to make a revision to your claim:
-        1. Log in to [MyTax Portal]( https://mytax.iras.gov.sg/ESVWeb/default.aspx){:target="_blank"}
-        2. Go to “Individuals” > “File Income Tax Return”
-        3. Select “Edit My Tax Form”
-        4. Go to “4. Deductions, Reliefs and Parenthood Tax Rebate”
-        5. Go to the Tax Relief that you want to claim
-        6. Click “Update” and enter your claim.
+    <ol>
+        <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
+        <li>Go to “Individuals” > “File Income Tax Return”</li>
+        <li>Select “Edit My Tax Form”</li>
+        <li>Go to “4. Deductions, Reliefs and Parenthood Tax Rebate”</li>
+        <li>Go to the Tax Relief that you want to claim</li>
+        <li>Click “Update” and enter your claim</li>
+    </ol>
 - title: Paper Filing of Your Tax Relief Claims
   content: |
       For paper filing, you need to complete item 6(h) on your Form B or Form B1.
@@ -218,22 +221,22 @@ claim:
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
   <li><a href="#top">What Government Benefits Are</a></li>
-<li><a href="#family">What You Can Get</a></li>
+<li><a href="#family">Benefits For Families</a></li>
   <ul>
-    <li><a href="#calculate">What You Can Get</a></li>
+    <li><a href="#cash">What You Can Get</a></li>
     <li><a href="#leave">Pro-Family Leave Schemes</a></li>
-    <li><a href="#tax-relief">Getting Tax Reliefs</a></li>
+    <li><a href="#parent-tax-reliefs">Getting Tax Reliefs</a></li>
   </ul>
 <li><a href="#financial-aid">Benefits For Employees and Self-Employed</a></li>
   <ul>
-    <li><a href="#financial-aid">What You Can Get</a></li>
+    <li><a href="#financial-aid">Financial Aid for Working Adults</a></li>
     <li><a href="#job-leave">Mandatory Leave Schemes</a></li>
-    <li><a href="#tax-relief">Getting Tax Reliefs</a></li>     
+    <li><a href="#individual-tax-reliefs">Getting Tax Reliefs</a></li>     
   </ul>
-<li><a href="#check">How to Check Your Entitlement and Claim Reliefs</a></li>
+<li><a href="#check">Check What You Can Get</a></li>
   <ul>
-    <li><a href="#calculator">Check Your Entitlement</a></li>
-    <li><a href="#claim">How to File Tax Relief Claims</a></li>
+    <li><a href="#calculator">Check Your Eligibility</a></li>
+    <li><a href="#claim">How to Apply</a></li>
   </ul>
 </ul>
 </div>
@@ -243,7 +246,7 @@ claim:
 If you are looking for some help, there are a wide range of support schemes and grants available across the government to help you in times of difficulty or when you support government initiatives.
 
 
-# <a name="schemes"></a>For Families
+# <a name="family"></a>Benefits For Families
 
 ### <a name="cash"></a>What You Can Get
 
@@ -251,24 +254,24 @@ If you are looking for some help, there are a wide range of support schemes and 
 
 [**BACK TO TOP**](#top)
 
-### <a name="eligibility"></a>Pro-Family Leave Schemes
+### <a name="leave"></a>Pro-Family Leave Schemes
 
-The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.aspx) are in place to encourage a family-friendly culture in our workforce.
+The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.aspx){:target="_blank"} are in place to encourage a family-friendly culture in our workforce.
 
-{% include leave.html %}
+{% include family-leave.html %}
 
 [**BACK TO TOP**](#top)
 
-### <a name="tax-relief"></a>Getting Tax Reliefs
+### <a name="parent-tax-reliefs"></a>Getting Tax Reliefs
 
 {% include parent-tax-reliefs.html %}
 
 [**BACK TO TOP**](#top)
 
 
-# For Employees and Self-Employed
+# <a name="employee"></a>Benefits For Employees and Self-Employed
 
-### <a name="financial-aid"></a>What You Can Get
+### <a name="financial-aid"></a>Financial Aid for Working Adults
 
 {% include employee-benefits.html %}
 
@@ -287,13 +290,13 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
 [**BACK TO TOP**](#top)
 
 
-# <a name="check"></a>How to Check Your Entitlement and Claim Reliefs
+# <a name="check"></a>Check What You Can Get
 
-### <a name="calculator"></a>Check Your Leave Entitlement
+{% include calculator.html %}
 
-{% include individual-tax-reliefs.html %}
+[**BACK TO TOP**](#top)
 
-### <a name="claim"></a>How to File Tax Relief Claims
+# <a name="claim"></a>How to File Tax Relief Claims
 
 {% include claim.html %}
 
@@ -303,9 +306,9 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
 ---------------------------------------
 **You may also be interested in:**
 
-- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
-- [Housing Schemes and Grants](/government-services/buy-hdb/#finances)
-- [Plan for Your Retirement](/government-services/retirement/)
+- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target="_blank"}
+- [Housing Schemes and Grants](/government-services/buy-hdb/#finances){:target="_blank"}
+- [Plan for Your Retirement](/government-services/retirement/){:target="_blank"}
   
 ---------------------------------------
 
@@ -315,7 +318,7 @@ Please contact the respective government agencies if you have any questions abou
 
 Last updated: 30 December 2020
  
-[Back to top](#top)
+[**BACK TO TOP**](#top)
 
 
 
