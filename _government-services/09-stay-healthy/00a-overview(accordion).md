@@ -14,14 +14,14 @@ health-check:
     Track your child’s health milestones <a href="https://www.healthhub.sg/programmes/125/children-health-ehb" target="_blank">here</a> or be informed of their immunisation schedule <a href="https://www.nir.hpb.gov.sg/nirp/eservices/immunisationSchedule" target="_blank">here</a>. 
 
 healthy-living:
-- title: Build Healthy Habits at Home
+- title: Get Tips to Keep Your Family Healthy
   content: |
     Looking to cook healthy options for your family? Explore healthy recipes and ideas <a href="https://www.healthhub.sg/programmes/54/recipes" target="_blank">here</a> to cook up a storm for you and your family. 
 
     You can also get <a href="https://www.healthhub.sg/live-healthy?category=Food-Nutrition" target="_blank">tips on healthy food choices</a> for you and your family. 
 
     Also, make fitness fun for you and your family through some of the programmes <a href="https://www.healthhub.sg/programmes/170/StayWell#resources" target="_blank">here</a>.
-- title: Participate in activities 
+- title: Make Fitness Routine Fun
   content: |
     Keep fit and register for health and sports-related activities and events her
     - <a href="https://www.myactivesg.com/Whats-On" target="_blank">Upcoming ActiveSG events</a>
@@ -54,7 +54,7 @@ health-expenses:
       - <a href="https://www.pioneers.sg/en-sg/Materials/PG%20Subsidy%20Table%20for%20outpatient%20care.pdf" target="_blank">Check your benefits as a Pioneer Generation (PG) Senior</a>
 
 caregivers:
-- title: Support for Caregivers
+- title: Check Your Eligibility for Financial Assistance
   content: | 
     You could get support if you are caring for someone with an injury/illness.
 
@@ -111,10 +111,10 @@ caregivers:
 ---------------------------------------
 **You may also be interested in:**
 
-- [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2)
-- [Know Your Government Benefits](/government-services/govt-benefits/)
-- [Plan Your Retirement](/government-services/retirement/)
-- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
+- [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2){:target=“_blank”}
+- [Know Your Government Benefits](/government-services/govt-benefits/){:target=“_blank”}
+- [Plan Your Retirement](/government-services/retirement/){:target=“_blank”}
+- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target=“_blank”}
 
 ---------------------------------------
 
