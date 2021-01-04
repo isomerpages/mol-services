@@ -80,7 +80,7 @@ buying-process:
     content: | 
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png">
-      <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style= "width:300px">
+      <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style="width:300px">
       </a>
   - title: <a name="check"></a>Before You Apply 
     content: |
