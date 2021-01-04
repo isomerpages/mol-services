@@ -29,7 +29,7 @@ ul.jekyllcodex_accordion li label {
 ul.jekyllcodex_accordion li div {
     padding: 0;
     height: 0;
-    overflow: hidden; 
+    overflow: auto; 
     transition: height 0.4s ease-in-out;
 }
 
@@ -69,10 +69,12 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.buying-process %}
-        <li><input id="buying-process{{ forloop.index }}" type="checkbox" /><label for="buying-process{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.claim %}
+        <li><input id="claim{{ forloop.index }}" type="checkbox" /><label for="claim{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
+
+

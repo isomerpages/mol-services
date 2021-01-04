@@ -14,10 +14,8 @@ sections:
             options:
               - title: Get Digitally Ready
                 url: /government-services/get-digitally-ready/overview/
-              - title: Get Support
-                url: /government-services/get-support/overview/
-              - title: Get Discounts as a Senior
-                url: /government-services/get-support/seniorsdiscount/
+              - title: Know my Government Benefits
+                url: /government-services/govt-benefits/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat

@@ -29,7 +29,7 @@ ul.jekyllcodex_accordion li label {
 ul.jekyllcodex_accordion li div {
     padding: 0;
     height: 0;
-    overflow: hidden; 
+    overflow: auto; 
     transition: height 0.4s ease-in-out;
 }
 
@@ -39,7 +39,7 @@ ul.jekyllcodex_accordion li input:checked + label {
 
 ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
-    height: 200px;
+    height: fit-content(<length-percentage>);
     padding: 0;
     overflow: auto;
 }
@@ -69,10 +69,12 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-    {% for item in page.related-housing-content %}
-        <li><input id="related-housing-content{{ forloop.index }}" type="checkbox" /><label for="related-housing-content{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
+    {% for item in page.individual-tax-reliefs %}
+        <li><input id="individual-tax-reliefs{{ forloop.index }}" type="checkbox" /><label for="individual-tax-reliefs{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
+
+
