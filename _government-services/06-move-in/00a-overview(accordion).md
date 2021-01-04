@@ -120,8 +120,8 @@ owner-finance:
 ---------------------------------------
 
 **You may also be interested in:**
-  - [Buy an HDB flat](/government-services/buy-hdb/)
-  - [Sell an HDB Flat](/government-services/sell-hdb/)
+  - [Buy an HDB flat](/government-services/buy-hdb/){:target=“_blank”}
+  - [Sell an HDB Flat](/government-services/sell-hdb/){:target=“_blank”}
   
 ---------------------------------------
 This page will be updated as additional schemes and measures are introduced.

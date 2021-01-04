@@ -276,15 +276,15 @@ retire-life:
 ---------------------------------------
 **You may also be interested in:**
 
-  - [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses)
-  - [Tax Reliefs You Can Get While Planning for Retirement](/government-services/govt-benefits/#tax-relief)
-  - [Finding Ways to Stay Healthy](/government-services/stay-healthy/)
+  - [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target=“_blank”}
+  - [Tax Reliefs You Can Get While Planning for Retirement](/government-services/govt-benefits/#tax-relief){:target=“_blank”}
+  - [Finding Ways to Stay Healthy](/government-services/stay-healthy/){:target=“_blank”}
 
   **Other Retirement Planning Resources**
-  - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning)
-  - [Be Ready with CPF: new CPF planner](https://www.bereadywithcpf.gov.sg/)
-  - [Take Care of the Unexpected](https://www.moneysense.gov.sg/articles/2018/10/intestacy-what-if-you-dont-have-an-estate-plan)
-  - [MoneySense Guide to Estate Planning](https://www.moneysense.gov.sg/articles/2018/10/what-is-estate-planning)
+  - [Step-by-Step Guide to Retirement Planning](https://www.moneysense.gov.sg/articles/2018/10/introduction-to-retirement-planning){:target=“_blank”}
+  - [Be Ready with CPF: new CPF planner](https://www.bereadywithcpf.gov.sg/){:target=“_blank”}
+  - [Take Care of the Unexpected](https://www.moneysense.gov.sg/articles/2018/10/intestacy-what-if-you-dont-have-an-estate-plan){:target=“_blank”}
+  - [MoneySense Guide to Estate Planning](https://www.moneysense.gov.sg/articles/2018/10/what-is-estate-planning){:target=“_blank”}
 
 ---------------------------------------
 

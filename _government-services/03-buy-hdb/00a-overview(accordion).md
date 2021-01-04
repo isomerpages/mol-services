@@ -256,9 +256,9 @@ resale-process:
 ---------------------------------------
 **You may also be interested in:**
 
-  - [Sell An HDB Flat](/government-services/sell-hdb/)
-  - [Move Into An HDB Flat](/government-services/move-in/)
-  - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/)
+  - [Sell An HDB Flat](/government-services/sell-hdb/){:target=“_blank”}
+  - [Move Into An HDB Flat](/government-services/move-in/){:target=“_blank”}
+  - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/){:target=“_blank”}
 
   
 ---------------------------------------

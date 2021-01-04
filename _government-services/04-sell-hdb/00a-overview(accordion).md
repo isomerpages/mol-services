@@ -151,9 +151,9 @@ selling-process:
 ---------------------------------------
 **You may also be interested in:**
 
-- [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/)
-- [Buy an HDB flat](/government-services/buy-hdb/)
-- [Move into an HDB Flat](/government-services/move-in/)
+- [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/){:target=“_blank”}
+- [Buy an HDB flat](/government-services/buy-hdb/){:target=“_blank”}
+- [Move into an HDB Flat](/government-services/move-in/){:target=“_blank”}
 ---------------------------------------
 
 
