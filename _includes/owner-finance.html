@@ -39,11 +39,7 @@ ul.jekyllcodex_accordion li input:checked + label {
 
 ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
-<<<<<<< HEAD:_includes/moving-in.html
     height: 200px;
-=======
-    height: 180px;
->>>>>>> a4f8ec3728337cae9157ce20e49d39a6af4afca1:_includes/owner-finance.html
     padding: 0;
     overflow: auto;
 }
@@ -73,13 +69,8 @@ ul.jekyllcodex_accordion li ol li {
 </style>
 
 <ul class="jekyllcodex_accordion">
-<<<<<<< HEAD:_includes/moving-in.html
-    {% for item in page.moving-in %}
-        <li><input id="moving-in{{ forloop.index }}" type="checkbox" /><label for="moving-in{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
-=======
     {% for item in page.owner-finance %}
         <li><input id="owner-finance{{ forloop.index }}" type="checkbox" /><label for="owner-finance{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
->>>>>>> a4f8ec3728337cae9157ce20e49d39a6af4afca1:_includes/owner-finance.html
     {% endfor %}
 </ul>
 
