@@ -1,12 +1,13 @@
 ---
-title: I Want To . . .
+title: Find What You Need. In One Place.
 permalink: /government-services/overview/
 ---
 
-## Get the Government Services you need. In One Place.
+## I Want To...
 
-Browse the listing of services and resources consolidated from various government agencies, grouped by your likely needs.
+Making it easier for you to find government services you may need
 
+# LATEST
 <style>
 @media
 only screen and (max-width: 760px),
@@ -27,6 +28,19 @@ img {
 }
 </style>
 
+
+<div class="tg-wrap"><table class="tg">
+<tbody>
+    <tr>
+    <td class="tg-baqh"><a href="/government-services/buy-hdb/"><img src="/images/06-buy-hdb.png" alt="Buy an HDB Flat"></a></td>
+    <td class="tg-baqh"><a href="/government-services/sell-hdb/"><img src="/images/07-sell-hdb.png" alt="Sell an HDB Flat"></a></td>
+    <td class="tg-baqh"><a href="/government-services/move-in/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
+  </tr>
+</tbody>
+</table>
+</div>
+
+# FEATURED
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
@@ -34,17 +48,14 @@ img {
     <td class="tg-baqh"><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/"><img src="/images/02-get-support.png" alt="Govt Schemes and Benefits"></a></td>
   </tr>
   <tr>
-    <td class="tg-baqh"><a href="/government-services/move-house/overview/"><img src="/images/05-move-house.png" alt="Housing and Property"></a></td>
     <td class="tg-baqh"><a href="/government-services/plan-for-retirement/overview/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
-  </tr>
-  <tr>
     <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
   </tr>
 </tbody>
 </table>
 </div>
 
-### More services coming your way. Do check back soon!
+# COMING SOON
   
 <style>
 @media
@@ -76,6 +87,6 @@ table, tr, td {
 </div>
 
 
-## Want to see more services?
+## Give us your feedback
 
 Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>

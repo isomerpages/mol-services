@@ -259,7 +259,6 @@ resale-process:
   - [Move Into An HDB Flat](/government-services/move-in/)
   - [Step-by-Step Guide to Buy An HDB Flat](/government-services/buying-a-hdb/overview/)
 
-  
 ---------------------------------------
 
 
@@ -269,4 +268,4 @@ Please contact the respective government agencies if you have any questions abou
 
 Last updated: 22 October 2020
  
-[Back to top](#top)
+[**BACK TO TOP**](#top)

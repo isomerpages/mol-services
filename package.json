@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "govuk-frontend": "^3.8.1",
+    "sass": "^1.26.10"
+  }
 }

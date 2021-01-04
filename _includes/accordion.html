@@ -23,13 +23,13 @@ ul.jekyllcodex_accordion li label {
     margin: 0; 
     font-size: 18.5px;
     font-family: 'Poppins',sans-serif;
-    color: #db2230;
+    color: #c60021;
 }
 
 ul.jekyllcodex_accordion li div {
     padding: 0;
     height: 0;
-    overflow: hidden; 
+    overflow: auto; 
     transition: height 0.4s ease-in-out;
 }
 
@@ -39,7 +39,7 @@ ul.jekyllcodex_accordion li input:checked + label {
 
 ul.jekyllcodex_accordion li input:checked + label + div {
     display: block;
-    height: 200px;
+    height: fit-content(<length-percentage>);
     padding: 0;
     overflow: auto;
 }
@@ -76,3 +76,5 @@ ul.jekyllcodex_accordion li ol li {
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/scroll-top.js"></script>
+
+

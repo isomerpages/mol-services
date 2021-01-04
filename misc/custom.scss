@@ -113,10 +113,10 @@ $desktop: 960px + (2 * $gap) !default;
 // Color definitions
 .is {
 	&-primary {
-		background-color: $primary !important;
+		background-color: #000000 !important;
 	}
 	&-secondary {
-		background-color: $secondary !important;
+		background-color: #ff3a22 !important;
 	}
 }
 
@@ -185,13 +185,13 @@ $desktop: 960px + (2 * $gap) !default;
 	a {
 		background-color: $secondary;
 	    &:hover{
-	      background-color: darken($secondary,10%) !important;
+	      background-color: lighten($secondary,20%) !important;
 	    }
 	}
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: #BA0F30 !important;
 }
 
 // Pagination
@@ -287,7 +287,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1 {
-    color: $secondary;
+    color: #000000;
     font-family: poppins;
     font-size: 26px;
     font-weight: 600;
@@ -299,7 +299,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h2 {
-    color: $primary;
+    color: #000000;
     font-family: poppins;
     font-size: 20px;
     font-weight: 600;
@@ -311,7 +311,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h3 {
-    color: $secondary;
+    color: #BA0F30;
     font-family: poppins;
     font-size: 20px;
     font-weight: 600;
@@ -323,7 +323,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   }
   h4 {
-    color: $secondary;
+    color: #BA0F30;
     font-family: poppins-bold;
     font-size: 20px;
     font-weight: 600;
@@ -358,6 +358,27 @@ $desktop: 960px + (2 * $gap) !default;
     color:#272c67;
   }  
 }
+	      
+// Table of Contents
+#toc_container {
+  background: #f9f9f9 none repeat scroll 0 0;
+  border: 1px solid #aaa;
+  display: table;
+  font-size: 95%;
+  margin-bottom: 1em;
+  padding: 20px;
+  width: auto;
+}
+
+.toc_title {
+  font-weight: 700;
+  text-align: left
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+  list-style: outside none none !important;
+}	      
+
 @media
 only screen and (max-width: 760px) {
   .bp-section.is-small.bp-section-pagetitle {
