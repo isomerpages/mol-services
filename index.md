@@ -14,7 +14,7 @@ sections:
             options:
               - title: Get Digitally Ready
                 url: /government-services/get-digitally-ready/overview/
-              - title: Know my Government Benefits
+              - title: Know My Government Benefits
                 url: /government-services/govt-benefits/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
@@ -22,9 +22,9 @@ sections:
                 url: /government-services/sell-hdb/
               - title: Move Into An HDB Flat
                 url: /government-services/move-in/
-              - title: Plan for Retirement
+              - title: Plan For Retirement
                 url: /government-services/retirement/
-              - title: Plan my Legacy
+              - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
 
     - infopic:
