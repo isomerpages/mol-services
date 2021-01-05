@@ -3,7 +3,7 @@ title: Move Into An HDB Flat
 permalink: /government-services/move-in/
 
 before-move:
-  - title: Renovate Your New Home
+  - title: <a name="reno-home"></a>Renovate Your New Home
     content: |
       Before you start your renovation, you would need to:
         1. Check for defects after collection of keys. For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works to be done by HDB</a>.
@@ -13,7 +13,7 @@ before-move:
         3. [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}
         
         4. [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance){:target="_blank"}
-  - title: Make New School Arrangements for Your Children
+  - title: <a name="sch-arr"></a>Make New School Arrangements for Your Children
     content: |
       For preschool enrolment and application, you will need to contact the respective preschools. <a href="https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD" target="_blank">Search for your desired preschool and register interest</a>.
 
@@ -26,7 +26,7 @@ before-move:
       <a target="_blank" href="https://www.ica.gov.sg/eservicesandforms/ecoa">
         <img src="https://www.ica.gov.sg/images/default-source/ica-images/contents/change-of-address-procedure.png?sfvrsn=2aca00c_4" alt="ICA Change Address Online" style="width:300px">
       </a>
-  - title: Transfer or Re-apply for Season Parking
+  - title: <a name="szn-park"></a>Transfer or Re-apply for Season Parking
     content: |
       If you own a vehicle, you will need to:
       - [Transfer your season parking](https://services2.hdb.gov.sg/webapp/BN22PPORTALWeb/eTransfer/BN22TransferNavigation.jsp){:target="_blank"}; or
@@ -34,21 +34,21 @@ before-move:
       *if you do not have one for your vehicle.*
 
 moving-in:
-  - title: Get Help for Defects and Common Areas
+  - title: <a name="help></a>Get Help for Defects and Common Areas
     content: |
       - [Get to know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil){:target="_blank"}
       - [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
       - For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs" target="_blank">here</a>.
       
       More information can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance" target="_blank">here</a>.
-  - title: Explore Your Neighborhood
+  - title: <a name="explore></a>Explore Your Neighborhood
     content: |
       You can also find the [nearest park connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network){:target="_blank"} for a walk or visit a [Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden){:target="_blank"}.
 
       You can also [book your library visit](https://nlb.appointeze.com/online){:target="_blank"} or [search for upcoming programmes](https://www.nlb.gov.sg/golibrary2/c/30307529/){:target="_blank"}.
 
 owner-finance:
-  - title: Financial Obligations as HDB Owner
+  - title: <a name="financial"></a>Financial Obligations as HDB Owner
     content: |
       As an HDB homeowner, there are [various payments](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment){:target="_blank"} to make for an HDB housing loan. 
 
@@ -59,7 +59,7 @@ owner-finance:
         - Ranging from $20 to $90 a month for Singapore citizens (subsidised)
         - Check with your town council for details
       - Monthly housing loan repayments 
-  - title: Using CPF for your home
+  - title: <a name="cpf"></a>Using CPF for your home
     content: |
       Housing is a major financial purchase, which reduces your retirement savings. Consider [early repayment of your housing loan](https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/cpf-rules-early-repayment){:target="_blank"} to balance your housing and retirement needs before you reach age 55.
 
@@ -70,23 +70,23 @@ owner-finance:
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#reno">Before the Move</a>
+  <li><a href="#move">Before the Move</a>
   <ul>
-    <li>Renovate Your New Home</li>
-    <li>Make New School Arrangements for Your Children</li>
-    <li>Update Residential Address</li>
-    <li>Transfer or Re-apply for Season Parking</li>
+    <li><a href="#reno-home">Renovate Your New Home</a></li>
+    <li><a href="sch-arr">Make New School Arrangements for Your Children</a></li>
+    <li><a href="res-add">Update Residential Address</a></li>
+    <li><a href="szn-park">Transfer or Re-apply for Season Parking</a></li>
   </ul>
 </li>
 <li><a href="#plan">Moving In</a></li>
   <ul>
-    <li>Get Help for Defects and Common Areas</li>
-    <li>Explore Your Neighborhood</li>
+    <li><a href="help">Get Help for Defects and Common Areas</a></li>
+    <li><a href="explore">Explore Your Neighborhood</a></li>
   </ul>
 <li><a href="#tips">Things to Note as HDB Owner</a></li>
   <ul>
-    <li>Financial Obligations as HDB Owner</li>
-    <li>Using CPF for your home</li>
+    <li><a href="financial">Financial Obligations as HDB Owner</a></li>
+    <li><a href="cpf">Using CPF for your home</a></li>
   </ul>  
 </ul>
 </div>
@@ -95,7 +95,7 @@ owner-finance:
 
 # Moving Into Your New Home
 
-### <a name="reno"></a>Before the Move
+### <a name="move"></a>Before the Move
 
 {% include before-move.html %}
 
