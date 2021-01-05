@@ -266,13 +266,6 @@ retire-life:
 [**BACK TO TOP**](#top)
 
 
-## <a name="retire-life"></a>Stay Active and Engaged After Retirement
-
-{% include retire-life.html %}
-
-[**BACK TO TOP**](#top)
-
-
 ---------------------------------------
 **You may also be interested in:**
 
@@ -292,7 +285,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 30 December 2020
+Last updated: 4 January 2021
  
 [Back to top](#top)
 
