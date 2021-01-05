@@ -1,6 +1,7 @@
 ---
 title: Find What You Need. In One Place.
 permalink: /government-services/overview/
+published: false
 ---
 
 ## I Want To...
@@ -36,6 +37,12 @@ img {
     <td class="tg-baqh"><a href="/government-services/sell-hdb/"><img src="/images/07-sell-hdb.png" alt="Sell an HDB Flat"></a></td>
     <td class="tg-baqh"><a href="/government-services/move-in/"><img src="/images/05-move-in.png" alt="Move Into A New Flat"></a></td>
   </tr>
+</tbody>
+</table>
+</div>
+
+<div class="tg-wrap"><table class="tg">
+<tbody>
   <tr>
   <td class="tg-baqh"><a href="/government-services/govt-benefits/"><img src="/images/govt-benefits.png" alt="Govt Schemes and Benefits"></a></td>
   <td class="tg-baqh"><a href="/government-services/stay-healthy/"><img src="/images/09-stay-healthy.png" alt="Stay Healthy"></a></td>
@@ -46,6 +53,7 @@ img {
 </div>
 
 # COMING SOON
+
 <style>
 @media
 only screen and (max-width: 760px),
@@ -61,6 +69,9 @@ table, tr, td {
   border: none !important;
 }
 </style>
+
+
+
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
@@ -68,6 +79,12 @@ table, tr, td {
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Marriage"></td>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
   </tr>
+</tbody>
+</table>
+</div>
+
+<div class="tg-wrap"><table class="tg">
+<tbody>
   <tr>
     <td class="tg-bagh"><a href="/government-services/get-digitally-ready/overview/"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></a></td>
     <td class="tg-baqh"><a href="/government-services/retirement/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>

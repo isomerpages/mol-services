@@ -1,6 +1,7 @@
 ---
 title: Plan For Retirement
 permalink: /government-services/retirement/
+published: false
 
 retire-job:
   - title: <a name="age"></a>What Retirement Age Means to You
@@ -230,12 +231,6 @@ retire-life:
     <li><a href="#BRS"> When Your CPF Balances Fall below Basic Retirement Sum (BRS)</a></li>
     <li><a href="#income"> Build Your Alternative Income Stream(s)</a></li>
   </ul>
-<li><a href="#retire-life">Stay Active and Engaged After Retirement</a></li>
-  <ul>
-    <li><a href="#check-up"> Keep Your Health in Check</a></li>
-    <li><a href="#skills"> Pick Up Some New Skills or Hobbies</a></li>
-    <li><a href="#CPF-deceased"> Organise Your Important Legacy Documents</a></li>
-   </ul>  
   </ul>
 </div>
 
@@ -266,13 +261,6 @@ retire-life:
 [**BACK TO TOP**](#top)
 
 
-## <a name="retire-life"></a>Stay Active and Engaged After Retirement
-
-{% include retire-life.html %}
-
-[**BACK TO TOP**](#top)
-
-
 ---------------------------------------
 **You may also be interested in:**
 
@@ -292,7 +280,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 30 December 2020
+Last updated: 4 January 2021
  
 [Back to top](#top)
 
