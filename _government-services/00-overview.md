@@ -39,6 +39,7 @@ img {
 </tbody>
 </table>
 </div>
+
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
@@ -51,6 +52,7 @@ img {
 </div>
 
 # COMING SOON
+
 <style>
 @media
 only screen and (max-width: 760px),
@@ -66,6 +68,9 @@ table, tr, td {
   border: none !important;
 }
 </style>
+
+
+
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
@@ -73,6 +78,10 @@ table, tr, td {
     <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Marriage"></td>
     <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
   </tr>
+</tbody>
+</table>
+</div>
+
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
