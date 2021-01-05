@@ -22,10 +22,10 @@ sections:
                 url: /government-services/sell-hdb/
               - title: Move Into An HDB Flat
                 url: /government-services/move-in/
-              - title: Plan For Retirement
-                url: /government-services/retirement/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
+              - title: Stay Healthy
+                url: /government-services/stay-healthy/
 
     - infopic:
         title: Access Services
