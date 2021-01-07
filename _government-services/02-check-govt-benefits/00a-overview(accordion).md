@@ -172,23 +172,23 @@ individual-tax-reliefs:
     You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the [different types of donations and their respective tax deductibility]( https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/){:target="_blank"}
   
 calculator:
-- title: <a name="eligibility"></a>Check Your Eligibility
+- title: Check Your Eligibility
   content: |
     You can claim [Tax Reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"} if all the following apply:
       - You are a Singapore Citizen
       - You are married or legally separated
       - You meet the qualifying conditions for the specific tax relief
-- title: <a name="tax-calc"></a>Tax Relief Calculator
+- title: Tax Relief Calculator
   content: |
     You can use the [IRAS Personal Relief Eligibility tool](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/Copy%20of%20Personal%20Reliefs%20Eligibility%20Tool.xls){:target="_blank"} to evaluate whether you would benefit from tax relief on your voluntary CPF contributions and make an informed decision. 
 
     *Tip: Some of these are automatically calculated when you file your income tax*
-- title: <a name="leave-calc"></a>Annual Leave Calculator
+- title: Annual Leave Calculator
   content: |
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
 claim:
-- title: <a name="submit"></a>Submit Your Claim During eFiling 
+- title: Submit Your Claim During eFiling 
   content: |
     During efiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
@@ -199,7 +199,7 @@ claim:
         <li>Go to the Tax Relief that you want to claim</li>
         <li>Click “Update” and enter your claim</li>
     </ol>
-- title: <a name="changes"></a>Making Changes (After Submission)
+- title: Making Changes (After Submission)
   content: |
     You may re-file within 14 days of your previous submission or before the tax season ends (usually by April in the following year) - including all your income details and expenses, donations and relief claims where applicable. 
     
