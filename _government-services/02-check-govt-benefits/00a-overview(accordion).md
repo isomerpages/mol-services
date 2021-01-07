@@ -190,7 +190,7 @@ calculator:
 claim:
 - title: <a name="submit"></a> Submit Your Claim During eFiling 
   content: |
-  During eFiling, you can submit your claim if you need to make a revision to your claim:
+    During eFiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
         <li>Go to “Individuals” > “File Income Tax Return”</li>
