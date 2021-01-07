@@ -94,8 +94,7 @@ parent-tax-reliefs:
       You could use these [tax reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Tax-Savings-for-Married-Couples-and-Families/#){:target="_blank"} to reduce your tax bill each year if you are married:
         - Spouse/Handicapped Spouse Relief
         - NSMan Relief for Wife
-        - Tax Relief for Legally Separated Spouse under Maintenance Payments
-
+        - [Foreign Maid Levy (FML) Relief](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Foreign-Maid-Levy--FML--Relief/){:target="_blank"}
         <p align="center">Click to enlarge</p>
         <a target="_blank" href="https://blog-cdn.moneysmart.sg/wp-content/uploads/2018/03/Tax-Relief_Married-couples-FA-PTR-ver2-1.jpg">
         <img src="https://blog-cdn.moneysmart.sg/wp-content/uploads/2018/03/Tax-Relief_Married-couples-FA-PTR-ver2-1.jpg" alt="Tax Reliefs for Married Couples" style="width:300px">
@@ -103,17 +102,15 @@ parent-tax-reliefs:
 - title: Tax Reliefs for Parents
   content: | 
     You could use these [tax reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"} to reduce your tax bill each year if you are a parent:
-
       - [Qualifying Child Relief (QCR) / Handicapped Child Relief (HCR)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Qualifying-Child-Relief--QCR--/-Handicapped-Child-Relief--HCR-/){:target="_blank"}
       - [Working Mother's Child Relief (WMCR)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Working-Mother-s-Child-Relief--WMCR-/){:target="_blank"}
       - [Parenthood Tax Rebate (PTR)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Parenthood-Tax-Rebate--PTR-/){:target="_blank"}
-      - [Foreign Maid Levy (FML) Relief](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Foreign-Maid-Levy--FML--Relief/){:target="_blank"}
       - [Grandparent Caregiver Relief (GCR)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Grandparent-Caregiver-Relief/){:target="_blank}
 - title: Parenthood Tax Rebate(PTR)
   content: |
     Raising a child can be expensive. You can claim for tax rebates from the government as working parents under the [Parenthood Tax Rebate (PTR)](hhttps://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Parenthood-Tax-Rebate--PTR-/) and [Working Mother's Child Relief](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Working-Mother-s-Child-Relief--WMCR-/){:target="_blank"}. 
     
-    This benefit is available to single parents and adoptive parents as well.
+    This benefit is available to adoptive parents as well.
 - title: Transferring Unutilised PTR to Your Spouse
   content: |
     Any unutilised amount can also be transferred online from your account to your spouse's account.Simply log in to [MyTax Portal]( https://mytax.iras.gov.sg/ESVWeb/default.aspx){:target="_blank"} to view your PTR balance and transfer your PTR balance to your spouse.
@@ -159,11 +156,11 @@ individual-tax-reliefs:
 
     - [CPF Cash Top-up Relief (Self/Dependents)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF-Cash-Top-up-Relief/){:target="_blank"}
 
-    Maximum amount you can claim:  $14,000 (maximum $7,000 for self, and maximum $7,000 for family members).
-
-    - [Supplementary Retirement Scheme (SRS) Relief]((https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-tax-relief/){:target="_blank"}
-
     Maximum amount you can claim:  $15,300 (Singaporean) or $35,700 (foreigner).
+
+    - [Supplementary Retirement Scheme (SRS) Relief](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-tax-relief/){:target="_blank"}
+
+    Maximum amount you can claim:  $14,000 (maximum $7,000 for self, and maximum $7,000 for family members).
 
     - [CPF Relief (Medisave Top-ups)](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions/){:target="_blank"}
   
@@ -173,8 +170,6 @@ individual-tax-reliefs:
 - title: Tax Deduction for Donations
   content: |
     You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the [different types of donations and their respective tax deductibility]( https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/){:target="_blank"}
-
-    [Other information on tax reliefs and the qualifying conditions](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"}
   
 calculator:
 - title: Check Your Eligibility
@@ -193,9 +188,9 @@ calculator:
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
 claim:
-- title: Submit Your Claim During eFiling
+- title: Submit Your Claim During eFiling 
   content: |
-    During efiling, you can submit your claim if this is the first time you are claiming this relief or you need to make a revision to your claim:
+    During efiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
         <li>Go to “Individuals” > “File Income Tax Return”</li>
@@ -204,14 +199,15 @@ claim:
         <li>Go to the Tax Relief that you want to claim</li>
         <li>Click “Update” and enter your claim</li>
     </ol>
-- title: Paper Filing of Your Tax Relief Claims
-  content: |
-      For paper filing, you need to complete item 6(h) on your Form B or Form B1.
 - title: Making Changes (After Submission)
   content: |
-    You may re-file within 14 days of your previous submission or before the tax season ends (usually in April the next year)- including all your income details and expenses, donations and relief claims where applicable. 
-
+    You may re-file within 14 days of your previous submission or before the tax season ends (usually by April in the following year) - including all your income details and expenses, donations and relief claims where applicable. 
+    
     *Do note that you can only re-file once.*
+
+    If you would like to make a claim in the current year of assessment, 
+You may also file an objection using “Object to Assessment” e-Service at (myTax Portal)[https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/] within 30 days from your tax assessment.
+
 ---      
 
 ## <a name="top"></a>I Want to Know My Government Benefits
