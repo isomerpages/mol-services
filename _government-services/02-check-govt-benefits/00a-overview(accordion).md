@@ -188,8 +188,10 @@ calculator:
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
 claim:
-- title: <a name="submit"></a> Submit Your Claim During eFiling (click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) to find more information on tax due dates)
+- title: <a name="submit"></a> Submit Your Claim During eFiling 
   content: |
+  *(Click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) for information on the eFiling due date)*
+  
     During efiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
@@ -201,7 +203,7 @@ claim:
     </ol>
 - title: <a name="changes"></a> Making Changes (After Submission)
   content: |
-    You may re-file within 14 days of your previous submission or before the tax season ends (click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) to find more information on tax due dates) - including all your income details and expenses, donations and relief claims where applicable. 
+    You may re-file within 14 days of your previous submission or before the tax season ends (click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) to find more information on upcoming tax due dates) - including all your income details and expenses, donations and relief claims where applicable. 
     
     *Do note that you can only re-file once.*
     
@@ -231,7 +233,7 @@ claim:
   <ul>
     <li><a href="#eligibility">Check Your Eligibility</a></li>
     <li><a href="#tax-calc">Tax Relief Calculator</a></li>
-    <li><a href="annual-calc">Annual Leave Calculator</a></li>
+    <li><a href="#annual-calc">Annual Leave Calculator</a></li>
   </ul>
 <li><a href="#claim">How to Apply</a></li>
   <ul>
