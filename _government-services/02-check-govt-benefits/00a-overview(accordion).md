@@ -190,9 +190,7 @@ calculator:
 claim:
 - title: <a name="submit"></a> Submit Your Claim During eFiling 
   content: |
-  *(Click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) for information on the eFiling due date)*
-  
-    During efiling, you can submit your claim if you need to make a revision to your claim:
+  During eFiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
         <li>Go to “Individuals” > “File Income Tax Return”</li>
@@ -201,13 +199,14 @@ claim:
         <li>Go to the Tax Relief that you want to claim</li>
         <li>Click “Update” and enter your claim</li>
     </ol>
+    *Click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) for information on the eFiling due date*
 - title: <a name="changes"></a> Making Changes (After Submission)
   content: |
     You may re-file within 14 days of your previous submission or before the tax season ends (click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) to find more information on upcoming tax due dates) - including all your income details and expenses, donations and relief claims where applicable. 
     
     *Do note that you can only re-file once.*
     
-  You may also file an objection using the “Object to Assessment” e-Service found at [myTax Portal](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/) within 30 days from your tax assessment.
+    You may also file an objection using the “Object to Assessment” e-Service found at [myTax Portal](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/) within 30 days from your tax assessment.
 ---      
 
 ## <a name="top"></a>I Want to Know My Government Benefits
