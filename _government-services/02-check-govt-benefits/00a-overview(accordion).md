@@ -204,10 +204,6 @@ claim:
     You may re-file within 14 days of your previous submission or before the tax season ends (usually by April in the following year) - including all your income details and expenses, donations and relief claims where applicable. 
     
     *Do note that you can only re-file once.*
-
-    If you would like to make a claim in the current year of assessment, 
-You may also file an objection using “Object to Assessment” e-Service at (myTax Portal)[https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/] within 30 days from your tax assessment.
-
 ---      
 
 ## <a name="top"></a>I Want to Know My Government Benefits
