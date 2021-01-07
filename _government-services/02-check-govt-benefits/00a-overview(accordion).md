@@ -188,7 +188,7 @@ calculator:
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
 claim:
-- title: Submit Your Claim During eFiling 
+- title: <a name="submit"></a>Submit Your Claim During eFiling 
   content: |
     During efiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
@@ -199,7 +199,7 @@ claim:
         <li>Go to the Tax Relief that you want to claim</li>
         <li>Click “Update” and enter your claim</li>
     </ol>
-- title: Making Changes (After Submission)
+- title: <a name="changes"></a>Making Changes (After Submission)
   content: |
     You may re-file within 14 days of your previous submission or before the tax season ends (usually by April in the following year) - including all your income details and expenses, donations and relief claims where applicable. 
     
