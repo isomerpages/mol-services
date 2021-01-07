@@ -172,18 +172,18 @@ individual-tax-reliefs:
     You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the [different types of donations and their respective tax deductibility]( https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/){:target="_blank"}
   
 calculator:
-- title: Check Your Eligibility
+- title: <a name="eligibility"></a>Check Your Eligibility
   content: |
     You can claim [Tax Reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"} if all the following apply:
       - You are a Singapore Citizen
       - You are married or legally separated
       - You meet the qualifying conditions for the specific tax relief
-- title: Tax Relief Calculator
+- title: <a name="tax-calc"></a>Tax Relief Calculator
   content: |
     You can use the [IRAS Personal Relief Eligibility tool](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/Copy%20of%20Personal%20Reliefs%20Eligibility%20Tool.xls){:target="_blank"} to evaluate whether you would benefit from tax relief on your voluntary CPF contributions and make an informed decision. 
 
     *Tip: Some of these are automatically calculated when you file your income tax*
-- title: Annual Leave Calculator
+- title: <a name="leave-calc"></a>Annual Leave Calculator
   content: |
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
@@ -231,8 +231,14 @@ You may also file an objection using “Object to Assessment” e-Service at (my
   </ul>
 <li><a href="#check">Check What You Can Get</a></li>
   <ul>
-    <li><a href="#calculator">Check Your Eligibility</a></li>
-    <li><a href="#claim">How to Apply</a></li>
+    <li><a href="#eligibility">Check Your Eligibility</a></li>
+    <li><a href="#tax-calc">Tax Relief Calculator</a></li>
+    <li><a href="leave-calc">Annual Leave Calculator</a></li>
+  </ul>
+<li><a href="#claim">How to Apply</a></li>
+  <ul>
+    <li><a href="#submit">Submit your claim during eFiling</a></li>
+    <li><a href="#changes">Making Changes (After Submission)</a></li>
   </ul>
 </ul>
 </div>
