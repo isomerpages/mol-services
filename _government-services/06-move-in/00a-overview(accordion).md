@@ -67,14 +67,13 @@ owner-finance:
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#move">Before the Move</a>
+ <li><a href="#move">Before the Move</a></li>
   <ul>
     <li><a href="#reno-home">Renovate Your New Home</a></li>
     <li><a href="#sch-arr">Make New School Arrangements for Your Children</a></li>
     <li><a href="#res-add">Update Residential Address</a></li>
     <li><a href="#szn-park">Transfer or Re-apply for Season Parking</a></li>
   </ul>
-</li>
 <li><a href="#plan">Moving In</a></li>
   <ul>
     <li><a href="#help">Get Help for Defects and Common Areas</a></li>
