@@ -7,7 +7,7 @@ before-move:
     content: |
       Before you start your renovation, you would need to:
         1. Check for defects after collection of keys. For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works to be done by HDB</a>.      
-        2. [Apply for your renovation permit](https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval){:target="_blank"       
+        2. [Apply for your renovation permit](https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval){:target="_blank"}       
         3. [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}        
         4. [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance){:target="_blank"}
   - title: <a name="sch-arr"></a>Make New School Arrangements for Your Children
