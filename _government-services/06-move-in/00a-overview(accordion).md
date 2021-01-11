@@ -15,7 +15,7 @@ before-move:
       For preschool enrolment and application, you will need to contact the respective preschools. <a href="https://cms.ecda.gov.sg/prweb/IAC/zGwoaxwY6Bz0rcpuMWgTMg%5B%5B*/!STANDARD" target="_blank">Search for your desired preschool and register interest</a>.
 
       To transfer your child(ren) to a primary school within your new neighborhood,  do read here for primary school transfer procedures <a href="https://beta.moe.gov.sg/primary/transfers/" target="_blank">here</a>.
-  - title: Update Residential Address
+  - title: <a name="res-add"></a>Update Residential Address
     content: |
       After moving to your new home, you may <a href="https://www.ica.gov.sg/documents/ic/update_residential_address" target="_blank">update your residential address online</a> from 1 Oct 2020 onwards. If you are unable to transact online and need help, please visit ICA.
 
@@ -98,7 +98,7 @@ owner-finance:
 [**BACK TO TOP**](#top)
 
 
-### <a name="plan"></a>Planning the Move
+### <a name="plan"></a>Moving In
 
 {% include moving-in.html %}
 
