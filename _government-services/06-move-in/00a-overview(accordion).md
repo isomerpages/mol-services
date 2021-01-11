@@ -6,12 +6,9 @@ before-move:
   - title: <a name="reno-home"></a>Renovate Your New Home
     content: |
       Before you start your renovation, you would need to:
-        1. Check for defects after collection of keys. For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works to be done by HDB</a>.
-      
-        2. [Apply for your renovation permit](https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval){:target="_blank"}. 
-        
-        3. [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}
-        
+        1. Check for defects after collection of keys. For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works to be done by HDB</a>.      
+        2. [Apply for your renovation permit](https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval){:target="_blank"       
+        3. [Sign up for utilities account](https://www.spgroup.com.sg/home){:target="_blank"}        
         4. [Apply for HDB Fire Insurance](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance){:target="_blank"}
   - title: <a name="sch-arr"></a>Make New School Arrangements for Your Children
     content: |
@@ -34,14 +31,14 @@ before-move:
       *if you do not have one for your vehicle.*
 
 moving-in:
-  - title: <a name="help></a>Get Help for Defects and Common Areas
+  - title: <a name="help"></a>Get Help for Defects and Common Areas
     content: |
       - [Get to know your Town Council](https://www.hdb.gov.sg/cs/infoweb/contact-us?anchor=towncouncil){:target="_blank"}
       - [Maintenance of common areas](https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/function-of-hdb-branches-and-town-councils){:target="_blank"}
       - For any flat maintenance issues (e.g. application for renovation permit, goodwill repairs), find the right service for you <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance/professional-help-and-contractors/minor-repairs" target="_blank">here</a>.
       
       More information can be found <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-maintenance" target="_blank">here</a>.
-  - title: <a name="explore></a>Explore Your Neighborhood
+  - title: <a name="explore"></a>Explore Your Neighborhood
     content: |
       You can also find the [nearest park connector](https://www.nparks.gov.sg/gardens-parks-and-nature/park-connector-network){:target="_blank"} for a walk or visit a [Community Garden in your neighborhood](https://www.nparks.gov.sg/gardening/community-gardens/visit-a-community-garden){:target="_blank"}.
 
@@ -73,20 +70,20 @@ owner-finance:
   <li><a href="#move">Before the Move</a>
   <ul>
     <li><a href="#reno-home">Renovate Your New Home</a></li>
-    <li><a href="sch-arr">Make New School Arrangements for Your Children</a></li>
-    <li><a href="res-add">Update Residential Address</a></li>
-    <li><a href="szn-park">Transfer or Re-apply for Season Parking</a></li>
+    <li><a href="#sch-arr">Make New School Arrangements for Your Children</a></li>
+    <li><a href="#res-add">Update Residential Address</a></li>
+    <li><a href="#szn-park">Transfer or Re-apply for Season Parking</a></li>
   </ul>
 </li>
 <li><a href="#plan">Moving In</a></li>
   <ul>
-    <li><a href="help">Get Help for Defects and Common Areas</a></li>
-    <li><a href="explore">Explore Your Neighborhood</a></li>
+    <li><a href="#help">Get Help for Defects and Common Areas</a></li>
+    <li><a href="#explore">Explore Your Neighborhood</a></li>
   </ul>
 <li><a href="#tips">Things to Note as HDB Owner</a></li>
   <ul>
-    <li><a href="financial">Financial Obligations as HDB Owner</a></li>
-    <li><a href="cpf">Using CPF for your home</a></li>
+    <li><a href="#financial">Financial Obligations as HDB Owner</a></li>
+    <li><a href="#cpf">Using CPF for your home</a></li>
   </ul>  
 </ul>
 </div>
