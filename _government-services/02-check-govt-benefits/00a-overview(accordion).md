@@ -86,7 +86,7 @@ family-leave:
       For instructions on applying for leave or claiming reimbursement, you can use this [online demo](https://www.profamilyleave.gov.sg/Pages/Online-Demo.aspx){:target="_blank"} as a guide. 
 - title: Leave Calculator
   content: |
-    Use this Government Paid Leave calculator (https://www.profamilyleave.gov.sg/Pages/Calculator.aspx){:target="_blank"} to calculate how much you can get.
+    Use this [Government Paid Leave calculator](https://www.profamilyleave.gov.sg/Pages/Calculator.aspx){:target="_blank"} to calculate how much you can get.
 
 parent-tax-reliefs:
 - title: Tax Reliefs for Married Couples
@@ -172,25 +172,25 @@ individual-tax-reliefs:
     You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the [different types of donations and their respective tax deductibility]( https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/){:target="_blank"}
   
 calculator:
-- title: Check Your Eligibility
+- title: <a name="eligibility"></a>Check Your Eligibility
   content: |
     You can claim [Tax Reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/){:target="_blank"} if all the following apply:
       - You are a Singapore Citizen
       - You are married or legally separated
       - You meet the qualifying conditions for the specific tax relief
-- title: Tax Relief Calculator
+- title: <a name="tax-calc"></a>Tax Relief Calculator
   content: |
     You can use the [IRAS Personal Relief Eligibility tool](https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Quick_Links/Copy%20of%20Personal%20Reliefs%20Eligibility%20Tool.xls){:target="_blank"} to evaluate whether you would benefit from tax relief on your voluntary CPF contributions and make an informed decision. 
 
     *Tip: Some of these are automatically calculated when you file your income tax*
-- title: Annual Leave Calculator
+- title: <a name="annual-calc"></a> Annual Leave Calculator
   content: |
     Use [this tool](https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement){:target="_blank"} to calculate the number of annual leave days you can get. 
 
 claim:
-- title: Submit Your Claim During eFiling 
+- title: <a name="submit"></a> Submit Your Claim During eFiling 
   content: |
-    During efiling, you can submit your claim if you need to make a revision to your claim:
+    During eFiling, you can submit your claim if you need to make a revision to your claim:
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
         <li>Go to “Individuals” > “File Income Tax Return”</li>
@@ -199,15 +199,14 @@ claim:
         <li>Go to the Tax Relief that you want to claim</li>
         <li>Click “Update” and enter your claim</li>
     </ol>
-- title: Making Changes (After Submission)
+    *Click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) for information on the eFiling due date*
+- title: <a name="changes"></a> Making Changes (After Submission)
   content: |
-    You may re-file within 14 days of your previous submission or before the tax season ends (usually by April in the following year) - including all your income details and expenses, donations and relief claims where applicable. 
+    You may re-file within 14 days of your previous submission or before the tax season ends (click [here](https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx) to find more information on upcoming tax due dates) - including all your income details and expenses, donations and relief claims where applicable. 
     
     *Do note that you can only re-file once.*
-
-    If you would like to make a claim in the current year of assessment, 
-You may also file an objection using “Object to Assessment” e-Service at (myTax Portal)[https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/] within 30 days from your tax assessment.
-
+    
+    You may also file an objection using the “Object to Assessment” e-Service found at [myTax Portal](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/) within 30 days from your tax assessment.
 ---      
 
 ## <a name="top"></a>I Want to Know My Government Benefits
@@ -233,7 +232,7 @@ You may also file an objection using “Object to Assessment” e-Service at (my
   <ul>
     <li><a href="#eligibility">Check Your Eligibility</a></li>
     <li><a href="#tax-calc">Tax Relief Calculator</a></li>
-    <li><a href="leave-calc">Annual Leave Calculator</a></li>
+    <li><a href="#annual-calc">Annual Leave Calculator</a></li>
   </ul>
 <li><a href="#claim">How to Apply</a></li>
   <ul>
