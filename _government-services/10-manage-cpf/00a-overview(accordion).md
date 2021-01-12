@@ -96,9 +96,8 @@ cpf-grow:
 - title: How to Grow Your CPF Savings 
   content: |
       Here are some ways that can help you to [grow your CPF savings](https://www.dbs.com.sg/personal/nav/maximise-and-grow-your-cpf-savings-for-retirement.page){:target="_blank"}.
-
-      <b>At a Glance: Grow Your CPF Savings</b> 
       
+      <b>At a Glance: Grow Your CPF Savings</b> 
       (Note: Evaluate your personal financial situation before making any CPF transfers or cash top ups as they are usually not reversible)
       <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Transfer%20Savings%20from%20OA%20to%20SA.jpg">
