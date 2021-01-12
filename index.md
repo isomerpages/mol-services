@@ -26,6 +26,8 @@ sections:
                 url: /government-services/plan-legacy/overview/
               - title: Stay Healthy
                 url: /government-services/stay-healthy/
+              - title: Manage My CPF Better
+                url: /government-services/understand-cpf/
 
     - infopic:
         title: Access Services
