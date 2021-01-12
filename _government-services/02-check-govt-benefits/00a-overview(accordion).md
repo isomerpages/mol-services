@@ -86,7 +86,7 @@ family-leave:
       For instructions on applying for leave or claiming reimbursement, you can use this [online demo](https://www.profamilyleave.gov.sg/Pages/Online-Demo.aspx){:target="_blank"} as a guide. 
 - title: Leave Calculator
   content: |
-    Use this Government Paid Leave calculator (https://www.profamilyleave.gov.sg/Pages/Calculator.aspx){:target="_blank"} to calculate how much you can get.
+    Use this [Government Paid Leave calculator](https://www.profamilyleave.gov.sg/Pages/Calculator.aspx){:target="_blank"} to calculate how much you can get.
 
 parent-tax-reliefs:
 - title: Tax Reliefs for Married Couples
