@@ -6,9 +6,9 @@ third_nav_title: Manage My Finances
 cpf-login:
 - title: How to Log In
   content: |
-    [my cpf Online Services](https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted) lets you look into your various CPF accounts, track your activities, messages, notifications and update your contact information, among others. Log in to my cpf Online Services [here](https://www.cpf.gov.sg/eSvc/Web/PortalServices/CpfMemberPortalServices) using your SingPass (required).
+    [my cpf Online Services](https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted){:target="_blank"} lets you look into your various CPF accounts, track your activities, messages, notifications and update your contact information, among others. Log in to my cpf Online Services [here](https://www.cpf.gov.sg/eSvc/Web/PortalServices/CpfMemberPortalServices){:target="_blank"} using your SingPass (required).
 
-    If you do not have SingPass, get one [here](https://www.singpass.gov.sg/singpass/register/instructions) now.
+    If you do not have SingPass, get one [here](https://www.singpass.gov.sg/singpass/register/instructions){:target="_blank"} now.
 
 cpf-types:
 - title: CPF at a Glance
@@ -17,10 +17,10 @@ cpf-types:
     <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png">
     <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png" alt="CPF Savings Uses" style="width:300px">
 
-    See Also: [CPF and the interest rates](https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview).
+    See Also: [CPF and the interest rates](https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview){:target="_blank"}.
 - title: How Your CPF Contributions Are Allocated
   content: |
-    As an employee, your [CPF contribution and allocation rates](https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx)
+    As an employee, your [CPF contribution and allocation rates](https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx){:target="_blank"}
     are adjusted to reflect your changing needs as you grow older and continue to remain in the workforce. 
      <p align="center">Click to enlarge</p>
     <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older/How%20your%20CPF%20contribution%20and%20allocation%20rates%20change%20v2019.jpg">
@@ -29,30 +29,30 @@ cpf-types:
     See Also: [areyouready.gov.sg](https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx){:target="_blank"}
 - title: Your CPF Contribution and Transaction History
   content: |
-    Your past CPF contribution and transaction history can be found in Section B of your [CPF statements](https://www.cpf.gov.sg/members), using your SingPass. 
+    Your past CPF contribution and transaction history can be found in Section B of your [CPF statements](https://www.cpf.gov.sg/eSvc/Web/Services/Statement/Statement){:target="_blank"} . 
 
 cpf-savings:
 - title: Buy a Property
   content: |
-    Under the [CPF Housing Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/housing-scheme), you may use your CPF Ordinary Account (OA) savings to buy:
+    Under the [CPF Housing Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/housing/housing-scheme){:target="_blank"}, you may use your CPF Ordinary Account (OA) savings to buy:
     - an HDB flat under the Public Housing Scheme
     - buy a private property under the Residential Properties Scheme
     - pay monthly housing mortgage
 
-    See Also: [Using CPF for Your HDB Flat](https://services.life.gov.sg/government-services/buy-hdb/#finances)
+    See Also: [Using CPF for Your HDB Flat](https://services.life.gov.sg/government-services/buy-hdb/#finances){:target="_blank"}
 - title: Pay for Your / Kids’ / Spouse’s Education Fees
   content: |
-    Under the [CPF Education Loan Scheme](https://www.cpf.gov.sg/members/schemes/schemes/other-matters/cpf-education-scheme), you may use your CPF Ordinary Account (OA) savings to pay education fees for yourself, spouse, children, siblings and relatives. You (as the student) can then repay the amount withdrawn plus interest in cash into the payer’s OA within 1 year upon graduation or leaving the institution.
+    Under the [CPF Education Loan Scheme](https://www.cpf.gov.sg/members/schemes/schemes/other-matters/cpf-education-scheme){:target="_blank"}, you may use your CPF Ordinary Account (OA) savings to pay education fees for yourself, spouse, children, siblings and relatives. You (as the student) can then repay the amount withdrawn plus interest in cash into the payer’s OA within 1 year upon graduation or leaving the institution.
 
     If you are currently servicing an education loan, you can:
     - Check the outstanding loan amount from the student (or the borrower)
-      [my cpf portal](https://www.cpf.gov.sg/members) (SingPass required) > *My Statements* > *Section C* > *Education Redemption Statement*
+      [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Statements* > *Section C* > *Education Redemption Statement*
 
     - Check how much to pay the institution
-    [my cpf portal](https://www.cpf.gov.sg/members) (SingPass required) >*My Statements* > *Enquire on My Arrears in Repayment*
+    [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) >*My Statements* > *Enquire on My Arrears in Repayment*
 
     - Apply to defer education loan repayment or change monthly instalment rate: 
-    [my cpf portal](https://www.cpf.gov.sg/members) (SingPass required) > *My Request* > *Education/ Dependants' Education* > *Apply to defer payment or Change my Monthly Instalment Rate* 
+    [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Request* > *Education/ Dependants' Education* > *Apply to defer payment or Change my Monthly Instalment Rate* 
 - title: Pay for Medical Fees
   content: |
     There is a range of CPF healthcare schemes to safeguard you and your loved ones should any of you need hospitalisation or other forms of healthcare assistance in different stages of life.
@@ -98,7 +98,7 @@ cpf-contribute:
 - title: Why You Should Do a Voluntary Contribution to CPF
   content: |
     (1) You get to save on taxes
-        Based on your Net Trade Income (NTI) assessed and the actual amount of your contribution, you can get [tax relief](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/) if you contribute to your CPF.
+        Based on your Net Trade Income (NTI) assessed and the actual amount of your contribution, you can get [tax relief](https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/){:target="_blank"} if you contribute to your CPF.
 
     (2) You also get higher interest rates on your savings in CPF 
         Generally, CPF monies yield higher interest rate compared to banks. For the first $60,000 in your CPF monies (with up to $20,000 from the OA), you will get an additional 1% interest for your CPF monies. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.
