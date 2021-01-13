@@ -83,7 +83,7 @@ cpf-contribute:
 - title: Mandatory Contributions into MediSave Account (MA)
   content: |
       It is mandatory for all Self Employed Persons to contribute to their MediSave Accounts as long as you earn more than $6,000 in Net Trade Income (NTI) for the year. These contributions into your MediSave Account help you manage medical/hospitalisation emergencies, similar to your peers as employed workers.
-- title: Contribute - As - You - Earn Scheme
+- title: Contribute-As-You-Earn Scheme
   content: |
       Under this CPF [Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/contribute-as-you-earn-(caye)){:target="_blank"}, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave accounts as their incomes may be seasonal.
       
@@ -125,7 +125,6 @@ cpf-contribute:
 <li><a href="#self-employed">CPF Contributions as a Self-Employed Individual</a></li>
   <ul>
     <li><a href="#scheme">Self-Employed Scheme</a></li>
-    <li><a href="#caye">Contribute-As-You-Earn(CAYE)</a></li>
     <li><a href="#contribution">Mandatory and Voluntary Contributions</a></li>
   </ul>
 </ul>
