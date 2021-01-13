@@ -29,7 +29,7 @@ cpf-types:
     See Also: [areyouready.gov.sg](https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx){:target="_blank"}
 - title: Your CPF Contribution and Transaction History
   content: |
-    Your past CPF contribution and transaction history can be found in Section B of your [CPF statements](https://www.cpf.gov.sg/eSvc/Web/Services/Statement/Statement){:target="_blank"} . 
+    Your past CPF contribution and transaction history can be found in Section B of your [CPF statements](https://www.cpf.gov.sg/eSvc/Web/Services/Statement/Statement){:target="_blank"} after logging in to my cpf Online Services (SingPass required). 
 
 cpf-savings:
 - title: Buy a Property
