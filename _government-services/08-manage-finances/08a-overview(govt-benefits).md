@@ -1,6 +1,7 @@
 ---
-title: Know My Government Benefits
+title: Get Government Benefits
 permalink: /government-services/govt-benefits/
+third_nav_title: Manage My Finances
 
 child-benefits:
 - title: Baby-bonus Cash Gift
@@ -209,7 +210,7 @@ claim:
     You may also file an objection using the “Object to Assessment” e-Service found at [myTax Portal](https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/) within 30 days from your tax assessment.
 ---      
 
-## <a name="top"></a>I Want to Know My Government Benefits
+## <a name="top"></a>I Want to Get Government Benefits
 
 
 <div id="toc_container">

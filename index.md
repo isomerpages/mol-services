@@ -22,12 +22,14 @@ sections:
                 url: /government-services/sell-hdb/
               - title: Move Into An HDB Flat
                 url: /government-services/move-in/
+              - title: Plan for Retirement
+                url: /government-services/retirement/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
               - title: Stay Healthy
                 url: /government-services/stay-healthy/
               - title: Manage My CPF Better
-                url: /government-services/understand-cpf/
+                url: /government-services/manage-cpf/
 
     - infopic:
         title: Access Services
