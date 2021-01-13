@@ -45,14 +45,14 @@ cpf-savings:
     Under the [CPF Education Loan Scheme](https://www.cpf.gov.sg/members/schemes/schemes/other-matters/cpf-education-scheme){:target="_blank"}, you may use your CPF Ordinary Account (OA) savings to pay education fees for yourself, spouse, children, siblings and relatives. You (as the student) can then repay the amount withdrawn plus interest in cash into the payer’s OA within 1 year upon graduation or leaving the institution.
 
     If you are currently servicing an education loan, you can:
-    - Check the outstanding loan amount from the student (or the borrower)
-      [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Statements* > *Section C* > *Education Redemption Statement*
+    - Check the outstanding loan amount from the student (or the borrower):
+          - [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Statements* > *Section C* > *Education Redemption Statement*
 
-    - Check how much to pay the institution
-    [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) >*My Statements* > *Enquire on My Arrears in Repayment*
+    - Check how much to pay the institution:
+          - [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) >*My Statements* > *Enquire on My Arrears in Repayment*
 
     - Apply to defer education loan repayment or change monthly instalment rate: 
-    [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Request* > *Education/ Dependants' Education* > *Apply to defer payment or Change my Monthly Instalment Rate* 
+          - [my cpf portal](https://www.cpf.gov.sg/members){:target="_blank"} (SingPass required) > *My Request* > *Education/ Dependants' Education* > *Apply to defer payment or Change my Monthly Instalment Rate* 
 - title: Pay for Medical Fees
   content: |
     There is a range of CPF healthcare schemes to safeguard you and your loved ones should any of you need hospitalisation or other forms of healthcare assistance in different stages of life.
@@ -83,7 +83,7 @@ cpf-contribute:
 - title: Mandatory Contributions into MediSave Account (MA)
   content: |
       It is mandatory for all Self Employed Persons to contribute to their MediSave Accounts as long as you earn more than $6,000 in Net Trade Income (NTI) for the year. These contributions into your MediSave Account help you manage medical/hospitalisation emergencies, similar to your peers as employed workers.
-- title: Contribute-As-You-Earn Scheme
+- title: Contribute - As - You - Earn Scheme
   content: |
       Under this CPF [Scheme](https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/contribute-as-you-earn-(caye)){:target="_blank"}, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave accounts as their incomes may be seasonal.
       
@@ -102,8 +102,6 @@ cpf-contribute:
 
     (2) You also get higher interest rates on your savings in CPF 
         Generally, CPF monies yield higher interest rate compared to banks. For the first $60,000 in your CPF monies (with up to $20,000 from the OA), you will get an additional 1% interest for your CPF monies. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.
-      
-      See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-4-financial-planning-tips-for-the-selfemployed.aspx">4 Financial Planning Tips for the Self-Employed</a>
 
     (3) You can use the monies for housing, retirement, medical or investment
         Similar to those employed ones, you would likely have the same housing, retirement and medical needs. It makes more sense to save them in your CPF account to enjoy both tax relief and higher interest rate.
@@ -111,6 +109,7 @@ cpf-contribute:
     (4) Your CPF monies will be free from debtors
         As a Self-Employed Person, you may be taking personal liability in your work and risk being sued for Liquidated Damages. Nonetheless, your CPF account is protected from creditors. You will still be able to withdraw your CPF monies as an undischarged bankrupt when you turn 55 or for medical reasons. 
 
+      You might also be interested: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-4-financial-planning-tips-for-the-selfemployed.aspx">4 Financial Planning Tips for the Self-Employed</a>
 ---
 
 ## <a name="top"></a>I Want to Manage My CPF Savings
@@ -121,14 +120,13 @@ cpf-contribute:
   <li><a href="#cpf">What You Need to Know About CPF</a></li>
   <ul>
     <li><a href="#account">What Is Inside Your CPF</a></li>
-    <li><a href="#savings">How You Can Use Your CPF Savings</a></li>
+    <li><a href="#savings">What You Can Use Your CPF Savings For</a></li>
   </ul>
 <li><a href="#self-employed">CPF Contributions as a Self-Employed Individual</a></li>
   <ul>
     <li><a href="#scheme">Self-Employed Scheme</a></li>
     <li><a href="#caye">Contribute-As-You-Earn(CAYE)</a></li>
     <li><a href="#contribution">Mandatory and Voluntary Contributions</a></li>
-    <li><a href="#login">Accessing your CPF Services Online </a></li>  
   </ul>
 </ul>
 </div>
