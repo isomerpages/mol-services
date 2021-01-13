@@ -3,7 +3,7 @@ title: Sell an HDB Flat
 permalink: /government-services/sell-hdb/
 
 sell-eligibility:
-  - title: <a name="tips"></a>Before You Decide to Sell
+  - title: <a name="tips"></a>Things to Consider Before Selling 
     content: |
       Firstly, you should check if you have completed your Minimum Occupation Period (MOP) of 5 years. 
       
@@ -27,7 +27,7 @@ sales-finances:
         - [Pay any other additional costs and fees](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} which could cost you close to S$3000 
 
       *See Also: [HDB Sales Proceeds Calculator](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds){:target="_blank"}*
-  - title: <a name="budget"></a>Financing your next home
+  - title: <a name="budget"></a>Financing Your Next Home
     content: |
       Based on the estimated sales proceeds, you can [work out your budget for next home](https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget){:target="_blank"}.
       
@@ -41,7 +41,7 @@ selling-process:
         <img src="/images/hdb-resale-portal.jpg" alt="HDB Resale Portal" style="width:300px">
       </a>
 
-  - title: <a name="intent"></a>Register your Intent to Sell
+  - title: <a name="intent"></a>Register Your Intent to Sell
     content: |
       Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to <a name="sell"></a>sell immediately. You will also receive information about the Ethnic Integration Policy/ Singapore Permanent Resident (EIP/ SPR) Quota for your block, status of upgrading, billing of upgrading costs, and recent transacted prices of nearby flats.
 
@@ -50,7 +50,7 @@ selling-process:
         <img src="/images/who-needs-to-register-intent-to-sell.png" alt="Register Intent to Sell" style="width:300px">
       </a>
 
-  - title: <a name="price"></a>Decide selling price
+  - title: <a name="price"></a>Decide Selling Price
     content: | 
       Consider the [costs & fees involved](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees){:target="_blank"} (e.g. resale levy, stamp duty, property tax) when deciding your selling price.
 
@@ -102,22 +102,21 @@ selling-process:
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#plan">Before You Decide to Sell</a>
+  <li><a href="#plan">Before You Decide to Sell</a></li>
   <ul>
-    <li><a href="#tips">Things to consider before selling</a></li>
-    <li><a href="#check">Check your eligibility to sell</a></li>
+    <li><a href="#tips">Things to Consider Before Selling</a></li>
+    <li><a href="#check">Check Your Eligibility to Sell</a></li>
   </ul>
-</li>
 <li><a href="#nexthome">Budgeting for Your Next Home</a></li>
   <ul>
-    <li><a href="#proceeds">Calculate your (actual) sales proceeds</a></li>
-    <li><a href="#budget">Financing your next home</a></li>
+    <li><a href="#proceeds">Calculate Your (Actual) Sales Proceeds</a></li>
+    <li><a href="#budget">Financing Your Next Home</a></li>
   </ul>
 <li><a href="#timeline">Sale Process and Timeline</a></li>
   <ul>
     <li><a href="#steps">What to Expect and Timeline</a></li>
-    <li><a href="#intent">Register your Intent to Sell</a></li>
-    <li><a href="#price">Decide selling price</a></li>
+    <li><a href="#intent">Register Your Intent to Sell</a></li>
+    <li><a href="#price">Decide Selling Price</a></li>
     <li><a href="#OTP">Grant Option to Purchase (OTP) to Buyer</a></li>
     <li><a href="#submit">Submit Resale Application</a></li>
     <li><a href="#docs">Endorse Resale Documents and Pay Fees Online</a></li>
@@ -151,9 +150,9 @@ selling-process:
 ---------------------------------------
 **You may also be interested in:**
 
-- [Step-by-Step Guide to sell an HDB flat](/government-services/selling-a-hdb/overview/){:target=“_blank”}
-- [Buy an HDB flat](/government-services/buy-hdb/){:target=“_blank”}
-- [Move into an HDB Flat](/government-services/move-in/){:target=“_blank”}
+- [Step-by-Step Guide to Sell an HDB Flat](/government-services/selling-a-hdb/overview/){:target="_blank"} 
+- [Buy an HDB Flat](/government-services/buy-hdb/){:target="_blank"} 
+- [Move into an HDB Flat](/government-services/move-in/){:target="_blank"} 
 ---------------------------------------
 
 
