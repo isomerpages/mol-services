@@ -237,7 +237,7 @@ claim:
   </ul>
 <li><a href="#claim">How to Apply</a></li>
   <ul>
-    <li><a href="#submit">Submit your claim during eFiling</a></li>
+    <li><a href="#submit">Submit Your Claim During eFiling</a></li>
     <li><a href="#changes">Making Changes (After Submission)</a></li>
   </ul>
 </ul>
