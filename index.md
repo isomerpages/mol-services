@@ -12,10 +12,6 @@ sections:
         dropdown:
             title: I Want To...
             options:
-              - title: Get Digitally Ready
-                url: /government-services/get-digitally-ready/overview/
-              - title: Know My Government Benefits
-                url: /government-services/govt-benefits/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat
@@ -30,6 +26,8 @@ sections:
                 url: /government-services/stay-healthy/
               - title: Manage My CPF Better
                 url: /government-services/manage-cpf/
+              - title: Plan My Family's Finances
+                url: /government-services/family-finances
 
     - infopic:
         title: Access Services

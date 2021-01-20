@@ -387,6 +387,113 @@ only screen and (max-width: 760px) {
     }
   }
 }
+
+//accordion 
+.accordion {
+  input {
+    position: absolute;
+    opacity: 0;
+    z-index: -1;
+  }
+  .tabs {
+    border-radius: 0;
+    overflow: hidden;
+    // box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.5);
+    margin-bottom: 4em;
+
+    h3{
+      font-weight: bold;
+      margin-bottom: 1em;
+      color: $primary;
+    }
+  }
+  .tab {
+    width: 100%;
+    color: black;
+    overflow: hidden;
+  &:hover {
+      color: #FFF;
+    }
+  }
+  .tab-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em;
+    font-size: 1.2em;
+    color: #000000;
+    cursor: pointer;
+    background: #F1F2F4;
+    border-radius: .5em;
+    margin: .2em 0;
+    transition: all .1s;
+
+
+    /* Icon */
+    &:hover {
+    background: #4a96b0;
+    color: #FFF;
+    }
+    &::after {
+      content: "\002B";
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      width: 2em;
+      height: 2em;
+      margin-left: 1em;
+      text-align: center;
+      transition: all .1s;
+      transform-origin: center center;
+    }
+  }
+  .tab-content {
+    max-height: 0;
+    padding: 0;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    transition: all .1s;
+    margin-top: 0;
+  }
+  .tab-close {
+    display: flex;
+    justify-content: flex-end;
+    padding: 1em;
+    font-size: 0.75em;
+    background: $primary;
+    cursor: pointer;
+    &:hover {
+      background: lighten($secondary, 10%);
+    }
+  }
+  input:checked {
+    + .tab-label {
+      // background: darken($secondary, 10%);
+      &::after {
+        content: "\2212"; 
+        // -webkit-transform: rotate(90deg);
+        // transform: rotate(90deg);
+        // transform-origin: center center;
+      }
+    }
+    ~ .tab-content {
+      max-height: 600vh;
+      padding: 1em;
+      padding-bottom: 3em;
+      color: #2D3642;
+      padding: 1em;
+    }
+  }
+  }
+/*  label:hover {
+    background: #4a96b0;
+    color: #FFF;
+  }*/
+.navbar-item{
+  margin: 0 1rem;
+
+}
+
 // Media category buttons - not used now but will be used in the future
 
 .media-category-button {
