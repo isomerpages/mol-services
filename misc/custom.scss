@@ -420,20 +420,28 @@ only screen and (max-width: 760px) {
     align-items: center;
     justify-content: space-between;
     padding: 1em;
-    font-size: 1.2em;
-    color: #000000;
+    font-size: 1.15em;
+    color: #363333;
     cursor: pointer;
-    background: #F1F2F4;
+    background: rgba(241,242,244,1);
     border-radius: .5em;
     margin: .2em 0;
     transition: all .1s;
+    //box-shadow: 1px 1px #888888;
+    box-shadow: 0 0.03em rgba(0,0,0,0.8);
 
 
     /* Icon */
     &:hover {
-    background: #4a96b0;
-    color: #FFF;
+    // background: linear-gradient(#1cd8d2,#93edc7); // blue-green 
+    background: linear-gradient(#283048,#859398); // titanium
+    //background: linear-gradient(#24c6dc,#514a9d); // dark blue
+    //background: linear-gradient(#efefbb,#d4d3dd);
+    //color: #001f3f; // goes well with blue-green
+    color:#fff; // fff with dark blue or titanium gradient
+    //text-shadow: 1px 1px #000000;
     }
+
     &::after {
       content: "\002B";
       display: flex;
@@ -443,7 +451,7 @@ only screen and (max-width: 760px) {
       height: 2em;
       margin-left: 1em;
       text-align: center;
-      transition: all .1s;
+      transition: all .5s;
       transform-origin: center center;
     }
   }
@@ -451,8 +459,9 @@ only screen and (max-width: 760px) {
     max-height: 0;
     padding: 0;
     border: none;
-    border-bottom: 1px solid #ddd;
-    transition: all .1s;
+    //border-bottom: 1px solid #ddd;
+    //transition: ease .4s;
+    transition: all 0.5s ease-in-out;
     margin-top: 0;
   }
   .tab-close {

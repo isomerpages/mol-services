@@ -47,11 +47,10 @@ permalink: /government-services/family-finances/
   <p>If you belong to the ‘sandwich generation’ with young childs and elderly parents to provide for, the Dependants' Protection Scheme (DPS) will come in handy for you.</p>
     <ul>
       <li>DPS is an affordable term insurance with a max sum assured of $70,000 (from 1 Apr 2021) upon Death, Terminal Illness or Total Permanent Disability of the person insured.</li>
-      <li>Find out about coverage, premiums and all-you-want-to-know information about DPS <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme">here.</a></li>
+      <li>Find out about coverage, premiums and all-you-want-to-know information about DPS <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme">here.</a></li>
     </ul>
       </div>
     </div>
-
       <div class="tab">
       <input type="checkbox" id="eligibility">
       <label class="tab-label" for="eligibility">Eligibility</label>
@@ -71,12 +70,11 @@ permalink: /government-services/family-finances/
     <ul>
     <li>Cost-effective way to financially protect your loved ones.</li>
       <ul style="padding-right:20px; padding-top: 5px;list-style-type:circle">
-        <li>DPS can complement other term insurance you may already have at budget-friendly rates, especially if you are younger than 45 years old. Discover DPS’ affordable premiums <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme#Item1570">here</a>.</li>
+        <li>DPS can complement other term insurance you may already have at budget-friendly rates, especially if you are younger than 45 years old. Discover DPS’ affordable premiums <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme#Item1570">here</a>.</li>
       </ul>
     <li>You can use your CPF savings in your Ordinary Account to pay DPS premium - no out-of-pocket cash required.</li>
     </ul>
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="/images/dps.png"> <img src="/images/dps.png" alt="DPS Premiums" style="width:500px">
+      <a target="_blank" href="/images/dps.png"> <img src="/images/dps.png" alt="DPS Premiums">
       </a>
       </div>
     </div>
@@ -97,8 +95,8 @@ permalink: /government-services/family-finances/
       <div class="tab-content">
   <p>If you’re eligible for DPS and wish to apply, here’s what you can do:</p>
   <ul>
-    <li>Application before 1 April 2021: contact either <a href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> or <a href="https://www.income.com.sg/life-insurance/dependants-protection-scheme">NTUC Income</a> directly</li>
-    <li>Application after 1 April 2021: contact <a href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a></li>
+    <li>Application before 1 April 2021: contact either <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> or <a target="_blank" href="https://www.income.com.sg/life-insurance/dependants-protection-scheme">NTUC Income</a> directly</li>
+    <li>Application after 1 April 2021: contact <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a></li>
   </ul>
       </div>
     </div>
@@ -117,6 +115,7 @@ permalink: /government-services/family-finances/
     </div>
   </div>
 </div>
+[**BACK TO TOP**](#top)
 
 # <a name="child-finances"></a> Planning Your Child's Finances
 <div class="accordion">
@@ -129,13 +128,14 @@ permalink: /government-services/family-finances/
     <ul>
       <li>The Child Development Account (CDA) is part of the baby bonus scheme designed to help you defray child-raising costs, such as educational and healthcare expenses at approved institutions</li>
         <ul style="padding-left: 15px;list-style-type:circle">
-          <li>Open a CDA for your child at any local banks - <a href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account"> DBS/POSB</a>, <a href="https://www.uob.com.sg/personal/save/savings/child-development-account.page"> UOB</a> and <a href="https://www.ocbc.com/personal-banking/deposits/child-development-account"> OCBC</a>.</li>
+          <li>Open a CDA for your child at any local banks - <a target="_blank" href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account"> DBS/POSB</a>, <a target="_blank" href="https://www.uob.com.sg/personal/save/savings/child-development-account.page"> UOB</a> and <a target="_blank" href="https://www.ocbc.com/personal-banking/deposits/child-development-account"> OCBC</a>.</li>
         </ul>
     </ul>
       </div>
     </div>
   </div>
 </div>
+[**BACK TO TOP**](#top)
 
 # <a name="retire-plan"></a> Planning for Retirement
 <div class="accordion">
@@ -145,7 +145,7 @@ permalink: /government-services/family-finances/
       <input type="checkbox" id="rstu-101">
       <label class="tab-label" for="rstu-101">What is the Retirement Sum Topping-Up Scheme (RSTU)?</label>
       <div class="tab-content">
-    <p><a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">RSTU</a> helps you and your parents/grandparents grow their retirement nest egg when you top up their CPF Special Account/SA (if your parents are < 55 years old) or CPF Retirement Account/RA (if they are > 55 years old).</p>
+    <p><a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">RSTU</a> helps you and your parents/grandparents grow their retirement nest egg when you top up their CPF Special Account/SA (if your parents are < 55 years old) or CPF Retirement Account/RA (if they are > 55 years old).</p>
     <ul>
       <li>Savings accumulated in your parents/grandparents’ CPF SA or RA will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF LIFE once they reach their Payout Eligibility Age.</li>
     </ul>
@@ -178,8 +178,7 @@ permalink: /government-services/family-finances/
       <input type="checkbox" id="rstu-receive">
       <label class="tab-label" for="rstu-receive">How Much CPF Transfer and/or Cash Top-Up You Can Receive With RSTU</label>
       <div class="tab-content">
-     <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:500px">
+      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:600px;">
       </a>
       </div>
     </div>
@@ -187,14 +186,14 @@ permalink: /government-services/family-finances/
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How to Make CPF Transfers and/or Cash Top-Ups With RSTU</label>
       <div class="tab-content">
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png"> <img src="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png" alt="RSTU Transfer" style="width:500px">
+      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png"> <img src="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png" alt="RSTU Transfer">
       </a>
-      <p>Check out step-by-step CPF transfer/cash top-up details <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">here</a>.</p>
+      <p>Check out step-by-step CPF transfer/cash top-up details <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">here</a>.</p>
       </div>
     </div>
   </div>
 </div>
+[**BACK TO TOP**](#top)
 
 # <a name="family-health"></a> Taking Care of Your Family's Healthcare Expenses 
 <div class="accordion">
@@ -207,7 +206,7 @@ permalink: /government-services/family-finances/
     <p>MediSave helps every CPF member put aside part of his/her income into his/her MA to meet future personal or approved dependants’ hospitalisation, day surgery, and certain outpatient expenses.</p>
   <ul>
     <li>Your parents would have their own MAs if they have ever contributed CPF, or someone in the family has ever made voluntary top-ups for them before.</li>
-    <li>Read more about MA, its benefits/uses and other important information <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</li>
+    <li>Read more about MA, its benefits/uses and other important information <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</li>
   </ul>
       </div>
     </div>
@@ -219,21 +218,21 @@ permalink: /government-services/family-finances/
       Savings in your parents’ MA can be used to pay for a wide range of medical services and hospitalisation expenses, subject to respective MA Withdrawal Limits.  
     <br>  
     <br>
-    To check out the comprehensive list that your parents may put their MA to use, go to <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">cpf.gov.sg</a> > What Can I Use My MediSave For</p>
+    To check out the comprehensive list that your parents may put their MA to use, go to <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">cpf.gov.sg</a> > What Can I Use My MediSave For</p>
     <ul>
       <li>The MA is one of the higher interest-yielding CPF accounts with interest rates of up to 6% p.a.</li>
       <li>Making a cash top up to your parents’ CPF accounts also allows you to reduce your income tax bill.</li>
-      <li>You can top up your parents’ MA up to the <a href="https://www.cpf.gov.sg/Members/FAQ/schemes/healthcare/medisave/FAQDetails?category=healthcare&group=MediSave&ajfaqid=2189345&folderid=12917">Basic Healthcare Sum (BHS)</a> amount limit.</li>
-      <p align="center">Click to enlarge</p>
-      <a target="_blank" href="/images/bhs.png"> <img src="/images/bhs.png" alt="BHS" style="width:500px"></a>
+      <li>You can top up your parents’ MA up to the <a target="_blank" href="https://www.cpf.gov.sg/Members/FAQ/schemes/healthcare/medisave/FAQDetails?category=healthcare&group=MediSave&ajfaqid=2189345&folderid=12917">Basic Healthcare Sum (BHS)</a> amount limit.</li>
     </ul>
+    <br>
+      <a target="_blank" href="/images/bhs.png"> <img src="/images/bhs.png" alt="BHS"></a>
       </div>
     </div>
       <div class="tab">
       <input type="checkbox" id="save-topup">
       <label class="tab-label" for="save-topup">How to Top up Your Parents' MA</label>
       <div class="tab-content">
-    <p>Top up your parents’ MA via PayNow on <a href="https://www.cpf.gov.sg/members">my cpf</a> > My Request > Building Up My Recipient's CPF savings > Contribute to my Medisave Account via PayNow</p>
+    <p>Top up your parents’ MA via PayNow on <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> > My Request > Building Up My Recipient's CPF savings > Contribute to my Medisave Account via PayNow</p>
       </div>
     </div>
   </div>
@@ -259,7 +258,7 @@ permalink: /government-services/family-finances/
   <ul>
     <li>If you’d like your parents to accumulate as much funds in their MediSave
 Account as possible (and earn up to 6% p.a.), you may pay for their MediShield Life premiums using your own MediSave.</li>
-    <li>You may change the payer of your parents’ MediShield Life premiums by logging on to <a href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Request > Healthcare Matters > Change of Payer for Medishield Life Cover.</li>
+    <li>You may change the payer of your parents’ MediShield Life premiums by logging on to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Request > Healthcare Matters > Change of Payer for Medishield Life Cover.</li>
   </ul>
       </div>
     </div>
@@ -269,13 +268,13 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
       <div class="tab-content">
       <p>To find out more about MediShield Life premiums and subsidies for yourself, parents and other dependants, use the MediShield Life Premium Calculator.</p>
     <ul>
-      <li>Log in to <a href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Messages > Healthcare > MediShield Life Premium Checker</li>
+      <li>Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Messages > Healthcare > MediShield Life Premium Checker</li>
     </ul>
       </div>
     </div>
   </div>
 </div>
-
+[**BACK TO TOP**](#top)
 
 # <a name="low-income"></a> Financial Assistance for Low-Income Families and Individuals 
 <div class="accordion">
@@ -286,10 +285,10 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
       <div class="tab-content">
     <p>The MSF partners community groups and organisations such as Grassroots Organisations, Voluntary Welfare Organisations and Self-Help Groups to provide help for low-income families.</p>
     <ul>
-      <li><a href="https://www.msf.gov.sg/assistance/Pages/Home-Ownership-Plus-Education-HOPE-Scheme.aspx">Home Ownership Plus Education (HOPE) Plus</a></li>
-      <li><a href="https://www.msf.gov.sg/Comcare/Pages/Urgent-Financial-Assistance.aspx">ComCare Interim Assistance</a></li>
-      <li><a href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
-      <li><a href="https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx">ComCare Short-To-Medium Term Assistance</a></li>
+      <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Home-Ownership-Plus-Education-HOPE-Scheme.aspx">Home Ownership Plus Education (HOPE) Plus</a></li>
+      <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/Urgent-Financial-Assistance.aspx">ComCare Interim Assistance</a></li>
+      <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
+      <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/Short-to-Medium-Term-Assistance.aspx">ComCare Short-To-Medium Term Assistance</a></li>
     </ul>
       </div>
     </div>
@@ -299,9 +298,9 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
       <div class="tab-content">
       <p> Being parents can be one of the toughest jobs in the world. Learn how these grants and subsidies for your kids may help you ease some of the child-raising burden.</p>
       <ul>
-        <li><a href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx">Kindergarten Fee Assistance Scheme (KiFAS)</a></li>
-        <li><a href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Child-Care-Subsidies.aspx">Childcare Financial Assistance (CCFA)</a></li>
-        <li><a href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx">StudentCare Fee Assistance (SCFA)</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Kindergarten-Subsidies.aspx">Kindergarten Fee Assistance Scheme (KiFAS)</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Child-Care-Subsidies.aspx">Childcare Financial Assistance (CCFA)</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx">StudentCare Fee Assistance (SCFA)</a></li>
       </ul>
       </div>
     </div>
@@ -311,18 +310,18 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
       <div class="tab-content">
       <p> Nobody should get left behind due to their physical challenges. Discover the range of financial assistance programmes that you or your family can tap into.</p>
       <ul>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Assistive-Technology-Fund-ATF.aspx">Assistive Technology Fund (ATF)</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Foreign-Domestic-Worker-Levy-Concession-for-Persons-with-Disabilities.aspx">Foreign Domestic Worker Levy Concession for Persons with Disabilities</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Caregivers-Training-Grant.aspx">Caregivers Training Grant</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Disabled%20Persons%20Scheme.aspx">Disabled Persons Scheme</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Trust-and-Savings-Options-for-Persons-with-Disabilities.aspx">Trust and Savings Options for Persons with Disabilities</a></li>       
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/VWO-Transport-Subsidy-for-Persons-with-Disabilities.aspx">VWO Transport Subsidy for Persons with Disabilities</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Public-Transport-Concession-for-Persons-with-Disabilities.aspx">Public Transport Concession for Persons with Disabilities</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Taxi-Subsidy-Scheme">Taxi Subsidy Scheme</a></li>
-        <li><a href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Employment-Assistance-for-Persons-with-Disabilities.aspx">Employment Assistance for Persons with Disabilities</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx">Medical Fee Exemption Card</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Assistive-Technology-Fund-ATF.aspx">Assistive Technology Fund (ATF)</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Foreign-Domestic-Worker-Levy-Concession-for-Persons-with-Disabilities.aspx">Foreign Domestic Worker Levy Concession for Persons with Disabilities</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Caregivers-Training-Grant.aspx">Caregivers Training Grant</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Disabled%20Persons%20Scheme.aspx">Disabled Persons Scheme</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Trust-and-Savings-Options-for-Persons-with-Disabilities.aspx">Trust and Savings Options for Persons with Disabilities</a></li>       
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/VWO-Transport-Subsidy-for-Persons-with-Disabilities.aspx">VWO Transport Subsidy for Persons with Disabilities</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Public-Transport-Concession-for-Persons-with-Disabilities.aspx">Public Transport Concession for Persons with Disabilities</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Taxi-Subsidy-Scheme">Taxi Subsidy Scheme</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Employment-Assistance-for-Persons-with-Disabilities.aspx">Employment Assistance for Persons with Disabilities</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx">Medical Fee Exemption Card</a></li>
       </ul>
       </div>
     </div>
@@ -332,27 +331,30 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
       <div class="tab-content">
       <p>If you come from a low-income family with your grandparents or other seniors as your dependants, check out which of these assistance programmes they may be eligible for. </p>
       <ul>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Foreign-Domestic-Worker-Levy-Concession-for-Persons-with-Disabilities.aspx">Foreign Domestic Worker Levy Concession for Persons with Disabilities</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a></li>
-        <li><a href="https://www.msf.gov.sg/assistance/Pages/Caregivers-Training-Grant.aspx">Caregivers Training Grant</a></li>
-        <li><a href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Foreign-Domestic-Worker-Levy-Concession-for-Persons-with-Disabilities.aspx">Foreign Domestic Worker Levy Concession for Persons with Disabilities</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Caregivers-Training-Grant.aspx">Caregivers Training Grant</a></li>
+        <li><a target="_blank" href="https://www.msf.gov.sg/Comcare/Pages/Public-Assistance.aspx">ComCare Long-Term Assistance</a></li>
       </ul>
       </div>
     </div>
   </div>
 </div>
-
 [**BACK TO TOP**](#top)
 
 ---------------------------------------
 **You may also be interested in:**
 
 <ul>
-  <li>Financing Your Flat With CPF</li>
-  <li>Getting Tax Reliefs</li>
-  <li><a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding">CPF Online Calculators to Estimate and Plan for Retirement </a></li>
-  <li><a href="https://articles.life.gov.sg/financial-support-workers-self-employed/">Financial Aid & Schemes for Working Adults </a></li>
-  <li><a href="https://mol-services-staging.netlify.app/government-services/stay-healthy/#expenses">Managing Healthcare Expenses</a></li>
+  <li><a target="_blank" href="https://mol-services-staging.netlify.app/government-services/buy-hdb/">Financing Your Flat With CPF</a></li>
+  <li><a target="_blank" href="https://mol-services-staging.netlify.app/government-services/govt-benefits/">Getting Tax Reliefs</a></li>
+  <li><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding">CPF Online Calculators to Estimate and Plan for Retirement </a></li>
+  <li><a target="_blank" href="https://articles.life.gov.sg/financial-support-workers-self-employed/">Financial Aid & Schemes for Working Adults </a></li>
+  <li><a target="_blank" href="https://mol-services-staging.netlify.app/government-services/stay-healthy/#expenses">Managing Healthcare Expenses</a></li>
+  <li><a target="_blank" href="https://www.silversupport.gov.sg/">Silver Support Scheme</a></li>
+  <li><a target="_blank" href="https://www.pioneers.gov.sg/en-sg/Pages/Home.aspx">Pioneer Generation Package</a></li>
+  <li><a target="_blank" href="https://www.gov.sg/features/merdeka-generation">Merdeka Generation Package</a></li>
+  <li><a target="_blank" href="https://www.aic.sg/financial-assistance">Agency for Integrated Care Financial Assistance </a></li>
 </ul>
 
 ---------------------------------------
