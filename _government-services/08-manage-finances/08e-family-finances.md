@@ -111,15 +111,15 @@ third_nav_title: Manage My Finances
       <label class="tab-label" for="cda">What is CDA?</label>
       <div class="tab-content">  
     <p>The <a target="_blank" href="/government-services/govt-benefits/#cash">Child Development Account (CDA)</a> is part of the baby bonus scheme designed to help you defray child-raising costs, such as educational and healthcare expenses at approved institutions</p>
+    <a target="_blank" href="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2">
+    <img src="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2" alt="CDA" style="width:600px"></a>
       </div>
   </div>
         <div class="tab">
       <input type="checkbox" id="cda-use">
       <label class="tab-label" for="cda-use">What You Can Use CDA For</label>
       <div class="tab-content">  
-<p>CDA can be used for your child’s medical and education needs at the <a href="http://www.go.gov.sg/listofai" target="_blank">list of Approved Institutions</a>. Any unused balances from this account will be transferred to your child’s <a href="#cda-max">Post-Secondary Education Account</a> when your child turns 13.</p>
-<a target="_blank" href="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2">
-    <img src="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2" alt="CDA" style="width:600px"></a>
+<p>CDA can be used for your child’s medical and education needs (e.g. paying for childcare center or outpatient fees) at the <a href="http://www.go.gov.sg/listofai" target="_blank">List of Approved Institutions</a>.</p>
       </div>
   </div>
         <div class="tab">
@@ -129,7 +129,7 @@ third_nav_title: Manage My Finances
   <ul>
     <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. </li>
      <ul style="padding-left: 15px;list-style-type:circle">
-     <li>The PSEA balance earns an interest of 2.5% per annum.</li>
+     <li>Note: The PSEA balance earns an interest of 2.5% per annum.</li>
    </ul>
   
 <li>When your child reach the age of 30, any remaining funds your child have will be transferred to your CPF Ordinary Account (OA) which gives a higher interest rate of up to 3.5% and also can be used for his or her future needs (e.g. housing, education and healthcare).</li>
@@ -147,7 +147,8 @@ third_nav_title: Manage My Finances
         <li>If eligible, you can <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction">sign up</a> using your SingPass. </li>
         <li>Complete the form in the link above and select the bank of your choice - <a target="_blank" href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account"> DBS/POSB</a>, <a target="_blank" href="https://www.uob.com.sg/personal/save/savings/child-development-account.page"> UOB</a> and <a target="_blank" href="https://www.ocbc.com/personal-banking/deposits/child-development-account"> OCBC</a>.</li>
       </ul>
-        <li>The CDA will be opened by the bank you select in a few days with an initial balance of $3,000. You will receive a notification once this has been done. A NETS card will be issued under your child’s name and sent to your registered address. You can then use it to <a href="/government-services/govt-benefits/#cash">pay for eligible products and services at CDA approved institutions</a>.</li>
+        <li>The CDA will be opened by the bank you select in a few days with an initial balance of $3,000.</li>
+        <li>You will receive a notification once this has been done. A NETS card will be issued under your child’s name and sent to your registered address. You can then use it to <a href="/government-services/govt-benefits/#cash">pay for eligible products and services at CDA approved institutions</a>.</li>
         <li>You can also apply for your baby’s birth registration and baby bonus (including the CDA) via <a href="https://www.life.gov.sg/">LifeSG</a>. You can download it on Android and iOS. </li>
       </ul>
         </div>
@@ -180,7 +181,7 @@ third_nav_title: Manage My Finances
   <li>Check the interest rates of various CPF accounts here:</li>
   <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
 <ul style="padding-left: 15px;list-style-type:circle">
-  <li><em>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts</em></li>
+  <li>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts.</li>
 </ul>
   <li>Top up your child’s OA on <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF’s e-Cashier page.</a></li> 
   </ul>
