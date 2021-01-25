@@ -1,6 +1,7 @@
 ---
 
 ---
+
 @font-face {
   src: url(/fonts/Poppins-Regular.ttf);
   font-family: poppins;
@@ -285,6 +286,9 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 // Post-content
+*{
+  font-family: 'poppins', sans-serif;
+}
 .content {
 	h1 {
     color: #000000;
@@ -337,7 +341,7 @@ $desktop: 960px + (2 * $gap) !default;
   a, p, li, em {
     color: $secondary;
     font-size: 16.5px;
-    font-family: 'poppins';
+    font-family: poppins;
     line-height: 24px;
     margin-top: 30px;
     margin-bottom: 15px;
@@ -433,16 +437,11 @@ only screen and (max-width: 760px) {
 
     /* Icon */
     &:hover {
-    background: linear-gradient(#f00000,#dc281e);
-    //background: linear-gradient(#c6ffdd,#fbd786,#f7797d); //sunset
-    //background: linear-gradient(#c31432,#240b36); // purplish-red
-    //background: linear-gradient(#f12711,#f5af19); // flare
-    //background: linear-gradient(#cb2d3e,#ef473a); // blood red
-    //background: linear-gradient(#1cd8d2,#93edc7); // blue-green 
-    //background: linear-gradient(#24c6dc,#514a9d); // dark blue
-    //color: #001f3f; // goes well with blue-green
+    background: #5a5a5a; // dark grey
+    //background: linear-gradient(#0f2027,#203a43,#2c5364); // moonlit asteroid
+    //background: linear-gradient(#000000,#434343); // deep space
     color:#fff; // fff with dark blue or titanium gradient
-    //text-shadow: 1px 1px #000000;
+    text-shadow: 0.5px 0.5px #C0C0C0;
     }
 
     &::after {

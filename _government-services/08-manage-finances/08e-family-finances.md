@@ -12,14 +12,17 @@ third_nav_title: Manage My Finances
   <li><a href="#protect">Giving Your Family Financial Protection</a></li>
   <ul>
     <li><a href="#dps">Dependants' Protection Scheme (DPS)</a></li>
-    <li><a href="#medishield">MediShield Life</a></li>
   </ul>
-<li><a href="#family-savings">Building Financial Savings for Your Family</a></li>
+<li><a href="#child-savings">Starting Your Child's Financial Journey</a></li>
   <ul>
-    <li><a href="#child-savings">Start Your Child's Financial Journey Early</a></li>
-    <li><a href="#rstu">Retirement Sum Topping-Up Scheme (RSTU)</a></li>
-    <li><a href="#medisave">MediSave Top-Up for Your Elderly</a></li>
+    <li><a href="#child-savings">Child Development Account (CDA)</a></li>
+    <li><a href="#child-cpf">Other Ways to Save Money for Your Child</a></li>
   </ul>  
+<li><a href="#seniors-finance">Building Financial Savings for Your Seniors</a></li>
+  <ul>
+    <li><a href="#rstu">Retirement Sum Topping-Up Scheme (RSTU)</a></li>
+    <li><a href="#medisave-elderly">MediSave Top-Up for Your Elderly</a></li>
+  </ul>
 </ul>
 </div>
 
@@ -45,7 +48,7 @@ third_nav_title: Manage My Finances
   <p>
     <ul>
       <li>All Singaporeans and Permanent Residents (PRs) between ages 21 - 65 (from 1 April 2021) will be automatically included upon 1st CPF working contribution.</li>
-      <li>If you are above 16 years old and are not offered auto coverage, you can apply through NTUC Income (till 1 Apr 2021 only) or Great Eastern Life.</li>
+      <li>If you are above 16 years old and are not offered auto coverage, you can apply through <a target="_blank" href="https://www.income.com.sg/life-insurance/dependants-protection-scheme">NTUC Income</a> (till 1 Apr 2021 only) or <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a>.</li>
     </ul>
   </p>
       </div>
@@ -77,16 +80,6 @@ third_nav_title: Manage My Finances
       <a target="_blank" href="/images/DPSchanges2021.png"> <img src="/images/DPSchanges2021.png" alt="DPS Changes" style="width:600px;"></a>
       </div>
     </div>
-      <div class="tab">
-      <input type="checkbox" id="apply-dps">
-      <label class="tab-label" for="apply-dps">How to Apply</label>
-      <div class="tab-content">
-  <ul>
-    <li>Before 1 April 2021: Contact either <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> or <a target="_blank" href="https://www.income.com.sg/life-insurance/dependants-protection-scheme">NTUC Income</a></li>
-    <li>From 1 April 2021 onwards: Contact <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a></li>
-  </ul>
-      </div>
-    </div>
           <div class="tab">
       <input type="checkbox" id="dps-premium">
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
@@ -103,34 +96,48 @@ third_nav_title: Manage My Finances
     </div>
   </div>
 </div>
-<div class="accordion">
-  <div class="tabs">
-    <h3 id="medishield">MediShield Life</h3>
-    <div class="tab">
-      <input type="checkbox" id="medishield-101">
-      <label class="tab-label" for="medishield-101">What is MediShield Life</label>
-      <div class="tab-content">
-    <p>MediShield Life is a basic health insurance plan administered by the CPF board.</p>
-  <ul>
-    <li>It helps pay for large hospital bills and certain costly outpatient treatments, such as dialysis and chemotherapy for cancer → higher payouts, pay less from MediSave Account and/or cash.</li>
-  </ul>
-      </div>
-    </div>
-  </div>
-</div>
 
 [**BACK TO TOP**](#top)
+<br>
+<br>
 
-# <a name="family-savings"></a> Building Financial Savings for Your Family
+
+# <a name="child-savings"></a> Starting Your Child's Financial Journey
 <div class="accordion">
   <div class="tabs">
     <h3 id="child-savings">Child Development Account (CDA)</h3>
       <div class="tab">
       <input type="checkbox" id="cda">
-      <label class="tab-label" for="cda">Start Your Child's Financial Journey Early</label>
+      <label class="tab-label" for="cda">What is CDA?</label>
       <div class="tab-content">  
     <p>The <a target="_blank" href="/government-services/govt-benefits/#cash">Child Development Account (CDA)</a> is part of the baby bonus scheme designed to help you defray child-raising costs, such as educational and healthcare expenses at approved institutions</p>
-    <ul>
+      </div>
+  </div>
+        <div class="tab">
+      <input type="checkbox" id="cda-use">
+      <label class="tab-label" for="cda-use">What You Can Use CDA For</label>
+      <div class="tab-content">  
+<p>CDA can be used for your child’s medical and education needs at the <a href="http://www.go.gov.sg/listofai" target="_blank">list of Approved Institutions</a>. Any unused balances from this account will be transferred to your child’s <a href="#cda-max">Post-Secondary Education Account</a> when your child turns 13.</p>
+<a target="_blank" href="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2">
+    <img src="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2" alt="CDA" style="width:600px"></a>
+      </div>
+  </div>
+        <div class="tab">
+      <input type="checkbox" id="cda-max">
+      <label class="tab-label" for="cda-max">Why Maximize Your Child's CDA for a Financial Headstart</label>
+      <div class="tab-content">  
+  <ul>
+    <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. The PSEA balance earns an interest of 2.5% per annum.</li>
+  
+<li>When your child reach the age of 30, any remaining funds your child have will be transferred to your CPF Ordinary Account (OA) which gives a higher interest rate of up to 3.5% and also can be used for his or her future needs (e.g. housing, education and healthcare).</li>
+</ul>
+      </div>
+  </div>
+  <div class="tab">
+      <input type="checkbox" id="apply-cda">
+      <label class="tab-label" for="apply-cda">How to Apply for CDA</label>
+      <div class="tab-content">  
+      <ul>
       <li>Check your Eligibility <a href="https://www.babybonus.msf.gov.sg/parent-helper/"> here</a> to find out if you can open a CDA for your child.
       </li>
      <ul style="padding-left: 15px;list-style-type:circle">
@@ -139,13 +146,52 @@ third_nav_title: Manage My Finances
       </ul>
         <li>The CDA will be opened by the bank you select in a few days with an initial balance of $3,000. You will receive a notification once this has been done. A NETS card will be issued under your child’s name and sent to your registered address. You can then use it to <a href="/government-services/govt-benefits/#cash">pay for eligible products and services at CDA approved institutions</a>.</li>
         <li>You can also apply for your baby’s birth registration and baby bonus (including the CDA) via <a href="https://www.life.gov.sg/">LifeSG</a>. You can download it on Android and iOS. </li>
-    </ul>
+      </ul>
+        </div>
+  </div>
+</div>
+</div>
+<div class="accordion">
+  <div class="tabs">
+    <h3 id="child-cpf">Other Ways to Save Money for Your Child</h3>
+      <div class="tab">
+      <input type="checkbox" id="child-medisave">
+      <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
+      <div class="tab-content">  
+  <ul>
+    <li>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. [MediShield Life]( #medishield) or Private Integrated Shield Plan premiums). </li>
+    <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a>automatically credited into their MediSave Accounts from the Singapore Government.  </li>
+    <li>You can [top up your child’s MediSave Account ](https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage). This  provides a stronger safety net for their future- earning 5% p.a. interest in his/her MA, together with your top-ups over the years.</li>
+    <li> See how your regular top-ups in your child’s MA will add up over the years below.</li>
+  </ul>
+      <a target="_blank" href="/images/child-medisave.png"> <img src="/images/child-medisave.png" alt="Child MediSave Compound" style="width:600px;"></a>
+      </div>
+  </div>
+  <div class="tab">
+      <input type="checkbox" id="child-oa">
+      <label class="tab-label" for="child-oa">Make Regular Top-ups to your Child’s CPF Ordinary Account (OA) </label>
+      <div class="tab-content">  
+  <ul>
+  <li>The funds in your child’s OA can be used for his/her future housing and education needs.  </li>
+  <li>Your child will also get an early start in building his or her savings earlier at an interest rate of 2.5% per annum. </li>
+  <li>Check the interest rates of various CPF accounts here:</li>
+  <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
+<ul style="padding-left: 15px;list-style-type:circle">
+  <li>Note: you cannot just choose to top up your child’s CPF OA only, Your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts. </li>
+</ul>
+  <li>Top up your child’s OA on <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF’s e-Cashier page</a></li>.   
+  </ul>
       </div>
   </div>
 </div>
 </div>
 
 [**BACK TO TOP**](#top)
+<br>
+<br>
+
+
+# <a name="seniors-finance"></a> Building Financial Savings for Your Seniors
 <div class="accordion">
   <div class="tabs">
   <h3 id="rstu">Retirement Sum Topping-Up Scheme (RSTU)</h3>
@@ -192,10 +238,9 @@ third_nav_title: Manage My Finances
   </div>
 </div>
 
-[**BACK TO TOP**](#top)
 <div class="accordion">
   <div class="tabs">
-    <h3 id="medisave">MediSave Top-Ups for Your Seniors at Home</h3>
+    <h3 id="medisave-elderly">MediSave Top-Ups for Your Seniors at Home</h3>
       <div class="tab">
       <input type="checkbox" id="medisave-101">
       <label class="tab-label" for="medisave-101">What is MediSave Account (MA)</label>
