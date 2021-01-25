@@ -127,7 +127,10 @@ third_nav_title: Manage My Finances
       <label class="tab-label" for="cda-max">Why Maximize Your Child's CDA for a Financial Headstart</label>
       <div class="tab-content">  
   <ul>
-    <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. The PSEA balance earns an interest of 2.5% per annum.</li>
+    <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. </li>
+     <ul style="padding-left: 15px;list-style-type:circle">
+     <li>The PSEA balance earns an interest of 2.5% per annum.</li>
+   </ul>
   
 <li>When your child reach the age of 30, any remaining funds your child have will be transferred to your CPF Ordinary Account (OA) which gives a higher interest rate of up to 3.5% and also can be used for his or her future needs (e.g. housing, education and healthcare).</li>
 </ul>
