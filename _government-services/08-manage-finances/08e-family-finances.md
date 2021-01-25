@@ -29,7 +29,7 @@ third_nav_title: Manage My Finances
 # <a name="protect"></a> Giving Your Family Financial Protection 
 <div class="accordion">
   <div class="tabs">
-    <h3 id="dps">Dependants' Protection Scheme</h3>
+    <h3 id="dps">Dependants' Protection Scheme (DPS)</h3>
       <div class="tab">
       <input type="checkbox" id="dps-101">
       <label class="tab-label" for="dps-101">What is DPS?</label>
@@ -162,9 +162,9 @@ third_nav_title: Manage My Finances
       <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
       <div class="tab-content">  
   <ul>
-    <li>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. [MediShield Life]( #medishield) or Private Integrated Shield Plan premiums). </li>
+    <li>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. MediShield Life or Private Integrated Shield Plan premiums). </li>
     <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a>automatically credited into their MediSave Accounts from the Singapore Government.  </li>
-    <li>You can [top up your child’s MediSave Account ](https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage). This  provides a stronger safety net for their future- earning 5% p.a. interest in his/her MA, together with your top-ups over the years.</li>
+    <li>You can <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">top up your child’s MediSave Account</a>. This  provides a stronger safety net for their future- earning 5% p.a. interest in his/her MA, together with your top-ups over the years.</li>
     <li> See how your regular top-ups in your child’s MA will add up over the years below.</li>
   </ul>
       <a target="_blank" href="/images/child-medisave.png"> <img src="/images/child-medisave.png" alt="Child MediSave Compound" style="width:600px;"></a>
