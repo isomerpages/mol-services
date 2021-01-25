@@ -180,9 +180,9 @@ third_nav_title: Manage My Finances
   <li>Check the interest rates of various CPF accounts here:</li>
   <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
 <ul style="padding-left: 15px;list-style-type:circle">
-  <li>Note: you cannot just choose to top up your child’s CPF OA only, Your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts. </li>
+  <li><em>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts</em></li>
 </ul>
-  <li>Top up your child’s OA on <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF’s e-Cashier page</a></li>.   
+  <li>Top up your child’s OA on <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF’s e-Cashier page.</a></li> 
   </ul>
       </div>
   </div>
@@ -223,7 +223,7 @@ third_nav_title: Manage My Finances
     </div>
       <div class="tab">
       <input type="checkbox" id="rstu-receive">
-      <label class="tab-label" for="rstu-receive">What is Retirement Sum Top-Up Scheme (RSTU)</label>
+      <label class="tab-label" for="rstu-receive">What is Retirement Sum Top-Up Scheme (RSTU)?</label>
       <div class="tab-content">
       <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:500px;">
       </a>
