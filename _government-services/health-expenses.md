@@ -12,11 +12,11 @@ permalink: /government-services/health-expenses/
   <li><a href="#citizen">What Subsidies You Can Get as a Singaporean Citizen or PR</a></li>
   <ul>
     <li><a href="#medishield">MediShield Life</a></li>
-    <li><a href="medishield-ip">Enhanced MediShield Life/Integrated Shield Plans(IP)</a></li>
+    <li><a href="#medishield-ip">Enhanced MediShield Life/Integrated Shield Plans(IP)</a></li>
     <li><a href="#medisave">MediSave (and Flexi-MediSave for Seniors)</a></li>
     <li><a href="#medifund">MediFund for More Subsidies</a></li>
     <li><a href="#careshield">CareShield Life/ElderShield Life</a></li>
-    <li><a href="#CHAS">Community Health Assist Scheme (CHAS)</a></li>
+    <li><a href="#chas">Community Health Assist Scheme (CHAS)</a></li>
   </ul>
   <li><a href="#safety">Ways to Enhance Your Medical Safety Net</a></li>
   <ul>
@@ -32,7 +32,7 @@ permalink: /government-services/health-expenses/
 </ul>
 </div>
 
-# <a name="protect"></a> What Subsidies You Can Get as a Singaporean Citizen or PR  
+# <a name="citizen"></a> What Subsidies You Can Get as a Singaporean Citizen or PR  
 <div class="accordion">
   <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
@@ -204,7 +204,7 @@ Lifelong payouts in cash. </li>
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<h1 name="safety"> Ways to Enhance Your Medical Safety Net</h1>
+<h1 id="safety"> Ways to Enhance Your Medical Safety Net</h1>
 <div class="accordion">
   <div class="tabs">
     <h3 id="self-employed">For Self-Employed Persons (SEP)</h3>
@@ -266,7 +266,7 @@ Lifelong payouts in cash. </li>
 
 <div class="accordion">
   <div class="tabs">
-    <h3 id="self-employed">For Your Family</h3>
+    <h3 id="family">For Your Family</h3>
       <div class="tab">
       <input type="checkbox" id="fam-expenses">
       <label class="tab-label" for="fam-expenses">Help With Your Family’s Medical Expenses</label>
