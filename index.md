@@ -27,7 +27,9 @@ sections:
               - title: Manage My CPF Better
                 url: /government-services/manage-cpf/
               - title: Plan My Family's Finances
-                url: /government-services/finances/family
+                url: /government-services/finances/family/
+              - title: Manage Healthcare Expenses
+                url: /government-services/health-expenses/
 
     - infopic:
         title: Access Services
