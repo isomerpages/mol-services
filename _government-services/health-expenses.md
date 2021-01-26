@@ -40,16 +40,16 @@ permalink: /government-services/health-expenses/
       <input type="checkbox" id="shield-101">
       <label class="tab-label" for="shield-101">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> A basic health insurance plan that helps pay for large hospital bills and some costly outpatient treatments such as dialysis and chemotherapy for cancer - for life. It is structured so that you can pay less using your MediSave and/or out-of-pocket cash for large medical bills.
+    <p> A basic health insurance plan that helps pay for large hospital bills and some costly outpatient treatments such as dialysis and chemotherapy for cancer - for life. It is structured so that you can pay less using your MediSave and/or out-of-pocket cash for large medical bills.</p>
         
-<b>What You Get:</b> Subsidised treatment in public hospitals and stays at B2/C-type wards.</p>
+<p><b>What You Get:</b> Subsidised treatment in public hospitals and stays at B2/C-type wards.</p>
   </div>
 </div>
       <div class="tab">
       <input type="checkbox" id="shield-why">
       <label class="tab-label" for="shield-why">Why You Need It</label>
       <div class="tab-content">
-<p>While you may enjoy more generous healthcare/medical benefits from your employer, those are rarely guaranteed. You may lose such coverage when you leave the company, retire, and you may not be able to re-apply for coverage if you develop certain health conditions. MediShield Life offers lifelong protection against large hospital bills. Even if you are based overseas for work, you may choose to return to Singapore for treatment any time as you are protected for life under MediShield Life.</p>
+<p>While you may enjoy more generous healthcare/medical benefits from your employer, those are rarely guaranteed. You may lose such coverage when you leave the company, retire, and you may not be able to re-apply for coverage if you develop certain health conditions.</p><p> MediShield Life offers lifelong protection against large hospital bills. Even if you are based overseas for work, you may choose to return to Singapore for treatment any time as you are protected for life under MediShield Life.</p>
   </div>
 </div>
  <div class="tab">
