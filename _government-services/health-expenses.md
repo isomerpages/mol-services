@@ -126,9 +126,9 @@ You are required to regularly set aside money for your MediSave Account (MA). To
       <input type="checkbox" id="save-check">
       <label class="tab-label" for="save-check">Check How Much You Can Claim</label>
       <div class="tab-content">
-<p>Generally, our MediSave accounts would be sufficient to pay for our medical bills including hospitalisation in Class B2/C wards at a public hospital. 
-If your medical bills are above the <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/MediSave%20Withdrawal%20Limits_1%20April%202020.pdf">MediSave Withdrawal Limits</a>, you may have to pay part of the bill in cash or through private medical insurance coverage (see next section). 
-Use <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MedisaveCalculator/Step1">MediSave/ MediShield Life Claims Calculator</a> to estimate how much you can claim or need to top up as cash. </p>
+<p>Generally, our MediSave accounts would be sufficient to pay for our medical bills including hospitalisation in Class B2/C wards at a public hospital.</p> 
+<p>If your medical bills are above the <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/MediSave%20Withdrawal%20Limits_1%20April%202020.pdf">MediSave Withdrawal Limits</a>, you may have to pay part of the bill in cash or through private medical insurance coverage. </p>
+<p>Use <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MedisaveCalculator/Step1">MediSave/ MediShield Life Claims Calculator</a> to estimate how much you can claim or need to top up as cash. </p>
       </div>
     </div>
       <div class="tab">
