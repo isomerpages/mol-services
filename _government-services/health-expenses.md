@@ -158,9 +158,8 @@ Read more about Flexi-MediSave <a href="#flexi-senior">here</a>.</p>
     <input type="checkbox" id="care-eligible">
     <label class="tab-label" for="care-eligible">Who is Eligible</label>
     <div class="tab-content">
-    <p>If you are born in 1979 or earlier, you may still be currently covered under ElderShield until 2021. If you are not already severely disabled, you have the option to enrol into CareShield Life from end 2021.
-    <br>
-    If you are born between 1970 and 1979 (aged 41 to 50 in 2020), insured under ElderShield 400, and not severely disabled, you will be automatically enrolled into CareShield Life from end-2021. However, you can opt out by 31 Dec 2023.</p>
+    <p>If you are born in 1979 or earlier, you may still be currently covered under ElderShield until 2021. If you are not already severely disabled, you have the option to enrol into CareShield Life from end 2021.</p>
+    <p>If you are born between 1970 and 1979 (aged 41 to 50 in 2020), insured under ElderShield 400, and not severely disabled, you will be automatically enrolled into CareShield Life from end-2021. However, you can opt out by 31 Dec 2023.</p>
   </div>
 </div>
   <div class="tab">
@@ -214,7 +213,7 @@ Lifelong payouts in cash. </li>
       <label class="tab-label" for="sep-medisave">Why You Should Contribute to Your MediSave Account</label>
       <div class="tab-content">
     <p>As an SEP, you should make contributions to your MA to ensure that you have sufficient savings for your healthcare needs, since you do not receive regular MediSave contributions from the employer like a salaried employee does.</p>
-    <a target="_blank" href="/images/medisave-sep.png/"> <img src="/images/medisave-sep.png" alt="Medisave for SEP" style="width:600px;"></a>
+    <a target="_blank" href="/images/medisave-sep.png/"> <img src="/images/medisave-sep.png" alt="Medisave for SEP" style="width:500px;"></a>
       </div>
     </div>
     <div class="tab">
