@@ -96,6 +96,34 @@ caregivers:
 
 
 # <a name="expenses"></a> Manage your healthcare expenses
+<div class="accordion">
+<div class="tabs">
+    <h3 id="medishield">MediShield Life</h3>
+      <div class="tab">
+      <input type="checkbox" id="medishield-101">
+      <label class="tab-label" for="medishield-101">What is MediShield Life</label>
+      <div class="tab-content">
+    <p>MediShield Life is a basic health insurance plan administered by the CPF board.</p>
+  <ul>
+    <li>It helps pay for large hospital bills and certain costly outpatient treatments, such as dialysis and chemotherapy for cancer → higher payouts, pay less from MediSave Account and/or cash.</li>
+    <li>If you would like your parents to accumulate as much funds in their MediSave
+Account as possible (and earn up to 6% p.a.), you may pay for their MediShield Life premiums using your own MediSave.</li>
+    <li>You may change the payer of your parents’ MediShield Life premiums by logging on to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Request > Healthcare Matters > Change of Payer for Medishield Life Cover.</li>
+  </ul>
+      </div>
+    </div>
+      <div class="tab">
+      <input type="checkbox" id="shield-calc">
+      <label class="tab-label" for="shield-calc">MediShield Life Premium Calculator</label>
+      <div class="tab-content">
+      <p>To find out more about MediShield Life premiums and subsidies for yourself, parents and other dependants, use the MediShield Life Premium Calculator.</p>
+    <ul>
+      <li>Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Messages > Healthcare > MediShield Life Premium Checker</li>
+    </ul>
+     </div>
+    </div>
+  </div>
+</div>
 
 {% include health-expenses.html %}
 
@@ -105,6 +133,9 @@ caregivers:
 # <a name="caregivers"></a> Support for Caregivers
 
 {% include caregivers.html %}
+
+
+
 
 [**BACK TO TOP**](#top)
 

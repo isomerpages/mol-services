@@ -1,6 +1,6 @@
 ---
 title: Get Government Benefits
-permalink: /government-services/govt-benefits/
+permalink: /government-services/finances/govt-benefits/
 third_nav_title: Manage My Finances
 
 child-benefits:

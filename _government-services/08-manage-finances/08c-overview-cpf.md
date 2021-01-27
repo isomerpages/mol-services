@@ -1,6 +1,6 @@
 ---
 title: Manage CPF Savings
-permalink: /government-services/manage-cpf/
+permalink: /government-services/finances/manage-cpf/
 third_nav_title: Manage My Finances
 
 cpf-login:
