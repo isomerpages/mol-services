@@ -116,7 +116,6 @@ third_nav_title: Manage My Finances
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-
 <div class="accordion">
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
@@ -321,9 +320,8 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
   </div>
 </div>
 
-<br>
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
-<br>
+
 <div class="accordion">
   <div class="tabs">
     <h3 id="family">For Your Family</h3>
