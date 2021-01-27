@@ -127,3 +127,7 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 26 November 2020
  
 [Back to top](#top)
+
+# Give us your feedback
+
+Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>

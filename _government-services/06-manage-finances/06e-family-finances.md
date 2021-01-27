@@ -9,24 +9,24 @@ third_nav_title: Manage My Finances
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
-  <li><a href="#protect">Giving Your Family Financial Protection</a></li>
+  <li><a href="#protect">Give Your Family Financial Protection</a></li>
   <ul>
     <li><a href="#dps">Dependants' Protection Scheme (DPS)</a></li>
   </ul>
-<li><a href="#child-savings">Starting Your Child's Financial Journey</a></li>
+<li><a href="#child-savings">Start Your Child's Financial Journey Early</a></li>
   <ul>
     <li><a href="#child-savings">Child Development Account (CDA)</a></li>
-    <li><a href="#child-cpf">Other Ways to Save Money for Your Child</a></li>
+    <li><a href="#child-cpf">Boost Your Child's Savings</a></li>
   </ul>  
-<li><a href="#seniors-finance">Building Financial Savings for Your Seniors</a></li>
+<li><a href="#seniors-finance">Provide Support to Your Seniors' Retirement</a></li>
   <ul>
     <li><a href="#rstu">Retirement Sum Topping-Up Scheme (RSTU)</a></li>
-    <li><a href="#medisave-elderly">MediSave Top-Up for Your Elderly</a></li>
+    <li><a href="#medisave-elderly">MediSave Top-Up for Your Seniors At Home</a></li>
   </ul>
 </ul>
 </div>
 
-# <a name="protect"></a> Giving Your Family Financial Protection 
+# <a name="protect"></a> Give Your Family Financial Protection
 <div class="accordion">
   <div class="tabs">
     <h3 id="dps">Dependants' Protection Scheme (DPS)</h3>
@@ -102,7 +102,7 @@ third_nav_title: Manage My Finances
 <br>
 
 
-# <a name="child-savings"></a> Starting Your Child's Financial Journey
+# <a name="child-savings"></a> Start Your Child's Financial Journey Early
 <div class="accordion">
   <div class="tabs">
     <h3 id="child-savings">Child Development Account (CDA)</h3>
@@ -124,7 +124,7 @@ third_nav_title: Manage My Finances
   </div>
         <div class="tab">
       <input type="checkbox" id="cda-max">
-      <label class="tab-label" for="cda-max">Why Maximize Your Child's CDA for a Financial Headstart</label>
+      <label class="tab-label" for="cda-max">Use CDA for a Financial Headstart</label>
       <div class="tab-content">  
   <ul>
     <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. </li>
@@ -157,7 +157,7 @@ third_nav_title: Manage My Finances
 </div>
 <div class="accordion">
   <div class="tabs">
-    <h3 id="child-cpf">Other Ways to Save Money for Your Child</h3>
+    <h3 id="child-cpf">Boost Your Child's Savings</h3>
       <div class="tab">
       <input type="checkbox" id="child-medisave">
       <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
@@ -195,7 +195,7 @@ third_nav_title: Manage My Finances
 <br>
 
 
-# <a name="seniors-finance"></a> Building Financial Savings for Your Seniors
+# <a name="seniors-finance"></a> Support Your Seniors' Retirement
 <div class="accordion">
   <div class="tabs">
   <h3 id="rstu">Retirement Sum Topping-Up Scheme (RSTU)</h3>
@@ -314,3 +314,7 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 29 January 2021
  
 [**BACK TO TOP**](#top)
+
+# Give us your feedback
+
+Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>

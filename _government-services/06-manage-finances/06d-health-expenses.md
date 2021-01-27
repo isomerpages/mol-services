@@ -1,10 +1,10 @@
 ---
-title: Manage My Healthcare Expenses
+title: Manage My Healthcare Costs
 permalink: /government-services/finances/health-expenses/
 third_nav_title: Manage My Finances
 ---
 
-## <a name="top"></a>I Want to Manage My Healthcare Expenses
+## <a name="top"></a>I Want to Manage My Healthcare Costs
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
@@ -366,3 +366,7 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 29 January 2021
  
 [**BACK TO TOP**](#top)
+
+# Give us your feedback
+
+Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
