@@ -463,8 +463,9 @@ only screen and (max-width: 760px) {
     border: none;
     //border-bottom: 1px solid #ddd;
     //transition: ease .4s;
-    transition: all 0.3s;
-    margin-top: 0;
+    transition: all 0.1s;
+    // margin-top: 0;
+    visibility: hidden;
   }
   .tab-close {
     display: flex;
@@ -493,6 +494,7 @@ only screen and (max-width: 760px) {
       padding-bottom: 3em;
       color: #2D3642;
       padding: 1em;
+      visibility: visible;
     }
   }
   }

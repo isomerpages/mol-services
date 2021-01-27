@@ -43,16 +43,16 @@ permalink: /government-services/health-expenses/
     <p> A basic health insurance plan that helps pay for large hospital bills and some costly outpatient treatments such as dialysis and chemotherapy for cancer - for life. It is structured so that you can pay less using your MediSave and/or out-of-pocket cash for large medical bills.</p>
         
 <p><b>What You Get:</b> Subsidised treatment in public hospitals and stays at B2/C-type wards.</p>
+    </div>
   </div>
-</div>
       <div class="tab">
       <input type="checkbox" id="shield-why">
       <label class="tab-label" for="shield-why">Why You Need It</label>
       <div class="tab-content">
-<p>While you may enjoy more generous healthcare/medical benefits from your employer, those are rarely guaranteed. You may lose such coverage when you leave the company, retire, and you may not be able to re-apply for coverage if you develop certain health conditions.</p><p> MediShield Life offers lifelong protection against large hospital bills. Even if you are based overseas for work, you may choose to return to Singapore for treatment any time as you are protected for life under MediShield Life.</p>
+    <p>While you may enjoy more generous healthcare/medical benefits from your employer, those are rarely guaranteed. You may lose such coverage when you leave the company, retire, and you may not be able to re-apply for coverage if you develop certain health conditions.</p> MediShield Life offers lifelong protection against large hospital bills. Even if you are based overseas for work, you may choose to return to Singapore for treatment any time as you are protected for life under MediShield Life.</p>
+    </div>
   </div>
-</div>
- <div class="tab">
+  <div class="tab">
       <input type="checkbox" id="shield-apply">
       <label class="tab-label" for="shield-apply">How to Apply</label>
       <div class="tab-content">
@@ -81,8 +81,8 @@ permalink: /government-services/health-expenses/
       <div class="tab-content">
 <p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to be the single point of contact to collect premium payments and disburse your claims for the MediShield Life component in your IP. </p>
 <a target="_blank" href="/images/ip-premiums.png/"> <img src="/images/ip-premiums.png" alt="IP Premiums" style="width:600px;"></a>
-</div>
-</div>
+    </div>
+  </div>
      <div class="tab">
       <input type="checkbox" id="ip-get">
       <label class="tab-label" for="ip-get">Should I Get an Integrated Shield Plan (IP)?</label>
@@ -160,8 +160,8 @@ Read more about Flexi-MediSave <a href="#flexi-senior">here</a>.</p>
     <div class="tab-content">
     <p>If you are born in 1979 or earlier, you may still be currently covered under ElderShield until 2021. If you are not already severely disabled, you have the option to enrol into CareShield Life from end 2021.</p>
     <p>If you are born between 1970 and 1979 (aged 41 to 50 in 2020), insured under ElderShield 400, and not severely disabled, you will be automatically enrolled into CareShield Life from end-2021. However, you can opt out by 31 Dec 2023.</p>
-  </div>
-</div>
+      </div>
+    </div>
   <div class="tab">
     <input type="checkbox" id="care-benefits">
     <label class="tab-label" for="care-benefits">What You Can Get</label>
@@ -175,8 +175,8 @@ Lifelong payouts in cash. </li>
 </ul>
 <p>See illustration example below:</p>
 <a target="_blank" href="/images/careshield-benefits.png/"> <img src="/images/careshield-benefits.png" alt="CareShield Benefits" style="width:450px;"></a>
+    </div>
   </div>
-</div>
     <div class="tab">
       <input type="checkbox" id="care-apply">
       <label class="tab-label" for="care-apply">How to Apply</label>
