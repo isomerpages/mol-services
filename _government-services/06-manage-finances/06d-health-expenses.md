@@ -59,6 +59,9 @@ third_nav_title: Manage My Finances
     </div>
   </div>
 </div>
+
+<p><a href="#top"><strong>BACK TO TOP</strong></a></p>
+
 <div class="accordion">
   <div class="tabs">
     <h3 id="medishield-ip">Understanding Integrated Shield Plans(IP)</h3>
@@ -86,8 +89,7 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="ip-choice">
       <label class="tab-label" for="ip-choice">Which IP Should You Get</label>
       <div class="tab-content">
-  <p>To explore which one best suits your healthcare needs, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs</a>.
-See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx">Beginner's Guide to Integrated Shield Plans</a> on common pitfalls to avoid when choosing an IP.</p>
+  <p>To explore which one best suits your healthcare needs, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs</a>.</p><p>See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx"> Beginner's Guide to Integrated Shield Plans</a> on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
     <div class="tab">
@@ -113,6 +115,7 @@ See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pa
 </div>
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
+
 
 <div class="accordion">
   <div class="tabs">
@@ -152,7 +155,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <input type="checkbox" id="flexi-save">
       <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under this <a href="#flexi-senior">scheme</a>, you can use your MediSave or your spouse’s MediSave (if he/she is also aged 60 and above) more flexibly for outpatient medical care, up to $200 a year.</p><p>Seniors can use their MediSave at polyclinics, Specialist Outpatient Clinics and CHAS GP clinics.</p>
+   <p> Under this <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Healthcare/MediSave/FAQDetails?category=Healthcare&group=MediSave&folderid=13015&ajfaqid=2189521">scheme</a>, you can use your MediSave or your spouse’s MediSave (if he/she is also aged 60 and above) more flexibly for outpatient medical care, up to $200 a year.</p><p>Seniors can use their MediSave at polyclinics, Specialist Outpatient Clinics and CHAS GP clinics.</p>
       </div>
     </div>
   </div>
@@ -219,8 +222,10 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <label class="tab-label" for="chas-101">What You Can Get under CHAS</label>
       <div class="tab-content">
 <p>Provides you medical subsidies for outpatient care at medical and/or dental care at selected GP clinics.</p>
-<p>See the table below for CHAS subsidies you can get, depending on the colour of their card</p>
-<a target="_blank" href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1548&libID=1812"> <img src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG" alt="CHAS Subsidies" style="width:450px;"></a>
+<p>See the table below for CHAS subsidies you can get.</p>
+<p align="center">Click to enlarge</p>
+<a target="_blank" href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1548&libID=1812"> <img src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG" alt="CHAS Subsidies" style="width:600px;"></a>
+
     </div>      
   </div>
       <div class="tab">
@@ -248,7 +253,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <input type="checkbox" id="chas-check">
       <label class="tab-label" for="chas-check">Check Your CHAS History</label>
       <div class="tab-content">
-You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyCHAS</a> using your SingPass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.
+<p>You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyCHAS</a> using your SingPass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
       </div>
     </div>
   </div>
@@ -316,8 +321,9 @@ You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyC
   </div>
 </div>
 
+<br>
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
-
+<br>
 <div class="accordion">
   <div class="tabs">
     <h3 id="family">For Your Family</h3>
@@ -354,7 +360,7 @@ Some of the grants include: </p>
 <ul>
   <li><a target="_blank" href="/government-services/govt-benefits/">Get Government Benefits</a></li>
   <li><a target="_blank" href="/government-services/finances/family/">Manage My Family's Finances</a></li>
-  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF online calculators</a></li>
+  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online calculators</a></li>
 </ul>
 
 <hr>
