@@ -50,7 +50,7 @@ If you are looking for some help, there are a wide range of support schemes and 
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="bonus">
-      <label class="tab-label" for="bonus">Baby-bonus Cash Gift</label>
+      <label class="tab-label" for="bonus">Baby-Bonus Cash Gift</label>
       <div class="tab-content">
     <p>For each Singaporean child born, you will receive cash of $6,000 for your 1st and 2nd child, and subsequently $8,000 for each of your 3rd and 4th child. This <a href="http://www.go.gov.sg/bbo" target="_blank">cash gift</a> is disbursed over 4 installments in the first 18 months of the birth of your child.</p>
     <p>To check if the child is eligible for Baby Bonus cash gift, Baby Support Grant and/or CDA benefits, you can use this <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent-helper/">Eligibility Checker Tool</a>.</p>
