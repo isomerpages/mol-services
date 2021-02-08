@@ -51,7 +51,7 @@ permalink: /government-services/sell-hdb/
       <label class="tab-label" for="check">Check Your Eligibility to Sell</label>
       <div class="tab-content">
       <p>You can only own one HDB flat at a time and will need to sell your current home before you sign lease agreement of another HDB flat. </p>
-      <p>Check your eligibility to sell your flat by [registering your Intent to Sell](#sell) through the <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal</a>.</p>
+      <p>Check your eligibility to sell your flat by registering your Intent to Sell through the <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal</a>.</p>
       <p>If you are selling your old home before buying the new one, work out your moving plans and decide if you need <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">temporary extension of stay</a>.</p>
     </div>
   </div>

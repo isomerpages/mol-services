@@ -164,13 +164,13 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-button.bp-dropdown-button.is-fullwidth {
   p {
-    font-family: poppins;
+    font-family: open sans;
     font-size: 4vw;
   }
 }
 .bp-dropdown-content {
   p, h5 {
-    font-family: poppins;
+    font-family: open sans;
   }
 }
 
@@ -202,7 +202,15 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: #BA0F30 !important;
+  //background: linear-gradient(#fc4a1a,#f7b733) !important; // orange fun
+  //background: linear-gradient(#f2994a,#f2c94c) !important; //sunkist
+  //background: linear-gradient(#ff5f6d,#ffc371) !important; //sweet  morning
+  //background: linear-gradient(#e9d362,#333333) !important; //vasily
+  //background: linear-gradient(#d53369,#cbad6d) !important; // blurry beach
+  // background: linear-gradient(#f46b45,#eea849) !important; // master card
+  background: crimson !important;
+  //h1{
+  //  color: white !important;}
 }
 
 // Pagination
@@ -291,7 +299,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 .bp-container {
   a, b, p, small {
-    font-family: poppins;
+    font-family: open sans;
   } 
 }
 
@@ -449,7 +457,7 @@ only screen and (max-width: 760px) {
     //background: linear-gradient(#0f2027,#203a43,#2c5364); // moonlit asteroid
     //background: linear-gradient(#000000,#434343); // deep space
     color:#fff; // fff with dark blue or titanium gradient
-    text-shadow: 0.5px 0.5px #C0C0C0;
+    text-shadow: 0.5px 0.5px #000000;
     }
 
     &::after {
