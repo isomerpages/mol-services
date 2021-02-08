@@ -6,7 +6,7 @@ image: /images/lifesg-logo.jpg
 permalink: /
 sections:
     - hero:
-        title: Government Services Bundled, For Your Needs
+        title: How Can We Help You Today?
         subtitle: 
         background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
         dropdown:

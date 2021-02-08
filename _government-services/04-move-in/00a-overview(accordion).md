@@ -14,7 +14,7 @@ permalink: /government-services/move-in/
     <li><a href="#renovate">Renovate Your New Home</a></li>
     <li><a href="#arrangement">Make New School Arrangements for Your Children</a></li>
     <li><a href="#address">Update Residential Address</a></li>
-    <li><a href="#park">Transfer or Re-apply for Season Parking</a></li>
+    <li><a href="#park">Transfer or Reapply for Season Parking</a></li>
   </ul>
 <li><a href="#plan">Moving In</a></li>
   <ul>
@@ -24,7 +24,7 @@ permalink: /government-services/move-in/
 <li><a href="#tips">Things to Note as HDB Owner</a></li>
   <ul>
     <li><a href="#financial">Financial Obligations as HDB Owner</a></li>
-    <li><a href="#cpf">Using CPF for your home</a></li>
+    <li><a href="#cpf">Using CPF for Your home</a></li>
   </ul>  
 </ul>
 </div>
@@ -69,7 +69,7 @@ permalink: /government-services/move-in/
     </div>
          <div class="tab">
       <input type="checkbox" id="park">
-      <label class="tab-label" for="park">Transfer or Re-apply for Season Parking</label>
+      <label class="tab-label" for="park">Transfer or Reapply for Season Parking</label>
       <div class="tab-content">
       <p>If you own a vehicle, you will need to:</p>
       <ul>
@@ -141,7 +141,7 @@ permalink: /government-services/move-in/
 </div>
  <div class="tab">
       <input type="checkbox" id="cpf">
-      <label class="tab-label" for="cpf">Using CPF for your home</label>
+      <label class="tab-label" for="cpf">Using CPF for Your home</label>
       <div class="tab-content">
       <p>Housing is a major financial purchase, which reduces your retirement savings. Consider <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/cpf-rules-early-repayment">early repayment of your housing loan</a> to balance your housing and retirement needs before you reach age 55.</p>
       <p>You may also consider refinancing your HDB housing loan with the bank. However, you will not be able to refinance with HDB subsequently.</p>
