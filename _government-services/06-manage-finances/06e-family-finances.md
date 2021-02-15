@@ -2,6 +2,7 @@
 title: Plan My Family's Finances
 permalink: /government-services/finances/family/
 third_nav_title: Manage My Finances
+
 ---
 
 ## <a name="top"></a>I Want to Plan My Family's Finances
@@ -35,8 +36,8 @@ third_nav_title: Manage My Finances
       <label class="tab-label" for="dps-101">What is DPS?</label>
       <div class="tab-content">
   <p>
-    DPS is an affordable term insurance with a max sum assured of $70,000 (from 1 Apr 2021) upon Death, Terminal Illness or Total Permanent Disability of the person insured.
-    If you belong to the ‘sandwich generation’ with young children and elderly parents to provide for, the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme">Dependants' Protection Scheme (DPS)</a>will be useful.
+    DPS is an affordable term insurance with a max sum assured of $70,000 (from 1 Apr 2021) upon Death, Terminal Illness or Total Permanent Disability of the person insured.</p>
+    <p>If you belong to the ‘sandwich generation’ with young children and elderly parents to provide for, the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme">Dependants' Protection Scheme (DPS)</a>will be useful.
   </p>
     <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-What-is-the-Dependants-Protection-Scheme/What%20is%20the%20Dependants%20Protection%20Scheme.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-What-is-the-Dependants-Protection-Scheme/What%20is%20the%20Dependants%20Protection%20Scheme.jpg" alt="DPS" style="width:600px;"></a>
 </div>
@@ -60,7 +61,7 @@ third_nav_title: Manage My Finances
     <ul>
     <li>Affordable protection for you and your loved ones.</li>
       <ul style="padding-right:20px; padding-top: 5px;list-style-type:circle">
-        <li>DPS can complement other term insurance plans you may already have at budget-friendly rates. Check the DPS premium rates <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme#Item1570">here</a>.</li>
+        <li>DPS can complement other term insurance plans you may already have at budget-friendly rates. Check the DPS premium rates <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme#Item1570">here</a></li>
       </ul>
     <li>There is no need for cash, since you can use your savings in your CPF Ordinary Account to pay the premiums.</li>
     </ul>
@@ -71,12 +72,12 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="dps-evolve">
       <label class="tab-label" for="dps-evolve">Changes to DPS WEF 1 Apr 2021</label>
       <div class="tab-content">
-      <b>3 Changes You Need to Know</b>
-      <ul>
+      <p><b>3 Changes You Need to Know:</b></p>
+      <ol>
       <li>Great Eastern Life will now be the only sole insurer to administer Dependants' Protection Scheme (DPS)</li>
       <li>The sum assured is increased from $46,000 to $70,000</li>
       <li>DPS will now cover members up to age 65</li>
-      </ul>
+      </ol>
       <a target="_blank" href="/images/DPSchanges2021.png"> <img src="/images/DPSchanges2021.png" alt="DPS Changes" style="width:600px;"></a>
       </div>
     </div>
@@ -89,7 +90,7 @@ third_nav_title: Manage My Finances
       <li>Cash OR</li>
       <li>Your savings in CPF Ordinary Account (OA) and/or Special Account (SA)</li>
         <ul style="padding-left: 15px;list-style-type:circle">
-          <li>Premiums deducted from OA 1st. If insufficient savings in OA, premiums are deducted from SA</li>
+          <li>Premiums will be deducted from your OA 1st. If there are insufficient savings in OA, premiums will be deducted from SA</li>
         </ul>
         </ul>
       </div>
@@ -140,17 +141,17 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="apply-cda">
       <label class="tab-label" for="apply-cda">How to Apply for CDA</label>
       <div class="tab-content">  
-      <ul>
-      <li>Check your Eligibility <a href="https://www.babybonus.msf.gov.sg/parent-helper/"> here</a> to find out if you can open a CDA for your child.
+      <ol>
+      <li>Check your eligibility <a href="https://www.babybonus.msf.gov.sg/parent-helper/"> here</a> to find out if you can open a CDA for your child.
       </li>
      <ul style="padding-left: 15px;list-style-type:circle">
-        <li>If eligible, you can <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction">sign up</a> using your SingPass. </li>
+        <li>If eligible, you can <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction">sign up</a> using your Singpass. </li>
         <li>Complete the form in the link above and select the bank of your choice - <a target="_blank" href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account"> DBS/POSB</a>, <a target="_blank" href="https://www.uob.com.sg/personal/save/savings/child-development-account.page"> UOB</a> and <a target="_blank" href="https://www.ocbc.com/personal-banking/deposits/child-development-account"> OCBC</a>.</li>
       </ul>
         <li>The CDA will be opened by the bank you select in a few days with an initial balance of $3,000.</li>
         <li>You will receive a notification once this has been done. A NETS card will be issued under your child’s name and sent to your registered address. You can then use it to <a href="/government-services/govt-benefits/#cash">pay for eligible products and services at CDA approved institutions</a>.</li>
-        <li>You can also apply for your baby’s birth registration and baby bonus (including the CDA) via <a href="https://www.life.gov.sg/">LifeSG</a>. You can download it on Android and iOS. </li>
-      </ul>
+        <li>You can also apply for your baby’s birth registration and baby bonus (including the CDA) via <a href="https://www.life.gov.sg/">LifeSG</a>. You can download the app on Android and/or iOS. </li>
+      </ol>
         </div>
   </div>
 </div>
@@ -162,12 +163,12 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="child-medisave">
       <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
       <div class="tab-content">  
+    <p>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. MediShield Life or Private Integrated Shield Plan premiums). </p>
   <ul>
-    <li>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. MediShield Life or Private Integrated Shield Plan premiums). </li>
-    <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a>automatically credited into their MediSave Accounts from the Singapore Government.  </li>
-    <li>You can <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">top up your child’s MediSave Account</a>. This  provides a stronger safety net for their future- earning 5% p.a. interest in his/her MA, together with your top-ups over the years.</li>
-    <li> See how your regular top-ups in your child’s MA will add up over the years below.</li>
+    <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a> automatically credited into their MediSave.  </li>
+    <li>You can <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">top up your child’s MediSave Account</a> to provide them a stronger safety net for their future - earning 5% p.a. interest in his/her MA.</li>
   </ul>
+  <p>See how your regular top-ups in your child’s MA will add up over the years:</p>
       <a target="_blank" href="/images/child-medisave.png"> <img src="/images/child-medisave.png" alt="Child MediSave Compound" style="width:600px;"></a>
       </div>
   </div>
@@ -175,16 +176,16 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="child-oa">
       <label class="tab-label" for="child-oa">Make Regular Top-ups to your Child’s CPF Ordinary Account (OA) </label>
       <div class="tab-content">  
+  <p>The funds in your child’s OA can be used for his/her future housing and education needs.  </p>
   <ul>
-  <li>The funds in your child’s OA can be used for his/her future housing and education needs.  </li>
   <li>Your child will also get an early start in building his or her savings earlier at an interest rate of 2.5% per annum. </li>
-  <li>Check the interest rates of various CPF accounts here:</li>
+    <li>To top up your child’s OA, click <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">here.</a></li> 
+</ul>
+  <p>Check the interest rates of various CPF accounts here:</p>
   <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
 <ul style="padding-left: 15px;list-style-type:circle">
   <li>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts.</li>
 </ul>
-  <li>Top up your child’s OA on <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF’s e-Cashier page.</a></li> 
-  </ul>
       </div>
   </div>
 </div>
@@ -203,7 +204,7 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="rstu-contribute">
       <label class="tab-label" for="rstu-contribute">Contributing to Your Seniors' Retirement</label>
       <div class="tab-content">
-    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps you and your parents/grandparents grow their retirement nest egg when you top up their CPF Special Account/SA (if your parents are below 55 years old) or CPF Retirement Account/RA (if they are above 55 years old).</p>
+    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps you and your parents/grandparents grow their retirement nest egg when you top up their CPF Special Account/SA (below 55 years old) or CPF Retirement Account/RA (above 55 years old).</p>
     <ul>
       <li>Savings accumulated in your parents/grandparents’ CPF SA or RA will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF LIFE once they reach their Payout Eligibility Age.</li>
     </ul>
@@ -260,11 +261,9 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="save-plus">
       <label class="tab-label" for="save-plus">What MediSave Accounts (MA) is Used For</label>
       <div class="tab-content">
-    <p> With longer life-spans and increasing medical costs, it is expected that your parents will have more use for their MA in their golden years.
-      Savings in your parents’ MA can be used to pay for a wide range of medical services and hospitalisation expenses, subject to respective MA Withdrawal Limits.
-    <br>  
-    <br>
-    To check out the comprehensive list that your parents may put their MA to use, go to <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">cpf.gov.sg</a></p>
+    <p> With longer life-spans and increasing medical costs, it is expected that seniors will have more use for their MA in their golden years.</p>
+     <p> Savings in your parents’ MA can be used to pay for a wide range of medical services and hospitalisation expenses, subject to respective MA Withdrawal Limits.</p>
+    <p>To check out the comprehensive list that your parents may put their MA to use, click <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a></p>
   </div>
 </div>
     <div class="tab">
@@ -284,7 +283,8 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="save-cash">
       <label class="tab-label" for="save-cash">How to Top up MediSave Accounts with Cash</label>
       <div class="tab-content">
-    <p>Top up your parents’ MA via PayNow on <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> > My Request > Building Up My Recipient's CPF savings > Contribute to my Medisave Account via PayNow</p>
+    <p>Top up your parents’ MA via PayNow:</p>
+    <ul><li> <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> > <em>My Request</em> > <em>Building Up My Recipient's CPF savings</em> > <em>Contribute to my Medisave Account via PayNow</em></li></ul>
       </div>
     </div>
   </div>

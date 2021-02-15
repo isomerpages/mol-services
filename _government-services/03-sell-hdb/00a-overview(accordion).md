@@ -42,8 +42,8 @@ permalink: /government-services/sell-hdb/
       <input type="checkbox" id="tips">
       <label class="tab-label" for="tips">Things to Consider Before Selling </label>
       <div class="tab-content">
-      <p>Firstly, you should check if you have completed your Minimum Occupation Period (MOP) of 5 years.</p>
-     <p>Log into <a href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> with your SingPass and check if you have met the MOP to sell your flat, under My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP).</p>
+      <p>Firstly, you should log into <a href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> with your Singpass and check if you have completed the Minimum Occupation Period (MOP) of 5 years needed to sell your HDB flat:</p>
+    <ul><li>My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP)</li></ul>
    </div>
  </div>
   <div class="tab">
@@ -69,19 +69,19 @@ permalink: /government-services/sell-hdb/
       <p>Your sales proceeds should be first used to:</p>
       <ul>
         <li> Pay your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/AB03FININFO/AB03SSelAcc">outstanding housing loan</a></li>
-        <li> <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement">Return the CPF monies you had used to pay your current flat</a> including the interest that you could have earned if kept in the CPF Ordinary Account</li>
-        <li> Return any <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/financing/cpf-housing-grants">HDB Housing Grant you have previously obtained</a>, with 2.5% accrued interest</li>
-        <li> <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees">Pay any other additional costs and fees</a> which could cost you close to S$3000</li>
+        <li> <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/PublicHousingWithdrawalStatement/Statement">Return CPF monies</a> used to pay for your current flat, including the interest that you could have earned if kept in the CPF Ordinary Account</li>
+        <li> Return any <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/financing/cpf-housing-grants">HDB Housing Grant</a> you previously obtained, with 2.5% accrued interest</li>
+        <li> <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees">Pay any other additional costs and fees</a> (e.g. legal fees, property tax) which could cost you close to S$3000</li>
       </ul>
-      <p>See Also: <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds">HDB Sales Proceeds Calculator</a></p>
+      <p>See also: <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/computing-your-estimated-sale-proceeds">HDB Sales Proceeds Calculator</a></p>
     </div>
   </div>
   <div class="tab">
       <input type="checkbox" id="budget">
       <label class="tab-label" for="budget">Financing Your Next Home</label>
       <div class="tab-content">
-    <p>Based on the estimated sales proceeds, you can <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget">work out your budget for next home</a>.</p>
-    <p><a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Estimate how much CPF you can use to buy your next home</a> or check your <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">CPF Housing Usage Limit</a> so you do not use up your CPF savings for your home.</p>
+    <p>Based on the estimated sales proceeds, you can <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget">work out your budget</a> for your next home.</p>
+    <p><a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Estimate how much CPF</a> you can use to buy your next home or check your <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">CPF Housing Usage Limit</a> so you do not use up your CPF savings for your home.</p>
 </div>
 </div>
 </div>
@@ -107,7 +107,11 @@ permalink: /government-services/sell-hdb/
       <input type="checkbox" id="intent">
       <label class="tab-label" for="intent">Register Your Intent to Sell</label>
       <div class="tab-content">
-      <p>Upon <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">registering your Intent to Sell</a>, HDB will confirm your eligibility to sell immediately. You will also receive information about the Ethnic Integration Policy/ Singapore Permanent Resident (EIP/ SPR) Quota for your block, status of upgrading, billing of upgrading costs, and recent transacted prices of nearby flats.</p>
+      <p>To sell your flat, you must first register your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell" target="_blank">Intent to Sell</a>.</p><p>Upon registering, HDB will instantaneously confirm your eligibility to sell and provide you with the following information:</p>
+      <ul><li>Ethnic Integration Policy (EIP) / Singapore Permanent Resident (SPR) Quota for the flat</li>
+        <li> Status of upgrading, Billing status of upgrading costs</li> 
+        <li> Recent transacted prices of flats nearby</li>
+      </ul>
       <a target="_blank" href="/images/who-needs-to-register-intent-to-sell.png">
         <img src="/images/who-needs-to-register-intent-to-sell.png" alt="Register Intent to Sell" style="width:500px"></a>
     </div>
@@ -190,6 +194,7 @@ permalink: /government-services/sell-hdb/
 - [Step-by-Step Guide to Sell an HDB Flat](/government-services/selling-a-hdb/overview/){:target="_blank"} 
 - [Buy an HDB Flat](/government-services/buy-hdb/){:target="_blank"} 
 - [Move into an HDB Flat](/government-services/move-in/){:target="_blank"} 
+
 ---------------------------------------
 
 
@@ -199,4 +204,12 @@ Please contact the respective government agencies if you have any questions abou
 
 Last updated: 22 October 2020
  
-[Back to top](#top)
+[**BACK TO TOP**](#top)
+
+<hr>
+
+<h1> Give us your feedback</h1>
+
+<p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
+
+

@@ -56,30 +56,30 @@ If you are looking for some help, there are a wide range of support schemes and 
     <p>To check if the child is eligible for Baby Bonus cash gift, Baby Support Grant and/or CDA benefits, you can use this <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent-helper/">Eligibility Checker Tool</a>.</p>
   </div>
 </div>
+    <div class="tab">
+      <input type="checkbox" id="save-grant">
+      <label class="tab-label" for="save-grant">MediSave Grant For Newborns</label>
+      <div class="tab-content">
+    <p>All Singaporean babies will qualify for the <a target="_blank" href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns">MediSave Grant for Newborns</a> of $4,000. A CPF MediSave account will be opened for each newborn automatically, with the grant credited.</p>
+    <p>This is to support your child in his or her medical expenses such as MediShield Life premiums, vaccinations, hospitalisation, and approved outpatient treatments.</p>
+  </div>
+</div>
 <div class="tab">
       <input type="checkbox" id="cda">
       <label class="tab-label" for="cda">Child Development Account (CDA)</label>
       <div class="tab-content">
-    <p>The <a target="_blank" href="https://www.madeforfamilies.gov.sg/raising-families/baby-bonus">Baby Bonus Child Development Account (CDA)</a> is a special savings account. Your child (as a Singapore Citizen) will receive $3,000 upon the opening of the CDA First Step with any of the three banks (DBS, OCBC or UOB). You can continue to save beyond this initial balance and enjoy dollar-for-dollar matching, up to the Government contribution cap in the CDA.</p>
+    <p>The Baby Bonus <a target="_blank" href="https://www.madeforfamilies.gov.sg/raising-families/baby-bonus">Child Development Account (CDA)</a> is a special savings account:</p><ul><li> Your child (as a Singapore Citizen) will receive $3,000 upon the opening of the CDA First Step with any of the three banks (DBS, OCBC or UOB). </li><li>You can continue to save beyond this initial balance and enjoy dollar-for-dollar matching, up to the Government contribution cap in the CDA.</li></ul>
   </div>
 </div>
 <div class="tab">
       <input type="checkbox" id="cda-balance">
       <label class="tab-label" for="cda-balance">Uses of CDA Balance</label>
       <div class="tab-content">
-    <p>CDA can be used for your child's medical and education needs at the <a target="_blank" href="http://www.go.gov.sg/listofai">list of Approved Institutions</a>. Any unused balances from this account will be transferred to your child’s [Post-Secondary Education Account](#PSEA) when your child turns 13. </p>
+    <p>The CDA can be used for your child's medical and education needs at the <a target="_blank" href="http://www.go.gov.sg/listofai">List of Approved Institutions</a>. Any unused balances from this account will be transferred to your child’s Post-Secondary Education Account (PSEA) when your child turns 13. </p>
       <a target="_blank" href="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2">
         <img src="https://www.madeforfamilies.gov.sg/images/default-source/raising-children/cda-table-test.jpg?sfvrsn=421fb19a_2" alt="CDA" style="width:600px"></a>
       </div>
     </div>
-    <div class="tab">
-      <input type="checkbox" id="save-grant">
-      <label class="tab-label" for="save-grant">MediSave Grant For Newborns</label>
-      <div class="tab-content">
-    <p>All Singaporean babies will qualify for the <a target="_blank" href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns">MediSave Grant for Newborns</a> of $4,000. A CPF MediSave account will be opened for each newborn automatically, with the grant credited.</p>
-    <p>This is to support your child in his or her medical expenses such as MediShield Life premiums, vaccinations, hospitalisation and approved outpatient treatments.</p>
-  </div>
-</div>
  <div class="tab">
       <input type="checkbox" id="edusave">
       <label class="tab-label" for="edusave">Edusave Account</label>
@@ -88,7 +88,7 @@ If you are looking for some help, there are a wide range of support schemes and 
     <p>These contributions are made by the government in the following ways:</p>
     <ul>
       <li> Government Annual Top-ups: Every February, between age 6 and 16</li>
-      <li> One-off Budget Top-ups: Amount depends on the <a target="_blank" href="https://www.singaporebudget.gov.sg/docs/default-source/budget_2019/download/pdf/annexd4.pdf">annual value of your home</a></li>
+      <li> One-off Budget Top-ups: Amount depends on the Annual Value (AV) of your home</li>
       <li><a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/">Edusave Awards and Scholarships</a>: Students who have made significant achievements in school academically and non-academically are awarded with Edusave top-ups to their accounts.
       </li>
     </ul>
@@ -99,7 +99,7 @@ If you are looking for some help, there are a wide range of support schemes and 
       <label class="tab-label" for="PSEA">Post-Secondary Education Account (PSEA)</label>
       <div class="tab-content">
     <p><a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/">Post Secondary Edusave Account (PSEA)</a> is an account that is set up for every Singaporean child when they turn 13.</p>
-    <p>This account consists of any unused funds from your child's <a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/edusave-contributions/">Edusave</a>) and CDA account. The PSEA balance earns an interest of 2.5% per annum.</p>
+    <p>This account consists of any unused funds from your child's <a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/edusave-contributions/">Edusave</a> and CDA account. The PSEA balance earns an interest of 2.5% per annum.</p>
   </div>
 </div>
 <div class="tab">
@@ -126,10 +126,11 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <div class="tab-content"> 
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPML.aspx">Government-Paid Maternity Leave (GPML)</a></b>:
     If you are a working mother, you can enjoy maternity leave under the GPML scheme. This will help provide sufficient time to recover from childbirth and care for newborns.</p>
-    <p>If your employment contract ended before your childbirth, you are entitled to Government-Paid Maternity Benefit (GPMB)</p>
+    <p><b>Benefits of GPML:</b></p>
       <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPML/q.jpg">
-        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPML/q.jpg" alt="Maternity Leave" style="width:300px">
+        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPML/q.jpg" alt="Maternity Leave" style="width:600px">
       </a>
+      <p>However, if your employment contract ended before your childbirth, you will be entitled to <a href="https://www.profamilyleave.gov.sg/Pages/GPMB.aspx" target="_blank">Government-Paid Maternity Benefit (GPMB)</a></p>
     </div>
   </div>
   <div class="tab">
@@ -137,8 +138,8 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <label class="tab-label" for="paternity">Paternity Leave for Working Fathers</label>
       <div class="tab-content">
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPPL.aspx">Government-Paid Paternity Leave (GPPL)</a></b>:
-      Working fathers can enjoy paternity leave to allow you to play a more active role at home upon the arrival of your baby. By default, your paternity leave must be taken in one continuous block (including weekends and public holidays) within 16 weeks from your child's date of birth (inclusive of date of birth). </p> 
-      <p>However, the 2 weeks of paternity leave can be taken flexibly, if there is mutual agreement between your employer and yourself.</p>
+      Working fathers can also enjoy paternity leave to allow them to have a more active role at home upon the arrival of their baby.</p>
+      <p><b>Benefits of GPPL:</b></p>
       <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPPL/w.jpg">
         <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPPL/w.jpg" alt="Paternity Leave" style="width:600px">
       </a>
@@ -150,7 +151,6 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <div class="tab-content">
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/SPL.aspx">Government-Paid Shared Parental Leave (SPL)</a></b>:
       As a working mother, you can opt to share part of your 4-month maternity leave or adoption leave with your husband under the SPL scheme.</p>
-      <p align="center">Click to enlarge</p>
       <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/SPL/w.jpg">
         <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/SPL/w.jpg" alt="Paternity Leave" style="width:600px">
       </a>
@@ -160,8 +160,13 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="childcare">
       <label class="tab-label" for="childcare">Childcare Leave and Extended Childcare Leave</label>
       <div class="tab-content">
-    <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPCL.aspx">Government-Paid Shared Parental Leave (SPL)</a></b>:
-      Working parents can enjoy more quality time with your children (who are Singapore Citizens and aged below 7 years old) by using the child care leave under this scheme.</p>
+    <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPCL.aspx">Government-Paid Child Care Leave (GPCL)</a></b>:</p>
+      <ul>
+        <li>If your youngest child is below 7 years old, you and your spouse can each enjoy 6 days of paid child care leave over a 12-month period based on a mutual agreement with your employer.</li></ul>
+    <p><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPCL.aspx"><b>Extended Child Care Leave (ECL)</b></a>:</p>
+    <ul>
+      <li>
+If your youngest child is between 7 and 12 years old, you and your spouse can each enjoy 2 days of paid child care leave over a 12-month period as agreed upon with your employer.</li></ul>
     </div>
   </div>
    <div class="tab">
@@ -202,10 +207,10 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="couple">
       <label class="tab-label" for="couple">Tax Reliefs for Married Couples</label>
       <div class="tab-content">  
-      <p>You could use these [tax reliefs](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Tax-Savings-for-Married-Couples-and-Families/#){:target="_blank"} to reduce your tax bill each year if you are married:</p>
+      <p>You could use these <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Tax-Savings-for-Married-Couples-and-Families/#">tax reliefs</a> to reduce your tax bill each year if you are married. Some of these tax reliefs include: </p>
       <ul>
-        <li> Spouse/Handicapped Spouse Relief</li>
-        <li> NSMan Relief for Wife</li>
+        <li> <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Spouse-Relief/-Handicapped-Spouse-Relief/">Spouse/Handicapped Spouse Relief</a></li>
+        <li> NSMan Wife Relief</li>
         <li> <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Foreign-Maid-Levy--FML--Relief/">Foreign Maid Levy (FML) Relief</a></li>
       </ul>
         <a target="_blank" href="https://blog-cdn.moneysmart.sg/wp-content/uploads/2018/03/Tax-Relief_Married-couples-FA-PTR-ver2-1.jpg">
@@ -238,16 +243,16 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="transfer">
       <label class="tab-label" for="transfer">Transferring Unutilised PTR to Your Spouse</label>
       <div class="tab-content">
-    <p>Any unutilised amount can also be transferred online from your account to your spouse's account. Simply log in to <a target="_blank" href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">MyTax Portal</a> to view your PTR balance and transfer your PTR balance to your spouse.</p>
+    <p>Any unutilised amount can also be transferred online from your account to your spouse's account: <ul><li>Log in to <a target="_blank" href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">MyTax Portal</a> to view your PTR balance and transfer your PTR balance to your spouse.</li></ul></p>
   </div>
 </div>
  <div class="tab">
       <input type="checkbox" id="ptr-eligible">
       <label class="tab-label" for="ptr-eligible">Check Your PTR Eligibility</label>
       <div class="tab-content">
-    <p>To qualify, you must be a Singapore tax resident who is married, divorced or widowed in the Year of Tax Assessment.</p>
+    <p>To qualify for PTR, you must be a Singapore tax resident who is married, divorced or widowed in the Year of Tax Assessment.</p>
     <p>You can use the <a target="_blank" href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Individuals/PTR%20calculator.xls">PTR Eligibility Tool</a> to check what you can get.</p>
-    <p>See Also: <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/Transfer%20of%20PTR%20-%20FAQs.pdf">FAQs on transferring PTR online</a></p>
+    <p>See also: <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/Transfer%20of%20PTR%20-%20FAQs.pdf">FAQs on transferring PTR online</a></p>
   </div>
 </div>
 </div>
@@ -266,7 +271,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="employee">
       <label class="tab-label" for="employee">What You Can Get</label>
       <div class="tab-content"> 
-    <p>You may be able to get some financial aid especially if you are on a low income, out of job or cannot work. See <a href="https://articles.life.gov.sg/financial-support-workers-self-employed/" target="_blank">Guide</a>on the various schemes on helping employees and self-employed get some support.</p>
+    <p>You may be able to get some financial aid especially if you are unemployed, on low income, or unable to work. See this <a href="https://articles.life.gov.sg/financial-support-workers-self-employed/" target="_blank">guide</a>on the various schemes available for employees and self-employed to get some financial support.</p>
   </div>
 </div>
 </div>
@@ -289,8 +294,8 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="sick">
       <label class="tab-label" for="sick">Sick Leave</label>
       <div class="tab-content">
-    <p>Similar to Annual Leave, you are also entitled to paid sick leave and paid hospitalisation leave after at least 3 months of current employment and have tried to inform your employer of your absence within 48 hours.</p>
-    <p>The number of days depends on your years of service, up to 14 days of outpatient sick leave and 60 days of paid hospitalisation leave. The 60 days of paid hospitalisation leave includes the 14 days paid outpatient sick leave entitlement.</p>
+    <p>As an employee, you are entitled to paid sick and hospitalisation leave after at least 3 months of current employment and have informed your employer of your absence within 48 hours.</p>
+    <p>The number of days depends on your years of service - up to 14 days of outpatient sick leave and 60 days of paid hospitalisation leave (inclusive of the 14 days paid outpatient sick leave entitlement).</p>
     <p>To qualify, you need to be certified unfit for work by a <a target="_blank" href="https://www.mom.gov.sg/employment-practices/leave/sick-leave/eligibility-and-entitlement">registered medical practitioner</a>.</p>
   </div>
 </div>
@@ -308,7 +313,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <label class="tab-label" for="individual">As an Individual</label>
       <div class="tab-content"> 
     <p>You could use these <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals--Reliefs--Expenses--Donations-/">tax reliefs</a> to reduce your tax bill each year if you support these government initiatives:</p>
-    <p>(1) Improve your employability and continuously upgrade</p>
+    <p>(1) Improve your employability</p>
     <ul>
     <li><a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Course-Fees-Relief/">Course Fees Relief</a></li>
     </ul>
@@ -334,7 +339,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="deduction">
       <label class="tab-label" for="deduction">Tax Deduction for Donations</label>
       <div class="tab-content"> 
-    <p>You may be able to claim tax deduction of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/">different types of donations</a> and their respective tax deductibility.</p>
+    <p>You may be able to claim tax deductions of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/">different types of donations</a> and their respective tax deductibility.</p>
     </div>
   </div>
 </div>
@@ -370,7 +375,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="annual-calc">
       <label class="tab-label" for="annual-calc">Annual Leave Calculator</label>
       <div class="tab-content"> 
-   <p> Use <a target="_blank" href="https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement">this tool</a> to calculate the number of annual leave days you can get. </p>
+   <p> Use this <a target="_blank" href="https://www.mom.gov.sg/employment-practices/leave/annual-leave/eligibility-and-entitlement">calculator</a> to calculate the number of annual leave days you can get. </p>
  </div>
 </div>
 </div>
@@ -402,7 +407,7 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <input type="checkbox" id="changes">
       <label class="tab-label" for="changes">Making Changes (After Submission) </label>
       <div class="tab-content">
-    <p>You may re-file within 14 days of your previous submission or before the tax season ends click <a target="_blank" href="https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx">here</a> to find more information on upcoming tax due dates) - including all your income details and expenses, donations and relief claims where applicable. </p>
+    <p>You may re-file within 14 days of your previous submission or before the tax season ends.</p> <p>Click <a target="_blank" href="https://www.iras.gov.sg/irashome/web/pages/taxCalendarListing.aspx">here</a> to find more information on upcoming tax due dates - including all your income details and expenses, donations and relief claims where applicable. </p>
     <p><em>Do note that you can only re-file once.</em></p>
     <p>You may also file an objection using the “Object to Assessment” e-Service found at <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Paying-your-taxes-Claiming-refunds/Objecting-to-Income-Tax-Bill/">myTax Portal</a> within 30 days from your tax assessment.</p>
   </div>
@@ -429,6 +434,13 @@ Please contact the respective government agencies if you have any questions abou
 Last updated: 4 January 2021
  
 [**BACK TO TOP**](#top)
+
+<hr>
+
+<h1> Give us your feedback</h1>
+
+<p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
+
 
 
 

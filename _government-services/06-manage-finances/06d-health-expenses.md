@@ -2,6 +2,7 @@
 title: Manage My Healthcare Costs
 permalink: /government-services/finances/health-expenses/
 third_nav_title: Manage My Finances
+
 ---
 
 ## <a name="top"></a>I Want to Manage My Healthcare Costs
@@ -33,7 +34,7 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="shield-101">
       <label class="tab-label" for="shield-101">What is MediShield Life</label>
       <div class="tab-content">
-    <p> A basic health insurance plan that helps pay for large hospital bills and some costly outpatient treatments such as dialysis and chemotherapy for cancer - for life. It is structured so that you can pay less using your MediSave and/or out-of-pocket cash for large medical bills.</p>
+    <p> A basic health insurance plan that helps pay for large hospital bills and some costly outpatient treatments such as dialysis and chemotherapy for cancer, for life.</p> <p>It is structured so that you can pay less using your MediSave and/or out-of-pocket cash for large medical bills.</p>
    </div>
 </div>
       <div class="tab">
@@ -89,25 +90,24 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="ip-choice">
       <label class="tab-label" for="ip-choice">Which IP Should You Get</label>
       <div class="tab-content">
-  <p>To explore which one best suits your healthcare needs, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs</a>.</p><p>See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx"> Beginner's Guide to Integrated Shield Plans</a> on common pitfalls to avoid when choosing an IP.</p>
+  <p>To explore which one best suits your healthcare needs, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs</a>.</p>
+  <p>See also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx"> Beginner's Guide to Integrated Shield Plans</a> on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
     <div class="tab">
       <input type="checkbox" id="ip-check">
       <label class="tab-label" for="ip-check">Check If You Have an IP</label>
       <div class="tab-content">
-<p>If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website. You will need your SingPass to do this.</p>
-<p>
-1. Log on to <a target="blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/WelcomePage">my cpf Online Services </a><br>
-2. Go to "My Messages" <br>
-3. See "Insurance" section<br></p>
+<p>If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</p>
+<ul>
+<li> Log on to <a target="blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/WelcomePage">my cpf Portal</a> (Singpass required) > <em>My Messages</em> > <em>Insurance</em></li></ul>
 </div>
 </div>
      <div class="tab">
       <input type="checkbox" id="ip-use">
       <label class="tab-label" for="ip-use">How to Pay for Your Premiums</label>
       <div class="tab-content">
-<p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to be the single point of contact to collect premium payments and disburse your claims for the MediShield Life component in your IP. </p>
+<p>There is a range of IPs run by various major insurance companies in Singapore, authorised to be the single point of contact to collect premium payments and disburse claims for the MediShield Life component in your IP. </p>
 <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/about-integrated-shield-plans"> <img src="/images/ip-premiums.png/ " alt="IP Premiums" style="width:600px;"></a>
 </div>
 </div>
@@ -136,7 +136,9 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
   <ul>
     <li>Healthcare expenses including medical fees and insurance premiums.</li>
     <li>Pay for your dependants' medical bills and insurance premiums</li>
-  <i><p>Note: Approved dependants are your spouse, children, parents, grandparents and siblings. </p><p>They can be of any nationality except for grandparents and siblings who must be Singapore Citizens or Permanent Residents.</p></i>
+      <ul style="padding-left: 15px;list-style-type:circle">
+        <li><p><em>Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p></li>
+      </ul>
   </ul>
 
   <p>Read more about MA, its benefits and other important information <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</p>
@@ -144,7 +146,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
     </div>
     <div class="tab">
       <input type="checkbox" id="save-check">
-      <label class="tab-label" for="save-check">Check How Much You Can Claim from MediSave</label>
+      <label class="tab-label" for="save-check">Check How Much You Can Claim From MediSave</label>
       <div class="tab-content">
 <p>If your medical bills are above the <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/MediSave%20Withdrawal%20Limits_1%20April%202020.pdf">MediSave Withdrawal Limits</a>, you may have to top up the rest of the bill in cash or through coverage under private insurers. </p>
 <p>Use <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/MedisaveCalculator/Step1">MediSave/ MediShield Life Claims Calculator</a> to estimate how much you can claim or need to top up as cash. </p>
@@ -154,7 +156,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <input type="checkbox" id="flexi-save">
       <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under this <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Healthcare/MediSave/FAQDetails?category=Healthcare&group=MediSave&folderid=13015&ajfaqid=2189521">scheme</a>, you can use your MediSave or your spouse’s MediSave (if he/she is also aged 60 and above) more flexibly for outpatient medical care, up to $200 a year.</p><p>Seniors can use their MediSave at polyclinics, Specialist Outpatient Clinics and CHAS GP clinics.</p>
+   <p> Under the  <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Healthcare/MediSave/FAQDetails?category=Healthcare&group=MediSave&folderid=13015&ajfaqid=2189521">Flexi-MediSave Scheme</a>, you or your spouse can use your MediSave (if you and/or your spouse are <b>aged 60 and above</b>) more flexibly for outpatient medical care, up to $200 a year.</p><p>Seniors can use their MediSave at polyclinics, Specialist Outpatient Clinics and CHAS GP clinics.</p>
       </div>
     </div>
   </div>
@@ -220,39 +222,37 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <input type="checkbox" id="chas-101">
       <label class="tab-label" for="chas-101">What You Can Get under CHAS</label>
       <div class="tab-content">
-<p>Provides you medical subsidies for outpatient care at medical and/or dental care at selected GP clinics.</p>
-<p>See the table below for CHAS subsidies you can get.</p>
-<p align="center">Click to enlarge</p>
-<a target="_blank" href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1548&libID=1812"> <img src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG" alt="CHAS Subsidies" style="width:600px;"></a>
-
+<p>CHAS provides you with medical subsidies for outpatient care at medical and/or dental care at select GP clinics.</p>
+<p>See the table below for CHAS subsidies you can get:</p>
+<a target="_blank" href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1548&libID=1812"> <img src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG" alt="CHAS Subsidies" style="width:800px;"></a>
     </div>      
   </div>
       <div class="tab">
       <input type="checkbox" id="chas-eligible">
       <label class="tab-label" for="chas-eligible">Who Can Apply</label>
       <div class="tab-content">
-<p>Since 1 Nov 2019, all Singapore citizens are now eligible to apply for the <a target="_blank" href="https://www.chas.sg/content.aspx?id=303">Community Health Assist Scheme (CHAS)</a>.</p>
+<p>Since 1 Nov 2019, all Singaporean citizens are now eligible to apply for the <a target="_blank" href="https://www.chas.sg/content.aspx?id=303">Community Health Assist Scheme (CHAS)</a>.</p>
     </div>      
   </div>
       <div class="tab">
       <input type="checkbox" id="chas-apply">
       <label class="tab-label" for="chas-apply">How to Apply</label>
       <div class="tab-content">
-<p><a target="_blank" href="http://www.chas.sg/apply/">Apply for your CHAS card</a> for your household if you have yet to do so.</p>
+<p>Apply for your CHAS card for your household <a target="_blank" href="http://www.chas.sg/apply/">here</a> if you have yet to do so.</p>
     </div>      
   </div>
         <div class="tab">
       <input type="checkbox" id="chas-how">
       <label class="tab-label" for="chas-how">How to Receive Your Subsidies</label>
       <div class="tab-content">
-<p>You can visit any participating CHAS clinic of your choice, using this <a target="_blank" href="https://www.chas.sg/clinic_locator.aspx?id=90">clinic locator</a>.</p><p>To enjoy the subsidies, you need to show your valid CHAS, MG or PG card and NRIC upon registration at clinic.</p><p>For those below 15 years old, you will have to present their valid CHAS card with student ID or birth certificate.</p>
+<p>You can visit any participating CHAS clinic of your choice, using this <a target="_blank" href="https://www.chas.sg/clinic_locator.aspx?id=90">clinic locator</a>.</p><p>To enjoy the subsidies, you need to show your valid CHAS, MG or PG card and NRIC upon registration at clinic.</p><p>For those below 15 years old, you will have to present a valid CHAS card with your student ID or birth certificate.</p>
     </div>      
   </div>
       <div class="tab">
       <input type="checkbox" id="chas-check">
       <label class="tab-label" for="chas-check">Check Your CHAS History</label>
       <div class="tab-content">
-<p>You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyCHAS</a> using your SingPass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
+<p>You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyCHAS</a> using your Singpass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
       </div>
     </div>
   </div>
@@ -296,9 +296,8 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
     <p>To do so, you will need to:</p>
       <ol>
 <li> Register for CPF/Medisave Contribution for the self-employed</li>
-<li> Compute your CPF Medisave Liability, with your declared income:
-  <br>- Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (SingPass required) > My Request > Self-Employed Matters</li>
-      </ol>
+<li> Compute your CPF Medisave Liability, with your declared income:</li></ol>
+  <ul><li>Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (Singpass required) > <em>My Request</em> > <em>Self-Employed Matters</em></li></ul>
 <p>Watch this <a target="_blank" href="https://www.cpf.gov.sg/members/Tools/online-demos/online-demos/my-cpf-online-services/my-requests/706">online demo</a> for a visual guide.</p>
     </div>
   </div>
@@ -308,7 +307,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <div class="tab-content">
     <p>To claim this relief, there are a few conditions to meet (as stated below).</p> 
     <ol>
-<li>Your CPF contributions to your Medisave Account (both mandatory and voluntary) in the previous year was less than $5,000</li>
+<li>Your CPF contributions to your Medisave Account (both mandatory and voluntary) in the previous year were less than $5,000</li>
 <li>You have paid the premiums for your life insurance policy in the previous year</li>
   </ol>
 <p>Life insurance relief cannot be claimed on premiums paid for the following:</p>
@@ -316,7 +315,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 <li>Accident or health insurance that covers the sum assured for the death of a person</li>
 <li>ElderShield, CareShield Life or Integrated Shield Plans</li>
   </ul>
-<p>You can <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Life-Insurance-Relief/">use this calculator</a> to check your eligibility</p>
+<p>You can use <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Life-Insurance-Relief/">this calculator</a> to check your eligibility.</p>
   </div>
 </div>
 
@@ -341,9 +340,9 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
     <p>Use this <a target="_blank" href="https://www.aic.sg/financial-assistance/self-assessment-tool">self-assessment tool</a> to check for the grants and subsidies you could be eligible for, as a caregiver to your family.
 Some of the grants include: </p>
 <ul>
-  <li>Caregivers Training Grant (CTG) to learn how to help your loved ones better in daily care.</li>
-  <li>Medical Fee Exemption Card if you have a loved one staying in nursing homes</li>
-  <li>Home Caregiving Grant</li>
+  <li><a target="_blank" href="https://www.healthhub.sg/a-z/costs-and-financing/22/caregivers-training-grant-ctg">Caregivers Training Grant (CTG)</a> to learn how to help your loved ones better in daily care.</li>
+  <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx">Medical Fee Exemption Card</a> if you have a loved one staying in nursing homes</li>
+  <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a> to support your loved ones with at least permanent moderate disability</li>
 </ul>
       </div>
     </div>
@@ -363,14 +362,16 @@ Some of the grants include: </p>
 
 <hr>
 
-This page will be updated as additional schemes and measures are introduced.
+<p>This page will be updated as additional schemes and measures are introduced.</p>
 
-Please contact the respective government agencies if you have any questions about the listings on this page.  
+<p>Please contact the respective government agencies if you have any questions about the listings on this page. </p> 
 
-Last updated: 29 January 2021
+<p>Last updated: 29 January 2021</p>
  
-[**BACK TO TOP**](#top)
+<p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-# Give us your feedback
+<hr>
 
-Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
+<h1> Give us your feedback</h1>
+
+<p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
