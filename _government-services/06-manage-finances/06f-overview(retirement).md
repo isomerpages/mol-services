@@ -1,6 +1,7 @@
 ---
 title: Plan For Retirement
-permalink: /government-services/retirement/
+permalink: /government-services/finances/retirement/
+third_nav_title: Manage My Finances
 published: false
 
 retire-job:

@@ -1,6 +1,7 @@
 ---
-title: Get Digitally Ready
+title: Learn Digital Skills
 permalink: /government-services/get-digitally-ready/overview/
+published: false
 ---
 
 ## Get Digitally Ready
