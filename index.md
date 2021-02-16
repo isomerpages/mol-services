@@ -12,22 +12,16 @@ sections:
         dropdown:
             title: I Want To...
             options:
-              - title: Find Financial Aid
-                url: /government-services/finances/financial-aid/
-              - title: Get Government Benefits
-                url: /government-services/finances/govt-benefits/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
               - title: Sell an HDB Flat
                 url: /government-services/sell-hdb/
               - title: Move into an HDB Flat
                 url: /government-services/move-in/
-              - title: Manage My CPF Better
-                url: /government-services/finances/manage-cpf/
+              - title: Get Government Benefits
+                url: /government-services/finances/govt-benefits/
               - title: Manage My Healthcare Costs
                 url: /government-services/finances/health-expenses/
-              - title: Plan for Retirement
-                url: /government-services/retirement/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
               - title: Stay Healthy
