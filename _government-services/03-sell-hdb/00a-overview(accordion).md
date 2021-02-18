@@ -33,15 +33,13 @@ permalink: /government-services/sell-hdb/
       <input type="checkbox" id="check">
       <label class="tab-label" for="check">Check Your Eligibility to Sell</label>
       <div class="tab-content">
-        <p>In order to be eligible to sell your HDB Flat, you must first fulfil some conditions:</p>
-        <p>1) Have you completed your Minimum Occupation Period (MOP) of 5 years?</p>
+    <p>In order to be eligible to sell your HDB Flat, you must first fulfil some conditions:</p>
+    <p><b>1) Minimum Occupation Period (MOP) of 5 years:</b></p>
         <ul>
-          <li>Log in to <a target="_blank" href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> with your Singpass and check if you have completed the MOP of 5 years needed to sell your HDB flat:</li>
-        <ul style="padding-left: 15px;list-style-type:circle">
-          <li>My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP)</li></ul></ul>
-          <p>2) Do you plan to purchase another HDB flat?</p>
-      <ul><li>You can only own one HDB flat at a time and will need to sell your current home before you sign lease agreement of another HDB flat. </li>
-      <li>If you are selling your old home before buying the new one, work out your moving plans and decide if you need <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">temporary extension of stay</a>.</li></ul>
+          <li>Log in to <a target="_blank" href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> (Singpass required) and check if you have completed the MOP</li></ul>
+    <p><b>2) Ownership of only 1 HDB Flat:</b></p>
+     <ul> <li>You can only own one HDB flat at a time and will need to sell your current flat before buying another HDB flat. </li></ul>
+      <p><em>Note: If you are selling your old home before buying the new one, work out your moving plans and decide if you need <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">temporary extension of stay</a>.</em></p>
      <p>To see what other eligibility conditions you will need to satisfy, click <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility">here</a>.</p>
     </div>
   </div>
