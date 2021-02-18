@@ -1,8 +1,6 @@
 ---
 title: Get Government Benefits
 permalink: /government-services/finances/govt-benefits/
-third_nav_title: Manage My Finances
-
 ---
 
 ## <a name="top"></a>I Want to Get Government Benefits
@@ -89,7 +87,7 @@ If you are looking for some help, there are a wide range of support schemes and 
     <ul>
       <li> Government Annual Top-ups: Every February, between age 6 and 16</li>
       <li> One-off Budget Top-ups: Amount depends on the Annual Value (AV) of your home</li>
-      <li><a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/">Edusave Awards and Scholarships</a>: Students who have made significant achievements in school academically and non-academically are awarded with Edusave top-ups to their accounts.
+      <li><a target="_blank" href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/awards-scholarships/">Edusave Awards and Scholarships</a> - Students who have made significant achievements in school academically and non-academically are awarded with Edusave top-ups to their accounts.
       </li>
     </ul>
   </div>

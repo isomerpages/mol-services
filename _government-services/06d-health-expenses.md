@@ -1,8 +1,6 @@
 ---
 title: Manage My Healthcare Costs
 permalink: /government-services/finances/health-expenses/
-third_nav_title: Manage My Finances
-
 ---
 
 ## <a name="top"></a>I Want to Manage My Healthcare Costs

@@ -16,17 +16,15 @@ permalink: /government-services/buy-hdb/
   </ul>
 <li><a href="#apply">Applying for a Flat From HDB</a></li>
   <ul>
-    <li><a href="#sales">Check for Upcoming HDB Sales Launches</a></li>
-    <li><a href="#priority">HDB Priority Schemes</a></li>
-    <li><a href="#timeline">What to Expect and Timeline</a></li>
-    <li><a href="#check">Before You Apply</a></li>
-    <li><a href="#application">Steps Involved</a></li>
+    <li><a href="#before-apply">Before You Apply</a></li>
+    <li><a href="#timeline">What to Expect</a></li>
+    <li><a href="#steps">Steps Involved</a></li>
   </ul>
 <li><a href="#resale">Buying an HDB Resale Flat</a></li>
   <ul>
-    <li><a href="#resale-eligiblity">Eligibility Conditions for Resale Flats</a></li>
-    <li><a href="#process">What to Expect and Timeline</a></li>
-    <li><a href="#steps">Steps Involved</a></li>
+    <li><a href="#resale-eligiblity">Eligibility Criteria</a></li>
+    <li><a href="#process">What to Expect</a></li>
+    <li><a href="#resale-steps">Steps Involved</a></li>
   </ul>  
 </ul>
 </div>
@@ -138,8 +136,17 @@ permalink: /government-services/buy-hdb/
 
 # <a name="apply"></a>Applying for a Flat From HDB
 
+### <a name="before-apply"></a>Before You Apply
 <div class="accordion">
   <div class="tabs">
+        <div class="tab">
+      <input type="checkbox" id="check">
+      <label class="tab-label" for="check">Eligibility Criteria</label>
+      <div class="tab-content">
+     <p> Before you apply, use <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">this eligibility checker</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
+    <p>To complete the assessment, you will need to have personal details of you and your co-applicants on hand (e.g. gross monthly income of the past three months, occupation).</p>
+  </div>
+</div>
       <div class="tab">
       <input type="checkbox" id="sales">
       <label class="tab-label" for="sales">Check for Upcoming HDB Sales Launches</label>
@@ -154,22 +161,26 @@ permalink: /government-services/buy-hdb/
     <p>By applying through <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes">HDB Priority Schemes</a>, you could improve your chances of getting a balloted number to book an HDB flat. However, do note that you can get priority for only up to 2 schemes.</p>
   </div>
 </div>
+</div>
+</div>
+
+### <a name="timeline"></a> What to Expect
+<div class="accordion">
+  <div class="tabs">
   <div class="tab">
-      <input type="checkbox" id="timeline">
-      <label class="tab-label" for="timeline">What to Expect and Timeline</label>
+      <input type="checkbox" id="overview">
+      <label class="tab-label" for="overview">Timeline</label>
       <div class="tab-content">
       <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png">
       <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style="width:400px"></a>
     </div>
   </div>
-    <div class="tab">
-      <input type="checkbox" id="check">
-      <label class="tab-label" for="check">Before You Apply</label>
-      <div class="tab-content">
-     <p> Before you apply, use <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">this eligibility checker</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
-    <p>To complete the assessment, you will need to have personal details of you and your co-applicants on hand (e.g. gross monthly income of the past three months, occupation).</p>
-  </div>
 </div>
+</div>
+
+### <a name="steps"></a>Steps Involved
+<div class="accordion">
+  <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="application">
       <label class="tab-label" for="application">How to Apply</label>
@@ -246,27 +257,40 @@ permalink: /government-services/buy-hdb/
 
 # <a name="resale"></a>Buying an HDB Resale Flat
 
+### <a name="resale-eligiblity"></a>Eligibility Criteria
 <div class="accordion">
   <div class="tabs">
       <div class="tab">
-      <input type="checkbox" id="resale-eligiblity">
-      <label class="tab-label" for="resale-eligiblity">Eligibility Conditions for Resale Flats</label>
+      <input type="checkbox" id="resale-criteria">
+      <label class="tab-label" for="resale-criteria">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
       <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility" target="_blank">other eligibility conditions</a>.</p>
     </div>
   </div>
+</div>
+</div>
+
+### <a name="process"></a>What to Expect
+<div class="accordion">
+  <div class="tabs">
    <div class="tab">
-      <input type="checkbox" id="process">
-      <label class="tab-label" for="process">What to Expect and Timeline</label>
+      <input type="checkbox" id="resale-timeline">
+      <label class="tab-label" for="resale-timeline">Timeline</label>
       <div class="tab-content">
       <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg">
         <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" alt="HDB Resale Guide" style="width:500px"></a>
       <p>You also can <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
   </div>
+</div>
+</div>
+
+### <a name="resale-steps"></a>Steps Involved
+<div class="accordion">
+  <div class="tabs">
      <div class="tab">
-      <input type="checkbox" id="steps">
-      <label class="tab-label" for="steps">Register as a Buyer</label>
+      <input type="checkbox" id="steps-resale">
+      <label class="tab-label" for="steps-resale">Register as a Buyer</label>
       <div class="tab-content">
       <p>Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
       <ul>

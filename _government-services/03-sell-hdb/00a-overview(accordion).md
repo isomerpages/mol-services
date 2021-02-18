@@ -11,54 +11,42 @@ permalink: /government-services/sell-hdb/
 <ul class="toc_list">
   <li><a href="#plan">Before You Decide to Sell</a></li>
   <ul>
-    <li><a href="#tips">Things to Consider Before Selling</a></li>
-    <li><a href="#check">Check Your Eligibility to Sell</a></li>
+    <li><a href="#eligibility">Eligibility Criteria</a></li>
+    <li><a href="#nexthome">Budgeting for Your Next Home</a></li>
   </ul>
-<li><a href="#nexthome">Budgeting for Your Next Home</a></li>
+<li><a href="#process">Sale Process and Timeline</a></li>
   <ul>
-    <li><a href="#proceeds">Calculate Your (Actual) Sales Proceeds</a></li>
-    <li><a href="#budget">Financing Your Next Home</a></li>
-  </ul>
-<li><a href="#timeline">Sale Process and Timeline</a></li>
-  <ul>
-    <li><a href="#steps">What to Expect and Timeline</a></li>
-    <li><a href="#intent">Register Your Intent to Sell</a></li>
-    <li><a href="#price">Decide Selling Price</a></li>
-    <li><a href="#otp">Grant Option to Purchase (OTP) to Buyer</a></li>
-    <li><a href="#submit">Submit Resale Application</a></li>
-    <li><a href="#docs">Endorse Resale Documents and Pay Fees Online</a></li>
-    <li><a href="#prepare">Before Resale Completion Appointment</a></li>
-    <li><a href="#appt">Complete Resale Transaction</a></li>
-  </ul>  
+    <li><a href="#timeline">What to Expect</a></li>
+    <li><a href="#steps"> Steps Involved</a></li>
+  </ul>    
 </ul>
 </div>
 
 
 # <a name="plan"></a>Before You Decide to Sell
 
+### <a name="eligibility"></a> Eligibility Criteria
+
 <div class="accordion">
   <div class="tabs">
-      <div class="tab">
-      <input type="checkbox" id="tips">
-      <label class="tab-label" for="tips">Things to Consider Before Selling </label>
-      <div class="tab-content">
-      <p>Firstly, you should log into <a href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> with your Singpass and check if you have completed the Minimum Occupation Period (MOP) of 5 years needed to sell your HDB flat:</p>
-    <ul><li>My Flat > Purchased Flat > Flat Details > Minimum Occupation Period (MOP)</li></ul>
-   </div>
- </div>
   <div class="tab">
       <input type="checkbox" id="check">
       <label class="tab-label" for="check">Check Your Eligibility to Sell</label>
       <div class="tab-content">
-      <p>You can only own one HDB flat at a time and will need to sell your current home before you sign lease agreement of another HDB flat. </p>
-      <p>Check your eligibility to sell your flat by registering your Intent to Sell through the <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">HDB Resale Portal</a>.</p>
-      <p>If you are selling your old home before buying the new one, work out your moving plans and decide if you need <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">temporary extension of stay</a>.</p>
+    <p>In order to be eligible to sell your HDB Flat, you must first fulfil some conditions:</p>
+    <p><b>1) Minimum Occupation Period (MOP) of 5 years:</b></p>
+        <ul>
+          <li>Log in to <a target="_blank" href="http://www.hdb.gov.sg/myhdbpage">My HDBPage</a> (Singpass required) and check if you have completed the MOP</li></ul>
+    <p><b>2) Ownership of only 1 HDB Flat:</b></p>
+     <ul> <li>You can only own one HDB flat at a time and will need to sell your current flat before buying another HDB flat. </li></ul>
+      <p><em>Note: If you are selling your old home before buying the new one, work out your moving plans and decide if you need <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">temporary extension of stay</a>.</em></p>
+     <p>To see what other eligibility conditions you will need to satisfy, click <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/eligibility">here</a>.</p>
     </div>
   </div>
 </div>
 </div>
 
-# <a name="nexthome"></a>Budgeting for Your Next Home
+### <a name="nexthome"></a> Budgeting for Your Next Home
 
 <div class="accordion">
   <div class="tabs">
@@ -87,22 +75,25 @@ permalink: /government-services/sell-hdb/
 </div>
 </div>
 
-[**BACK TO TOP**](#top)
 
+# <a name="process"></a>Sale Process and Timeline
 
-# <a name="timeline"></a>Sale Process and Timeline
+### <a name="timeline"></a> What to Expect
 
 <div class="accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="steps">
-      <label class="tab-label" for="steps">What to Expect and Timeline</label>
+      <label class="tab-label" for="steps">Timeline</label>
       <div class="tab-content">
       <a target="_blank" href="/images/hdb-resale-portal.jpg">
         <img src="/images/hdb-resale-portal.jpg" alt="HDB Resale Portal" style="width:500px">
       </a>
     </div>
   </div>
+
+<h3> <a name="steps"></a> Steps Involved</h3>
+
 <div class="tab">
       <input type="checkbox" id="intent">
       <label class="tab-label" for="intent">Register Your Intent to Sell</label>
