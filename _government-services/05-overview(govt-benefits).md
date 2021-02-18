@@ -1,8 +1,6 @@
 ---
 title: Get Government Benefits
 permalink: /government-services/finances/govt-benefits/
-third_nav_title: Manage My Finances
-
 ---
 
 ## <a name="top"></a>I Want to Get Government Benefits

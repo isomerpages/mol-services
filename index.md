@@ -4,7 +4,7 @@ title: services.life.gov.sg
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
-notification: This is a new beta website that we are testing. We would greatly appreciate if you could give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a> to help us improve our site.
+notification: This is a new website that we are testing. Do give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a> to help us make it better.
 sections:
     - hero:
         title: How Can We Help You Today?
