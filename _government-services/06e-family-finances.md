@@ -58,7 +58,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <ul>
     <li>Affordable protection for you and your loved ones.</li>
-      <ul style="padding-right:20px; padding-top: 5px;list-style-type:circle">
+      <ul class="sub-bullet">
         <li>DPS can complement other term insurance plans you may already have at budget-friendly rates. Check the DPS premium rates <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/other-matters/dependants-protection-scheme#Item1570">here</a></li>
       </ul>
     <li>There is no need for cash, since you can use your savings in your CPF Ordinary Account to pay the premiums.</li>
@@ -87,7 +87,7 @@ permalink: /government-services/finances/family/
     <ul>
       <li>Cash OR</li>
       <li>Your savings in CPF Ordinary Account (OA) and/or Special Account (SA)</li>
-        <ul style="padding-left: 15px;list-style-type:circle">
+        <ul class="sub-bullet">
           <li>Premiums will be deducted from your OA 1st. If there are insufficient savings in OA, premiums will be deducted from SA</li>
         </ul>
         </ul>
@@ -127,7 +127,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">  
   <ul>
     <li>After signing your child up for the CDA, any unused funds from your CDA can be transferred to the <a href="https://beta.moe.gov.sg/fees-assistance-awards-scholarships/psea/" target="_blank">Post Secondary Edusave Account (PSEA)</a>, an account that is set up for every Singaporean child when they turn 13. </li>
-     <ul style="padding-left: 15px;list-style-type:circle">
+     <ul class="sub-bullet">
      <li>Note: The PSEA balance earns an interest of 2.5% per annum.</li>
    </ul>
   
@@ -142,7 +142,7 @@ permalink: /government-services/finances/family/
       <ol>
       <li>Check your eligibility <a href="https://www.babybonus.msf.gov.sg/parent-helper/"> here</a> to find out if you can open a CDA for your child.
       </li>
-     <ul style="padding-left: 15px;list-style-type:circle">
+     <ul class="sub-bullet">
         <li>If eligible, you can <a target="_blank" href="https://www.babybonus.msf.gov.sg/parent/web/enrolment-instruction">sign up</a> using your Singpass. </li>
         <li>Complete the form in the link above and select the bank of your choice - <a target="_blank" href="https://www.posb.com.sg/personal/deposits/savings-accounts/child-development-account"> DBS/POSB</a>, <a target="_blank" href="https://www.uob.com.sg/personal/save/savings/child-development-account.page"> UOB</a> and <a target="_blank" href="https://www.ocbc.com/personal-banking/deposits/child-development-account"> OCBC</a>.</li>
       </ul>
@@ -181,7 +181,7 @@ permalink: /government-services/finances/family/
 </ul>
   <p>Check the interest rates of various CPF accounts here:</p>
   <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
-<ul style="padding-left: 15px;list-style-type:circle">
+<ul class="sub-bullet">
   <li>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts.</li>
 </ul>
       </div>

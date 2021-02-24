@@ -83,7 +83,7 @@ permalink: /government-services/stay-healthy/
     <li>If you would like your parents to accumulate as much funds in their MediSave.
 Account as possible (and earn up to 6% p.a.), you may pay for their MediShield Life premiums using your own MediSave.</li>
     <li>You may change the payer of your parents’ MediShield Life premiums:</li>
-              <ul style="padding-left: 15px;list-style-type:circle">
+              <ul class="sub-bullet">
 <li> Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (Singpass required) > My Request > Healthcare Matters > Change of Payer for Medishield Life Cover.</li></ul>
   </ul>
       </div>

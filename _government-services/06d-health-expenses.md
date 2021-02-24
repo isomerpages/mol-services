@@ -134,7 +134,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
   <ul>
     <li>Healthcare expenses including medical fees and insurance premiums.</li>
     <li>Pay for your dependants' medical bills and insurance premiums</li>
-      <ul style="padding-left: 15px;list-style-type:circle">
+      <ul class="sub-bullet">
         <li><p><em>Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p></li>
       </ul>
   </ul>

@@ -220,7 +220,7 @@ permalink: /government-services/buy-hdb/
         <li>Letter of Offer from the bank that you will be taking housing loan</li>
         <li>Latest CPF statement(s) if you are currently employed</li>
         <li>Power of Attorney (if you are authorising someone to represent you)</li>
-          <ul style="padding-left: 15px;list-style-type:circle">
+          <ul class="sub-bullet">
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       </ul>
@@ -237,11 +237,11 @@ permalink: /government-services/buy-hdb/
       <ul>
       <li>Identity cards of all persons listed in the application</li>
       <li>Certificate of insurance</li>
-                <ul style="padding-left: 15px;list-style-type:circle">
+                <ul class="sub-bullet">
           <li>You must buy fire insurance from HDB's appointed insurer, <a href="https://www.fwd.com.sg/fire-insurance/" target="_blank">FWD Singapore Pte Ltd (FWD)</a>, if you are taking an HDB housing loan.</li></ul>
       <li>Latest CPF statement(s) if you are currently employed</li>
       <li>Power of Attorney (if you are authorising someone to represent you)</li>
-                <ul style="padding-left: 15px;list-style-type:circle">
+                <ul class="sub-bullet">
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       <li>Signed GIRO form if you are paying monthly loan instalments partially or fully by cash</li>
