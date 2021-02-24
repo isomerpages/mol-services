@@ -25,7 +25,7 @@ permalink: /government-services/finances/health-expenses/
 </div>
 
 # <a name="citizen"></a> What You Can Get (As a Singapore Citizens or PR)
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
       <div class="tab">
@@ -61,7 +61,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medishield-ip">Understanding Integrated Shield Plans(IP)</h3>
       <div class="tab">
@@ -114,7 +114,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
       <div class="tab">
@@ -162,7 +162,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="careshield">ElderShield/CareShield Life</h3>
       <div class="tab">
@@ -213,7 +213,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="chas">Community Health Assist Scheme (CHAS)</h3>
       <div class="tab">
@@ -259,7 +259,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
 <h1 id="safety"> Ways to Enhance Your Medical Safety Net</h1>
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="self-employed">For Self-Employed Persons (SEP)</h3>
       <div class="tab">
@@ -319,7 +319,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="family">For Your Family</h3>
       <div class="tab">

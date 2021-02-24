@@ -26,7 +26,7 @@ permalink: /government-services/finances/family/
 </div>
 
 # <a name="protect"></a> Give Your Family Financial Protection
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="dps">Dependants' Protection Scheme (DPS)</h3>
       <div class="tab">
@@ -102,7 +102,7 @@ permalink: /government-services/finances/family/
 
 
 # <a name="child-savings"></a> Start Your Child's Financial Journey Early
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="child-savings">Child Development Account (CDA)</h3>
       <div class="tab">
@@ -154,7 +154,7 @@ permalink: /government-services/finances/family/
   </div>
 </div>
 </div>
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="child-cpf">Boost Your Child's Savings</h3>
       <div class="tab">
@@ -195,7 +195,7 @@ permalink: /government-services/finances/family/
 
 
 # <a name="seniors-finance"></a> Support Your Seniors' Retirement
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
   <h3 id="rstu">Retirement Sum Topping-Up Scheme (RSTU)</h3>
       <div class="tab">
@@ -241,7 +241,7 @@ permalink: /government-services/finances/family/
   </div>
 </div>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medisave-elderly">MediSave Top-Ups for Your Seniors at Home</h3>
       <div class="tab">

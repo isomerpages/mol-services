@@ -35,7 +35,7 @@ permalink: /government-services/move-in/
 
 ### <a name="move"></a>Before the Move
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="renovate">
@@ -89,7 +89,7 @@ permalink: /government-services/move-in/
 
 ### <a name="plan"></a>Moving In
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="help">
@@ -120,7 +120,7 @@ permalink: /government-services/move-in/
 
 ### <a name="tips"></a>Things to Note as an HDB Owner
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="financial">

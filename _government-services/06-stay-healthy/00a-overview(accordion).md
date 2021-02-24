@@ -22,7 +22,7 @@ permalink: /government-services/stay-healthy/
 
 # <a name="health"></a>Keep Your Health in Check 
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="screen">
@@ -41,7 +41,7 @@ permalink: /government-services/stay-healthy/
 
 
 # <a name="habits"></a>Build Healthy Habits at Home
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="tips">
@@ -70,7 +70,7 @@ permalink: /government-services/stay-healthy/
 
 
 # <a name="expenses"></a> Manage Your Healthcare Expenses
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
       <div class="tab">
@@ -139,7 +139,7 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
 
 
 # <a name="caregivers"></a> Support for Caregivers
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
       <div class="tab">
       <input type="checkbox" id="eligibility">
