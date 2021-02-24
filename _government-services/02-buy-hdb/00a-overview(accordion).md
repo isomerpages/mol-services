@@ -187,7 +187,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>You may apply for a flat in the following purchase mode(s):</p>
       <ul>
-      <li><a target="_blank" href="https://esales.hdb.gov.sg/bp25/launch/open/OPEN_page_7142/home.html">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
+      <li><a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
     </ul>
       <em>You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.</em>
     </div>
