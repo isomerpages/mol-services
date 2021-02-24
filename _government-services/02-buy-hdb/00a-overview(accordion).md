@@ -32,7 +32,7 @@ permalink: /government-services/buy-hdb/
 
 # <a name="plan"></a>Planning Your Flat Purchase
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="options">Decide on Your Housing Option</h3>
       <div class="tab">
@@ -71,7 +71,7 @@ permalink: /government-services/buy-hdb/
 </div>
 </div>
   
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="finances">Plan Your Finances</h3>
       <div class="tab">
@@ -137,7 +137,7 @@ permalink: /government-services/buy-hdb/
 # <a name="apply"></a>Applying for a Flat From HDB
 
 ### <a name="before-apply"></a>Before You Apply
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
         <div class="tab">
       <input type="checkbox" id="check">
@@ -165,7 +165,7 @@ permalink: /government-services/buy-hdb/
 </div>
 
 ### <a name="timeline"></a> What to Expect
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
   <div class="tab">
       <input type="checkbox" id="overview">
@@ -179,7 +179,7 @@ permalink: /government-services/buy-hdb/
 </div>
 
 ### <a name="steps"></a>Steps Involved
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <div class="tab">
       <input type="checkbox" id="application">
@@ -258,7 +258,7 @@ permalink: /government-services/buy-hdb/
 # <a name="resale"></a>Buying an HDB Resale Flat
 
 ### <a name="resale-eligiblity"></a>Eligibility Criteria
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
       <div class="tab">
       <input type="checkbox" id="resale-criteria">
@@ -271,7 +271,7 @@ permalink: /government-services/buy-hdb/
 </div>
 
 ### <a name="process"></a>What to Expect
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
    <div class="tab">
       <input type="checkbox" id="resale-timeline">
@@ -286,7 +286,7 @@ permalink: /government-services/buy-hdb/
 </div>
 
 ### <a name="resale-steps"></a>Steps Involved
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
      <div class="tab">
       <input type="checkbox" id="steps-resale">

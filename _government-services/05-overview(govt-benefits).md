@@ -44,7 +44,7 @@ If you are looking for some help, there are a wide range of support schemes and 
 # <a name="family"></a>Benefits For Families
 
 ### <a name="cash"></a>What You Can Get
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="bonus">
@@ -116,7 +116,7 @@ If you are looking for some help, there are a wide range of support schemes and 
 
 The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.aspx){:target="_blank"} are in place to encourage a family-friendly culture in our workforce.
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="maternity">
@@ -199,7 +199,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 ### <a name="parent-tax-reliefs"></a>Getting Tax Reliefs
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="couple">
@@ -263,7 +263,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 ### <a name="financial-aid"></a>Financial Aid for Working Adults
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="employee">
@@ -279,7 +279,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 ### <a name="job-leave"></a>Leave Scheme for Employees
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="annual">
@@ -304,7 +304,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 ### <a name="individual-tax-reliefs"></a>Getting Tax Reliefs
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="individual">
@@ -347,7 +347,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 
 # <a name="check"></a>Check What You Can Get
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="eligibility">
@@ -383,7 +383,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 # <a name="claim"></a>How to File Tax Relief Claims
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="submit">
