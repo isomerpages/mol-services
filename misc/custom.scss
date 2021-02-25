@@ -165,6 +165,7 @@ $desktop: 960px + (2 * $gap) !default;
 .bp-button.bp-dropdown-button.is-fullwidth {
   p {
     font-family: open sans;
+    font-size:1.2rem;
   }
 }
 .bp-dropdown-content {
@@ -401,7 +402,7 @@ only screen and (max-width: 760px) {
 }
 
 //accordion 
-.accordion {
+.mol-accordion {
   input {
     position: absolute;
     opacity: 0;
@@ -580,3 +581,4 @@ only screen and (max-width: 760px) {
     width: 100%;
   }
 }
+

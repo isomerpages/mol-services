@@ -25,7 +25,7 @@ permalink: /government-services/finances/health-expenses/
 </div>
 
 # <a name="citizen"></a> What You Can Get (As a Singapore Citizens or PR)
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
       <div class="tab">
@@ -61,7 +61,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medishield-ip">Understanding Integrated Shield Plans(IP)</h3>
       <div class="tab">
@@ -114,7 +114,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
       <div class="tab">
@@ -134,7 +134,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
   <ul>
     <li>Healthcare expenses including medical fees and insurance premiums.</li>
     <li>Pay for your dependants' medical bills and insurance premiums</li>
-      <ul style="padding-left: 15px;list-style-type:circle">
+      <ul class="sub-bullet">
         <li><p><em>Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p></li>
       </ul>
   </ul>
@@ -162,7 +162,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="careshield">ElderShield/CareShield Life</h3>
       <div class="tab">
@@ -213,7 +213,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="chas">Community Health Assist Scheme (CHAS)</h3>
       <div class="tab">
@@ -259,15 +259,15 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
 <h1 id="safety"> Ways to Enhance Your Medical Safety Net</h1>
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="self-employed">For Self-Employed Persons (SEP)</h3>
       <div class="tab">
       <input type="checkbox" id="sep-medisave">
       <label class="tab-label" for="sep-medisave">Contribute to Your MediSave Account</label>
       <div class="tab-content">
-    <p>If your annual net trade income (determined by IRAS) is above $6,000, you are required to contribute to your MediSave Account (MA) based on the table below.</p>
-    <a target="_blank" href="/images/medisave_contributions_table.png"> <img src="_site/images/medisave_contributions_table.png" alt="Medisave Contribution" style="width:500px"></a>
+    <p>If your annual net trade income (determined by IRAS) is above $6,000, you are required to contribute to your MediSave Account (MA).</p>
+    <p>Click <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/Documents/MARates2016.pdf">here</a> to find out your MediSave Contribution Rates as a SEP.</p>
       </div>
     </div>
           <div class="tab">
@@ -319,7 +319,7 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="family">For Your Family</h3>
       <div class="tab">

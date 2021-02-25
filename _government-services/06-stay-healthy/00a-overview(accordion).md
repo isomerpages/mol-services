@@ -22,7 +22,7 @@ permalink: /government-services/stay-healthy/
 
 # <a name="health"></a>Keep Your Health in Check 
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="screen">
@@ -41,7 +41,7 @@ permalink: /government-services/stay-healthy/
 
 
 # <a name="habits"></a>Build Healthy Habits at Home
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="tips">
@@ -70,7 +70,7 @@ permalink: /government-services/stay-healthy/
 
 
 # <a name="expenses"></a> Manage Your Healthcare Expenses
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
       <div class="tab">
@@ -83,7 +83,7 @@ permalink: /government-services/stay-healthy/
     <li>If you would like your parents to accumulate as much funds in their MediSave.
 Account as possible (and earn up to 6% p.a.), you may pay for their MediShield Life premiums using your own MediSave.</li>
     <li>You may change the payer of your parents’ MediShield Life premiums:</li>
-              <ul style="padding-left: 15px;list-style-type:circle">
+              <ul class="sub-bullet">
 <li> Log in to <a target="_blank" href="https://www.cpf.gov.sg/members">my cpf</a> (Singpass required) > My Request > Healthcare Matters > Change of Payer for Medishield Life Cover.</li></ul>
   </ul>
       </div>
@@ -139,7 +139,7 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
 
 
 # <a name="caregivers"></a> Support for Caregivers
-<div class="accordion">
+<div class="mol-accordion">
 <div class="tabs">
       <div class="tab">
       <input type="checkbox" id="eligibility">

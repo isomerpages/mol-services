@@ -27,7 +27,7 @@ permalink: /government-services/sell-hdb/
 
 ### <a name="eligibility"></a> Eligibility Criteria
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
   <div class="tab">
       <input type="checkbox" id="check">
@@ -48,7 +48,7 @@ permalink: /government-services/sell-hdb/
 
 ### <a name="nexthome"></a> Budgeting for Your Next Home
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="proceeds">
@@ -80,7 +80,7 @@ permalink: /government-services/sell-hdb/
 
 ### <a name="timeline"></a> What to Expect
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="steps">

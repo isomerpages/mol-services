@@ -35,7 +35,7 @@ permalink: /government-services/move-in/
 
 ### <a name="move"></a>Before the Move
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="renovate">
@@ -44,7 +44,7 @@ permalink: /government-services/move-in/
       <p>Before you start your renovation, you would need to:</p>
       <ol>
         <li> Check for defects after collection of keys.</li>   
-        <ul style="padding-left: 15px;list-style-type:circle">
+        <ul class="sub-bullet">
           <li>For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works</a> to be done by HDB.</li></ul>
         <li> <a href="https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">Apply</a> for your renovation permit </li>
         <li> <a href="https://www.spgroup.com.sg/home" target="_blank">Sign up</a> for utilities account</li>     
@@ -89,7 +89,7 @@ permalink: /government-services/move-in/
 
 ### <a name="plan"></a>Moving In
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="help">
@@ -120,7 +120,7 @@ permalink: /government-services/move-in/
 
 ### <a name="tips"></a>Things to Note as an HDB Owner
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="financial">
@@ -129,12 +129,12 @@ permalink: /government-services/move-in/
       <p>As an HDB homeowner, there are <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">various payments</a> to make for an HDB housing loan.</p>
       <ul>
       <li> Property Taxes</li>
-      <ul style="padding-left: 15px;list-style-type:circle">
+      <ul class="sub-bullet">
         <li>Determined by your home’s Annual Value (AV) - the annual amount that you would get from renting out your property - which you can check with this <a target="_blank" href="https://www.iras.gov.sg/Tax%20Calculators/PT%20HDBNew/HDB.html">online calculator</a>.</li>
       </ul>
       <li> Home Insurance Premiums</li>
       <li> Maintenance/Conservancy fees </li>
-      <ul style="padding-left: 15px;list-style-type:circle">
+      <ul class="sub-bullet">
         <li> Ranging from $20 to $90 a month for Singapore citizens (subsidised)</li>
         <li> Check with your town council for details</li>
       </ul>

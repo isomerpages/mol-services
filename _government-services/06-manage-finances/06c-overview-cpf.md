@@ -30,7 +30,7 @@ published: false
 
 ### <a name="account"></a>What Is Inside Your CPF 
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="login">
@@ -75,7 +75,7 @@ published: false
 
 ### <a name="savings"></a>What You Can Use Your CPF Savings For 
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="property">
@@ -140,7 +140,7 @@ published: false
 
 ### <a name="scheme"></a>Self-Employed Scheme
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="self-employed">
@@ -163,7 +163,7 @@ published: false
 
 ### <a name="contribution"></a>Mandatory and Voluntary Contributions 
 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="medisave">

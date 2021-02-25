@@ -7,7 +7,7 @@ published: false
 ---
 
 # <a name="low-income"></a> Financial Assistance for Low-Income Families and Individuals 
-<div class="accordion">
+<div class="mol-accordion">
   <div class="tabs">
       <div class="tab">
       <input type="checkbox" id="li-fam">
