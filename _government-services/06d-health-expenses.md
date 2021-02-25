@@ -266,8 +266,8 @@ You are required to regularly set aside money for your MediSave Account (MA).</p
       <input type="checkbox" id="sep-medisave">
       <label class="tab-label" for="sep-medisave">Contribute to Your MediSave Account</label>
       <div class="tab-content">
-    <p>If your annual net trade income (determined by IRAS) is above $6,000, you are required to contribute to your MediSave Account (MA) based on the table below.</p>
-    <a target="_blank" href="/images/medisave_contributions_table.png"> <img src="_site/images/medisave_contributions_table.png" alt="Medisave Contribution" style="width:500px"></a>
+    <p>If your annual net trade income (determined by IRAS) is above $6,000, you are required to contribute to your MediSave Account (MA).</p>
+    <p>Click <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/Documents/MARates2016.pdf">here</a> to find out your MediSave Contribution Rates as a SEP.</p>
       </div>
     </div>
           <div class="tab">
