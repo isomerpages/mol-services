@@ -401,6 +401,12 @@ only screen and (max-width: 760px) {
   }
 }
 
+.disclaimer{
+    border-bottom: 1px solid #ccc; /* This is the line replacing the hr*/
+    margin-bottom: 15px; /* This is the space below the line */
+    padding-bottom: 25px; /* This is the space between the heading text and the line */
+}
+
 //accordion 
 .mol-accordion {
   input {

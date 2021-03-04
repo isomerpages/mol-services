@@ -4,8 +4,7 @@ permalink: /government-services/finances/govt-benefits/
 ---
 <p><b>DISCLAIMER:</b></p>
 
-<p>This page does not include the Budget 2021 Schemes.</p>
-<hr>
+<p class="disclaimer">This page does not include the Budget 2021 Schemes.</p>
 
 ## <a name="top"></a>I Want to Get Government Benefits
 
