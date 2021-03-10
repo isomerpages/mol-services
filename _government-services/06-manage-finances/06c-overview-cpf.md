@@ -2,7 +2,6 @@
 title: Manage CPF Savings
 permalink: /government-services/finances/manage-cpf/
 third_nav_title: Manage My Finances
-published: false
 
 ---
 
@@ -13,7 +12,7 @@ published: false
 <ul class="toc_list">
   <li><a href="#cpf">What You Need to Know About CPF</a></li>
   <ul>
-    <li><a href="#account">What Is Inside Your CPF</a></li>
+    <li><a href="#account">CPF Basics</a></li>
     <li><a href="#savings">What You Can Use Your CPF Savings For</a></li>
   </ul>
 <li><a href="#self-employed">CPF Contributions as a Self-Employed Individual</a></li>
@@ -28,44 +27,37 @@ published: false
 # <a name="cpf"></a>What You Need to Know About CPF
 
 
-### <a name="account"></a>What Is Inside Your CPF 
+### <a name="account"></a>CPF Basics 
 
 <div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="login">
-      <label class="tab-label" for="login">How to Log In</label>
+      <label class="tab-label" for="login">Using CPF’s Online Services</label>
       <div class="tab-content">
-    <p>The "<a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>" portal lets you look into your various CPF accounts, track your activities, messages, notifications and update your contact information, among others. <ul><li>Log in to my cpf <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/CpfMemberPortalServices">here</a> using your Singpass (required).</li></ul></p>
-    <p>If you do not have Singpass, get one <a target="_blank" href="https://www.singpass.gov.sg/singpass/register/instructions">here</a> now.</p>
+    <p>Access various CPF services online, by logging in to <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/CpfMemberPortalServices">my cpf Online Services</a> with your Singpass (required).</p>
+<p>Check your CPF account balances, contribution and transaction history, as well as messages and notifications. You can also update your contact details and preferences, and other information.</p>
+<p>If you don’t have a Singpass, you can get one <a href="https://www.singpass.gov.sg/singpass/register/instructions" target="_blank">here</a>.</p>
   </div>
 </div>
  <div class="tab">
       <input type="checkbox" id="cpf-101">
-      <label class="tab-label" for="cpf-101">CPF at a Glance</label>
+      <label class="tab-label" for="cpf-101">What Can You Use Your CPF For?
+</label>
       <div class="tab-content">  
     <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png">
     <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png" alt="CPF Savings Uses" style="width:600px"></a>
-    <p>See also: <a target="_blank" href="https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview">CPF and the interest rates</a>.</p>
+    <p>Find out more about CPF accounts and interest rates <a target="_blank" href="https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview">here</a>.</p>
 </div>
 </div>
  <div class="tab">
       <input type="checkbox" id="cpf-allocation">
       <label class="tab-label" for="cpf-allocation">How Your CPF Contributions Are Allocated</label>
       <div class="tab-content"> 
-    <p>As an employee, your <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx">CPF contribution and allocation rates</a>
-    are adjusted to reflect your changing needs as you grow older and continue to remain in the workforce. </p>
+    <p>From the time you start working, a portion of your salary is set aside in your CPF accounts to help you save for retirement. Your contribution and allocation rates are adjusted to reflect your changing needs as you grow older, and continue to remain in the workforce. </p>
     <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older/How%20your%20CPF%20contribution%20and%20allocation%20rates%20change%20v2019.jpg">
      <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older/How%20your%20CPF%20contribution%20and%20allocation%20rates%20change%20v2019.jpg" alt="CPF Allocation" style="width:600px"></a>
-    <p>See also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx">areyouready.gov.sg</a></p>
-  </div>
-</div>
- <div class="tab">
-      <input type="checkbox" id="cpf-contribution">
-      <label class="tab-label" for="cpf-contribution">Your CPF Contribution and Transaction History</label>
-      <div class="tab-content"> 
-    <p>Your past CPF contribution and transaction history can be found in:<ul><li>
-    <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/CpfMemberPortalServices">my cpf Portal</a> (Singpass required) > Section B of your CPF statements</li></ul></p>
+    <p>Learn more about CPF contribution and allocation rates <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-How-your-CPF-contributions-and-allocation-rates-change-as-you-grow-older.aspx">here</a></p>
   </div>
 </div>
 </div>
@@ -81,40 +73,35 @@ published: false
       <input type="checkbox" id="property">
       <label class="tab-label" for="property">Buy a Property</label>
       <div class="tab-content">
-    <p>Under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/housing-scheme">CPF Housing Scheme</a>, you may use your CPF Ordinary Account (OA) savings to buy:</p>
+    <p>Under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/housing-scheme">CPF Housing Scheme</a>, you may use your CPF Ordinary Account (OA) savings to:</p>
     <ul>
-    <li> an HDB flat under the Public Housing Scheme</li>
-    <li> buy a private property under the Residential Properties Scheme</li>
-    <li> pay monthly housing mortgage</li>
+    <li> Buy an HDB flat </li>
+    <li> Buy or build a private property</li>
+    <li> Pay the housing loan for your property purchase</li>
+    <li>Pay the stamp duty and legal fees incurred for your property purchase</li>
   </ul>
     <p>See also: <a target="_blank" href="https://services.life.gov.sg/government-services/buy-hdb/#finances">Using CPF for Your HDB Flat</a></p>
   </div>
 </div>
  <div class="tab">
       <input type="checkbox" id="education">
-      <label class="tab-label" for="education">Pay for Your / Kids’ / Spouse’s Education Fees</label>
+      <label class="tab-label" for="education">Pay the Education Fees for Yourself, Your Spouse or Children</label>
       <div class="tab-content">
-    <p>Under the <a target="_blank" href="https://www.cpf.gov.sg/members/schemes/schemes/other-matters/cpf-education-scheme">CPF Education Loan Scheme</a>, you may use your CPF Ordinary Account (OA) savings to pay education fees for yourself, spouse, children, siblings and relatives. The student can then repay the amount withdrawn plus interest in cash into the payer’s OA within 1 year of graduation or leaving the institution.</p>
-    <p>If you are currently servicing an education loan, you can:</p>
+    <p>Under the CPF Education Loan Scheme, you may use your CPF Ordinary Account (OA) savings to pay for your own, spouse’s or children’s education fees</p>
+<p>Applications to use your CPF savings to pay the education fees for your siblings or relatives will be assessed on a case-by-case basis.</p>
+<p>The student will be required to repay the amount withdrawn plus accrued interest to the payer’s OA in cash,  one year after graduating from or leaving the approved educational institution.
+</p>
+    <p>If you are currently repaying an education loan, you can:</p>
     <ul>
-    <li> Check the outstanding loan amount from the student (or the borrower):</li>
-    <ul style="padding-left: 15px;list-style-type:circle">
-           <li><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf Portal</a> (Singpass required) > My Statements > Section C > Education Redemption Statement</li>
-         </ul>
-    <li>Check how much to pay the institution:</li>
-          <ul style="padding-left: 15px;list-style-type:circle">
-          <li> <a href="https://www.cpf.gov.sg/members" target="_blank">my cpf Portal</a> (Singpass required) >My Statements > Enquire on My Arrears in Repayment</li>
-        </ul>
-    <li>Apply to defer education loan repayment or change monthly instalment rate:</li>
-          <ul style="padding-left: 15px;list-style-type:circle">
-          <li> <a href="https://www.cpf.gov.sg/members" target="_blank">my cpf Portal</a> (Singpass required) > My Request > Education/ Dependants' Education > Apply to defer payment or Change my Monthly Instalment Rate </li>
-        </ul>
+    <li> Check the outstanding loan amount by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Statements</em> > <em>Section C</em> > <em>Education</em> > <em>Details of My Education Redemption Statement</em></li>
+    <li>Check your outstanding repayments owed by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Statements</em> > <em>Section C</em> > <em>Education</em> >  <em>Enquire on My Arrears in Repayment</em></li>
+    <li>Apply to defer your education loan repayment or change the monthly instalment rate by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Request</em> > <em>Education/ Dependants’ Education</em> > <em>Apply to defer payment or Change my Monthly Instalment Rate</em></li>
       </ul>
   </div>
 </div>
    <div class="tab">
       <input type="checkbox" id="medical">
-      <label class="tab-label" for="medical">Pay for Medical Fees</label>
+      <label class="tab-label" for="medical">Pay for Medical Expenses</label>
       <div class="tab-content">
     <p>There is a range of CPF healthcare schemes to safeguard you and your loved ones should any of you need hospitalisation or other forms of healthcare assistance in different stages of life.</p>
     <ul>
@@ -146,14 +133,14 @@ published: false
       <input type="checkbox" id="self-employed">
       <label class="tab-label" for="self-employed">About the Self-Employed Scheme</label>
       <div class="tab-content">
-      <p>If you have your own business, work for yourself, and are in the position to realise a business profit or loss, you are considered a <b>Self-Employed Person</b>.</p><p> Being self-employed, you do not receive regular MediSave contributions from employers. It is therefore important to contribute regularly and make sure you have sufficient MediSave savings for your future healthcare needs.</p><p> You can also make voluntary contributions to your other CPF accounts under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/self-employed-matters">CPF Self-employed Scheme</a>.</p>
+      <p>If you own a business, work for yourself and are in the position to realise a business profit or loss, you are considered a Self-Employed Person (SEP). As you do not receive regular MediSave contributions from employers, it is important to contribute regularly to MediSave to ensure you have sufficient savings for future healthcare needs. You can also make voluntary contributions to your other CPF accounts under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/self-employed-matters">Self-Employed Scheme</a>.</p>
     </div>
   </div>
   <div class="tab">
       <input type="checkbox" id="calc">
-      <label class="tab-label" for="calc">Self-Employed MediSave Contribution Calculator</label>
+      <label class="tab-label" for="calc">How Much Do You Need to Contribute to MediSave?</label>
       <div class="tab-content">
-      <p>To find out how much you need to contribute, use this <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a>.</p>
+      <p>Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to find out how much you need to contribute.</p>
 </div>
 </div>
 </div>
@@ -167,45 +154,49 @@ published: false
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="medisave">
-      <label class="tab-label" for="medisave">Mandatory Contributions into MediSave Account (MA)</label>
+      <label class="tab-label" for="medisave">Mandatory Contributions to your MediSave Account (MA)</label>
       <div class="tab-content">
-      <p>It is mandatory for all Self Employed Persons to contribute to their MediSave Accounts as long as you earn more than $6,000 in Net Trade Income (NTI) for the year.</p><p> These contributions to your MediSave Account help you manage medical/hospitalisation emergencies, similar to your peers as employed workers.</p>
+      <p>It is mandatory for all Self-Employed Persons to contribute to their MediSave Accounts as long as they earn more than $6,000 in Net Trade Income (NTI) for the year. These contributions help manage expenses in times of medical or hospitalisation emergencies.</p>
     </div>
   </div>
   <div class="tab">
       <input type="checkbox" id="caye">
-      <label class="tab-label" for="caye">Contribute-As-You-Earn Scheme</label>
+      <label class="tab-label" for="caye">Contribute-As-You-Earn (CAYE) Scheme</label>
       <div class="tab-content">
-     <p> Under this CPF <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/contribute-as-you-earn-(caye)">Scheme</a>, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave accounts as their incomes may be seasonal.</p>
-    <p>The amount of MediSave contribution deducted from your service payment is based on your estimated annual revenue and expenses for the year.</p>
+     <p> Under CAYE, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave savings, and fulfil their MediSave obligations under the Self-Employed Scheme.</p> 
+<p>The amount of MediSave contributions deducted from your service payment is based on your estimated annual revenue and expenses for the year.</p>
   </div>
 </div>
   <div class="tab">
       <input type="checkbox" id="voluntary">
       <label class="tab-label" for="voluntary">Voluntary CPF Contributions</label>
       <div class="tab-content">
-      <p>Any voluntary CPF contributions made to CPF by the self-employed have to be allocated across all 3 CPF accounts, namely CPF Ordinary Account (OA), Special Account (SA) and MA. The allocation ratios are the same as for employed CPF members.</p>
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-4-financial-planning-tips-for-the-selfemployed/4%20financial%20planning%20tips%20for%20the%20selfemployed.jpg" alt="CPF Contributions" style="width:600px">
-      <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-4-financial-planning-tips-for-the-selfemployed/4%20financial%20planning%20tips%20for%20the%20selfemployed.jpg" alt="CPF Contributions" style="width:600px"></a>
+      <p>Self-Employed Persons can make voluntary contributions to either their MediSave accounts only, or to all three CPF accounts. Please refer to the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation.</p>
+
+<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. The Board must receive the Voluntary Contributions (VCs) by the last working day of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
+
+<p>Once your mandatory and voluntary contributions reach the current CPF Annual Limit, no further VCs can be made. Any VC made in excess of the CPF Annual Limit will be refunded without interest.</p>
+ 
+<p><em>Note: If SEPs’ voluntary contributions to MediSave are less than their MediSave contributions, they will need to top up the difference in cash. They will not be able to transfer their VC from their Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
     </div>
   </div>
     <div class="tab">
       <input type="checkbox" id="why-contribute">
-      <label class="tab-label" for="why-contribute">4 Reasons You Should Make a Voluntary Contribution to CPF</label>
+      <label class="tab-label" for="why-contribute">Why Should You Make Voluntary Contributions to Your CPF Accounts?</label>
       <div class="tab-content">
     <ol>
-     <li>You get to save on taxes:</li>
+     <li>You save on taxes.</li>
      <ul>
-        <li>Based on your Net Trade Income (NTI) assessed and the actual amount of your contribution, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a>) if you contribute to your CPF.</li></ul>
-    <li>You get higher interest rates on your savings in CPF:</li> 
+        <li>Based on your assessed Net Trade Income (NTI) assessed and the actual amount of your contribution, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a> if you contribute to your CPF.</li></ul>
+    <li>You also enjoy higher interest rates on your savings in CPF.</li> 
         <ul>
-          <li>Generally, CPF monies yield higher interest rate compared to banks. For the first $60,000 in your CPF monies (with up to $20,000 from the OA), you will get an additional 1% interest for your CPF monies. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.</li></ul>
-    <li> You can use the monies for housing, retirement, medical or investment:</li>
-        <ul><li>Similar to those employed ones, you would likely have the same housing, retirement and medical needs. It makes more sense to save them in your CPF account to enjoy both tax relief and higher interest rate.</li></ul>
-    <li> Your CPF monies will be free from debtors:</li>
-        <ul><li>As a Self-Employed Person, you may be taking personal liability in your work and risk being sued for Liquidated Damages. Nonetheless, your CPF account is protected from creditors. You will still be able to withdraw your CPF monies as an undischarged bankrupt when you turn 55 or for medical reasons. </li></ul>
+          <li>Generally, CPF accounts yield higher interest rates compared to banks. The first $60,000 of your CPF savings (with up to $20,000 from your Ordinary Account), earn an additional 1% interest. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.</li></ul>
+    <li>  You can use your savings for housing, retirement, healthcare or investment.</li>
+        <ul><li>Just like salaried employees, you would likely have the same housing, retirement and medical needs. Thus, it makes sense to save via your CPF to enjoy both tax relief and higher interest rates.
+</li></ul>
+    <li> Your CPF savings will be free from creditors.</li>
+        <ul><li>As a Self-Employed Person, you may be taking personal liability for your work, and risk being sued for liquidated damages. Nonetheless, your CPF savings are safe from creditors. You will still be able to withdraw your CPF savings as an undischarged bankrupt when you turn 55, or for medical reasons.</li></ul>
       </ol>
-      <p>See also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/News-4-financial-planning-tips-for-the-selfemployed.aspx">4 Financial Planning Tips for the Self-Employed</a></p>
     </div>
   </div>
 </div>
