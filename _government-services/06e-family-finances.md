@@ -313,6 +313,8 @@ Last updated: 29 January 2021
  
 [**BACK TO TOP**](#top)
 
+<hr>
+
 # Give us your feedback
 
 Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
