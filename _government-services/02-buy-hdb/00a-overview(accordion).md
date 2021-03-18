@@ -318,7 +318,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.</p>
       <ol>
-        <li> Seller <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">grants OTP</a>to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
+        <li> Seller <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
         <li> Review purchase during Option Period of 14 days</li>
         <li> Exercise OTP to proceed with the purchase </li>
       </ol>
