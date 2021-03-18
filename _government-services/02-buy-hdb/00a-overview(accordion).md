@@ -345,7 +345,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="documents">
       <label class="tab-label" for="documents">Acknowledge Resale Documents</label>
       <div class="tab-content">  
-      <p>You will be invited by HDB to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)" target="_blank">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
+      <p>You will be invited by HDB to <a href=https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application" target="_blank">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
     </div>
   </div>
   <div class="tab">
