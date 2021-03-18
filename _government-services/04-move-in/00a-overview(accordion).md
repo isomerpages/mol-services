@@ -46,9 +46,9 @@ permalink: /government-services/move-in/
         <li> Check for defects after collection of keys.</li>   
         <ul class="sub-bullet">
           <li>For new flats, you can request for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/moving-in/rectification-work-for-new-flats" target="_blank">rectification works</a> to be done by HDB.</li></ul>
-        <li> <a href="https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">Apply</a> for your renovation permit </li>
-        <li> <a href="https://www.spgroup.com.sg/home" target="_blank">Sign up</a> for utilities account</li>     
-        <li> <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance">Apply</a> for HDB Fire Insurance</li>
+        <li> Apply for your <a href="https://hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/renovation/applying-for-approval" target="_blank">renovation permit</a> </li>
+        <li> Sign up for your <a href="https://www.spgroup.com.sg/home" target="_blank">utilities account</a></li>     
+        <li> Apply for <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/fire-insurance">HDB Fire Insurance</a></li>
       </ol>
     </div>
   </div>
