@@ -98,7 +98,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="finance-hdb">
       <label class="tab-label" for="finance-hdb">Financial Commitment as HDB Flat Owner</label>
       <div class="tab-content">
-      <p>If you are a first-time homebuyer, you should also consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">various payments</a> in your housing budget.</p>
+      <p>If you are a first-time homebuyer, you should also consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">various payments</a> to make for an HDB housing loan, should you require one.</p>
     </div>
   </div>
     <div class="tab">
