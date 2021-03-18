@@ -292,7 +292,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="steps-resale">
       <label class="tab-label" for="steps-resale">Register as a Buyer</label>
       <div class="tab-content">
-      <p>Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
+      <p>Upon registering your <a href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/register-intent-to-buy" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
         <li>Apply for which housing grants</li>
