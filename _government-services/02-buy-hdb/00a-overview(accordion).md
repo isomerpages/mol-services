@@ -204,7 +204,7 @@ permalink: /government-services/buy-hdb/
       <label class="tab-label" for="book">Book Your Preferred Flat Unit</label>
       <div class="tab-content">
       <p>If you have been shortlisted, you will be notified and invited to an <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
-      <p>At this appointment, you will be required to pay a booking fee via NETS. You can also <a href="#grants">apply housing grants</a> if eligible.</p>
+      <p>At this appointment, you will be required to pay a booking fee via NETS. You can also apply for <a href="#grants">housing grants</a> if eligible.</p>
       <p>The <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees">booking fees</a> range from $1000 to $2000 depending on the type of flat you choose.</p>
     </div>
   </div>
