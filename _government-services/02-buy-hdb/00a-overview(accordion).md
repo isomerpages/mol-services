@@ -81,7 +81,7 @@ permalink: /government-services/buy-hdb/
       <a target="_blank" href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
         <img src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" alt="HDB Loan or Bank Loan" style="width:600px">
       </a>
-      <p>Use this <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">1-step Eligibility Checker</a> to know what flat types you can purchase and whether you can take an HDB housing loan.</p>
+      <p>Use this <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">Eligibility Checker</a> to learn what flat types you can purchase and whether you can take an HDB housing loan.</p>
     </div>
   </div>
       <div class="tab">
@@ -98,7 +98,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="finance-hdb">
       <label class="tab-label" for="finance-hdb">Financial Commitment as HDB Flat Owner</label>
       <div class="tab-content">
-      <p>If you are a first-time homebuyer, you should also consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">various payments</a> in your housing budget.</p>
+      <p>If you are a first-time homebuyer, you should also consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">various payments</a> to make for an HDB housing loan, should you require one.</p>
     </div>
   </div>
     <div class="tab">
