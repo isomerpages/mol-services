@@ -81,7 +81,7 @@ permalink: /government-services/buy-hdb/
       <a target="_blank" href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
         <img src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" alt="HDB Loan or Bank Loan" style="width:600px">
       </a>
-      <p>Use this <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">1-step Eligibility Checker</a> to know what flat types you can purchase and whether you can take an HDB housing loan.</p>
+      <p>Use this <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">Eligibility Checker</a> to learn what flat types you can purchase and whether you can take an HDB housing loan.</p>
     </div>
   </div>
       <div class="tab">
