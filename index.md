@@ -4,7 +4,7 @@ title: services.life.gov.sg
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
-description: Making government services accessible to you. 
+description: Making government services accessible to you.  
 notification: This is a new website that we are testing. Do give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a> to help us make it better.
 sections:
     - hero:
@@ -28,9 +28,8 @@ sections:
                 url: /government-services/stay-healthy/
               - title: Plan My Family's Finances
                 url: /government-services/finances/family/
-              - title: Manage My CPF Savings 
-                url: /government-services/manage-cpf/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
+
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
