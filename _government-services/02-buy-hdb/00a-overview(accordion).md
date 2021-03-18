@@ -106,7 +106,7 @@ permalink: /government-services/buy-hdb/
     <label class="tab-label" for="hdb-loan">How to Apply for HDB Housing Loan</label>
     <div class="tab-content">
       <p>Get your <a target="_blank" href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
-      <p><a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">Apply</a> for your Housing Loan Eligibility (HLE) letter before your HDB appointment. </p>
+      <p>Apply for your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
     </div>
   </div>
       <div class="tab">
@@ -329,8 +329,8 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="mode">
       <label class="tab-label" for="mode">Choose Mode of Financing</label>
       <div class="tab-content">
-     <p> After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
-      <p>You can also get a <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks" target="_blank">housing loan from a financial institution (FI)</a>.</p>
+     <p> After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
+      <p>You can also get a <a href="https://www.hdb.gov.sg/residential/buying-a-flat/new/finance/housing-loan-from-banks" target="_blank">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
   <div class="tab">
