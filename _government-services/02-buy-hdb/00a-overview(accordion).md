@@ -224,7 +224,7 @@ permalink: /government-services/buy-hdb/
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       </ul>
-      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a>.</p>
+      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a>.</p>
       </div>
     </div>
       <div class="tab">
