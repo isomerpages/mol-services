@@ -69,7 +69,7 @@ permalink: /government-services/sell-hdb/
       <label class="tab-label" for="budget">Financing Your Next Home</label>
       <div class="tab-content">
     <p>Based on the estimated sales proceeds, you can <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/stepbystep-guide-to-financial-planning/working-out-your-budget">work out your budget</a> for your next home.</p>
-    <p><a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Estimate how much CPF</a> you can use to buy your next home or check your <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">CPF Housing Usage Limit</a> so you do not use up your CPF savings for your home.</p>
+    <p><a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Estimate how much CPF</a> you can use to buy your next home so you do not use up your CPF savings for your home.</p>
 </div>
 </div>
 </div>

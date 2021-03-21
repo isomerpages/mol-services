@@ -106,7 +106,7 @@ permalink: /government-services/buy-hdb/
     <label class="tab-label" for="hdb-loan">How to Apply for HDB Housing Loan</label>
     <div class="tab-content">
       <p>Get your <a target="_blank" href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
-      <p><a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">Apply</a> for your Housing Loan Eligibility (HLE) letter before your HDB appointment. </p>
+      <p>Apply for your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
     </div>
   </div>
       <div class="tab">
@@ -204,7 +204,7 @@ permalink: /government-services/buy-hdb/
       <label class="tab-label" for="book">Book Your Preferred Flat Unit</label>
       <div class="tab-content">
       <p>If you have been shortlisted, you will be notified and invited to an <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
-      <p>At this appointment, you will be required to pay a booking fee via NETS. You can also <a href="#grants">apply housing grants</a> if eligible.</p>
+      <p>At this appointment, you will be required to pay a booking fee via NETS. You can also apply for <a href="#grants">housing grants</a> if eligible.</p>
       <p>The <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees">booking fees</a> range from $1000 to $2000 depending on the type of flat you choose.</p>
     </div>
   </div>
@@ -224,7 +224,7 @@ permalink: /government-services/buy-hdb/
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       </ul>
-      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a>.</p>
+      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a>.</p>
       </div>
     </div>
       <div class="tab">
@@ -292,7 +292,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="steps-resale">
       <label class="tab-label" for="steps-resale">Register as a Buyer</label>
       <div class="tab-content">
-      <p>Upon registering your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
+      <p>Upon registering your <a href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/register-intent-to-buy" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
         <li>Apply for which housing grants</li>
@@ -318,7 +318,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.</p>
       <ol>
-        <li> Seller <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">grants OTP</a>to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
+        <li> Seller <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
         <li> Review purchase during Option Period of 14 days</li>
         <li> Exercise OTP to proceed with the purchase </li>
       </ol>
@@ -329,8 +329,8 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="mode">
       <label class="tab-label" for="mode">Choose Mode of Financing</label>
       <div class="tab-content">
-     <p> After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27MaxLoan/BP27PMax1.jsp" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
-      <p>You can also get a <a href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-banks" target="_blank">housing loan from a financial institution (FI)</a>.</p>
+     <p> After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
+      <p>You can also get a <a href="https://www.hdb.gov.sg/residential/buying-a-flat/new/finance/housing-loan-from-banks" target="_blank">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
   <div class="tab">
@@ -345,7 +345,7 @@ permalink: /government-services/buy-hdb/
       <input type="checkbox" id="documents">
       <label class="tab-label" for="documents">Acknowledge Resale Documents</label>
       <div class="tab-content">  
-      <p>You will be invited by HDB to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-)" target="_blank">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
+      <p>You will be invited by HDB to <a href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application" target="_blank">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
     </div>
   </div>
   <div class="tab">
