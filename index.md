@@ -16,20 +16,20 @@ sections:
             options:
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
+              - title: Move Into an HDB Flat
+                url: /government-services/move-in/
               - title: Sell an HDB Flat
                 url: /government-services/sell-hdb/
-              - title: Move into an HDB Flat
-                url: /government-services/move-in/
               - title: Get Government Benefits
                 url: /government-services/finances/govt-benefits/
               - title: Manage My Healthcare Costs
                 url: /government-services/finances/health-expenses/
-              - title: Stay Healthy
-                url: /government-services/stay-healthy/
               - title: Plan My Family's Finances
                 url: /government-services/finances/family/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
+              - title: Stay Healthy
+                url: /government-services/stay-healthy/
 
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
