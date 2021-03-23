@@ -24,7 +24,7 @@ permalink: /government-services/move-in/
 <li><a href="#tips">Things to Note as an HDB Owner</a></li>
   <ul>
     <li><a href="#financial">Financial Obligations as an HDB Owner</a></li>
-    <li><a href="#cpf">Using CPF for Your home</a></li>
+    <li><a href="#cpf">Using CPF for Your Home</a></li>
   </ul>  
 </ul>
 </div>
@@ -144,7 +144,7 @@ permalink: /government-services/move-in/
 </div>
  <div class="tab">
       <input type="checkbox" id="cpf">
-      <label class="tab-label" for="cpf">Using CPF for Your home</label>
+      <label class="tab-label" for="cpf">Using CPF for Your Home</label>
       <div class="tab-content">
       <p>Before the age of 55, you can use your CPF Ordinary Account savings for <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/cpf-rules-early-repayment">early repayment</a> of your housing loan to balance your housing and retirement needs.</p>
       <p>You may also consider refinancing your HDB housing loan with the bank. However, you will not be able to refinance with HDB subsequently.</p>

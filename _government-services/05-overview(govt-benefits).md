@@ -29,7 +29,7 @@ permalink: /government-services/finances/govt-benefits/
     <li><a href="#tax-calc">Tax Relief Calculator</a></li>
     <li><a href="#annual-calc">Annual Leave Calculator</a></li>
   </ul>
-<li><a href="#claim">How to Apply</a></li>
+<li><a href="#claim">How to File Tax Relief Claims</a></li>
   <ul>
     <li><a href="#submit">Submit Your Claim During eFiling</a></li>
     <li><a href="#changes">Making Changes (After Submission)</a></li>
