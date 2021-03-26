@@ -4,35 +4,32 @@ title: services.life.gov.sg
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
+description: Making government services accessible to you.  
+notification: This is a new website that we are testing. Do give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a> to help us make it better.
 sections:
     - hero:
-        title: Find What You Need
+        title: How Can We Help You Today?
         subtitle: 
         background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
         dropdown:
             title: I Want To...
             options:
-              - title: Get Digitally Ready
-                url: /government-services/get-digitally-ready/overview/
-              - title: Know My Government Benefits
-                url: /government-services/govt-benefits/
               - title: Buy an HDB Flat
                 url: /government-services/buy-hdb/
+              - title: Move Into an HDB Flat
+                url: /government-services/move-in/
               - title: Sell an HDB Flat
                 url: /government-services/sell-hdb/
-              - title: Move Into An HDB Flat
-                url: /government-services/move-in/
+              - title: Get Government Benefits
+                url: /government-services/finances/govt-benefits/
+              - title: Manage My Healthcare Costs
+                url: /government-services/finances/health-expenses/
+              - title: Plan My Family's Finances
+                url: /government-services/finances/family/
               - title: Plan My Legacy
                 url: /government-services/plan-legacy/overview/
               - title: Stay Healthy
                 url: /government-services/stay-healthy/
 
-    - infopic:
-        title: Access Services
-        image: /images/government-services.jpg
-        alt: Download LifeSG Mobile QR code
-        description: On the go
-        button: Install LifeSG app now
-        url: https://go.life.gov.sg/tgzE
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">

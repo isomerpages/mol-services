@@ -1,14 +1,12 @@
 ---
-title: Find What You Need. In One Place.
+title: I Want To...
 permalink: /government-services/overview/
 published: false
 ---
 
 ## I Want To...
 
-Making it easier for you to find government services you may need
 
-# FEATURED
 <style>
 @media
 only screen and (max-width: 760px),
@@ -44,57 +42,15 @@ img {
 <div class="tg-wrap"><table class="tg">
 <tbody>
   <tr>
-  <td class="tg-baqh"><a href="/government-services/govt-benefits/"><img src="/images/govt-benefits.png" alt="Govt Schemes and Benefits"></a></td>
+  <td class="tg-baqh"><a href="/government-services/finances/govt-benefits/"><img src="/images/govt-benefits.png" alt="Govt Schemes and Benefits"></a></td>
   <td class="tg-baqh"><a href="/government-services/stay-healthy/"><img src="/images/09-stay-healthy.png" alt="Stay Healthy"></a></td>
-  <td class="tg-baqh"><a href="/government-services/stay-healthy/#healthcare-expenses"><img src="/images/healthcare-costs.png" alt="manage healthcare costs"></td>
+  <td class="tg-baqh"><a href="/government-services/finances/health-expenses/"><img src="/images/healthcare-costs.png" alt="manage healthcare expenses"></a></td>
   </tr>
 </tbody>
 </table>
 </div>
 
-# COMING SOON
 
-<style>
-@media
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px) {
-  table, th, td {
-    display: block;
-  }
-  table, tr, td {
-    border: none !important;
-  }
-}
-table, tr, td {
-  border: none !important;
-}
-</style>
-
-
-
-<div class="tg-wrap"><table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-baqh"><img src="/images/01-get-employed.png" alt="Employment Support"></td>
-    <td class="tg-baqh"><img src="/images/03-get-married(coming soon).png" alt="Marriage"></td>
-    <td class="tg-baqh"><img src="/images/04-have-baby(coming soon).png" alt="Pregnancy"></td>
-  </tr>
-</tbody>
-</table>
-</div>
-
-<div class="tg-wrap"><table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-bagh"><a href="/government-services/get-digitally-ready/overview/"><img src="/images/06-digitally-ready.png" alt="Digital Readiness"></a></td>
-    <td class="tg-baqh"><a href="/government-services/retirement/"><img src="/images/08-plan-retirement.png" alt="CPF and Retirement"></a></td>
-    <td class="tg-baqh"><a href="/government-services/plan-legacy/overview/"><img src="/images/07-plan-legacy.png" alt="Estate Planning"></a></td>
-  </tr> 
-</tbody>
-</table>
-</div>
-
-
-# Give us your feedback
+<p><b>Give us your feedback</b></p>
 
 Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a>
