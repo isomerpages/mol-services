@@ -402,7 +402,7 @@ Some of the grants include: </p>
 <ul>
   <li><a target="_blank" href="/government-services/govt-benefits/">Get Government Benefits</a></li>
   <li><a target="_blank" href="/government-services/finances/family/">Manage My Family's Finances</a></li>
-  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online calculators</a></li>
+  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online Calculators</a></li>
 </ul>
 
 <hr>

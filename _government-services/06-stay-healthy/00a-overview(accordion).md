@@ -151,7 +151,7 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
 </div>
  <div class="tab">
       <input type="checkbox" id="apply">
-      <label class="tab-label" for="apply">Subsidies that You can Apply For</label>
+      <label class="tab-label" for="apply">Subsidies That You Can Apply For</label>
       <div class="tab-content">
     <p>You can also apply for: </p>
   <ul>
@@ -171,8 +171,6 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
 
 - [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2){:target=“_blank”}
 - [Know Your Government Benefits](/government-services/govt-benefits/){:target=“_blank”}
-- [Plan Your Retirement](/government-services/retirement/){:target=“_blank”}
-- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target=“_blank”}
 
 ---------------------------------------
 
