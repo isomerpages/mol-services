@@ -11,9 +11,9 @@ permalink: /government-services/finances/health-expenses/
   <li><a href="#citizen">What You Can Get As a Singapore Citizen or PR</a></li>
   <ul>
     <li><a href="#medishield">MediShield Life</a></li>
-    <li><a href="#medishield-ip">Integrated Shield Plans(IP) </a></li>
+    <li><a href="#medishield-ip">Integrated Shield Plan(IP) </a></li>
     <li><a href="#medisave">MediSave/Flexi-MediSave for Seniors</a></li>
-    <li><a href="#careshield">CareShield Life</a></li>
+    <li><a href="#careshield">ElderShield/CareShield Life</a></li>
     <li><a href="#chas">Community Health Assist Scheme (CHAS)</a></li>
   </ul>
   <li><a href="#safety">Enhance Your Medical Safety Net</a></li>
@@ -24,7 +24,7 @@ permalink: /government-services/finances/health-expenses/
 </ul>
 </div>
 
-# <a name="citizen"></a> What You Can Get (As a Singapore Citizens or PR)
+# <a name="citizen"></a> What You Can Get (As a Singapore Citizen or PR)
 <div class="mol-accordion">
   <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
@@ -32,7 +32,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="shield-101">
       <label class="tab-label" for="shield-101">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> MediShield Life is a basic health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
+    <p> MediShield Life is a health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
@@ -52,6 +52,7 @@ permalink: /government-services/finances/health-expenses/
       <label class="tab-label" for="shield-apply">Who Is Covered Under MediShield Life?</label>
       <div class="tab-content">
 <p>All Singapore Citizens (SCs) and Permanent Residents (PRs) are automatically covered from birth, or when they attain SC/PR status. There is no need to apply for MediShield Life coverage.</p>
+<p>You can check your personalized MediShield Life premiums <a href="https://www.cpf.gov.sg/esvc/web/schemes/medishieldlifepremiumchecker/cover" target="_blank">here</a>.</p>
       </div>
     </div>
   </div>
@@ -61,7 +62,7 @@ permalink: /government-services/finances/health-expenses/
 
 <div class="mol-accordion">
   <div class="tabs">
-    <h3 id="medishield-ip">Integrated Shield Plans(IP)</h3>
+    <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
       <input type="checkbox" id="shield-ip">
       <label class="tab-label" for="shield-ip">What Is an Integrated Shield Plan (IP)?</label>
@@ -77,9 +78,9 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
         <p>You should consider the following questions when deciding whether to buy an IP:</p>
         <ol>
-        <li><b>Do you wish to stay in private wards and do you wish to choose your own doctor?</b></li>
+        <li><b>Do you need to stay in private wards and do you need to choose your own doctor?</b></li>
         <ul><li> MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-        <li> Integrated Shield Plans provide additional coverage if you prefer to stay in A or B1 Class wards or in private hospitals.</li></ul>
+        <li> Integrated Shield Plans provide additional coverage if you want to stay in A or B1 Class wards or in private hospitals.</li></ul>
         <li><b>Can you afford your Integrated Shield Plan premiums in the long term?</b></li>
         <ul><li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
         <li>Premiums will increase as you get older.</li></ul>
@@ -111,7 +112,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="ip-use">
       <label class="tab-label" for="ip-use">How do IPs Work?</label>
       <div class="tab-content">
-<p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to act as your single point of contact. They will act on the CPF Board’s behalf to collect premium payments and disburse your claims for the MediShield Life component in your IP.</p>
+<p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to act as your single point of contact. They will collect premium payments and disburse your claims for the MediShield Life component in your IP.</p>
 
 </div>
 </div>
@@ -132,7 +133,7 @@ permalink: /government-services/finances/health-expenses/
     </div>
       <div class="tab">
       <input type="checkbox" id="save-use">
-      <label class="tab-label" for="save-use">What You Can Use MediSave For</label>
+      <label class="tab-label" for="save-use">What You Can Use Your MediSave For</label>
       <div class="tab-content">
   <p>You can use your MediSave to pay for your personal/ approved dependants’:</p>
   <ul>
@@ -143,13 +144,13 @@ permalink: /government-services/finances/health-expenses/
         <li>MediSave may also be used to pay for Integrated Shield Plans (IPs) and ElderShield Supplements, up to withdrawal limits.</li>
       </ul>
   </ul>
-<p><em>Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p>
+<p><em>*Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p>
   <p>Learn more about the benefits and considerations on the use of MediSave <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</p>
       </div>
     </div>
     <div class="tab">
       <input type="checkbox" id="save-check">
-      <label class="tab-label" for="save-check">How Much Medisave Can You Withdraw for Your Treatment</label>
+      <label class="tab-label" for="save-check">How Much MediSave Can You Withdraw for Your Treatment</label>
       <div class="tab-content">
 <p>You can withdraw up to the respective MediSave Withdrawal Limits for hospitalisation and outpatient treatments. You can check with your hospital or healthcare provider for more details.​</p>
 
@@ -162,7 +163,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="flexi-save">
       <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under this scheme, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are agedd 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs). Flexi-MediSave may be used in conjunction with other outpatient MediSave schemes, such as MediSave500/700.</p>
+   <p> Under this scheme, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs). Flexi-MediSave may be used in conjunction with other outpatient MediSave schemes, such as MediSave500/700.</p>
 
 <p>It generally covers consultations fees, medical services, drugs and tests necessary for diagnosis or treatment of a medical condition, as ordered by your doctor. However, it does not include dental treatment.</p>
       </div>
@@ -210,7 +211,7 @@ permalink: /government-services/finances/health-expenses/
      <ul>
       <li>Born in <b>1979 or earlier</b></li></ul>
     <p>Your participation in CareShield Life is optional, and you can choose to join CareShield Life from end-2021, regardless of your age, as long as you do not have pre-existing disability.</p>
-    <p> If you are <b>born in between 1970 and 1979 (both inclusive)</b>, insured under ElderShield 400, and are not severely disabled, you will be automatically enrolled in CareShield life in end-2021. However, you can opt out by 31 December 2023 if you do not wish to remain on CareShield Life.
+    <p> If you are <b>born in between 1970 and 1979 (both inclusive)</b>, insured under ElderShield 400, and are not severely disabled, you will be automatically enrolled in CareShield Life in end-2021. However, you can opt out by 31 December 2023 if you do not wish to remain on CareShield Life.
       </p>
   </div>
 </div>
@@ -281,18 +282,18 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
     <p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p>
 <p>NTI is your gross trade income minus all allowable business expenses, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
-<p>Your MediSave contribution depends on your age and annual Net Trade Income (NTI). Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/members/FAQ/schemes/self-employed-scheme/self-employed-matters/FAQDetails?category=self-employed+scheme&group=Self-Employed+Matters&ajfaqid=2188316&folderid=12405">MediSave contribution rates for Self-Employed Persons</a>. </p>
+<p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/members/FAQ/schemes/self-employed-scheme/self-employed-matters/FAQDetails?category=self-employed+scheme&group=Self-Employed+Matters&ajfaqid=2188316&folderid=12405">MediSave contribution rates for Self-Employed Persons</a>. </p>
       </div>
     </div>
           <div class="tab">
       <input type="checkbox" id="sep-contribute">
-      <label class="tab-label" for="sep-contribute">Benefits of Making Medisave Contributions</label>
+      <label class="tab-label" for="sep-contribute">Benefits of Making MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
        <ul>
         <li>Up to 6% interest per annum on your MediSave savings</li>
-        <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
-        <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of$37,740, whichever is lower</li>
+        <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earn an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
+        <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
         <li>Using your MediSave savings for</li>
         <ul class="sub-bullet">
           <li>Healthcare expenses for you and your family</li>
@@ -304,9 +305,9 @@ permalink: /government-services/finances/health-expenses/
     </div>
           <div class="tab">
       <input type="checkbox" id="sep-calc">
-      <label class="tab-label" for="sep-calc">How Much Medisave Contributions Do You Need to Pay?</label>
+      <label class="tab-label" for="sep-calc">How Much MediSave Contributions Do You Need to Pay?</label>
       <div class="tab-content">
-    <p>You can check the amount of Medisave contributions you need to pay, by logging in to My Self-Employed Home using your Singpass.</p>
+    <p>You can check the amount of MediSave contributions you need to make, by logging in to My Self-Employed Home using your Singpass.</p>
  <p>You can apply for your Singpass online if you do not have one.</p>
       </div>
     </div>
@@ -314,7 +315,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="sep-how">
       <label class="tab-label" for="sep-how">How to Contribute to Your MediSave Account</label>
       <div class="tab-content">
-    <p>There are several ways you can contribute to your MediSave. The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).</p>
+    <p>There are several ways you can contribute to your MediSave account. The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).</p>
     <p>The payment options are:</p>
 <table>
 <thead>
@@ -374,7 +375,7 @@ permalink: /government-services/finances/health-expenses/
       <label class="tab-label" for="fam-expenses">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
     <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">reduce your tax bill</a>.</p>
-    <p>You can also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">top up your Medisave</a> up to the Basic Healthcare Sum (currently at $54,500).</p>
+    <p>You can also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">top up your MediSave</a> up to the Basic Healthcare Sum (currently at $54,500).</p>
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
