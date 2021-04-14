@@ -76,7 +76,7 @@ third_nav_title: Manage My Finances
     <p>Under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/housing/housing-scheme">CPF Housing Scheme</a>, you may use your CPF Ordinary Account (OA) savings to:</p>
     <ul>
     <li> Buy an HDB flat </li>
-    <li> Buy or build a private property</li>
+    <li> Buy or build a private residential property</li>
     <li> Pay the housing loan for your property purchase</li>
     <li>Pay the stamp duty and legal fees incurred for your property purchase</li>
   </ul>
@@ -87,7 +87,7 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="education">
       <label class="tab-label" for="education">Pay the Education Fees for Yourself, Your Spouse or Children</label>
       <div class="tab-content">
-    <p>Under the CPF Education Loan Scheme, you may use your CPF Ordinary Account (OA) savings to pay for your own, spouse’s or children’s education fees</p>
+    <p>Under the CPF Education Loan Scheme, you may use your CPF Ordinary Account (OA) savings to pay for your own, spouse’s or children’s education fees.</p>
 <p>Applications to use your CPF savings to pay the education fees for your siblings or relatives will be assessed on a case-by-case basis.</p>
 <p>The student will be required to repay the amount withdrawn plus accrued interest to the payer’s OA in cash,  one year after graduating from or leaving the approved educational institution.
 </p>
@@ -161,7 +161,7 @@ third_nav_title: Manage My Finances
   </div>
   <div class="tab">
       <input type="checkbox" id="caye">
-      <label class="tab-label" for="caye">Contribute-As-You-Earn (CAYE) Scheme</label>
+      <label class="tab-label" for="caye">Contribute-As-You-Earn (CAYE)</label>
       <div class="tab-content">
      <p> Under CAYE, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave savings, and fulfil their MediSave obligations under the Self-Employed Scheme.</p> 
 <p>The amount of MediSave contributions deducted from your service payment is based on your estimated annual revenue and expenses for the year.</p>
@@ -171,13 +171,13 @@ third_nav_title: Manage My Finances
       <input type="checkbox" id="voluntary">
       <label class="tab-label" for="voluntary">Voluntary CPF Contributions</label>
       <div class="tab-content">
-      <p>Self-Employed Persons can make voluntary contributions to either their MediSave accounts only, or to all three CPF accounts. Please refer to the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation.</p>
+      <p>Self-Employed Persons can make voluntary contributions (VC) to either their MediSave Accounts only, or to all three CPF accounts. Please refer to the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation.</p>
 
-<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. The Board must receive the Voluntary Contributions (VCs) by the last working day of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
+<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. The Board must receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
 
 <p>Once your mandatory and voluntary contributions reach the current CPF Annual Limit, no further VCs can be made. Any VC made in excess of the CPF Annual Limit will be refunded without interest.</p>
  
-<p><em>Note: If SEPs’ voluntary contributions to MediSave are less than their MediSave contributions, they will need to top up the difference in cash. They will not be able to transfer their VC from their Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
+<p><em>Note: If SEPs’ VCs to MediSave are less than their MediSave contributions, they will need to top up the difference in cash. They will not be able to transfer their VC from their Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
     </div>
   </div>
     <div class="tab">
@@ -187,7 +187,7 @@ third_nav_title: Manage My Finances
     <ol>
      <li>You save on taxes.</li>
      <ul>
-        <li>Based on your assessed Net Trade Income (NTI) assessed and the actual amount of your contribution, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a> if you contribute to your CPF.</li></ul>
+        <li>Based on your assessed Net Trade Income (NTI) and the actual contributio amount, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a> if you contribute to your CPF.</li></ul>
     <li>You also enjoy higher interest rates on your savings in CPF.</li> 
         <ul>
           <li>Generally, CPF accounts yield higher interest rates compared to banks. The first $60,000 of your CPF savings (with up to $20,000 from your Ordinary Account), earn an additional 1% interest. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.</li></ul>
