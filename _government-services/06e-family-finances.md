@@ -33,7 +33,26 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="dps-101">
       <label class="tab-label" for="dps-101">What is DPS?</label>
       <div class="tab-content">
-<p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members for a <b>maximum sum assured of $70,000 up to 60 years old</b> ($55,000 for those above 60 years old and up to 65 years old) in the event of death, terminal illness or total permanent disability. </p><p>It is automatically extended to all Singaporeans and Permanent Residents when a valid CPF working contribution is first made between 21 and 65 years old.</p> <p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. </p>
+<p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
+<table>
+<thead>
+  <tr>
+    <th><p>Age Group</p></th>
+    <th><p>Maximum Sum Assured</p></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><p>Up to 60 years old</p></td>
+    <td><p>$70000</p></td>
+  </tr>
+  <tr>
+    <td><p>Above 60 years old and up to 65 years old</p></td>
+    <td><p>$55000</p></td>
+  </tr>
+</tbody>
+</table>
+<p>It is automatically extended to all Singaporeans and Permanent Residents when a valid CPF working contribution is first made between 21 and 65 years old.</p> <p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. </p>
 
 <p>DPS is currently solely administered by Great Eastern Life.</p>
 
