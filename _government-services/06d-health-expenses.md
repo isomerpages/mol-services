@@ -15,13 +15,7 @@ permalink: /government-services/finances/health-expenses/
     <li><a href="#medisave">MediSave/Flexi-MediSave for Seniors</a></li>
     <li><a href="#careshield">ElderShield/CareShield Life</a></li>
     <li><a href="#chas">Community Health Assist Scheme (CHAS)</a></li>
-  </ul>
-  <li><a href="#safety">Enhance Your Medical Safety Net</a></li>
-  <ul>
-    <li><a href="#self-employed">For Self-Employed Persons</a></li>
-    <li><a href="#family">For Your Family</a></li>
-  </ul>
-</ul>
+ </ul>
 </div>
 
 # <a name="citizen"></a> What You Can Get (As a Singapore Citizen or PR)
@@ -99,15 +93,17 @@ permalink: /government-services/finances/health-expenses/
 <p>See Also: <a href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx" target="_blank">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
-      <div class="tab">
-      <input type="checkbox" id="ip-check">
-      <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?</label>
+        <div class="tab">
+    <input type="checkbox" id="ip-check">
+    <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?
+</label>
       <div class="tab-content">
 <p>You should consider the following questions when deciding whether to buy an IP.</p>
 
 <p><i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
+
 <ol>
-<li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
+  <li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
   <ul>
     <li>MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
     <li>IP provides additional coverage if you want to stay in an A or B1 Class wards or in private hospitals.</li>
@@ -118,13 +114,13 @@ permalink: /government-services/finances/health-expenses/
     <li>Premiums will increase as you get older.</li>
   </ol>
       </div>
-  </div>
-     <div class="tab">
+    </div>
+         <div class="tab">
       <input type="checkbox" id="ip-use">
-      <label class="tab-label" for="ip-use">How do IPs Work?</label>
+      <label class="tab-label" for="ip-use">How do IPs Work?
+</label>
       <div class="tab-content">
 <p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to act as your single point of contact. They will collect premium payments and disburse your claims for the MediShield Life component in your IP.</p>
-
 </div>
 </div>
   </div>
@@ -433,7 +429,7 @@ Some of the grants include: </p>
 
 <p>Please contact the respective government agencies if you have any questions about the listings on this page. </p> 
 
-<p>Last updated: 29 January 2021</p>
+<p>Last updated: 7 May 2021</p>
  
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 

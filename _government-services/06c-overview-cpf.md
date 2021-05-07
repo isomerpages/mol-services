@@ -13,10 +13,11 @@ permalink: /government-services/manage-cpf/
     <li><a href="#account">CPF Basics</a></li>
     <li><a href="#savings">What You Can Use Your CPF Savings For</a></li>
   </ul>
-<li><a href="#self-employed">CPF Contributions as a Self-Employed Individual</a></li>
+<li><a href="#self-employed">If You Are a Self-Employed Person</a></li>
   <ul>
-    <li><a href="#scheme">Self-Employed Scheme</a></li>
-    <li><a href="#contribution">Mandatory and Voluntary Contributions</a></li>
+    <li><a href="#self-employed">What You Need to Know about CPF Contribution As You Earn (CAYE)</a></li>
+    <li><a href="#mandatory">Mandatory Contributions to Your CPF</a></li>
+    <li><a href="#voluntary">Other Voluntary Contributions</a></li>
   </ul>
 </ul>
 </div>
@@ -121,30 +122,24 @@ permalink: /government-services/manage-cpf/
 [**BACK TO TOP**](#top)
 
 
-# <a name="self-employed"></a>CPF Contributions as a Self-Employed Person
+# <a name="self-employed"></a>If You are a Self-Employed Person (SEP)
 
 <div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="self-employed">
-      <label class="tab-label" for="self-employed">What You Need to Know about CPF as Self-Employed Person</label>
+      <label class="tab-label" for="self-employed">What You Need to Know about CPF Contribution As You Earn (CAYE)</label>
       <div class="tab-content">
-      <p>If you own a business, work for yourself and are in the position to realise a business profit or loss, you are considered a Self-Employed Person (SEP). As you do not receive regular MediSave contributions from employers, it is important to contribute regularly to MediSave to ensure you have sufficient savings for future healthcare needs. You can also make voluntary contributions to your other CPF accounts under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/self-employed-matters">Self-Employed Scheme</a>.</p>
+      <p>If you own a business, work for yourself and are in the position to realise a business profit or loss, you are considered a Self-Employed Person (SEP). </p>
+      <p>As you do not receive regular MediSave contributions from employers, it is important to contribute regularly to MediSave to ensure you have sufficient savings for future healthcare needs. You can also make voluntary contributions to your other CPF accounts under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/self-employed-matters">Self-Employed Scheme</a>.</p>
     </div>
   </div>
-  <div class="tab">
-      <input type="checkbox" id="calc">
-      <label class="tab-label" for="calc">How Much Do You Need to Contribute to MediSave?</label>
-      <div class="tab-content">
-      <p>Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to find out how much you need to contribute.</p>
-</div>
-</div>
 </div>
 </div>
 
 [**BACK TO TOP**](#top)
 
-### <a name="contribution"></a>Mandatory and Voluntary Contributions 
+### <a name="mandatory"></a>Mandatory Contributions to Your CPF as SEP
 
 <div class="mol-accordion">
   <div class="tabs">
@@ -157,23 +152,31 @@ permalink: /government-services/manage-cpf/
   </div>
   <div class="tab">
       <input type="checkbox" id="caye">
-      <label class="tab-label" for="caye">Contribute-As-You-Earn (CAYE)</label>
+      <label class="tab-label" for="caye">How Much You Need to Contribute</label>
       <div class="tab-content">
      <p> Under CAYE, a MediSave contribution is required as and when a Self-Employed Person (SEP) earns a service payment. This is a hassle-free way to help SEPs grow their MediSave savings, and fulfil their MediSave obligations under the Self-Employed Scheme.</p> 
-<p>The amount of MediSave contributions deducted from your service payment is based on your estimated annual revenue and expenses for the year.</p>
+<p>The amount of MediSave contributions deducted from your service payment is based on your estimated annual revenue and expenses for the year. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to find out how much you need to contribute.</p></p>
   </div>
 </div>
+</div>
+</div>
+
+### <a name="voluntary"></a>Other Voluntary Contributions 
+
+<div class="mol-accordion">
   <div class="tab">
       <input type="checkbox" id="voluntary">
-      <label class="tab-label" for="voluntary">Voluntary CPF Contributions</label>
+      <label class="tab-label" for="voluntary">Voluntary CPF Contributions as a Self Employed Person (SEP)</label>
       <div class="tab-content">
-      <p>Self-Employed Persons can make voluntary contributions (VC) to either their MediSave Accounts only, or to all three CPF accounts. Please refer to the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation.</p>
+      <p>As a SEP, you can make voluntary contributions (VC) to either your MediSave Accounts only, or to all three CPF accounts.</p>
+      
+  <p>Use the<a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or refer to the<a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation. </p>
 
-<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. CPF must receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
+<p>Your total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. CPF must also receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
 
 <p>Once your mandatory and voluntary contributions reach the current CPF Annual Limit, no further VCs can be made. Any VCs made in excess of the CPF Annual Limit will be refunded without interest.</p>
  
-<p><em>Note: If SEPs’ VCs to MediSave are less than their MediSave contributions, you will need to top up the difference in cash. You will not be able to transfer your VC from your Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
+<p><em>Note: If your VCs to MediSave are less than your required MediSave contributions, you will need to top up the difference in cash. You will not be able to transfer your VC from your Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
     </div>
   </div>
     <div class="tab">
@@ -196,17 +199,14 @@ permalink: /government-services/manage-cpf/
     </div>
   </div>
 </div>
-</div>
+
 
 [**BACK TO TOP**](#top) 
 
 ---------------------------------------
 **You may also be interested in:**
 
-  - [Making Sense of Your Money](https://www.moneysense.gov.sg/starter-packs/making-sense-of-your-money){:target="_blank"}
-  - [Buying An HDB Flat](/government-services/buy-HDB/){:target="_blank"}
-  - [Planning for Retirement](/government-services/retirement/){:target="_blank"}
-  - [Getting Tax Reliefs](https://services.life.gov.sg/government-services/govt-benefits/#parent-tax-reliefs){:target="_blank"}
+  - [MoneySense Article: Making Sense of Your Money](https://www.moneysense.gov.sg/starter-packs/making-sense-of-your-money){:target="_blank"}
 
 ---------------------------------------
 
@@ -214,7 +214,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 14 January 2021
+Last updated: 7 May 2021
  
 [**BACK TO TOP**](#top)
 
