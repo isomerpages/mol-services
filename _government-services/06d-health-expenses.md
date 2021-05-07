@@ -103,9 +103,9 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="ip-check">
       <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-<p>You should consider the following questions when deciding whether to buy an IP.
+<p>You should consider the following questions when deciding whether to buy an IP.</p>
 
-<i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
+<p><i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
 <ol>
 <li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
   <ul>
