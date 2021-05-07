@@ -1,8 +1,6 @@
 ---
 title: Manage My CPF Savings
 permalink: /government-services/manage-cpf/
-third_nav_title: Manage My Finances
-
 ---
 
 ## <a name="top"></a>I Want to Manage My CPF Savings
@@ -101,7 +99,7 @@ third_nav_title: Manage My Finances
 </div>
    <div class="tab">
       <input type="checkbox" id="medical">
-      <label class="tab-label" for="medical">Pay for Medical Expenses</label>
+      <label class="tab-label" for="medical">Pay for Medical Fees</label>
       <div class="tab-content">
     <p>There is a range of CPF healthcare schemes to safeguard you and your loved ones should any of you need hospitalisation or other forms of healthcare assistance in different stages of life.</p>
     <ul>
@@ -123,15 +121,13 @@ third_nav_title: Manage My Finances
 [**BACK TO TOP**](#top)
 
 
-# <a name="self-employed"></a>CPF Contributions as a Self-Employed Individual
-
-### <a name="scheme"></a>Self-Employed Scheme
+# <a name="self-employed"></a>CPF Contributions as a Self-Employed Person
 
 <div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
       <input type="checkbox" id="self-employed">
-      <label class="tab-label" for="self-employed">About the Self-Employed Scheme</label>
+      <label class="tab-label" for="self-employed">What You Need to Know about CPF as Self-Employed Person</label>
       <div class="tab-content">
       <p>If you own a business, work for yourself and are in the position to realise a business profit or loss, you are considered a Self-Employed Person (SEP). As you do not receive regular MediSave contributions from employers, it is important to contribute regularly to MediSave to ensure you have sufficient savings for future healthcare needs. You can also make voluntary contributions to your other CPF accounts under the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/self-employed-scheme/self-employed-matters">Self-Employed Scheme</a>.</p>
     </div>
@@ -173,11 +169,11 @@ third_nav_title: Manage My Finances
       <div class="tab-content">
       <p>Self-Employed Persons can make voluntary contributions (VC) to either their MediSave Accounts only, or to all three CPF accounts. Please refer to the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation.</p>
 
-<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. The Board must receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
+<p>The total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. CPF must receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
 
-<p>Once your mandatory and voluntary contributions reach the current CPF Annual Limit, no further VCs can be made. Any VC made in excess of the CPF Annual Limit will be refunded without interest.</p>
+<p>Once your mandatory and voluntary contributions reach the current CPF Annual Limit, no further VCs can be made. Any VCs made in excess of the CPF Annual Limit will be refunded without interest.</p>
  
-<p><em>Note: If SEPs’ VCs to MediSave are less than their MediSave contributions, they will need to top up the difference in cash. They will not be able to transfer their VC from their Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
+<p><em>Note: If SEPs’ VCs to MediSave are less than their MediSave contributions, you will need to top up the difference in cash. You will not be able to transfer your VC from your Ordinary or Special Accounts to meet the MediSave shortfall. </em> </p>
     </div>
   </div>
     <div class="tab">
@@ -187,7 +183,7 @@ third_nav_title: Manage My Finances
     <ol>
      <li>You save on taxes.</li>
      <ul>
-        <li>Based on your assessed Net Trade Income (NTI) and the actual contributio amount, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a> if you contribute to your CPF.</li></ul>
+        <li>Based on your assessed Net Trade Income (NTI) and the actual contribution amount, you can get <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF--Central-Provident-Fund--Relief-for-Self-Employed/">tax relief</a> if you contribute to your CPF.</li></ul>
     <li>You also enjoy higher interest rates on your savings in CPF.</li> 
         <ul>
           <li>Generally, CPF accounts yield higher interest rates compared to banks. The first $60,000 of your CPF savings (with up to $20,000 from your Ordinary Account), earn an additional 1% interest. That means you get 3.5% to 5% interest, compared to as low as 0.05% interest in bank accounts.</li></ul>

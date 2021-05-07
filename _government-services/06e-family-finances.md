@@ -34,6 +34,8 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="dps-101">What is DPS?</label>
       <div class="tab-content">
 <p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
+
+<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
 <table>
 <thead>
   <tr>
@@ -52,9 +54,6 @@ permalink: /government-services/finances/family/
   </tr>
 </tbody>
 </table>
-<p>It is automatically extended to all Singaporeans and Permanent Residents when a valid CPF working contribution is first made between 21 and 65 years old.</p> <p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. </p>
-
-<p>DPS is currently solely administered by Great Eastern Life.</p>
 
 </div>
     </div>
@@ -62,7 +61,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="eligibility">
       <label class="tab-label" for="eligibility">How to Apply</label>
       <div class="tab-content">
-  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) when a valid CPF working contribution is first made between 21 and 65 years old. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through my cpf Online Services: Simply login via Singpass and select “My Messages”.</p>
+  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) when a valid CPF working contribution is first made between 21 and 65 years old. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>. Simply log in via your Singpass and select “My Messages”.</p>
       <p>If you are 16 years old and above and have not been offered automatic coverage, you can apply to join DPS with <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
       </div>
     </div>
@@ -71,7 +70,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="benefits">Why You Need DPS</label>
       <div class="tab-content">
   <p>If you are working and have dependants relying on your income, DPS provides affordable basic protection for your family with no out-of-pocket cash required, as DPS premiums can be paid using your CPF savings.</p>
-  <p>However, as DPS premiums becomes more expensive with age, you should consider may if younot currently require need a DPS cover. For example, you may not require DPS if:</p>
+  <p>However, as DPS premiums becomes more expensive with age, you should consider if you currently need a DPS cover. For example, you may not require DPS if:</p>
   <ul>
     <li>Your dependants have already grown up and/or are financially independent.</li>
     <li>You have built up enough savings which could be passed on to your dependants directly in times of need.</li>
@@ -209,7 +208,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-contribute">
       <label class="tab-label" for="rstu-contribute">Contributing to Your Loved Ones' Retirement</label>
       <div class="tab-content">
-    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps your parents/grandparents grow their retirement savings when you top up their CPF Special Accounts (if they are below age 55) or CPF Retirement Accounts (if they are aged 55 and above).</p>
+    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps your seniors and loved ones grow their retirement savings when you top up their CPF Special Accounts (if they are below age 55) or CPF Retirement Accounts (if they are aged 55 and above).</p>
     <ul>
       <li>Savings accumulated in your parents/grandparents’ CPF Special Accounts (SA) or Retirement Accounts (RA) will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF Life once they reach their Payout Eligibility Age.</li>
     </ul>
@@ -234,7 +233,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
       <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png"> <img src="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png" alt="RSTU Transfer" style="width:600px;">
       </a>
- <p>Learn how you can contribute to your CPF in this <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
+ <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
       </div>
     </div>
   </div>

@@ -51,7 +51,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="shield-apply">
       <label class="tab-label" for="shield-apply">Who Is Covered Under MediShield Life?</label>
       <div class="tab-content">
-<p>All Singapore Citizens (SCs) and Permanent Residents (PRs) are automatically covered from birth, or when they attain SC/PR status. There is no need to apply for MediShield Life coverage.</p>
+<p>All Singapore Citizens (SCs) and Permanent Residents (PRs) are automatically covered from birth, or when you attain SC/PR status. There is no need to apply for MediShield Life coverage.</p>
 <p>You can check your personalized MediShield Life premiums <a href="https://www.cpf.gov.sg/esvc/web/schemes/medishieldlifepremiumchecker/cover" target="_blank">here</a>.</p>
       </div>
     </div>
@@ -65,7 +65,7 @@ permalink: /government-services/finances/health-expenses/
     <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
       <input type="checkbox" id="shield-ip">
-      <label class="tab-label" for="shield-ip">What Is an Integrated Shield Plan (IP)?</label>
+      <label class="tab-label" for="shield-ip">What is an Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
 <p>An IP consists of 2 components: MediShield Life, and an additional, private insurance component provided by a private insurer. Thus, IPs provide optional additional coverage if you seek treatment in higher ward classes beyond B2/C wards. </p>
 <br>
@@ -94,18 +94,29 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
   <p>When choosing an IP, make sure you understand the differences in coverage, premiums, and claim limits.</p>
 
-<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a comparison of IPs.</p>
+<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs.</a></p>
 
 <p>See Also: <a href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx" target="_blank">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
-    <div class="tab">
+      <div class="tab">
       <input type="checkbox" id="ip-check">
-      <label class="tab-label" for="ip-check">Check If You Have an IP</label>
+      <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-<p>If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</p>
-<ul>
-<li> Log on to <a target="blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/WelcomePage">my cpf Portal</a> (Singpass required) > <em>My Messages</em> > <em>Healthcare</em></li></ul>
+<p>You should consider the following questions when deciding whether to buy an IP.
+
+<i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
+<ol>
+<li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
+  <ul>
+    <li>MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
+    <li>IP provides additional coverage if you want to stay in an A or B1 Class wards or in private hospitals.</li>
+  </ul>
+<li> Can you afford your Integrated Shield Plan premiums in the long term?</li>
+  <ul>
+    <li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
+    <li>Premiums will increase as you get older.</li>
+  </ol>
 </div>
 </div>
      <div class="tab">
@@ -135,7 +146,10 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="save-use">
       <label class="tab-label" for="save-use">What You Can Use Your MediSave For</label>
       <div class="tab-content">
-  <p>You can use your MediSave to pay for your personal/ approved dependants’:</p>
+  <p>You can use your MediSave to pay for your personal/ approved dependants*:</p>
+
+  <p><em>*Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p>
+
   <ul>
     <li>Hospitalisation, day surgery and certain costly outpatient expenses, as well as healthcare needs in old age.</li>
     <li>Health insurance premiums</li>
@@ -144,7 +158,7 @@ permalink: /government-services/finances/health-expenses/
         <li>MediSave may also be used to pay for Integrated Shield Plans (IPs) and ElderShield Supplements, up to withdrawal limits.</li>
       </ul>
   </ul>
-<p><em>*Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p>
+
   <p>Learn more about the benefits and considerations on the use of MediSave <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</p>
       </div>
     </div>
@@ -156,7 +170,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p>Learn more about the MediSave Withdrawal Limits <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave" target="_blank">here</a>.</p>
 
-<p>The MediSave / MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a href="https://www.cpf.gov.sg/members/tools/calculators" target="_blank">here</a>.</p>
+<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a href="https://www.cpf.gov.sg/members/tools/calculators" target="_blank">here</a>.</p>
       </div>
     </div>
       <div class="tab">
@@ -213,13 +227,7 @@ permalink: /government-services/finances/health-expenses/
     <p>Your participation in CareShield Life is optional, and you can choose to join CareShield Life from end-2021, regardless of your age, as long as you do not have pre-existing disability.</p>
     <p> If you are <b>born in between 1970 and 1979 (both inclusive)</b>, insured under ElderShield 400, and are not severely disabled, you will be automatically enrolled in CareShield Life in end-2021. However, you can opt out by 31 December 2023 if you do not wish to remain on CareShield Life.
       </p>
-  </div>
-</div>
-    <div class="tab">
-      <input type="checkbox" id="care-apply">
-      <label class="tab-label" for="care-apply">Where Can I Go for More Information?</label>
-      <div class="tab-content">
-<p> You can visit the CareShield Life website at <a href="https://www.careshieldlife.gov.sg/home.html" target="_blank"> careshieldlife.gov.sg</a>.</p>
+<p> For more information, visit <a href="https://www.careshieldlife.gov.sg/home.html" target="_blank"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
   </div>
@@ -292,7 +300,7 @@ permalink: /government-services/finances/health-expenses/
        <p>When you contribute to MediSave, you enjoy:</p>
        <ul>
         <li>Up to 6% interest per annum on your MediSave savings</li>
-        <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earn an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
+        <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
         <li>Using your MediSave savings for</li>
         <ul class="sub-bullet">
@@ -300,7 +308,7 @@ permalink: /government-services/finances/health-expenses/
             <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
       </ul>
-      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. Find out more on WIS <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">here</a>.</p>
+      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">WIS scheme</a>.</p>
       </div>
     </div>
           <div class="tab">
@@ -327,10 +335,23 @@ permalink: /government-services/finances/health-expenses/
 <tbody>
   <tr>
     <td><p>GIRO:</p></td>
-    <td><p>Using my cpf Online Services:</p><ol><li> Log in with your Singpass.</li><li>Submit the “<a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" target="_blank" rel="noopener noreferrer">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li><li> Check the status of your GIRO application via My Activities.</li></ol><p>Mail:</p><ol><li> Download and complete the "<a href="https://www.cpf.gov.sg/Assets/members/Documents/FORM_GIROSE_VC.pdf" target="_blank" rel="noopener noreferrer">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form.            </li><li> Mail it to the address printed overleaf of the GIRO application form.</li><li> We will notify you of your GIRO application status once the bank has processed it.</li></ol></td>
+    <td><p>Using <em>my cpf</em> Online Services:</p>
+    <ol>
+      <li> Log in with your Singpass.</li>
+      <li>Submit the “<a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" target="_blank" rel="noopener noreferrer">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li>
+      <li> Check the status of your GIRO application via My Activities.</li>
+    </ol>
+<p>Mail:</p>
+<ol>
+  <li>Download and complete the "<a href="https://www.cpf.gov.sg/Assets/members/Documents/FORM_GIROSE_VC.pdf" target="_blank" rel="noopener noreferrer">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form.            </li>
+  <li> Mail it to the address printed overleaf of the GIRO application form.</li>
+  <li> We will notify you of your GIRO application status once the bank has processed it.</li>
+</ol>
+</td>
   </tr>
   <tr>
-    <td><p><a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">e-Cashier</a>:</p></td>
+    <td><p><a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF e-Cashier</a>:</p>
+    </td>
     <td><p>PayNow eNETS Debit – payment by Citibank, DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</p></td>
   </tr>
   <tr>
@@ -342,9 +363,9 @@ permalink: /government-services/finances/health-expenses/
 <p>The service standards for processing electronic payments are as follows:</p>
 <ul><li>Via PayNow QR: Payment will be processed almost immediately</li>
   <li>Via eNETS Debit: Payment will be processed within the next working day.</li></ul>
-  <p>Log in with your Singpass to check the transaction status:</p>
-  <ul><li>Check that your MediSave contribution is reflected in My Statement, or</li>
-    <li>Check the transaction status under My Activities (if you paid via e-Cashier)</li></ul>
+  <p>You can also log into <em>my CPF</em> Online Services with your Singpass to check the transaction status:</p>
+  <ul><li>Confirm whether your MediSave contribution is reflected in <b><em>My Statement</em></b>, or</li>
+    <li>Check the transaction status under <b><em>My Activities</em></b> (if you paid via e-Cashier)</li></ul>
     </div>
   </div>
     <div class="tab">
