@@ -117,8 +117,8 @@ permalink: /government-services/finances/health-expenses/
     <li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
     <li>Premiums will increase as you get older.</li>
   </ol>
-</div>
-</div>
+      </div>
+  </div>
      <div class="tab">
       <input type="checkbox" id="ip-use">
       <label class="tab-label" for="ip-use">How do IPs Work?</label>
