@@ -7,13 +7,13 @@ permalink: /government-services/plan-legacy/overview/
 
 We all want to leave the best for our family after our time ends on this world. 
 
-Here are some resources to help you plan ahead to make it easier for your family as you near the end of life.
+Here are some resources you might need:
 
 
-### [Getting Started](/government-services/plan-my-legacy/plan-ahead/)
+### [End Of Life Planning](https://www.mylegacy.gov.sg/end-of-life-planning/)
 
 
-### [Organising your important documents](/government-services/plan-my-legacy/important-documents/)
+### [When You Lose Your Loved One](https://www.mylegacy.gov.sg/when-death-happens/)
 
 
 

@@ -8,10 +8,7 @@ collections:
     output: true
   government-services:
     output: true
-  plan-my-legacy:
-    output: true
-  get-digitally-ready:
-    output: true
+
 
 resources_name: media-centre
 
@@ -55,5 +52,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+description: LifeSG Beta site 
 
