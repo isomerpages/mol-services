@@ -15,8 +15,16 @@ permalink: /government-services/finances/health-expenses/
     <li><a href="#medisave">MediSave/Flexi-MediSave for Seniors</a></li>
     <li><a href="#careshield">ElderShield/CareShield Life</a></li>
     <li><a href="#chas">Community Health Assist Scheme (CHAS)</a></li>
- </ul>
+  </ul>
+    <li><a href="#safetynet">How You Can Make Sure You Have Enough for Medical Expenses</a></li>
+  <ul>
+    <li><a href="#sep">As a Self-Employed Person (SEP)</a></li>
+    <li><a href="#family">As a Caregiver to Your Family and Loved Ones</a></li>
+  </ul>
+  </ul>
 </div>
+
+
 
 # <a name="citizen"></a> What You Can Get (As a Singapore Citizen or PR)
 <div class="mol-accordion">
@@ -98,37 +106,33 @@ permalink: /government-services/finances/health-expenses/
     <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?
 </label>
       <div class="tab-content">
-<p>You should consider the following questions when deciding whether to buy an IP.</p>
-
-<p><i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
-
-<ol>
-  <li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
-  <ul>
-    <li>MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-    <li>IP provides additional coverage if you want to stay in an A or B1 Class wards or in private hospitals.</li>
-  </ul>
-<li> Can you afford your Integrated Shield Plan premiums in the long term?</li>
-  <ul>
-    <li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
-    <li>Premiums will increase as you get older.</li>
-  </ol>
+        <p>You should consider the following questions when deciding whether to buy an IP.</p><br><i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
+          <ol>
+            <li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
+            <ul>
+              <li>MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
+              <li>IP provides additional coverage if you want to stay in an A or B1 Class wards or in private hospitals.</li>
+            </ul>
+            <li> Can you afford your Integrated Shield Plan premiums in the long term?</li>
+            <ul>
+              <li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
+              <li>Premiums will increase as you get older.</li>
+            </ul>
+          </ol></p>
       </div>
-    </div>
          <div class="tab">
       <input type="checkbox" id="ip-use">
-      <label class="tab-label" for="ip-use">How do IPs Work?
-</label>
+      <label class="tab-label" for="ip-use">How do IPs Work?</label>
       <div class="tab-content">
 <p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to act as your single point of contact. They will collect premium payments and disburse your claims for the MediShield Life component in your IP.</p>
-</div>
+  </div>
 </div>
   </div>
 </div>
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<div class="mol-accordion">
+
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
       <div class="tab">
@@ -276,10 +280,10 @@ permalink: /government-services/finances/health-expenses/
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-<h1 id="safety"> Ways to Enhance Your Medical Safety Net</h1>
+<h1 id="safetynet">How You Can Make Sure You Have Enough for Medical Expenses</h1>
 <div class="mol-accordion">
   <div class="tabs">
-    <h3 id="self-employed">For Self-Employed Persons (SEP)</h3>
+    <h3 id="sep">As a Self-Employed Person (SEP)</h3>
       <div class="tab">
       <input type="checkbox" id="sep-medisave">
       <label class="tab-label" for="sep-medisave">Contribute to Your MediSave Account</label>
@@ -291,7 +295,7 @@ permalink: /government-services/finances/health-expenses/
     </div>
           <div class="tab">
       <input type="checkbox" id="sep-contribute">
-      <label class="tab-label" for="sep-contribute">Benefits of Making MediSave Contributions</label>
+      <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
        <ul>
@@ -309,7 +313,7 @@ permalink: /government-services/finances/health-expenses/
     </div>
           <div class="tab">
       <input type="checkbox" id="sep-calc">
-      <label class="tab-label" for="sep-calc">How Much MediSave Contributions Do You Need to Pay?</label>
+      <label class="tab-label" for="sep-calc">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
     <p>You can check the amount of MediSave contributions you need to make, by logging in to My Self-Employed Home using your Singpass.</p>
  <p>You can apply for your Singpass online if you do not have one.</p>
@@ -386,7 +390,7 @@ permalink: /government-services/finances/health-expenses/
 
 <div class="mol-accordion">
   <div class="tabs">
-    <h3 id="family">For Your Family</h3>
+    <h3 id="family">As a Caregiver to Your Family and Loved Ones</h3>
       <div class="tab">
       <input type="checkbox" id="fam-expenses">
       <label class="tab-label" for="fam-expenses">Grow Your Family’s Medical Expenses</label>
@@ -418,9 +422,9 @@ Some of the grants include: </p>
 <p><strong>You may also be interested in:</strong></p>
 
 <ul>
-  <li><a target="_blank" href="/government-services/govt-benefits/">Get Government Benefits</a></li>
+  <li><a target="_blank" href="/government-services/finances/govt-benefits/">Get Government Benefits</a></li>
   <li><a target="_blank" href="/government-services/finances/family/">Manage My Family's Finances</a></li>
-  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online Calculators</a></li>
+  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online Tools</a></li>
 </ul>
 
 <hr>
