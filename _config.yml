@@ -3,11 +3,6 @@ url: "https://services.life.gov.sg" # the base hostname & protocol for your site
 favicon: /images/lifesg_fav.ico
 google_analytics: UA-163259628-3
 
-collections:
-  life-events:
-    output: true
-  government-services:
-    output: true
 
 
 resources_name: media-centre
@@ -47,10 +42,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: LifeSG Beta site 
+
+staging: https://mol-services-staging.netlify.app
+prod: https://mol-services-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: LifeSG Beta site 
-
+  - jekyll-remote-theme
