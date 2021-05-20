@@ -96,7 +96,6 @@ permalink: /government-services/finances/health-expenses/
     </div>
         <div class="tab">
       <input type="checkbox" id="ip-choice">
-      [ ]
       <label class="tab-label" for="ip-choice">What Should You Consider When Choosing an IP?
 </label>
       <div class="tab-content">
