@@ -1,7 +1,6 @@
 ---
 title: Manage My Healthcare Costs
 permalink: /government-services/finances/health-expenses/
-published: false
 ---
 
 ## <a name="top"></a>I Want to Manage My Healthcare Costs
@@ -83,15 +82,21 @@ published: false
         <ol>
         <li><b>Do you need to stay in private wards and do you need to choose your own doctor?</b></li>
         <ul><li> MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-        <li> Integrated Shield Plans provide additional coverage if you want to stay in A or B1 Class wards or in private hospitals.</li></ul>
+        <li> Integrated Shield Plans (IP) provide additional coverage if you want to stay in A or B1 Class wards or in private hospitals.</li></ul>
         <li><b>Can you afford your Integrated Shield Plan premiums in the long term?</b></li>
-        <ul><li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
-        <li>Premiums will increase as you get older.</li></ul>
-      </ol>
+          <ul>
+            <li>The additional private insurance coverage component premiums could be up to 4 times of your MediShield Life premiums, when you are in your 80s.</li>
+            <li>Premiums will increase as you get older. You will need to ensure you can afford the higher premiums especially at older ages when you have stopped working.</li>
+            <li>IP premiums above the Additional Withdrawal Limits (AWLs) <a href="#footnote-1">[1]</a>  will have to be paid in cash. You will need to consider whether you can afford to top up the difference in cash, especially at older ages when you have stopped working.</li>
+          </ul>
+<i><p id="footnote-1">[1] AWLs refer to the maximum amount of MediSave that can be used to pay for the additional private insurance coverage component. The excess premiums above AWLs are payable in cash.</p>
+<p><img src="/images/MSHL premium AWL (2015).png" alt="AWLs for IP policyholders">Source: <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-faqs#awl">MOH</a></p></i>
+</ol>
       </div>
     </div>
         <div class="tab">
       <input type="checkbox" id="ip-choice">
+      [ ]
       <label class="tab-label" for="ip-choice">What Should You Consider When Choosing an IP?
 </label>
       <div class="tab-content">
@@ -102,25 +107,6 @@ published: false
 <p>See Also: <a href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx" target="_blank">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
-        <div class="tab">
-    <input type="checkbox" id="ip-check">
-    <label class="tab-label" for="ip-check">Should you get an Integrated Shield Plan (IP)?
-</label>
-      <div class="tab-content">
-        <p>You should consider the following questions when deciding whether to buy an IP.</p><br><i>Note: If you are not sure if you already have an Integrated Shield plan, you can check on the CPF Board website.</i></p>
-          <ol>
-            <li> Do you need to stay in private wards and do you need to choose your own doctor?<</li>
-            <ul>
-              <li>MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-              <li>IP provides additional coverage if you want to stay in an A or B1 Class wards or in private hospitals.</li>
-            </ul>
-            <li> Can you afford your Integrated Shield Plan premiums in the long term?</li>
-            <ul>
-              <li>As an Integrated Shield Plan provides additional private insurance coverage, premiums will be higher than MediShield Life.</li>
-              <li>Premiums will increase as you get older.</li>
-            </ul>
-          </ol></p>
-      </div>
          <div class="tab">
       <input type="checkbox" id="ip-use">
       <label class="tab-label" for="ip-use">How do IPs Work?</label>
@@ -133,7 +119,7 @@ published: false
 
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
-
+<div class="mol-accordion">
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
       <div class="tab">
@@ -178,7 +164,11 @@ published: false
       <input type="checkbox" id="flexi-save">
       <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under this scheme, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs). Flexi-MediSave may be used in conjunction with other outpatient MediSave schemes, such as MediSave500/700.</p>
+   <p> Under <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Healthcare/MediSave/FAQDetails?category=Healthcare&group=MediSave&folderid=13015&ajfaqid=2189521" target="_blank">this scheme</a>, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. </p>
+   
+   <p> The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs).</p>
+   
+   <p>Flexi-MediSave may be used in conjunction with other outpatient MediSave schemes, such as MediSave500/700.</p>
 
 <p>It generally covers consultations fees, medical services, drugs and tests necessary for diagnosis or treatment of a medical condition, as ordered by your doctor. However, it does not include dental treatment.</p>
       </div>
