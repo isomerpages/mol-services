@@ -182,9 +182,9 @@ permalink: /government-services/sell-hdb/
 ---------------------------------------
 **You may also be interested in:**
 
-- [Step-by-Step Guide to Sell an HDB Flat](/government-services/selling-a-hdb/overview/){:target="_blank"} 
 - [Buy an HDB Flat](/government-services/buy-hdb/){:target="_blank"} 
 - [Move into an HDB Flat](/government-services/move-in/){:target="_blank"} 
+- [Managing the Sale of Your Flat yourself](https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/getting-started/managing-the-sale-of-your-flat){:target="_blank"} 
 
 ---------------------------------------
 
