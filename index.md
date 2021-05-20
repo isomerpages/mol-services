@@ -22,16 +22,7 @@ sections:
                 url: /government-services/sell-hdb/
               - title: Get Government Benefits
                 url: /government-services/finances/govt-benefits/
-              - title: Manage My CPF Savings
-                url: /government-services/manage-cpf/
-              - title: Manage My Healthcare Costs
-                url: /government-services/finances/health-expenses/
-              - title: Plan My Family's Finances
-                url: /government-services/finances/family/
-              - title: Plan My Legacy
-                url: https://www.mylegacy.gov.sg/
-              - title: Stay Healthy
-                url: /government-services/stay-healthy/
+
 
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
