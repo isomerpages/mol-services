@@ -382,7 +382,7 @@ permalink: /government-services/buy-hdb/
 
   - [Sell an HDB Flat](/government-services/sell-hdb/){:target="_blank"}
   - [Move Into an HDB Flat](/government-services/move-in/){:target="_blank"}
-  - [Step-by-Step Guide to Buy an HDB Flat](/government-services/buying-a-hdb/overview/){:target="_blank"}
+  - [Housing options, policies and procedures for first-timers](https://www.youtube.com/watch?v=SehCuUSSdgo&list=PLhySiLSCu8FjpZY-kqVB36XNoa8GlrFL2&index=2){:target="_blank"}
 
 ---------------------------------------
 
@@ -391,7 +391,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 22 October 2020
+Last updated: 20 May 2021
  
 [**BACK TO TOP**](#top)
 
