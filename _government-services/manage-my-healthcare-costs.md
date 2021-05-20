@@ -3,7 +3,6 @@ title: Manage My Healthcare Costs
 permalink: /government-services/finances/health-expenses/
 
 ---
-
 ## <a name="top"></a>I Want to Manage My Healthcare Costs
 
 <div id="toc_container">
@@ -72,7 +71,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
 <p>An IP consists of 2 components: MediShield Life, and an additional, private insurance component provided by a private insurer. Thus, IPs provide optional additional coverage if you seek treatment in higher ward classes beyond B2/C wards. </p>
 <br>
-  <a target="_blank" href="/images/ip-components.png/"> <img src="/images/ip-components.png/" alt="IP Components" style="width:600px;"></a>
+  <a target="_blank" href="/images/ip-components.png"> <img src="/images/ip-components.png/" alt="IP Components" style="width:600px;"></a>
       </div>
     </div>
          <div class="tab">
