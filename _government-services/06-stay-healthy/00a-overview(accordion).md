@@ -171,9 +171,7 @@ Account as possible (and earn up to 6% p.a.), you may pay for their MediShield L
 
 - [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2){:target=“_blank”}
 - [Know Your Government Benefits](/government-services/govt-benefits/){:target=“_blank”}
-- [Plan Your Retirement](/government-services/retirement/){:target=“_blank”}
-- [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target=“_blank”}
-
+- 
 ---------------------------------------
 
 This page will be updated as additional schemes and measures are introduced.
