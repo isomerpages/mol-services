@@ -102,9 +102,7 @@ permalink: /government-services/stay-healthy/
 **You may also be interested in:**
 
 - [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2){:target=“_blank”}
-- [Know Your Government Benefits](/government-services/govt-benefits/){:target=“_blank”}
-
----------------------------------------
+----------------------------------------
 
 This page will be updated as additional schemes and measures are introduced.
 
