@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/lifesg-logo.jpg
-
 links:
   - title: FAQ
     url: https://www.life.gov.sg/help-support
@@ -13,3 +6,5 @@ links:
     url: /feedback/
   - title: Contact Us
     url: https://www.life.gov.sg/
+  - title: Draft Pages
+    collection: draft-pages

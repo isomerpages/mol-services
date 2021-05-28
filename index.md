@@ -19,9 +19,8 @@ sections:
               - title: Move Into an HDB Flat
                 url: /government-services/move-in/
               - title: Sell an HDB Flat
-                url: /government-services/sell-hdb/
-              - title: Get Government Benefits
-                url: /government-services/finances/govt-benefits/
+                url: /government-services/sell-hdb/             
+              
 
 
 ---
