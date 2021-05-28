@@ -1,8 +1,6 @@
 ---
 title: Manage My CPF Savings
 permalink: /government-services/manage-cpf/
-published: false
-
 ---
 
 ## <a name="top"></a>I Want to Manage My CPF Savings
