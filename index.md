@@ -14,11 +14,11 @@ sections:
       dropdown:
         title: Are you planning to...
         options:
-          - title: Buying an HDB Flat
+          - title: Buy an HDB Flat
             url: /government-services/buy-hdb/
-          - title: Selling an HDB Flat
+          - title: Sell an HDB Flat
             url: /government-services/sell-hdb/
-          - title: Moving into an HDB Flat
+          - title: Move into an HDB Flat
             url: /government-services/move-in/
       title: Featured Topics
 ---
