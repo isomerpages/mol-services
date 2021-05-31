@@ -12,7 +12,7 @@ sections:
   - hero:
       background: /images/khendi-lee-GuU5-3um85U-unsplash.jpg
       dropdown:
-        title: Are you planning to...
+        title: Are You Planning to...
         options:
           - title: Buy an HDB Flat
             url: /government-services/buy-hdb/
