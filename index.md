@@ -4,11 +4,11 @@ title: services.life.gov.sg
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
-description: Making government services accessible to you.  
+description: 
 notification: We are working on making this new site better. Give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a>.
 sections:
     - hero:
-        title: How Can We Help You Today?
+        title: How Can We Help You? 
         subtitle: 
         background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
         dropdown:

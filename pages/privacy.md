@@ -20,6 +20,6 @@ permalink: /privacy/
 
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours.  We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 
-7. Please contact [mol-families@psd.gov.sg](mailto:mol-families@psd.gov.sg) if you: 
+7. Please contact [helpdesk@life.gov.sg](mailto:helpdesk@life.gov.sgg) if you: 
 : (a) have any enquires or feedback on our data protection policies and procedures,
 : (b) need more information on or access to data which you have provided to us in the past.
