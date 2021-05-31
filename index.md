@@ -4,24 +4,23 @@ title: services.life.gov.sg
 favicon: /images/lifesg_fav.ico
 image: /images/lifesg-logo.jpg
 permalink: /
-description: 
-notification: We are working on making this new site better. Give us your <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback </a>.
+description: null
+notification: ' Give us your <a
+  href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank"> feedback
+  </a>.'
 sections:
-    - hero:
-        title: How Can We Help You? 
-        subtitle: 
-        background: https://images.unsplash.com/photo-1436775423025-9233051c49d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80
-        dropdown:
-            title: I Want To...
-            options:
-              - title: Buy an HDB Flat
-                url: /government-services/buy-hdb/
-              - title: Move Into an HDB Flat
-                url: /government-services/move-in/
-              - title: Sell an HDB Flat
-                url: /government-services/sell-hdb/             
-              
-
-
+  - hero:
+      background: /images/khendi-lee-GuU5-3um85U-unsplash.jpg
+      key_highlights:
+        - title: Home
+          description: Who We Are
+          url: https://www.life.gov.sg/
+        - title: "Why LifeSG "
+          description: How it works
+          url: https://www.life.gov.sg/about-us#how-it-works
+        - title: Blog
+          description: "Human Stories of LifeSG "
+          url: https://www.life.gov.sg/blog
+      button: Access Featured Topics
+      url: /government-services/buy-hdb/
 ---
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
