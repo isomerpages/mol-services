@@ -11,16 +11,13 @@ notification: ' Give us your <a
 sections:
   - hero:
       background: /images/khendi-lee-GuU5-3um85U-unsplash.jpg
-      key_highlights:
-        - title: Home
-          description: Who We Are
-          url: https://www.life.gov.sg/
-        - title: "Why LifeSG "
-          description: How it works
-          url: https://www.life.gov.sg/about-us#how-it-works
-        - title: Blog
-          description: "Human Stories of LifeSG "
-          url: https://www.life.gov.sg/blog
-      button: Access Featured Topics
-      url: /government-services/buy-hdb/
+      dropdown:
+        title: Access Featured Topics
+        options:
+          - title: Buying an HDB Flat
+            url: /government-services/buy-hdb/
+          - title: Selling an HDB Flat
+            url: /government-services/sell-hdb/
+          - title: Moving into an HDB Flat
+            url: /government-services/move-in/
 ---
