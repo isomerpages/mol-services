@@ -12,7 +12,7 @@ sections:
   - hero:
       background: /images/khendi-lee-GuU5-3um85U-unsplash.jpg
       dropdown:
-        title: Access Featured Topics
+        title: Are you planning to...
         options:
           - title: Buying an HDB Flat
             url: /government-services/buy-hdb/
@@ -20,4 +20,5 @@ sections:
             url: /government-services/sell-hdb/
           - title: Moving into an HDB Flat
             url: /government-services/move-in/
+      title: Featured Topics
 ---
