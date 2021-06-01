@@ -1,5 +1,5 @@
 ---
-title: Move Into A Flat
+title: Move Into an HDB Flat
 permalink: /government-services/move-in/
 ---
 

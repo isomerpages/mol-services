@@ -1,5 +1,5 @@
 ---
-title: Sell A Flat
+title: Sell an HDB Flat
 permalink: /government-services/sell-hdb/
 ---
 ## <a name="top"></a>Selling an HDB flat
