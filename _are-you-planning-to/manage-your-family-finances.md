@@ -1,7 +1,8 @@
 ---
-title: Manage My Family Finances
+title: Manage Your Family Finances
 permalink: /government-services/finances/family/
 ---
+
 
 ## <a name="top"></a>Planning Family's Finances
 
