@@ -1,10 +1,8 @@
 ---
 title: Move Into An HDB Flat
 permalink: /government-services/move-in/
-
 ---
-
-## <a name="top"></a>I Want to Move into An HDB Flat
+## <a name="top"></a>Moving into An HDB Flat
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
