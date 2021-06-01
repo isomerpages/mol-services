@@ -2,9 +2,7 @@
 title: Stay Healthy
 permalink: /government-services/stay-healthy/
 ---
-
-
-## <a name="top"></a>I Want to Stay Healthy
+## <a name="top"></a>Staying Healthy
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
