@@ -2,7 +2,6 @@
 title: Manage Healthcare Costs Better
 permalink: /government-services/finances/health-expenses/
 ---
-
 ## <a name="top"></a>Managing Healthcare Costs
 
 <div id="toc_container">
@@ -34,7 +33,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="shield-101">
       <label class="tab-label" for="shield-101">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> MediShield Life is a health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
+    <p> MediShield Life is a basic health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
