@@ -2,7 +2,7 @@
 title: Plan My Family Finances
 permalink: /government-services/finances/family/
 ---
-## <a name="top"></a>I Want to Plan My Family Finances
+## <a name="top"></a>Planning Family's Finances
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
