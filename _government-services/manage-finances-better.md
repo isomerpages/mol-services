@@ -2,11 +2,7 @@
 title: Manage Finances better
 permalink: /government-services/manage-cpf/
 ---
-
-
-
-
-## <a name="top"></a>I Want to Manage My CPF Savings
+## <a name="top"></a>Managing CPF Savings
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
@@ -173,7 +169,7 @@ permalink: /government-services/manage-cpf/
       <div class="tab-content">
       <p>As a SEP, you can make voluntary contributions (VC) to either your MediSave Accounts only, or to all three CPF accounts.</p>
       
-  <p>Use the<a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or refer to the<a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation. </p>
+  <p>Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/ContributionCalculator/Index?isFirstAndSecondYear=0&isMember=1" target="_blank">CPF Contribution Calculator</a>, or refer to the <a href="https://www.cpf.gov.sg/Assets/employers/Documents/Table%2011_Pte%20and%20Npen_CPF%20Allocation%20Rates%20Jan%202016.pdf" target="_blank">CPF allocation rates expressed as ratios of contribution</a> for the account allocation. </p>
 
 <p>Your total voluntary and mandatory contributions made for the calendar year should not exceed the current <a href="https://www.cpf.gov.sg/employers/FAQ/employer-guides/hiring-employees/cpf-contributions-for-your-employees/FAQDetails?category=Hiring+Employees&group=CPF+Contributions+for+your+Employees&ajfaqid=2230518&folderid=17077" target="_blank">CPF Annual Limit</a>. CPF must also receive the VCs by 31st December of the year for it to be counted towards that year’s CPF Annual Limit. Backdating of VCs to previous years is not allowed.</p>
 
