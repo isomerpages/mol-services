@@ -21,4 +21,9 @@ sections:
           - title: Move into an HDB Flat
             url: /government-services/move-in/
       title: Featured Topics
+  - infobar:
+      title: Ways We Help
+      description: How LifeSG can help you
+      button: Find out more
+      url: https://www.life.gov.sg/
 ---
