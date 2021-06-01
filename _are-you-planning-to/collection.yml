@@ -1,5 +1,5 @@
 collections:
-  government-services:
+  are-you-planning-to:
     output: true
     order:
       - i-want-to.md
