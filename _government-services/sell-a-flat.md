@@ -2,9 +2,7 @@
 title: Sell A Flat
 permalink: /government-services/sell-hdb/
 ---
-
-
-## <a name="top"></a>I Want to Sell an HDB flat
+## <a name="top"></a>Selling an HDB flat
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
@@ -202,5 +200,3 @@ Last updated: 22 October 2020
 <h1> Give us your feedback</h1>
 
 <p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
-
-
