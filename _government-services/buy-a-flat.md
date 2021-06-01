@@ -2,9 +2,7 @@
 title: Buy a Flat
 permalink: /government-services/buy-hdb/
 ---
-
-
-## <a name="top"></a>I Want to Buy an HDB Flat
+## <a name="top"></a>Buying an HDB Flat
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
