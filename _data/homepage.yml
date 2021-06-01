@@ -19,22 +19,21 @@ hero-dropdown-text: "Find Government Services"
 
 # Government Services dropdown
 i-want-to:
-  - title: Get Digitally Ready
-    url: /government-services/get-digitally-ready/overview/
-  - title: Get Support
-    url: https://articles.life.gov.sg/financial-support-workers-self-employed/
   - title: Buy an HDB Flat
     url: /government-services/buy-hdb/
   - title: Sell an HDB Flat
     url: /government-services/sell-hdb/
   - title: Move Into A New Flat
     url: /government-services/move-in/
-  - title: Plan for Retirement
-    url: /government-services/plan-for-retirement/overview/
-  - title: Plan my Legacy
-    url: /government-services/plan-legacy/overview/
+  - title: Manage Your CPF Savings
+    url: /government-services/manage-cpf/
+  - title: Manage Healthcare Costs better
+    url: /government-services/finances/health-expenses/
+  - title: Manage My Family Finances
+    url: /government-services/finances/family/
   - title: Stay Healthy
-    url: /government-services/stay-healthy/overview/
+    url: /government-services/stay-healthy/
+  
 
 # Info Sections
 info-sections:

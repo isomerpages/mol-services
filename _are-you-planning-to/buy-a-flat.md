@@ -1,5 +1,5 @@
 ---
-title: Buy a Flat
+title: Buy an HDB Flat
 permalink: /government-services/buy-hdb/
 ---
 ## <a name="top"></a>Buying an HDB Flat
