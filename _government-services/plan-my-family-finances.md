@@ -60,7 +60,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="eligibility">
       <label class="tab-label" for="eligibility">How to Apply</label>
       <div class="tab-content">
-  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) when a valid CPF working contribution is first made between 21 and 65 years old. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>. Simply log in via your Singpass and select “My Messages”.</p>
+  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) between 21 and 65 years old upon their first CPF working contribution. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>. Simply log in via your Singpass and select “My Messages”.</p>
       <p>If you are 16 years old and above and have not been offered automatic coverage, you can apply to join DPS with <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
       </div>
     </div>
@@ -69,7 +69,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="benefits">Why You Need DPS</label>
       <div class="tab-content">
   <p>If you are working and have dependants relying on your income, DPS provides affordable basic protection for your family with no out-of-pocket cash required, as DPS premiums can be paid using your CPF savings.</p>
-  <p>However, as DPS premiums becomes more expensive with age, you should consider if you currently need a DPS cover. For example, you may not require DPS if:</p>
+  <p>However, you may not require DPS if:</p>
   <ul>
     <li>Your dependants have already grown up and/or are financially independent.</li>
     <li>You have built up enough savings which could be passed on to your dependants directly in times of need.</li>
@@ -81,7 +81,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="dps-premium">
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
       <div class="tab-content">
-   <p>You can use any of the following:</p>
+   <p>You may use any of the following:</p>
     <ul>
       <li>Cash (paid directly to the insurer), or</li>
       <li>Your savings in your CPF Ordinary Account (OA) and/or Special Account (SA)</li>
@@ -218,7 +218,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="rstu-parents">4 Reasons You Should Top Up Their CPF for Retirement</label>
       <div class="tab-content">
       <ol>
-        <li>Your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (or those aged 55 and above) earn higher interest of up to 6% per annum.</li>
+        <li>Your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn higher interest of up to 6% per annum.</li>
         <li>By your loved ones’ Payout Eligibility Age, they’ll enjoy higher monthly payouts and/or extended payout durations under the CPF LIFE or Retirement Sum Scheme. </li>
         <li>If you are making cash top-ups for yourself, you can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year.</li>
         <li>If you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings), you can enjoy additional tax relief* of up to $7,000 per calendar year.</li>
@@ -245,7 +245,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="medisave-101">
       <label class="tab-label" for="medisave-101">What is MediSave?</label>
       <div class="tab-content">
-    <p>MediSave is a CPF member’s personal healthcare savings account. Working members save between 8% to 10.5% (depending on age) of your monthly salary in their MediSave Account. This helps members set aside part of their income for healthcare expenses, especially those incurred during retirement years.</p>
+    <p>MediSave is a CPF member’s personal healthcare savings account. Working members save between 8% to 10.5% (depending on age) of their monthly salary in their MediSave Account. This helps members set aside part of their income for healthcare expenses, especially those incurred during retirement years.</p>
   <ul>
     <li>Your parents would have their own MediSave if they have ever made CPF contributions, or someone in the family has made voluntary top-ups for them before.</li>
     <li>Your parents may have also received further MediSave top-ups under the Pioneer Generation or Merdeka Generation Packages.</li>
@@ -265,7 +265,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="save-topup">Why You Should Top Up MediSave Accounts (MAs)</label>
       <div class="tab-content">
     <ul>
-      <li>The MA allows you to earn risk-free interest of up to 6% per annum</li>
+      <li>The MA is one of the higher interest-yielding CPF accounts with interest rates up to 6% per annum</li>
       <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/Members/FAQ/schemes/healthcare/medisave/FAQDetails?category=healthcare&group=MediSave&ajfaqid=2189345&folderid=12917">Basic Healthcare Sum (BHS)</a> limit.</li>
     </ul>
       </div>
