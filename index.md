@@ -20,6 +20,14 @@ sections:
             url: /government-services/sell-hdb/
           - title: Move into an HDB Flat
             url: /government-services/move-in/
+          - title: Manage Your CPF Savings
+            url: /government-services/manage-cpf/
+          - title: Manage Healthcare Costs
+            url: /government-services/finances/health-expenses/
+          - title: Manage Your Family Finances
+            url: /government-services/finances/family/
+          - title: Stay Healthy
+            url: /government-services/stay-healthy/
       title: Featured Topics
   - infobar:
       title: Ways We Help

@@ -2,7 +2,6 @@ collections:
   are-you-planning-to:
     output: true
     order:
-      - i-want-to.md
       - buy-a-flat.md
       - sell-a-flat.md
       - move-into-a-flat.md
