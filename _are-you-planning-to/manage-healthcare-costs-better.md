@@ -1,8 +1,8 @@
 ---
-title: Manage Healthcare Costs Better
+title: Manage Healthcare Costs
 permalink: /government-services/finances/health-expenses/
 ---
-## <a name="top"></a>Managing Healthcare Costs Better
+## <a name="top"></a>Managing Healthcare Costs
 
 <div id="toc_container">
 <p class="toc_title"><b>ON THIS PAGE</b></p>
