@@ -411,7 +411,6 @@ Some of the grants include: </p>
 <p><strong>You may also be interested in:</strong></p>
 
 <ul>
-  <li><a target="_blank" href="/government-services/finances/govt-benefits/">Get Government Benefits</a></li>
   <li><a target="_blank" href="/government-services/finances/family/">Manage My Family's Finances</a></li>
   <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online Tools</a></li>
 </ul>
