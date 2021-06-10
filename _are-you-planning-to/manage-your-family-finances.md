@@ -298,7 +298,6 @@ permalink: /government-services/finances/family/
 
 <ul>
   <li><a target="_blank" href="/government-services/buy-hdb/">Financing Your Flat With CPF</a></li>
-  <li><a target="_blank" href="/government-services/govt-benefits/">Getting Tax Reliefs</a></li>
   <li><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding">CPF Online Calculators to Estimate and Plan for Retirement </a></li>
   <li><a target="_blank" href="/government-services/stay-healthy/#expenses">Managing Healthcare Expenses</a></li>
   <li><a target="_blank" href="https://www.silversupport.gov.sg/">Silver Support Scheme</a></li>
