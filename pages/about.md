@@ -1,4 +1,4 @@
 ---
 title: About
-permalink: /about/
+permalink: https://www.life.gov.sg/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /contact-us/
+permalink: https://www.life.gov.sg/get-in-touch
 ---
  
 
 # Contact Us
-  - [General Enquiries & Feedback](https://form.gov.sg/5ed0995e42ee5f00110e10cc)
+  - [General Enquiries & Feedback](https://www.life.gov.sg/get-in-touch)

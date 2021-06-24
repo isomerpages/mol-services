@@ -1,10 +1,8 @@
 logo: /images/lifesg-logo.jpg
 links:
+  - title: About LifeSG
+    url: https://www.life.gov.sg/
   - title: FAQ
     url: https://www.life.gov.sg/help-support
-  - title: Feedback
-    url: /feedback/
-  - title: Contact Us
-    url: https://www.life.gov.sg/
-  - title: Draft Pages
-    collection: draft-pages
+  - title: Get in Touch with Us
+    url: https://www.life.gov.sg/get-in-touch

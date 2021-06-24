@@ -1,0 +1,12 @@
+collections:
+  are-you-planning-to:
+    output: true
+    order:
+      - buy-a-flat.md
+      - sell-a-flat.md
+      - move-into-a-flat.md
+      - manage-your-savings.md
+      - manage-healthcare-costs-better.md
+      - manage-your-family-finances.md
+      - stay-healthy.md
+      - prepare-legacy-documents.md
