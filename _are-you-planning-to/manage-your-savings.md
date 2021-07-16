@@ -80,8 +80,8 @@ permalink: /government-services/manage-cpf/
   </ul>
     <p>See also: <a target="_blank" href="https://services.life.gov.sg/government-services/buy-hdb/#finances">Using CPF for Your HDB Flat</a></p>
   </div>
-	</div>
-			<div class="tab">
+</div>
+<div class="tab">
       <input type="checkbox" id="medical">
       <label class="tab-label" for="medical">Pay for Medical Fees</label>
       <div class="tab-content">
