@@ -57,13 +57,6 @@ permalink: /government-services/manage-cpf/
 
 <div class="mol-accordion">
   <div class="tabs">
-     <div class="tab">
-      <input type="checkbox" id="cpf-101">
-      <label class="tab-label" for="cpf-101">Overview
-</label>
-      <div class="tab-content">  
-</div>
-</div>
  <div class="tab">
       <input type="checkbox" id="property">
       <label class="tab-label" for="property">Buy a Property</label>
