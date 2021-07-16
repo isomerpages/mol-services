@@ -62,8 +62,8 @@ permalink: /government-services/manage-cpf/
       <label class="tab-label" for="cpf-101">Overview
 </label>
       <div class="tab-content">  
-    <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png">
-    <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-The-growth-of-your-CPF-savings-From-payday-to-retirement/The%20growth%20of%20your%20CPF%20savings%20From%20payday%20to%20retirement2.png" alt="CPF Savings Uses" style="width:600px"></a>
+    <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-All-You-Need-To-Know-About-Central-Provident-Fund-Interest-Rates-Contributions-And-More-Seedly/All%20You%20Need%20To%20Know%20About%20Central%20Provident%20Fund%201.png">
+    <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-All-You-Need-To-Know-About-Central-Provident-Fund-Interest-Rates-Contributions-And-More-Seedly/All%20You%20Need%20To%20Know%20About%20Central%20Provident%20Fund%201.png" alt="CPF Interest Rates Overview" style="width:600px"></a>
     <p>Find out more about CPF accounts and interest rates <a target="_blank" href="https://www.cpf.gov.sg/Members/AboutUs/about-us-info/cpf-overview">here</a>.</p>
 </div>
 </div>
