@@ -81,23 +81,7 @@ permalink: /government-services/manage-cpf/
     <p>See also: <a target="_blank" href="https://services.life.gov.sg/government-services/buy-hdb/#finances">Using CPF for Your HDB Flat</a></p>
   </div>
 </div>
- <div class="tab">
-      <input type="checkbox" id="education">
-      <label class="tab-label" for="education">Pay the Education Fees for Yourself, Your Spouse or Children</label>
-      <div class="tab-content">
-    <p>Under the CPF Education Loan Scheme, you may use your CPF Ordinary Account (OA) savings to pay for your own, spouse’s or children’s education fees.</p>
-<p>Applications to use your CPF savings to pay the education fees for your siblings or relatives will be assessed on a case-by-case basis.</p>
-<p>The student will be required to repay the amount withdrawn plus accrued interest to the payer’s OA in cash,  one year after graduating from or leaving the approved educational institution.
-</p>
-    <p>If you are currently repaying an education loan, you can:</p>
-    <ul>
-    <li> Check the outstanding loan amount by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Statements</em> > <em>Section C</em> > <em>Education</em> > <em>Details of My Education Redemption Statement</em></li>
-    <li>Check your outstanding repayments owed by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Statements</em> > <em>Section C</em> > <em>Education</em> >  <em>Enquire on My Arrears in Repayment</em></li>
-    <li>Apply to defer your education loan repayment or change the monthly instalment rate by signing in to <em><a href="https://www.cpf.gov.sg/members" target="_blank">my cpf portal</a></em> (Singpass required) > <em>My Request</em> > <em>Education/ Dependants’ Education</em> > <em>Apply to defer payment or Change my Monthly Instalment Rate</em></li>
-      </ul>
-  </div>
-</div>
-   <div class="tab">
+<div class="tab">
       <input type="checkbox" id="medical">
       <label class="tab-label" for="medical">Pay for Medical Fees</label>
       <div class="tab-content">
