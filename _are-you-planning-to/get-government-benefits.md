@@ -1,7 +1,6 @@
 ---
 title: Get Government Benefits
 permalink: /government-services/finances/govt-benefits/
-published: false
 ---
 
 <p class="disclaimer"><em>Disclaimer: This page does not include the latest schemes announced at <a href="https://supportgowhere.life.gov.sg/" target="_blank">Budget 2021</a>.</em></p>
