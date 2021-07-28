@@ -422,7 +422,6 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 
 - [Managing Your Family's Healthcare Expenses](/government-services/stay-healthy/#expenses){:target="_blank"}
 - [Housing Schemes and Grants](/government-services/buy-hdb/#finances){:target="_blank"}
-- [Plan for Your Retirement](/government-services/retirement/){:target="_blank"}
   
 ---------------------------------------
 
