@@ -25,12 +25,12 @@ i-want-to:
     url: /government-services/sell-hdb/
   - title: Move Into A New Flat
     url: /government-services/move-in/
-  - title: Manage Your CPF Savings
-    url: /government-services/manage-cpf/
   - title: Manage Healthcare Costs better
     url: /government-services/finances/health-expenses/
   - title: Manage My Family Finances
     url: /government-services/finances/family/
+  - title: Prepare Legacy Documents
+    url: https://www.mylegacy.gov.sg/end-of-life-planning/
   - title: Stay Healthy
     url: /government-services/stay-healthy/
   
