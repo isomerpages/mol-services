@@ -81,15 +81,8 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="dps-premium">
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
       <div class="tab-content">
-   <p>You may use any of the following:</p>
-    <ul>
-      <li>Cash (paid directly to the insurer), or</li>
-      <li>Your savings in your CPF Ordinary Account (OA) and/or Special Account (SA)</li>
-        <ul class="sub-bullet">
-          <li>Premiums will be deducted from the OA first, and only from the SA if the balance in your OA is insufficient. </li>
-        </ul>
-        </ul>
-      </div>
+   <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal. Alternatively, you can pay your DPS premiums directly to your insurer by cash.</p>
+       </div>
     </div>
   </div>
 </div>
