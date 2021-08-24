@@ -14,6 +14,8 @@ sections:
       dropdown:
         title: Are You Planning to...
         options:
+          - title: Get Government Benefits
+            url: /government-services/finances/govt-benefits/
           - title: Buy an HDB Flat
             url: /government-services/buy-hdb/
           - title: Sell an HDB Flat
