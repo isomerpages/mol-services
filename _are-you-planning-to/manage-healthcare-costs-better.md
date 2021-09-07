@@ -345,7 +345,7 @@ permalink: /government-services/finances/health-expenses/
   </tr>
   <tr>
     <td><p>NETS/ CashCard:</p></td>
-    <td><p>Pay by NETS or CashCard at any SingPost branches<br>Pay by NETS at any AXS Machine</p></td>
+    <td><p>Pay by NETS or CashCard at any SingPost branches<br></td>
   </tr>
 </tbody>
 </table>
