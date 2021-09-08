@@ -341,7 +341,7 @@ permalink: /government-services/finances/health-expenses/
   <tr>
     <td><p><a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF e-Cashier</a>:</p>
     </td>
-    <td><p>PayNow eNETS Debit – payment by Citibank, DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</p></td>
+    <td><p>PayNow eNETS Debit – payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</p></td>
   </tr>
   <tr>
     <td><p>NETS/ CashCard:</p></td>
