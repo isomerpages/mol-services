@@ -146,40 +146,6 @@ permalink: /government-services/finances/family/
   </div>
 </div>
 </div>
-<div class="mol-accordion">
-  <div class="tabs">
-    <h3 id="child-cpf">Boost Your Child's Savings</h3>
-      <div class="tab">
-      <input type="checkbox" id="child-medisave">
-      <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
-      <div class="tab-content">  
-    <p>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. MediShield Life or Private Integrated Shield Plan premiums).</p>
-  <ul>
-    <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a> automatically credited into their MediSave.</li>
-    <li>You can <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">top up your child’s MediSave Account</a> to provide them a stronger safety net for their future - earning 5% p.a. interest in his/her MA.</li>
-  </ul>
-  <p>See how your regular top-ups in your child’s MA will add up over the years:</p>
-      <a target="_blank" href="/images/child-medisave.png"> <img src="/images/child-medisave.png" alt="Child MediSave Compound" style="width:600px;"></a>
-      </div>
-  </div>
-  <div class="tab">
-      <input type="checkbox" id="child-oa">
-      <label class="tab-label" for="child-oa">Make Regular Top-ups to your Child’s CPF Ordinary Account (OA) </label>
-      <div class="tab-content">  
-  <p>The funds in your child’s OA can be used for his/her future housing and education needs.</p>
-  <ul>
-  <li>Your child will also get an early start in building his or her savings earlier at an interest rate of 2.5% per annum.</li>
-    <li>To top up your child’s OA, click <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">here.</a></li> 
-</ul>
-  <p>Check the interest rates of various CPF accounts here:</p>
-  <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
-<ul class="sub-bullet">
-  <li>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts.</li>
-</ul>
-      </div>
-  </div>
-</div>
-</div>
 
 [**BACK TO TOP**](#top)
 <br>
