@@ -288,12 +288,12 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
         <li>Up to 6% interest per annum on your MediSave savings
-         <ul class="circle">
+         <ul>
           <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
         </ul>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
         <li>Using your MediSave savings for</li>
-        <ul class="circle">
+        <ul>
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
         </ul>
