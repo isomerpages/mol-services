@@ -279,7 +279,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
     <p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p>
 <p>NTI is your gross trade income minus all allowable business expenses, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
-<p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed-perso">MediSave contribution rates for Self-Employed Persons</a>. </p>
+<p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed-perso">MediSave contribution rates for Self-Employed Persons</a>.</p>
       </div>
     </div>
           <div class="tab">
@@ -288,12 +288,12 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
         <li>Up to 6% interest per annum on your MediSave savings
-         <ul>
-          <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
+         <ul class="sub bullet">
+          <li><li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
         </ul>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
         <li>Using your MediSave savings for</li>
-        <ul>
+        <ul class="sub bullet">
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
         </ul>
@@ -301,12 +301,12 @@ permalink: /government-services/finances/health-expenses/
       <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">WIS scheme</a>.</p>
       </div>
     </div>
-          <div class="tab">
+        <div class="tab">
       <input type="checkbox" id="sep-calc">
       <label class="tab-label" for="sep-calc">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
     <p>You can check the amount of MediSave contributions you need to make, by logging in to <a target="_blank" href="https://cpf.gov.sg/SEPHome" >My Self-Employed Home</a> using your Singpass.</p>
- <p>You can apply for your <a target="_blank" href="http://www.singpass.gov.sg/">Singpass</a> online if you do not have one.</p>
+    <p>You can apply for your <a target="_blank" href="http://www.singpass.gov.sg/">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
         <div class="tab">
