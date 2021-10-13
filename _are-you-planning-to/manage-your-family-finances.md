@@ -224,7 +224,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png"> <img src="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png" alt="RSTU Transfer" style="width:600px;">
+      <a target="_blank" href="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:600px;">
       </a>
  <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
       </div>
@@ -260,7 +260,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <ul>
       <li>The MA is one of the higher interest-yielding CPF accounts with interest rates up to 6% per annum</li>
-      <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/Members/FAQ/schemes/healthcare/medisave/FAQDetails?category=healthcare&group=MediSave&ajfaqid=2189345&folderid=12917">Basic Healthcare Sum (BHS)</a> limit.</li>
+      <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum">Basic Healthcare Sum (BHS)</a> limit.</li>
     </ul>
       </div>
     </div>
