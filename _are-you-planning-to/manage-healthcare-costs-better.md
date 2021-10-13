@@ -12,7 +12,7 @@ permalink: /government-services/finances/health-expenses/
     <li><a href="#medishield">MediShield Life</a></li>
     <li><a href="#medishield-ip">Integrated Shield Plan(IP) </a></li>
     <li><a href="#medisave">MediSave/Flexi-MediSave for Seniors</a></li>
-    <li><a href="#careshield">ElderShield/CareShield Life</a></li>
+    <li><a href="#careshield">CareShield Life</a></li>
     <li><a href="#chas">Community Health Assist Scheme (CHAS)</a></li>
   </ul>
     <li><a href="#safetynet">How You Can Make Sure You Have Enough for Medical Expenses</a></li>
@@ -44,7 +44,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p>To keep premiums affordable, MediShield Life benefits are sized based on subsidised bills in public hospitals. If you seek unsubsidised treatment in public hospitals or private hospitals, you will also be able to claim from MediShield Life. However, as unsubsidised bills are much higher, MediShield Life will cover a smaller proportion of the bill.</p>
 
-<p>Learn more about the benefits under MediShield Life <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medishield-life" target="_blank">here</a>.</p>  
+<p>Learn more about the benefits under MediShield Life <a href="https://www.cpf.gov.sg/member/healthcare-financing/medishield-life" target="_blank">here</a>.</p>  
   </div>
 </div>
 
@@ -144,7 +144,7 @@ permalink: /government-services/finances/health-expenses/
       </ul>
   </ul>
 
-  <p>Learn more about the benefits and considerations on the use of MediSave <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</p>
+  <p>Learn more about the benefits and considerations on the use of MediSave <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings">here</a>.</p>
       </div>
     </div>
     <div class="tab">
@@ -153,7 +153,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
 <p>You can withdraw up to the respective MediSave Withdrawal Limits for hospitalisation and outpatient treatments. You can check with your hospital or healthcare provider for more details.​</p>
 
-<p>Learn more about the MediSave Withdrawal Limits <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave" target="_blank">here</a>.</p>
+<p>Learn more about the MediSave Withdrawal Limits <a href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments" target="_blank">here</a>.</p>
 
 <p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a href="https://www.cpf.gov.sg/members/tools/calculators" target="_blank">here</a>.</p>
       </div>
@@ -162,7 +162,7 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="flexi-save">
       <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under <a href="https://www.cpf.gov.sg/members/FAQ/schemes/Healthcare/MediSave/FAQDetails?category=Healthcare&group=MediSave&folderid=13015&ajfaqid=2189521" target="_blank">this scheme</a>, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. </p>
+   <p> Under <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/medisave/what-is-outpatient-flexi-medisave" target="_blank">this scheme</a>, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. </p>
    
    <p> The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs).</p>
    
@@ -178,12 +178,12 @@ permalink: /government-services/finances/health-expenses/
 
 <div class="mol-accordion">
   <div class="tabs">
-    <h3 id="careshield">ElderShield/CareShield Life</h3>
+    <h3 id="careshield">CareShield Life</h3>
       <div class="tab">
       <input type="checkbox" id="careshield-101">
       <label class="tab-label" for="careshield-101">What is CareShield Life?</label>
       <div class="tab-content">
-<p>CareShield Life is a long-term care insurance scheme that provides basic financial support should Singaporeans become severely disabled, especially during old age, and need personal and medical care for a prolonged duration (i.e. long-term care). </p>
+<p>CareShield Life is a long-term care insurance scheme that provides basic financial support should Singaporeans become severely disabled, especially during old age, and need personal and medical care for a prolonged duration (i.e. long-term care).</p>
       </div>
     </div>
     <div class="tab">
@@ -279,7 +279,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
     <p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p>
 <p>NTI is your gross trade income minus all allowable business expenses, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
-<p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/members/FAQ/schemes/self-employed-scheme/self-employed-matters/FAQDetails?category=self-employed+scheme&group=Self-Employed+Matters&ajfaqid=2188316&folderid=12405">MediSave contribution rates for Self-Employed Persons</a>. </p>
+<p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed-perso">MediSave contribution rates for Self-Employed Persons</a>. </p>
       </div>
     </div>
           <div class="tab">
@@ -287,9 +287,11 @@ permalink: /government-services/finances/health-expenses/
       <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
-       <ul>
-        <li>Up to 6% interest per annum on your MediSave savings</li>
-        <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
+       <ul class="roman">
+        <li>Up to 6% interest per annum on your MediSave savings
+        <ul class="circle">
+          <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
+        </ul>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
         <li>Using your MediSave savings for</li>
         <ul class="sub-bullet">

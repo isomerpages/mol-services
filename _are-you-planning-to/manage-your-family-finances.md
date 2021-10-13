@@ -81,7 +81,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="dps-premium">
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
       <div class="tab-content">
-   <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal. </p>
+   <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal.</p>
    <p>Alternatively, you can pay your DPS premiums directly to the DPS insurer by cash.</p>
        </div>
     </div>
