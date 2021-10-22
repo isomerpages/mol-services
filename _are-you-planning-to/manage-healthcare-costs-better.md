@@ -250,7 +250,7 @@ permalink: /government-services/finances/health-expenses/
 <p>Apply for your CHAS card for your household <a target="_blank" href="http://www.chas.sg/apply/">here</a> if you have yet to do so.</p>
     </div>      
   </div>
-        <div class="tab">
+      <div class="tab">
       <input type="checkbox" id="chas-how">
       <label class="tab-label" for="chas-how">How to Receive Your Subsidies</label>
       <div class="tab-content">
@@ -273,7 +273,7 @@ permalink: /government-services/finances/health-expenses/
 <div class="mol-accordion">
   <div class="tabs">
     <h3 id="sep">As a Self-Employed Person (SEP)</h3>
-      <div class="tab">
+    <div class="tab">
       <input type="checkbox" id="sep-medisave">
       <label class="tab-label" for="sep-medisave">Contribute to Your MediSave Account</label>
       <div class="tab-content">
@@ -282,7 +282,7 @@ permalink: /government-services/finances/health-expenses/
 <p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed-perso">MediSave contribution rates for Self-Employed Persons</a>.</p>
       </div>
     </div>
-      <div class="tab">
+    <div class="tab">
       <input type="checkbox" id="sep-contribute">
       <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
       <div class="tab-content">
@@ -298,7 +298,7 @@ permalink: /government-services/finances/health-expenses/
         <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">WIS scheme</a>.</p>
       </div>
     </div>
-      <div class="tab">
+    <div class="tab">
       <input type="checkbox" id="sep-calc">
       <label class="tab-label" for="sep-calc">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
@@ -306,7 +306,7 @@ permalink: /government-services/finances/health-expenses/
     <p>You can apply for your <a target="_blank" href="http://www.singpass.gov.sg/">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
-      <div class="tab">
+    <div class="tab">
       <input type="checkbox" id="sep-how">
       <label class="tab-label" for="sep-how">How to Contribute to Your MediSave Account</label>
       <div class="tab-content">
