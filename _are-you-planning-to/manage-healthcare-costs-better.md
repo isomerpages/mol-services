@@ -285,17 +285,16 @@ permalink: /government-services/finances/health-expenses/
       <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
-        <li>Up to 6% interest per annum on your MediSave savings
+        <li>Up to 6% interest per annum on your MediSave savings</li>
          <ul class="sub-bullet">
           <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
         </ul>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
-        <li>Using your MediSave savings for</li>
+        <p>Using your MediSave savings for:</p>
         <ul class="sub-bullet">
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
-      </ul>
       <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">WIS scheme</a>.</p>
       </div>
     </div>
