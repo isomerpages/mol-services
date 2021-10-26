@@ -306,7 +306,7 @@ permalink: /government-services/finances/health-expenses/
  <p>You can apply for your <a target="_blank" href="http://www.singpass.gov.sg/">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
-    <div class="tab">
+          <div class="tab">
       <input type="checkbox" id="sep-how">
       <label class="tab-label" for="sep-how">How to Contribute to Your MediSave Account</label>
       <div class="tab-content">
