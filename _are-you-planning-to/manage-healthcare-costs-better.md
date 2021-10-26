@@ -286,19 +286,18 @@ permalink: /government-services/finances/health-expenses/
       <input type="checkbox" id="sep-contribute">
       <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
       <div class="tab-content">
-  <p>When you contribute to MediSave, you enjoy:</p>
-        <ul>
-          <li>Up to 6% interest per annum on your MediSave savings</li>
+  <p>When you contribute to MediSave, you enjoy:
+        <ul><li>Up to 6% interest per annum on your MediSave savings</li>
           <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
           <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
           <li>Using your MediSave savings for</li>
             <li>Healthcare expenses for you and your family</li>
-          <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
-        </ul>
-  <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get details on the <a href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers" target="_blank">WIS scheme</a>.
-  </p>
-    </div>      
+          <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li></ul></p>
+  <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get details on the <a href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers" target="_blank">WIS scheme</a>.</p>
+      </div>
+    </div>
   </div>
+</div>
     <div class="tab">
       <input type="checkbox" id="sep-calc">
       <label class="tab-label" for="sep-calc">How Much MediSave Contributions to Make?</label>
@@ -384,7 +383,7 @@ permalink: /government-services/finances/health-expenses/
       <label class="tab-label" for="fam-expenses">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
     <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">reduce your tax bill</a>.</p>
-    <p>You can also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">top up your MediSave</a> up to the <a target= "_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum>Basic Healthcare Sum</a></p>
+    <p>You can also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">top up your MediSave</a> up to the <a target= "_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum">Basic Healthcare Sum</a></p>
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
