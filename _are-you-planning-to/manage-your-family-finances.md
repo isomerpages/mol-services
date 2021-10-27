@@ -191,7 +191,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How Much Top-ups can Your Loved Ones Receive?</label>
       <div class="tab-content">
-				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/" target="_blank">the CPF website</a> with their Singpass to view how much they can receive. 
+				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
 		<a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
       </div>
     </div>
