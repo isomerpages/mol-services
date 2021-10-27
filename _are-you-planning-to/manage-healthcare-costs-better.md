@@ -151,7 +151,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="save-check" type="checkbox">
       <label for="save-check" class="tab-label">How Much MediSave Can You Withdraw for Your Treatment</label>
       <div class="tab-content">
-<p>You can withdraw up to the respective MediSave Withdrawal Limits for hospitalisation and outpatient treatments. You can check with your hospital or healthcare provider for more details.​</p>
+<p>You can withdraw up to the respective MediSave Withdrawal Limits for hospitalisation and outpatient treatments. You can check with your hospital or healthcare provider for more details.</p>
 
 <p>Learn more about the MediSave Withdrawal Limits <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments">here</a>.</p>
 
@@ -297,14 +297,14 @@ permalink: /government-services/finances/health-expenses/
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
-      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme">WIS scheme</a>.</p>
+      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
       </div>
     </div>
           <div class="tab">
       <input id="sep-calc" type="checkbox">
       <label for="sep-calc" class="tab-label">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
-    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://cpf.gov.sg/SEPHome" target="_blank">My Self-Employed Home</a> using your Singpass.</p>
+    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">the Self-Employment dashboard</a> via CPF website using your Singpass.</p>
  <p>You can apply for your <a href="http://www.singpass.gov.sg/" target="_blank">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
@@ -332,7 +332,7 @@ permalink: /government-services/finances/health-expenses/
     </ol>
 <p>Mail:</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/Assets/Members/Documents/FORM_GIROSE_VC.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form.            </li>
+  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/Assets/Members/Documents/FORM_GIROSE_VC.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
@@ -352,7 +352,7 @@ permalink: /government-services/finances/health-expenses/
 <p>For other banks, the service standards for processing electronic payments are as follows:</p>
 <ul><li>Via PayNow QR: Payment will be processed almost immediately</li>
   <li>Via eNETS Debit: Payment will be processed within the next working day.</li></ul>
-  <p>You can also log into <a target="_blank" href="https://www.cpf.gov.sg/member/ds">my CPF digital services</a> with your Singpass to check the transaction status:</p>
+  <p>You can also log into <a target="_blank" href="https://www.cpf.gov.sg/member/ds"><em>my CPF<em> digital services</a> with your Singpass to check the transaction status:</p>
   <ul><li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
     <li>Check the transaction status under <b><em>My Activities</em></b> (if you paid via e-Cashier)</li></ul>
     </div>
