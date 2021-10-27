@@ -258,8 +258,8 @@ permalink: /government-services/finances/family/
 			<li>Tick in the box "I have read and accepted the Terms & Conditions above".</li>
 			<li>Click "Start" and follow the instructions to complete the application.</li>
 			<li>On the next page, indicate your contact number and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer's name [optional]. At the bottom of the page, click "Next" to continue.</li>
-			<li>At the Payment Request page, select your preferred payment mode.</li>
-    </ol>
+			<li>At the Payment Request page, select your preferred payment mode.</li></ol>
+
 <table>
 <thead>
   <tr>
