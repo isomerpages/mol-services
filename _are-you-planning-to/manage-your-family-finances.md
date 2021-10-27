@@ -196,8 +196,8 @@ permalink: /government-services/finances/family/
       </div>
     </div>
       <div class="tab">
-      <input type="checkbox" id="rstu-get">
-      <label class="tab-label" for="rstu-get">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
+      <input type="checkbox" id="rstu-topup">
+      <label class="tab-label" for="rstu-topup">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
       <div class="tab-content">
       <a target="_blank" href="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:600px;">
       </a>
