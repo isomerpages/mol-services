@@ -10,9 +10,16 @@ permalink: /government-services/finances/family/
   <li><a href="#protect">Give Your Family Financial Protection</a></li>
   <ul>
     <li><a href="#dps">Dependants' Protection Scheme (DPS)</a></li>
+  </ul>
+<li><a href="#child-savings">Start Your Child's Financial Journey Early</a></li>
+  <ul>
     <li><a href="#child-savings">Child Development Account (CDA)</a></li>
+    <li><a href="#child-cpf">Boost Your Child's Savings</a></li>
+  </ul>  
+<li><a href="#seniors-finance">Provide Support to Your Seniors' Retirement</a></li>
+  <ul>
     <li><a href="#rstu">Retirement Sum Topping-Up Scheme (RSTU)</a></li>
-    <li><a href="#medisave-elderly">MediSave Top-Ups for Your Seniors At Home</a></li>
+    <li><a href="#medisave-elderly">MediSave Top-Up for Your Seniors At Home</a></li>
   </ul>
 </ul>
 </div>
