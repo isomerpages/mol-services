@@ -259,7 +259,7 @@ permalink: /government-services/finances/family/
 			<li>Click "Start" and follow the instructions to complete the application.</li>
 			<li>On the next page, indicate your contact number and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer's name [optional]. At the bottom of the page, click "Next" to continue.</li>
 			<li>At the Payment Request page, select your preferred payment mode.</li>
-			
+    </ol>
 <table>
 <thead>
   <tr>
@@ -283,13 +283,12 @@ permalink: /government-services/finances/family/
     <td>
 			<ol>
 				<li>Select "eNETS" as the payment mode and click on "Make Payment" to proceed. You will be redirected to the payment gateway where you will be prompted for your internet banking details and authorization of the payment.</li>
-				<li>Please note that you will need to disable your web browser's pop-up blockers.</li>
-			</ol>
+				<li>Please note that you will need to disable your web browser's pop-up blockers.</li></ol>
 				</td>
   </tr>
 </tbody>
 </table>
-      </ol>
+     
       </div>
     </div>
   </div>
