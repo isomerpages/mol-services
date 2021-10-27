@@ -160,9 +160,9 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-receive">
       <label class="tab-label" for="rstu-receive">What is Retirement Sum Topping-Up Scheme (RSTU)?</label>
       <div class="tab-content">
-     <p>The Retirement Sum Topping-Up Scheme (RSTU) helps you grow your retirement savings and that of your loved ones so that they can enjoy higher monthly payouts when they retire.
-
-You can top up to your loved ones’ CPF Special Account (if they are below age 55) or Retirement Account (if they are aged 55 and above). Top-ups can be made in cash, CPF transfers or both.</p>
+     <p>The Retirement Sum Topping-Up Scheme (RSTU) helps you grow your retirement savings and that of your loved ones so that they can enjoy higher monthly payouts when they retire.</p>
+<br>
+<p>You can top up to your loved ones’ CPF Special Account (if they are below age 55) or Retirement Account (if they are aged 55 and above). Top-ups can be made in cash, CPF transfers or both.</p>
       </div>
     </div>
       <div class="tab">
