@@ -244,16 +244,51 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="save-cash">How to Top up MediSave Accounts with Cash</label>
       <div class="tab-content">
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
-    <ol><li> Go to <em><a target="_blank" href="https://www.cpf.gov.sg/members">my cpf portal</a></em></li> 
+    <ol>
+			<li> Go to <em><a target="_blank" href="https://www.cpf.gov.sg/">the CPF website</a></li> 
       <li> Click on “Services”</li>
       <li> Under “Payments”, click on “e-Cashier”</li>
       <li> Read the information and click “Proceed”</li>
-      <li>Key in your parent’s NRIC number</li>
-      <li> Select “Member”</li>
-      <li> In the drop-down list for payment type, select “Contribute to my MediSave” (tax deductible)</li>
-      <li>Follow the instructions to complete the application form</li>
-      <li>At the Payment Request page, select “PayNow” as the payment mode and click on “Make Payment” to proceed. A QR code will then be generated.</li>
-      <li>Login to your bank’s mobile app, and scan the QR code generated to make payment.</li>
+      <li>Key in your parent’s CPF account number/NRIC</li>
+      <li> Choose paying as a “Member”</li>
+			<ul>
+      <li> In the drop-down list for payment type, select “Contribute to my MediSave (tax deductible)"</li>
+			</ul>
+      <li>Click "Next" and read the Important Notes and Terms & Conditions</li>
+			<li>Tick in the box "I have read and accepted the Terms & Conditions above".</li>
+			<li>Click "Start" and follow the instructions to complete the application.</li>
+			<li>On the next page, indicate your contact number and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer's name [optional]. At the bottom of the page, click "Next" to continue.</li>
+			<li>At the Payment Request page, select your preferred payment mode.</li>
+			
+<table>
+<thead>
+  <tr>
+    <th>Payment Mode</th>
+    <th>How to make payment?</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>For PayNow QR</td>
+    <td><ol>
+			<li> Select "PayNow" as the payment mode and click on "Make Payment" to proceed. A QR code will then be generated.</li>
+			<li>Log in to your bank's mobile app and scan the QR code generated with your bank's mobile app to make payment.</li>
+			<li>Make payment before the QR code expires at the end of the day. If payment is not received, the application will be deemed unsuccessful.</li>
+			<li>Make only one payment. Subsequent payments made using the same PayNow QR code will be refunded.</li>
+			</ol>
+		</td>
+  </tr>
+  <tr>
+    <td>For eNETS</td>
+    <td>
+			<ol>
+				<li>Select "eNETS" as the payment mode and click on "Make Payment" to proceed. You will be redirected to the payment gateway where you will be prompted for your internet banking details and authorization of the payment.</li>
+				<li>Please note that you will need to disable your web browser's pop-up blockers.</li>
+			</ol>
+				</td>
+  </tr>
+</tbody>
+</table>
       </ol>
       </div>
     </div>
@@ -280,7 +315,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 7 May 2021
+Last updated: 29 Oct 2021
  
 [**BACK TO TOP**](#top)
 
