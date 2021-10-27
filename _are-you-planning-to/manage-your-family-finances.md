@@ -170,9 +170,8 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="rstu-contribute">Contributing to Your Loved Ones' Retirement</label>
       <div class="tab-content">
     <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps your seniors and loved ones grow their retirement savings when you top up their CPF Special Accounts (if they are below age 55) or CPF Retirement Accounts (if they are aged 55 and above).</p>
-    <ul>
-      <li>Savings accumulated in your parents/grandparents’ CPF Special Accounts (SA) or Retirement Accounts (RA) will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF Life once they reach their Payout Eligibility Age.</li>
-    </ul>
+<br>
+      <p>Savings accumulated in your parents/grandparents’ CPF Special Accounts (SA) or Retirement Accounts (RA) will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF Life once they reach their Payout Eligibility Age.</p>
       </div>
     </div>
       <div class="tab">
