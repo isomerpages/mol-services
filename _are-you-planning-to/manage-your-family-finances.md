@@ -34,7 +34,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
 <p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
 
-<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
+<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https:/www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
 <table>
 <thead>
   <tr>
@@ -60,7 +60,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="eligibility">
       <label class="tab-label" for="eligibility">How to Apply</label>
       <div class="tab-content">
-  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) between 21 and 65 years old upon their first CPF working contribution. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>. Simply log in via your Singpass and select “My Messages”.</p>
+  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) between 21 and 65 years old upon their first CPF working contribution. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through the <a target="_blank" href="https://www.cpf.gov.sg/member/ds/dashboards/providing-for-your-loved-ones">CPF website</a> by logging in via your Singpass.</p>
       <p>If you are 16 years old and above and have not been offered automatic coverage, you can apply to join DPS with <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
       </div>
     </div>
@@ -160,7 +160,9 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-receive">
       <label class="tab-label" for="rstu-receive">What is Retirement Sum Topping-Up Scheme (RSTU)?</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
+     <p>The Retirement Sum Topping-Up Scheme (RSTU) helps you grow your retirement savings and that of your loved ones so that they can enjoy higher monthly payouts when they retire.
+
+You can top up to your loved ones’ CPF Special Account (if they are below age 55) or Retirement Account (if they are aged 55 and above). Top-ups can be made in cash, CPF transfers or both.</p>
       </div>
     </div>
       <div class="tab">
@@ -186,13 +188,19 @@ permalink: /government-services/finances/family/
     <p><em>*Terms and conditions apply</em></p>
       </div>
     </div>
+		<div class="tab">
+      <input type="checkbox" id="rstu-get">
+      <label class="tab-label" for="rstu-get">How Much Top-ups can Your Loved Ones Receive?</label>
+      <div class="tab-content">
+				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/" target="_blank">the CPF website</a> with their Singpass to view how much they can receive. 
+		<a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
       <div class="tab">
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
       <div class="tab-content">
       <a target="_blank" href="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:600px;">
       </a>
- <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
+ <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-do-i-apply-to-top-up-my-my-recipients-special-ra" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
       </div>
     </div>
   </div>
@@ -259,7 +267,7 @@ permalink: /government-services/finances/family/
 <ul>
   <li><a target="_blank" href="/government-services/buy-hdb/">Financing Your Flat With CPF</a></li>
   <li><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding">CPF Online Calculators to Estimate and Plan for Retirement </a></li>
-  <li><a target="_blank" href="/government-services/stay-healthy/#expenses">Managing Healthcare Expenses</a></li>
+  <li><a target="_blank" href="government-services/finances/health-expenses/">Managing Healthcare Costs</a></li>
   <li><a target="_blank" href="https://www.silversupport.gov.sg/">Silver Support Scheme</a></li>
   <li><a target="_blank" href="https://www.pioneers.gov.sg/en-sg/Pages/Home.aspx">Pioneer Generation Package</a></li>
   <li><a target="_blank" href="https://www.gov.sg/features/merdeka-generation">Merdeka Generation Package</a></li>
