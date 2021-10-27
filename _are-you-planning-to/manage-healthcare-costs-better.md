@@ -30,30 +30,30 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="medishield">MediShield Life</h3>
       <div class="tab">
-      <input type="checkbox" id="shield-101">
-      <label class="tab-label" for="shield-101">What is MediShield Life?</label>
+      <input id="shield-101" type="checkbox">
+      <label for="shield-101" class="tab-label">What is MediShield Life?</label>
       <div class="tab-content">
     <p> MediShield Life is a basic health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
-      <input type="checkbox" id="shield-benefits">
-      <label class="tab-label" for="shield-benefits">What Does MediShield Life Cover?</label>
+      <input id="shield-benefits" type="checkbox">
+      <label for="shield-benefits" class="tab-label">What Does MediShield Life Cover?</label>
       <div class="tab-content">      
 <p>MediShield Life helps you pay for large hospitalisation bills and selected costly outpatient treatments, such as dialysis and chemotherapy for cancer. </p>
 
 <p>To keep premiums affordable, MediShield Life benefits are sized based on subsidised bills in public hospitals. If you seek unsubsidised treatment in public hospitals or private hospitals, you will also be able to claim from MediShield Life. However, as unsubsidised bills are much higher, MediShield Life will cover a smaller proportion of the bill.</p>
 
-<p>Learn more about the benefits under MediShield Life <a href="https://www.cpf.gov.sg/member/healthcare-financing/medishield-life" target="_blank">here</a>.</p>  
+<p>Learn more about the benefits under MediShield Life <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/medishield-life">here</a>.</p>  
   </div>
 </div>
 
  <div class="tab">
-      <input type="checkbox" id="shield-apply">
-      <label class="tab-label" for="shield-apply">Who Is Covered Under MediShield Life?</label>
+      <input id="shield-apply" type="checkbox">
+      <label for="shield-apply" class="tab-label">Who Is Covered Under MediShield Life?</label>
       <div class="tab-content">
 <p>All Singapore Citizens (SCs) and Permanent Residents (PRs) are automatically covered from birth, or when you attain SC/PR status. There is no need to apply for MediShield Life coverage.</p>
-<p>You can check your personalized MediShield Life premiums <a href="https://www.cpf.gov.sg/member/ds/dashboards/healthcare" target="_blank">here</a>.</p>
+<p>You can check your personalized MediShield Life premiums <a target="_blank" href="https://www.cpf.gov.sg/member/ds/dashboards/healthcare">here</a>.</p>
       </div>
     </div>
   </div>
@@ -65,17 +65,17 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
-      <input type="checkbox" id="shield-ip">
-      <label class="tab-label" for="shield-ip">What is an Integrated Shield Plan (IP)?</label>
+      <input id="shield-ip" type="checkbox">
+      <label for="shield-ip" class="tab-label">What is an Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
 <p>An IP consists of 2 components: MediShield Life, and an additional, private insurance component provided by a private insurer. Thus, IPs provide optional additional coverage if you seek treatment in higher ward classes beyond B2/C wards. </p>
 <br>
-  <a target="_blank" href="/images/ip-components.png"> <img src="/images/ip-components.png/" alt="IP Components" style="width:600px;"></a>
+  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>
       </div>
     </div>
          <div class="tab">
-      <input type="checkbox" id="ip-get">
-      <label class="tab-label" for="ip-get">Should You Get an Integrated Shield Plan (IP)?</label>
+      <input id="ip-get" type="checkbox">
+      <label for="ip-get" class="tab-label">Should You Get an Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
         <p>You should consider the following questions when deciding whether to buy an IP:</p>
         <ol>
@@ -89,25 +89,25 @@ permalink: /government-services/finances/health-expenses/
             <li>IP premiums above the Additional Withdrawal Limits (AWLs) <a href="#footnote-1">[1]</a>  will have to be paid in cash. You will need to consider whether you can afford to top up the difference in cash, especially at older ages when you have stopped working.</li>
           </ul>
 <i><p id="footnote-1">[1] AWLs refer to the maximum amount of MediSave that can be used to pay for the additional private insurance coverage component. The excess premiums above AWLs are payable in cash.</p>
-<p><img src="/images/MSHL premium AWL (2015).png" alt="AWLs for IP policyholders">Source: <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-faqs#awl">MOH</a></p></i>
+<p><img alt="AWLs for IP policyholders" src="/images/MSHL premium AWL (2015).png">Source: <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-faqs#awl" target="_blank">MOH</a></p></i>
 </ol>
       </div>
     </div>
         <div class="tab">
-      <input type="checkbox" id="ip-choice">
-      <label class="tab-label" for="ip-choice">What Should You Consider When Choosing an IP?
+      <input id="ip-choice" type="checkbox">
+      <label for="ip-choice" class="tab-label">What Should You Consider When Choosing an IP?
 </label>
       <div class="tab-content">
   <p>When choosing an IP, make sure you understand the differences in coverage, premiums, and claim limits.</p>
 
-<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a target="_blank" href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans">comparison of IPs.</a></p>
+<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans" target="_blank">comparison of IPs.</a></p>
 
-<p>See Also: <a href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx" target="_blank">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
+<p>See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
          <div class="tab">
-      <input type="checkbox" id="ip-use">
-      <label class="tab-label" for="ip-use">How do IPs Work?</label>
+      <input id="ip-use" type="checkbox">
+      <label for="ip-use" class="tab-label">How do IPs Work?</label>
       <div class="tab-content">
 <p>There is a range of IPs run by various major insurance companies in Singapore. They are authorised to act as your single point of contact. They will collect premium payments and disburse your claims for the MediShield Life component in your IP.</p>
   </div>
@@ -121,15 +121,15 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="medisave">MediSave (and Flexi-MediSave for Seniors)</h3>
       <div class="tab">
-      <input type="checkbox" id="save-101">
-      <label class="tab-label" for="save-101">What is MediSave?</label>
+      <input id="save-101" type="checkbox">
+      <label for="save-101" class="tab-label">What is MediSave?</label>
       <div class="tab-content">
   <p>MediSave is your personal healthcare savings account. When you are working, you save between 8% to 10.5% (depending on your age) of your monthly salary in your MediSave Account. This helps you set aside part of your income for your healthcare expenses, especially those incurred during your retirement years.</p>
       </div>
     </div>
       <div class="tab">
-      <input type="checkbox" id="save-use">
-      <label class="tab-label" for="save-use">What You Can Use Your MediSave For</label>
+      <input id="save-use" type="checkbox">
+      <label for="save-use" class="tab-label">What You Can Use Your MediSave For</label>
       <div class="tab-content">
   <p>You can use your MediSave to pay for your personal/ approved dependants*:</p>
 
@@ -144,25 +144,25 @@ permalink: /government-services/finances/health-expenses/
       </ul>
   </ul>
 
-  <p>Learn more about the benefits and considerations on the use of MediSave <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings">here</a>.</p>
+  <p>Learn more about the benefits and considerations on the use of MediSave <a href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings" target="_blank">here</a>.</p>
       </div>
     </div>
     <div class="tab">
-      <input type="checkbox" id="save-check">
-      <label class="tab-label" for="save-check">How Much MediSave Can You Withdraw for Your Treatment</label>
+      <input id="save-check" type="checkbox">
+      <label for="save-check" class="tab-label">How Much MediSave Can You Withdraw for Your Treatment</label>
       <div class="tab-content">
 <p>You can withdraw up to the respective MediSave Withdrawal Limits for hospitalisation and outpatient treatments. You can check with your hospital or healthcare provider for more details.​</p>
 
-<p>Learn more about the MediSave Withdrawal Limits <a href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments" target="_blank">here</a>.</p>
+<p>Learn more about the MediSave Withdrawal Limits <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments">here</a>.</p>
 
-<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a href="https://www.cpf.gov.sg/member/tools-and-services/calculators" target="_blank">here</a>.</p>
+<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators">here</a>.</p>
       </div>
     </div>
       <div class="tab">
-      <input type="checkbox" id="flexi-save">
-      <label class="tab-label" for="flexi-save">Flexi-MediSave for Seniors </label>
+      <input id="flexi-save" type="checkbox">
+      <label for="flexi-save" class="tab-label">Flexi-MediSave for Seniors </label>
       <div class="tab-content">
-   <p> Under <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/medisave/what-is-outpatient-flexi-medisave" target="_blank">this scheme</a>, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. </p>
+   <p> Under <a target="_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/medisave/what-is-outpatient-flexi-medisave">this scheme</a>, you can withdraw up to $200 per year per patient for outpatient medical treatments, if you are aged 60 or older. You may also use your spouse’s MediSave, if your spouse is also aged 60 and above. </p>
    
    <p> The scheme covers treatment received at polyclinics, Specialist Outpatient Clinics (SOCs) and participating CHAS general practitioners (GPs).</p>
    
@@ -180,15 +180,15 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="careshield">CareShield Life</h3>
       <div class="tab">
-      <input type="checkbox" id="careshield-101">
-      <label class="tab-label" for="careshield-101">What is CareShield Life?</label>
+      <input id="careshield-101" type="checkbox">
+      <label for="careshield-101" class="tab-label">What is CareShield Life?</label>
       <div class="tab-content">
 <p>CareShield Life is a long-term care insurance scheme that provides basic financial support should Singaporeans become severely disabled, especially during old age, and need personal and medical care for a prolonged duration (i.e. long-term care).</p>
       </div>
     </div>
     <div class="tab">
-    <input type="checkbox" id="care-benefits">
-    <label class="tab-label" for="care-benefits">What You Can Get</label>
+    <input id="care-benefits" type="checkbox">
+    <label for="care-benefits" class="tab-label">What You Can Get</label>
     <div class="tab-content">
 <p>CareShield Life provides you the following in times of severe disability:</p>
 <ul>
@@ -198,12 +198,12 @@ permalink: /government-services/finances/health-expenses/
   <li>Worldwide coverage: You will remain covered, be able to make a claim regardless of where you are residing, and receive payouts.</li>
 </ul>
 <p>See illustration example below:</p>
-<a target="_blank" href="/images/careshield-benefits.png/"> <img src="/images/careshield-benefits.png" alt="CareShield Benefits" style="width:450px;"></a>
+<a href="/images/careshield-benefits.png/" target="_blank"> <img style="width:450px;" alt="CareShield Benefits" src="/images/careshield-benefits.png"></a>
   </div>
 </div>
     <div class="tab">
-    <input type="checkbox" id="care-eligible">
-    <label class="tab-label" for="care-eligible">Can I Apply?</label>
+    <input id="care-eligible" type="checkbox">
+    <label for="care-eligible" class="tab-label">Can I Apply?</label>
     <div class="tab-content">
     <p>If you are...</p>
     <ul>
@@ -216,7 +216,7 @@ permalink: /government-services/finances/health-expenses/
     <p>Your participation in CareShield Life is optional, and you can choose to join CareShield Life from end-2021, regardless of your age, as long as you do not have pre-existing disability.</p>
     <p> If you are <b>born in between 1970 and 1979 (both inclusive)</b>, insured under ElderShield 400, and are not severely disabled, you will be automatically enrolled in CareShield Life in end-2021. However, you can opt out by 31 December 2023 if you do not wish to remain on CareShield Life.
       </p>
-<p> For more information, visit <a href="https://www.careshieldlife.gov.sg/home.html" target="_blank"> careshieldlife.gov.sg</a>.</p>
+<p> For more information, visit <a target="_blank" href="https://www.careshieldlife.gov.sg/home.html"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
   </div>
@@ -228,40 +228,40 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="chas">Community Health Assist Scheme (CHAS)</h3>
       <div class="tab">
-      <input type="checkbox" id="chas-101">
-      <label class="tab-label" for="chas-101">What You Can Get under CHAS</label>
+      <input id="chas-101" type="checkbox">
+      <label for="chas-101" class="tab-label">What You Can Get under CHAS</label>
       <div class="tab-content">
 <p>CHAS provides you with medical subsidies for outpatient care at medical and/or dental care at select GP clinics.</p>
 <p>See the table below for CHAS subsidies you can get:</p>
-<a target="_blank" href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=1548&libID=1812"> <img src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG" alt="CHAS Subsidies" style="width:800px;"></a>
+<a href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=1548&amp;libID=1812" target="_blank"> <img style="width:800px;" alt="CHAS Subsidies" src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG"></a>
     </div>      
   </div>
       <div class="tab">
-      <input type="checkbox" id="chas-eligible">
-      <label class="tab-label" for="chas-eligible">Who Can Apply</label>
+      <input id="chas-eligible" type="checkbox">
+      <label for="chas-eligible" class="tab-label">Who Can Apply</label>
       <div class="tab-content">
-<p>Since 1 Nov 2019, all Singaporean citizens are now eligible to apply for the <a target="_blank" href="https://www.chas.sg/content.aspx?id=303">Community Health Assist Scheme (CHAS)</a>.</p>
+<p>Since 1 Nov 2019, all Singaporean citizens are now eligible to apply for the <a href="https://www.chas.sg/content.aspx?id=303" target="_blank">Community Health Assist Scheme (CHAS)</a>.</p>
     </div>      
   </div>
       <div class="tab">
-      <input type="checkbox" id="chas-apply">
-      <label class="tab-label" for="chas-apply">How to Apply</label>
+      <input id="chas-apply" type="checkbox">
+      <label for="chas-apply" class="tab-label">How to Apply</label>
       <div class="tab-content">
-<p>Apply for your CHAS card for your household <a target="_blank" href="http://www.chas.sg/apply/">here</a> if you have yet to do so.</p>
+<p>Apply for your CHAS card for your household <a href="http://www.chas.sg/apply/" target="_blank">here</a> if you have yet to do so.</p>
     </div>      
   </div>
       <div class="tab">
-      <input type="checkbox" id="chas-how">
-      <label class="tab-label" for="chas-how">How to Receive Your Subsidies</label>
+      <input id="chas-how" type="checkbox">
+      <label for="chas-how" class="tab-label">How to Receive Your Subsidies</label>
       <div class="tab-content">
-<p>You can visit any participating CHAS clinic of your choice, using this <a target="_blank" href="https://www.chas.sg/clinic_locator.aspx?id=90">clinic locator</a>.</p><p>To enjoy the subsidies, you need to show your valid CHAS, MG or PG card and NRIC upon registration at clinic.</p><p>For those below 15 years old, you will have to present a valid CHAS card with your student ID or birth certificate.</p>
+<p>You can visit any participating CHAS clinic of your choice, using this <a href="https://www.chas.sg/clinic_locator.aspx?id=90" target="_blank">clinic locator</a>.</p><p>To enjoy the subsidies, you need to show your valid CHAS, MG or PG card and NRIC upon registration at clinic.</p><p>For those below 15 years old, you will have to present a valid CHAS card with your student ID or birth certificate.</p>
     </div>      
   </div>
       <div class="tab">
-      <input type="checkbox" id="chas-check">
-      <label class="tab-label" for="chas-check">Check Your CHAS History</label>
+      <input id="chas-check" type="checkbox">
+      <label for="chas-check" class="tab-label">Check Your CHAS History</label>
       <div class="tab-content">
-<p>You may log in to <a target="_blank" href-="https://www.chas.sg/mychas.aspx">MyCHAS</a> using your Singpass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
+<p>You may log in to <a target="_blank">MyCHAS</a> using your Singpass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
       </div>
     </div>
   </div>
@@ -274,15 +274,15 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="sep">As a Self-Employed Person (SEP)</h3>
       <div class="tab">
-      <input type="checkbox" id="sep-apply">
-      <label class="tab-label" for="sep-apply">Contribute to Your MediSave Account</label>
+      <input id="sep-apply" type="checkbox">
+      <label for="sep-apply" class="tab-label">Contribute to Your MediSave Account</label>
       <div class="tab-content">
-<p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p><p>NTI is your gross trade income minus all <a href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses" target="_blank">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p><p>Your MediSave contribution depends on your age and annual NTI. Use the <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding" target="_blank">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed">MediSave contribution rates for Self-Employed Persons</a>.</p>
+<p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p><p>NTI is your gross trade income minus all <a target="_blank" href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p><p>Your MediSave contribution depends on your age and annual NTI. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed" target="_blank">MediSave contribution rates for Self-Employed Persons</a>.</p>
     </div>      
   </div>
           <div class="tab">
-      <input type="checkbox" id="sep-contribute">
-      <label class="tab-label" for="sep-contribute">Why MediSave Contributions</label>
+      <input id="sep-contribute" type="checkbox">
+      <label for="sep-contribute" class="tab-label">Why MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
         <li>Up to 6% interest per annum on your MediSave savings</li>
@@ -295,20 +295,20 @@ permalink: /government-services/finances/health-expenses/
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
-      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme" target="_blank">WIS scheme</a>.</p>
+      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/workfare-income-supplement-scheme">WIS scheme</a>.</p>
       </div>
     </div>
           <div class="tab">
-      <input type="checkbox" id="sep-calc">
-      <label class="tab-label" for="sep-calc">How Much MediSave Contributions to Make?</label>
+      <input id="sep-calc" type="checkbox">
+      <label for="sep-calc" class="tab-label">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
-    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a target="_blank" href="https://cpf.gov.sg/SEPHome" >My Self-Employed Home</a> using your Singpass.</p>
- <p>You can apply for your <a target="_blank" href="http://www.singpass.gov.sg/">Singpass</a> online if you do not have one.</p>
+    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://cpf.gov.sg/SEPHome" target="_blank">My Self-Employed Home</a> using your Singpass.</p>
+ <p>You can apply for your <a href="http://www.singpass.gov.sg/" target="_blank">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
           <div class="tab">
-      <input type="checkbox" id="sep-how">
-      <label class="tab-label" for="sep-how">How to Contribute to Your MediSave Account</label>
+      <input id="sep-how" type="checkbox">
+      <label for="sep-how" class="tab-label">How to Contribute to Your MediSave Account</label>
       <div class="tab-content">
     <p>There are several ways you can contribute to your MediSave account. The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).</p>
     <p>The payment options are:</p>
@@ -325,12 +325,12 @@ permalink: /government-services/finances/health-expenses/
     <td><p>Using <em>my cpf</em> Online Services:</p>
     <ol>
       <li> Log in with your Singpass.</li>
-      <li>Submit the “<a href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE" target="_blank" rel="noopener noreferrer">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li>
+      <li>Submit the “<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li>
       <li> Check the status of your GIRO application via My Activities.</li>
     </ol>
 <p>Mail:</p>
 <ol>
-  <li>Download and complete the "<a href="https://www.cpf.gov.sg/Assets/Members/Documents/FORM_GIROSE_VC.pdf" target="_blank" rel="noopener noreferrer">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form.            </li>
+  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/Assets/Members/Documents/FORM_GIROSE_VC.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form.            </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
@@ -350,14 +350,14 @@ permalink: /government-services/finances/health-expenses/
 <p>For other banks, the service standards for processing electronic payments are as follows:</p>
 <ul><li>Via PayNow QR: Payment will be processed almost immediately</li>
   <li>Via eNETS Debit: Payment will be processed within the next working day.</li></ul>
-  <p>You can also log into <a href="https://www.cpf.gov.sg/member/ds" target="_blank">my CPF digital services</a> with your Singpass to check the transaction status:</p>
+  <p>You can also log into <a target="_blank" href="https://www.cpf.gov.sg/member/ds">my CPF digital services</a> with your Singpass to check the transaction status:</p>
   <ul><li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
     <li>Check the transaction status under <b><em>My Activities</em></b> (if you paid via e-Cashier)</li></ul>
     </div>
   </div>
     <div class="tab">
-      <input type="checkbox" id="sep-insure">
-      <label class="tab-label" for="sep-insure">Claim Life Insurance Relief</label>
+      <input id="sep-insure" type="checkbox">
+      <label for="sep-insure" class="tab-label">Claim Life Insurance Relief</label>
       <div class="tab-content">
     <p>To claim this relief, there are a few conditions to meet (as stated below).</p> 
     <ol>
@@ -369,7 +369,7 @@ permalink: /government-services/finances/health-expenses/
 <li>Accident or health insurance that covers the sum assured for the death of a person</li>
 <li>ElderShield, CareShield Life or Integrated Shield Plans</li>
   </ul>
-<p>You can use <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Life-Insurance-Relief/">this calculator</a> to check your eligibility.</p>
+<p>You can use <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Life-Insurance-Relief/" target="_blank">this calculator</a> to check your eligibility.</p>
     </div>      
   </div>
 
@@ -379,24 +379,24 @@ permalink: /government-services/finances/health-expenses/
   <div class="tabs">
     <h3 id="family">As a Caregiver to Your Family and Loved Ones</h3>
       <div class="tab">
-      <input type="checkbox" id="fam-expenses">
-      <label class="tab-label" for="fam-expenses">Grow Your Family’s Medical Expenses</label>
+      <input id="fam-expenses" type="checkbox">
+      <label for="fam-expenses" class="tab-label">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
-    <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">reduce your tax bill</a>.</p>
-    <p>You can also <a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions">top up your MediSave</a> up to the <a target= "_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum">Basic Healthcare Sum</a></p>
+    <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">reduce your tax bill</a>.</p>
+    <p>You can also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
     <div class="tab">
-      <input type="checkbox" id="fam-grants">
-      <label class="tab-label" for="fam-grants">Get Financial Grants as a Caregiver</label>
+      <input id="fam-grants" type="checkbox">
+      <label for="fam-grants" class="tab-label">Get Financial Grants as a Caregiver</label>
       <div class="tab-content">
-    <p>Use this <a target="_blank" href="https://www.aic.sg/financial-assistance/self-assessment-tool">self-assessment tool</a> to check for the grants and subsidies you could be eligible for, as a caregiver to your family.
+    <p>Use this <a href="https://www.aic.sg/financial-assistance/self-assessment-tool" target="_blank">self-assessment tool</a> to check for the grants and subsidies you could be eligible for, as a caregiver to your family.
 Some of the grants include: </p>
 <ul>
-  <li><a target="_blank" href="https://www.healthhub.sg/a-z/costs-and-financing/22/caregivers-training-grant-ctg">Caregivers Training Grant (CTG)</a> to learn how to help your loved ones better in daily care.</li>
-  <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx">Medical Fee Exemption Card</a> if you have a loved one staying in nursing homes</li>
-  <li><a target="_blank" href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx">Home Caregiving Grant</a> to support your loved ones with at least permanent moderate disability</li>
+  <li><a href="https://www.healthhub.sg/a-z/costs-and-financing/22/caregivers-training-grant-ctg" target="_blank">Caregivers Training Grant (CTG)</a> to learn how to help your loved ones better in daily care.</li>
+  <li><a href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx" target="_blank">Medical Fee Exemption Card</a> if you have a loved one staying in nursing homes</li>
+  <li><a href="https://www.msf.gov.sg/assistance/Pages/Home%20Caregiving%20Grant.aspx" target="_blank">Home Caregiving Grant</a> to support your loved ones with at least permanent moderate disability</li>
 </ul>
       </div>
     </div>
@@ -409,8 +409,8 @@ Some of the grants include: </p>
 <p><strong>You may also be interested in:</strong></p>
 
 <ul>
-  <li><a target="_blank" href="/government-services/finances/family/">Manage My Family's Finances</a></li>
-  <li><a target="_blank" href="https://www.cpf.gov.sg/members/tools/calculators">Other CPF Online Tools</a></li>
+  <li><a href="/government-services/finances/family/" target="_blank">Manage My Family's Finances</a></li>
+  <li><a href="https://www.cpf.gov.sg/members/tools/calculators" target="_blank">Other CPF Online Tools</a></li>
 </ul>
 
 <hr>
@@ -427,4 +427,4 @@ Some of the grants include: </p>
 
 <h1> Give us your feedback</h1>
 
-<p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
+<p>Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></p></div></div>
