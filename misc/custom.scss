@@ -424,6 +424,7 @@ only screen and (max-width: 760px) {
       font-weight: bold;
       margin-bottom: 1em;
       color: $primary;
+    }
   }
   .tab {
     width: 100%;
@@ -448,6 +449,14 @@ only screen and (max-width: 760px) {
     transition: all .1s;
     //box-shadow: 1px 1px #888888;
     box-shadow: 0 0.03em rgba(0,0,0,0.8);
+
+  li {
+      list-style-type: disc;
+  }
+  
+  li li {
+      list-style-type: circle;
+  }
 
     /* Icon */
     &:hover {
