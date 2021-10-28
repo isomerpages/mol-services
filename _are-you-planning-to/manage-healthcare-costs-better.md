@@ -213,9 +213,16 @@ permalink: /government-services/finances/health-expenses/
     <p>If you are...</p>
      <ul>
       <li>Born in <b>1979 or earlier</b></li></ul>
-    <p>Your participation in CareShield Life is optional, and you can choose to join CareShield Life from end-2021, regardless of your age, as long as you do not have pre-existing disability.</p>
-    <p> If you are <b>born in between 1970 and 1979 (both inclusive)</b>, insured under ElderShield 400, and are not severely disabled, you will be automatically enrolled in CareShield Life in end-2021. However, you can opt out by 31 December 2023 if you do not wish to remain on CareShield Life.
-      </p>
+    <p>Your participation in CareShield Life is optional^. If you wish to join CareShield Life, you may access the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/application-to-join-careshield-life.html" target="_blank">Application to join CareShield Life</a> e-Service (available from 6 November 2021) with your Singpass. 
+			<p> You’ll be automatically enrolled into CareShield Life if you’re:</p>
+	<ul>
+		<li>Born between 1970 and 1979</li>
+		<li>Insured under ElderShield 400, and</li>
+		<li>Not severely disabled</li>
+			</ul>
+      <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by 31 December 2023. </p>
+			<p>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they’re severely disabled.</p>
+			
 <p> For more information, visit <a target="_blank" href="https://www.careshieldlife.gov.sg/home.html"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
@@ -285,19 +292,19 @@ permalink: /government-services/finances/health-expenses/
       <label for="sep-contribute" class="tab-label">Why MediSave Contributions</label>
       <div class="tab-content">
        <p>When you contribute to MediSave, you enjoy:</p>
-			<ol>
+			<ul>
         <li>Up to 6% interest per annum on your MediSave savings</li>
          <ul class="sub-bullet">
           <li>Savings in your MediSave Account earn 4% interest per annum, and the first $60,000 of your combined CPF balances earns an additional 1% interest per annum. CPF Members aged 55 and above also enjoy an additional 1% interest per annum on the first $30,000 of their combined CPF balance from 1 January 2016.</li>
 					  </ul>
         <li>Tax relief of up to 37% of your annual NTI, or the CPF Annual Limit of $37,740, whichever is lower</li>
-	       </ol>
-        <p>You can use your MediSave savings for:</p>
+        <li>Using your MediSave savings for:</li>
         <ul class="sub-bullet">
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
-      <p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
+
+<p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
       </div>
     </div>
           <div class="tab">
@@ -349,12 +356,12 @@ permalink: /government-services/finances/health-expenses/
   </tr>
 </tbody>
 </table>
-<p>For other banks, the service standards for processing electronic payments are as follows:</p>
+<p>For other banks, the payment options and service standards for processing electronic payments are as follows:</p>
 <ul><li>Via PayNow QR: Payment will be processed almost immediately</li>
   <li>Via eNETS Debit: Payment will be processed within the next working day.</li></ul>
-  <p>You can also log into <a target="_blank" href="https://www.cpf.gov.sg/member/ds"><em>my CPF<em> digital services</a> with your Singpass to check the transaction status:</p>
+  <p>You can also log into <em>my CPF<em> <a target="_blank" href="https://www.cpf.gov.sg/member/ds">digital services</a> with your Singpass to check the transaction status:</p>
   <ul><li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
-    <li>Check the transaction status under <b><em>My Activities</em></b> (if you paid via e-Cashier)</li></ul>
+    <li>Check the transaction status under <b><em>My activities</em></b> (if you paid via e-Cashier)</li></ul>
     </div>
   </div>
     <div class="tab">
