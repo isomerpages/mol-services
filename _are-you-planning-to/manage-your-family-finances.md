@@ -263,13 +263,13 @@ permalink: /government-services/finances/family/
 <table>
 <thead>
   <tr>
-    <th>Payment Mode</th>
-    <th>How to make payment?</th>
+		<th><p>Payment Mode</p></th>
+		<th><p>How to make payment?</p></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>For PayNow QR</td>
+		<td><p>For PayNow QR</p></td>
     <td><ol>
 			<li> Select "PayNow" as the payment mode and click on "Make Payment" to proceed. A QR code will then be generated.</li>
 			<li>Log in to your bank's mobile app and scan the QR code generated with your bank's mobile app to make payment.</li>
@@ -279,7 +279,7 @@ permalink: /government-services/finances/family/
 		</td>
   </tr>
   <tr>
-    <td>For eNETS</td>
+		<td><p>For eNETS</p></td>
     <td>
 			<ol>
 				<li>Select "eNETS" as the payment mode and click on "Make Payment" to proceed. You will be redirected to the payment gateway where you will be prompted for your internet banking details and authorization of the payment.</li>
@@ -289,9 +289,6 @@ permalink: /government-services/finances/family/
   </tr>
 </tbody>
 </table>
-     
-      </div>
-    </div>
   </div>
 </div>
 
