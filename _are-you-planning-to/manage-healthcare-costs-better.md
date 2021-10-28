@@ -323,6 +323,7 @@ permalink: /government-services/finances/health-expenses/
       <label for="sep-calc" class="tab-label">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
     <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">the Self-Employment dashboard</a> via CPF website using your Singpass.</p>
+				
  <p>You can apply for your <a href="http://www.singpass.gov.sg/" target="_blank">Singpass</a> online if you do not have one.</p>
       </div>
     </div>
@@ -368,9 +369,14 @@ permalink: /government-services/finances/health-expenses/
 </tbody>
 </table>
 <p>For other banks, the payment options and service standards for processing electronic payments are as follows:</p>
-<ul><li>Via PayNow QR: Payment will be processed almost immediately</li>
-  <li>Via eNETS Debit: Payment will be processed within the next working day.</li></ul>
+				
+<ul>
+	<li>Via PayNow QR: Payment will be processed almost immediately</li>
+  <li>Via eNETS Debit: Payment will be processed within the next working day.</li>
+	</ul>
+				
   <p>You can also log into <em>my CPF<em> <a target="_blank" href="https://www.cpf.gov.sg/member/ds">digital services</a> with your Singpass to check the transaction status:</p>
+		
   <ul>
 		<li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
     <li>Check the transaction status under <b><em>My activities</em></b> (if you paid via e-Cashier)</li>
@@ -386,16 +392,17 @@ permalink: /government-services/finances/health-expenses/
 <li>Your CPF contributions to your Medisave Account (both mandatory and voluntary) in the previous year were less than $5,000</li>
 <li>You have paid the premiums for your life insurance policy in the previous year</li>
   </ol>
+				
 <p>Life insurance relief cannot be claimed on premiums paid for the following:</p>
   <ul>
 <li>Accident or health insurance that covers the sum assured for the death of a person</li>
 <li>ElderShield, CareShield Life or Integrated Shield Plans</li>
   </ul>
 <p>You can use <a href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Life-Insurance-Relief/" target="_blank">this calculator</a> to check your eligibility.</p>
-    </div>      
+      </div>
+    </div>
   </div>
-    </div>      
-  </div>
+</div>
 		
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
@@ -407,7 +414,9 @@ permalink: /government-services/finances/health-expenses/
       <label for="fam-expenses" class="tab-label">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
     <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">reduce your tax bill</a>.</p>
+				
     <p>You can also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
+				
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
@@ -417,6 +426,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
     <p>Use this <a href="https://www.aic.sg/financial-assistance/self-assessment-tool" target="_blank">self-assessment tool</a> to check for the grants and subsidies you could be eligible for, as a caregiver to your family.
 Some of the grants include: </p>
+				
 <ul>
   <li><a href="https://www.healthhub.sg/a-z/costs-and-financing/22/caregivers-training-grant-ctg" target="_blank">Caregivers Training Grant (CTG)</a> to learn how to help your loved ones better in daily care.</li>
   <li><a href="https://www.msf.gov.sg/assistance/Pages/Medical-Fee-Exemption-Card.aspx" target="_blank">Medical Fee Exemption Card</a> if you have a loved one staying in nursing homes</li>
@@ -443,7 +453,7 @@ Some of the grants include: </p>
 
 <p>Please contact the respective government agencies if you have any questions about the listings on this page. </p> 
 
-<p>Last updated: 7 May 2021</p>
+<p>Last updated: 31 Oct 2021</p>
  
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
