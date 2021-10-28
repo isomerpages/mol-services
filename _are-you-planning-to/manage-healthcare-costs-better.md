@@ -301,7 +301,8 @@ permalink: /government-services/finances/health-expenses/
           <li>Healthcare expenses for you and your family</li>
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
-<p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually. You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
+<p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually.</p>
+<p>You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
       </div>
     </div>
           <div class="tab">
