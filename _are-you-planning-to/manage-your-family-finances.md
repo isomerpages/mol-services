@@ -234,10 +234,8 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
     <ol>
-			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">CPF website</a></li>
-     <li> Click on “Services”</li>
-      <li> Under “Payments”, click on “e-Cashier”</li>
-      <li> Read the information and click “Proceed”</li>
+			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> > Services > e-Cashier.</li>
+     <li> Read the information and Important Notes on this page and click “Proceed”</li>
       <li>Key in your parent’s CPF account number/NRIC</li>
       <li> Choose paying as a “Member”</li>
 			<ul>
