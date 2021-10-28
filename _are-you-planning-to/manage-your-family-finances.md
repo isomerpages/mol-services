@@ -163,25 +163,16 @@ permalink: /government-services/finances/family/
      <p>The Retirement Sum Topping-Up Scheme (RSTU) helps you grow your retirement savings and that of your loved ones so that they can enjoy higher monthly payouts when they retire.</p>
 <p>You can top up to your loved ones’ CPF Special Account (if they are below age 55) or Retirement Account (if they are aged 55 and above). Top-ups can be made in cash, CPF transfers or both.</p>
       </div>
-    </div>
-      <div class="tab">
-      <input type="checkbox" id="rstu-contribute">
-      <label class="tab-label" for="rstu-contribute">Contributing to Your Loved Ones' Retirement</label>
-      <div class="tab-content">
-    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps your seniors and loved ones grow their retirement savings when you top up their CPF Special Accounts (if they are below age 55) or CPF Retirement Accounts (if they are aged 55 and above).</p>
-<br>
-      <p>Savings accumulated in your parents/grandparents’ CPF Special Accounts (SA) or Retirement Accounts (RA) will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF Life once they reach their Payout Eligibility Age.</p>
-      </div>
-    </div>
+  </div>
       <div class="tab">
       <input type="checkbox" id="rstu-parents">
       <label class="tab-label" for="rstu-parents">4 Reasons You Should Top Up Their CPF for Retirement</label>
       <div class="tab-content">
       <ol>
-        <li>Your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn higher interest of up to 6% per annum.</li>
-        <li>By your loved ones’ Payout Eligibility Age, they’ll enjoy higher monthly payouts and/or extended payout durations under the CPF LIFE or Retirement Sum Scheme. </li>
-        <li>If you are making cash top-ups for yourself, you can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year.</li>
-        <li>If you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings), you can enjoy additional tax relief* of up to $7,000 per calendar year.</li>
+        <li>Your top ups to your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn attractive interest of up to 5% or 6% per annum*.</li>
+        <li>Your loved ones enjoy higher monthly payouts. </li>
+        <li>You can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year when you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings.). If you make a cash top-up for yourself, you can enjoy additional tax relief* of up to $7,000 per calendar year too.</li>
+        <li>Under the Matched Retirement Savings Scheme (MRSS), the Government will match every dollar of cash top-ups to eligible* seniors who have yet to reach the Basic Retirement Sum (BRS), up to $600 per year.</li>
     </ol>
     <p><em>*Terms and conditions apply</em></p>
       </div>
