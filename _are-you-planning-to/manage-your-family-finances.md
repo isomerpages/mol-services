@@ -53,7 +53,7 @@ permalink: /government-services/finances/family/
   </tr>
 </tbody>
 </table>
-
+				
 </div>
     </div>
       <div class="tab">
@@ -218,7 +218,7 @@ permalink: /government-services/finances/family/
   <ul>
     <li>Your parents would have their own MediSave if they have ever made CPF contributions, or someone in the family has made voluntary top-ups for them before.</li>
     <li>Your parents may have also received further MediSave top-ups under the Pioneer Generation or Merdeka Generation Packages.</li>
-    <li>Read more about MediSave, its benefits/uses and other important information <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</li>
+    <li>Read more about MediSave, its benefits/uses and other important information <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings">here</a>.</li>
   </ul>
       </div>
     </div>
