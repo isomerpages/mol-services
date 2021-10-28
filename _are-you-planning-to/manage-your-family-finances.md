@@ -199,8 +199,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-topup">
       <label class="tab-label" for="rstu-topup">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
       <div class="tab-content">
-      <a target="_blank" href="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:600px;">
-      </a>
+      <a target="_blank" href="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:600px;"></a>
  <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-do-i-apply-to-top-up-my-my-recipients-special-ra" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
       </div>
     </div>
