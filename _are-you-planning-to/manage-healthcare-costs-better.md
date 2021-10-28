@@ -33,7 +33,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="shield-101" type="checkbox">
       <label for="shield-101" class="tab-label">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> MediShield Life is a basic health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
+    <p> MediShield Life is a health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
@@ -101,8 +101,6 @@ permalink: /government-services/finances/health-expenses/
   <p>When choosing an IP, make sure you understand the differences in coverage, premiums, and claim limits.</p>
 
 <p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans" target="_blank">comparison of IPs.</a></p>
-
-<p>See Also: <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Pages/Views-Insurance-101-Beginners-Guide-to-Integrated-Shield-Plans-BankBazaar.aspx">Beginner's Guide to Integrated Shield Plans</a>, on common pitfalls to avoid when choosing an IP.</p>
       </div>
     </div>
          <div class="tab">
