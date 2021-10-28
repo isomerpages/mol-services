@@ -391,7 +391,6 @@ permalink: /government-services/finances/health-expenses/
 <li>Your CPF contributions to your Medisave Account (both mandatory and voluntary) in the previous year were less than $5,000</li>
 <li>You have paid the premiums for your life insurance policy in the previous year</li>
   </ol>
-				
 <p>Life insurance relief cannot be claimed on premiums paid for the following:</p>
   <ul>
 <li>Accident or health insurance that covers the sum assured for the death of a person</li>
