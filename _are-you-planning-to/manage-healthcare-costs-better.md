@@ -132,9 +132,7 @@ permalink: /government-services/finances/health-expenses/
       <label for="save-use" class="tab-label">What You Can Use Your MediSave For</label>
       <div class="tab-content">
   <p>You can use your MediSave to pay for your personal/ approved dependants*:</p>
-
   <p><em>*Note: Approved dependants are your spouse, children, parents, grandparents and siblings. They can be of any nationality except for your grandparents and siblings who must be Singapore Citizens or Permanent Residents.</em></p>
-
   <ul>
     <li>Hospitalisation, day surgery and certain costly outpatient expenses, as well as healthcare needs in old age.</li>
     <li>Health insurance premiums</li>
@@ -143,7 +141,6 @@ permalink: /government-services/finances/health-expenses/
         <li>MediSave may also be used to pay for Integrated Shield Plans (IPs) and ElderShield Supplements, up to withdrawal limits.</li>
       </ul>
   </ul>
-
   <p>Learn more about the benefits and considerations on the use of MediSave <a href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings" target="_blank">here</a>.</p>
       </div>
     </div>
@@ -227,6 +224,7 @@ permalink: /government-services/finances/health-expenses/
     </div>
   </div>
 </div>
+
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
 <div class="mol-accordion">
@@ -282,7 +280,9 @@ permalink: /government-services/finances/health-expenses/
       <input id="sep-apply" type="checkbox">
       <label for="sep-apply" class="tab-label">Contribute to Your MediSave Account</label>
       <div class="tab-content">
-<p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p><p>NTI is your gross trade income minus all <a target="_blank" href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p><p>Your MediSave contribution depends on your age and annual NTI. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed" target="_blank">MediSave contribution rates for Self-Employed Persons</a>.</p>
+<p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p><p>NTI is your gross trade income minus all <a target="_blank" href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
+
+				<p>Your MediSave contribution depends on your age and annual NTI. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed" target="_blank">MediSave contribution rates for Self-Employed Persons</a>.</p>
     </div>      
   </div>
           <div class="tab">
@@ -382,6 +382,7 @@ permalink: /government-services/finances/health-expenses/
   </div>
     </div>      
   </div>
+		
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
 <div class="mol-accordion">
