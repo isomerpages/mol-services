@@ -341,11 +341,11 @@ permalink: /government-services/finances/health-expenses/
 <tbody>
   <tr>
     <td><p>GIRO:</p></td>
-    <td><p>Using <em>my cpf</em> Online Services:</p>
+    <td><p>Using <em>my cpf</em> digital services:</p>
     <ol>
       <li> Log in with your Singpass.</li>
       <li>Submit the “<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li>
-      <li> Check the status of your GIRO application via My Activities.</li>
+      <li> Check the status of your GIRO application via My activities.</li>
     </ol>
 <p>Mail:</p>
 <ol>
@@ -406,9 +406,9 @@ permalink: /government-services/finances/health-expenses/
       <input id="fam-expenses" type="checkbox">
       <label for="fam-expenses" class="tab-label">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
-    <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">reduce your tax bill</a>.</p>
+    <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/cpf-cash-top-up-relief" target="_blank">reduce your tax bill</a>.</p>
 				
-    <p>You can also <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Compulsory-and-Voluntary-Medisave-Contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
+    <p>You can also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/compulsory-and-voluntary-medisave-contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
 				
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
