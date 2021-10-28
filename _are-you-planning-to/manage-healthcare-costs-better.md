@@ -373,7 +373,8 @@ permalink: /government-services/finances/health-expenses/
 	<li>Via PayNow QR: Payment will be processed almost immediately</li>
   <li>Via eNETS Debit: Payment will be processed within the next working day.</li>
 	</ul>
-  <p>You can also log into <em>my CPF<em> <a target="_blank" href="https://www.cpf.gov.sg/member/ds">digital services</a> with your Singpass to check the transaction status:</p>
+  <p>You can also log into <em>my CPF</em> <a target="_blank" href="https://www.cpf.gov.sg/member/ds">digital services</a> with your Singpass to check the transaction status:</p>
+	
   <ul><li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
     <li>Check the transaction status under <b><em>My activities</em></b> (if you paid via e-Cashier)</li></ul>
   </div>
