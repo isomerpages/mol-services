@@ -221,13 +221,12 @@ permalink: /government-services/finances/health-expenses/
 		<li>Not severely disabled</li>
 			</ul>
       <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by 31 December 2023. </p>
-			<p>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they’re severely disabled.</p>
+			<p><em>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they’re severely disabled.</em></p>
 <p> For more information, visit <a target="_blank" href="https://www.careshieldlife.gov.sg/home.html"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
   </div>
 </div>
-
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
 <div class="mol-accordion">
