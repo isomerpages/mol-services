@@ -379,8 +379,8 @@ permalink: /government-services/finances/health-expenses/
   <ul>
 		<li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
     <li>Check the transaction status under <b><em>My activities</em></b> (if you paid via e-Cashier)</li>
-		</ul>
-   </div>
+	</ul>
+  </div>
  </div>
     <div class="tab">
       <input id="sep-insure" type="checkbox">
