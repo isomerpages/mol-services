@@ -34,7 +34,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
 <p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
 
-<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https:/www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
+<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
 <table>
 <thead>
   <tr>
