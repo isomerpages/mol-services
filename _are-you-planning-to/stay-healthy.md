@@ -70,6 +70,7 @@ permalink: /government-services/stay-healthy/
 
 - [Check Your Financial Health](https://www.moneysense.gov.sg/financial-health-check-v2){:target=“_blank”}
 - [Manage Your Healthcare Costs Better](/government-services/finances/health-expenses/)
+- [Active Ageing](https://www.life.gov.sg/guides/active-ageing)
 ---------------------------------------
 
 This page will be updated as additional schemes and measures are introduced.
