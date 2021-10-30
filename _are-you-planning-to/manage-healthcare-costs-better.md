@@ -349,7 +349,7 @@ permalink: /government-services/finances/health-expenses/
     </ol>
 <p>Mail:</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/Assets/Members/Documents/FORM_GIROSE_VC.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
+  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
