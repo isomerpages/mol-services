@@ -181,7 +181,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How Much Top-ups can Your Loved Ones Receive?</label>
       <div class="tab-content">
-				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
+				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-can-i-check-my-top-up-limits-" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
 		<a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
       </div>
     </div>
@@ -190,7 +190,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="rstu-topup">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
       <div class="tab-content">
 <a target="_blank" href="/images/CPFtopup_RSTU.png"> <img src="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:650px;"></a>
- <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-do-i-apply-to-top-up-my-my-recipients-special-ra" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
+ <p><a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-do-i-apply-to-top-up-my-my-recipients-special-ra" target="_blank">Read more </a> to learn how you can help your loved ones grow their retirement savings by topping up your CPF accounts.</p>
       </div>
     </div>
   </div>
