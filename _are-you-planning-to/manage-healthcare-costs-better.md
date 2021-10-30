@@ -437,7 +437,7 @@ Some of the grants include: </p>
 
 <ul>
   <li><a href="/government-services/finances/family/" target="_blank">Manage My Family's Finances</a></li>
-  <li><a href="https://www.cpf.gov.sg/members/tools/calculators" target="_blank">Other CPF Online Tools</a></li>
+  <li><a href="https://www.cpf.gov.sg/member/tools-and-services/calculators" target="_blank">Other CPF Online Tools</a></li>
 </ul>
 
 <hr>
