@@ -30,9 +30,6 @@ permalink: /government-services/stay-healthy/
 </div>
 </div>
 
-[**BACK TO TOP**](#top)
-
-
 # <a name="habits"></a>Build Healthy Habits at Home
 <div class="mol-accordion">
 <div class="tabs">
@@ -58,12 +55,6 @@ permalink: /government-services/stay-healthy/
 </div>
 </div>
 </div>
-
-[**BACK TO TOP**](#top)
-
-
-
-[**BACK TO TOP**](#top)
 
 ---------------------------------------
 **You may also be interested in:**
