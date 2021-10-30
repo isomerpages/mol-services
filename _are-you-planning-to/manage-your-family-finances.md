@@ -34,7 +34,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
 <p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
 
-<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
+<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
 <table>
 <thead>
   <tr>
@@ -45,22 +45,22 @@ permalink: /government-services/finances/family/
 <tbody>
   <tr>
     <td><p>Up to 60 years old</p></td>
-    <td><p>$70000</p></td>
+    <td><p>$70,000</p></td>
   </tr>
   <tr>
     <td><p>Above 60 years old and up to 65 years old</p></td>
-    <td><p>$55000</p></td>
+    <td><p>$55,000</p></td>
   </tr>
 </tbody>
 </table>
-
+				
 </div>
     </div>
       <div class="tab">
       <input type="checkbox" id="eligibility">
       <label class="tab-label" for="eligibility">How to Apply</label>
       <div class="tab-content">
-  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) between 21 and 65 years old upon their first CPF working contribution. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/PortalServices/GetStarted">my cpf Online Services</a>. Simply log in via your Singpass and select “My Messages”.</p>
+  <p>DPS coverage is automatically extended to all Singaporeans and Permanent Residents (PRs) between 21 and 65 years old upon their first CPF working contribution. You may check the status of your DPS coverage through your yearly CPF Statement of Account, or online through the <a target="_blank" href="https://www.cpf.gov.sg/member/ds/dashboards/providing-for-your-loved-ones">CPF website</a> by logging in via your Singpass.</p>
       <p>If you are 16 years old and above and have not been offered automatic coverage, you can apply to join DPS with <a target="_blank" href="https://www.greateasternlife.com/sg/en/personal-insurance/our-products/life-insurance/dependants-protection-scheme.html">Great Eastern Life</a> directly.</p>
       </div>
     </div>
@@ -81,7 +81,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="dps-premium">
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
       <div class="tab-content">
-   <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal. </p>
+   <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal.</p>
    <p>Alternatively, you can pay your DPS premiums directly to the DPS insurer by cash.</p>
        </div>
     </div>
@@ -146,40 +146,6 @@ permalink: /government-services/finances/family/
   </div>
 </div>
 </div>
-<div class="mol-accordion">
-  <div class="tabs">
-    <h3 id="child-cpf">Boost Your Child's Savings</h3>
-      <div class="tab">
-      <input type="checkbox" id="child-medisave">
-      <label class="tab-label" for="child-medisave">Grow Your Child's MediSave Savings</label>
-      <div class="tab-content">  
-    <p>Your child’s MediSave Account (MA) can be used for his/her future medical expenses (e.g. vaccinations, outpatient treatments) and healthcare insurance premiums (e.g. MediShield Life or Private Integrated Shield Plan premiums).</p>
-  <ul>
-    <li>If your child is a Singapore Citizen from birth, he or she would have received a $4,000 <a href="https://www.madeforfamilies.gov.sg/raising-families/medisave-grant-for-newborns#:~:text=A%20CPF%20MediSave%20account%20will,hospitalisation%2C%20and%20approved%20outpatient%20treatments">MediSave Grant for Newborns (MGN)</a> automatically credited into their MediSave.</li>
-    <li>You can <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">top up your child’s MediSave Account</a> to provide them a stronger safety net for their future - earning 5% p.a. interest in his/her MA.</li>
-  </ul>
-  <p>See how your regular top-ups in your child’s MA will add up over the years:</p>
-      <a target="_blank" href="/images/child-medisave.png"> <img src="/images/child-medisave.png" alt="Child MediSave Compound" style="width:600px;"></a>
-      </div>
-  </div>
-  <div class="tab">
-      <input type="checkbox" id="child-oa">
-      <label class="tab-label" for="child-oa">Make Regular Top-ups to your Child’s CPF Ordinary Account (OA) </label>
-      <div class="tab-content">  
-  <p>The funds in your child’s OA can be used for his/her future housing and education needs.</p>
-  <ul>
-  <li>Your child will also get an early start in building his or her savings earlier at an interest rate of 2.5% per annum.</li>
-    <li>To top up your child’s OA, click <a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">here.</a></li> 
-</ul>
-  <p>Check the interest rates of various CPF accounts here:</p>
-  <a target="_blank" href="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG"> <img src="https://www.cpf.gov.sg/askjamie/user/uploads/Interest%20rates.JPG" alt="CPF Interest Rates" style="width:600px;"></a>
-<ul class="sub-bullet">
-  <li>Note: you cannot just choose to top up your child’s CPF OA only - your top-up amount will be allocated to all three CPF accounts including his/her MediSave and Special Accounts.</li>
-</ul>
-      </div>
-  </div>
-</div>
-</div>
 
 [**BACK TO TOP**](#top)
 <br>
@@ -194,39 +160,37 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-receive">
       <label class="tab-label" for="rstu-receive">What is Retirement Sum Topping-Up Scheme (RSTU)?</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
+     <p>The Retirement Sum Topping-Up Scheme (RSTU) helps you grow your retirement savings and that of your loved ones so that they can enjoy higher monthly payouts when they retire.</p>
+<p>You can top up to your loved ones’ CPF Special Account (if they are below age 55) or Retirement Account (if they are aged 55 and above). Top-ups can be made in cash, CPF transfers or both.</p>
       </div>
-    </div>
-      <div class="tab">
-      <input type="checkbox" id="rstu-contribute">
-      <label class="tab-label" for="rstu-contribute">Contributing to Your Loved Ones' Retirement</label>
-      <div class="tab-content">
-    <p>The <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme">Retirement Sum Topping-Up Scheme (RSTU)</a> helps your seniors and loved ones grow their retirement savings when you top up their CPF Special Accounts (if they are below age 55) or CPF Retirement Accounts (if they are aged 55 and above).</p>
-    <ul>
-      <li>Savings accumulated in your parents/grandparents’ CPF Special Accounts (SA) or Retirement Accounts (RA) will be used to provide monthly payouts under the Retirement Sum Scheme, or CPF Life once they reach their Payout Eligibility Age.</li>
-    </ul>
-      </div>
-    </div>
+  </div>
       <div class="tab">
       <input type="checkbox" id="rstu-parents">
       <label class="tab-label" for="rstu-parents">4 Reasons You Should Top Up Their CPF for Retirement</label>
       <div class="tab-content">
       <ol>
-        <li>Your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn higher interest of up to 6% per annum.</li>
-        <li>By your loved ones’ Payout Eligibility Age, they’ll enjoy higher monthly payouts and/or extended payout durations under the CPF LIFE or Retirement Sum Scheme. </li>
-        <li>If you are making cash top-ups for yourself, you can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year.</li>
-        <li>If you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings), you can enjoy additional tax relief* of up to $7,000 per calendar year.</li>
+        <li>Your top ups to your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn attractive interest of up to 5% or 6% per annum*.</li>
+        <li>Your loved ones enjoy higher monthly payouts. </li>
+        <li>You can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year when you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings.). If you make a cash top-up for yourself, you can enjoy additional tax relief* of up to $7,000 per calendar year too.</li>
+        <li>Under the Matched Retirement Savings Scheme (MRSS), the Government will match every dollar of cash top-ups to eligible* seniors who have yet to reach the Basic Retirement Sum (BRS), up to $600 per year.</li>
     </ol>
     <p><em>*Terms and conditions apply</em></p>
       </div>
     </div>
-      <div class="tab">
+		<div class="tab">
       <input type="checkbox" id="rstu-get">
-      <label class="tab-label" for="rstu-get">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
+      <label class="tab-label" for="rstu-get">How Much Top-ups can Your Loved Ones Receive?</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png"> <img src="https://www.cpf.gov.sg/Assets/members/PublishingImages/ModesofToppup_Infographic.png" alt="RSTU Transfer" style="width:600px;">
-      </a>
- <p>Learn how you can help your loved ones grow their retirement savings in this <a href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-topping-up-scheme" target="_blank">step-by-step guide</a> to topping up your CPF accounts.</p>
+				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-can-i-check-my-top-up-limits-" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
+		<a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
+      </div>
+    </div>
+      <div class="tab">
+      <input type="checkbox" id="rstu-topup">
+      <label class="tab-label" for="rstu-topup">How to Top Up You and Your Loved Ones' CPF With RSTU</label>
+      <div class="tab-content">
+<a target="_blank" href="/images/CPFtopup_RSTU.png"> <img src="/images/CPFtopup_RSTU.png" alt="RSTU Transfer" style="width:650px;"></a>
+ <p><a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-do-i-apply-to-top-up-my-my-recipients-special-ra" target="_blank">Read more </a> to learn how you can help your loved ones grow their retirement savings by topping up your CPF accounts.</p>
       </div>
     </div>
   </div>
@@ -243,7 +207,7 @@ permalink: /government-services/finances/family/
   <ul>
     <li>Your parents would have their own MediSave if they have ever made CPF contributions, or someone in the family has made voluntary top-ups for them before.</li>
     <li>Your parents may have also received further MediSave top-ups under the Pioneer Generation or Merdeka Generation Packages.</li>
-    <li>Read more about MediSave, its benefits/uses and other important information <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/healthcare/medisave">here</a>.</li>
+    <li>Read more about MediSave, its benefits/uses and other important information <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings">here</a>.</li>
   </ul>
       </div>
     </div>
@@ -260,7 +224,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <ul>
       <li>The MA is one of the higher interest-yielding CPF accounts with interest rates up to 6% per annum</li>
-      <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/Members/FAQ/schemes/healthcare/medisave/FAQDetails?category=healthcare&group=MediSave&ajfaqid=2189345&folderid=12917">Basic Healthcare Sum (BHS)</a> limit.</li>
+      <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum">Basic Healthcare Sum (BHS)</a> limit.</li>
     </ul>
       </div>
     </div>
@@ -269,19 +233,52 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="save-cash">How to Top up MediSave Accounts with Cash</label>
       <div class="tab-content">
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
-    <ol><li> Go to <em><a target="_blank" href="https://www.cpf.gov.sg/members">my cpf portal</a></em></li> 
-      <li> Click on “Services”</li>
-      <li> Under “Payments”, click on “e-Cashier”</li>
-      <li> Read the information and click “Proceed”</li>
-      <li>Key in your parent’s NRIC number</li>
-      <li> Select “Member”</li>
-      <li> In the drop-down list for payment type, select “Contribute to my MediSave” (tax deductible)</li>
-      <li>Follow the instructions to complete the application form</li>
-      <li>At the Payment Request page, select “PayNow” as the payment mode and click on “Make Payment” to proceed. A QR code will then be generated.</li>
-      <li>Login to your bank’s mobile app, and scan the QR code generated to make payment.</li>
-      </ol>
-      </div>
-    </div>
+    <ol>
+			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> > Tools & Services > e-Cashier.</li>
+     <li> Read the information and Important Notes on this page and click “Proceed”</li>
+      <li>Key in your loved ones' CPF Account Number/NRIC</li>
+      <li> Choose paying as a “Member”</li>
+			<ul>
+      <li>In the drop-down list for payment type, select “Contribute to my MediSave (tax deductible)"</li>
+			</ul>
+      <li>Click "Next" and read the Important Notes and Terms & Conditions</li>
+			<li>Tick in the box "I have read and accepted the Terms & Conditions above".</li>
+			<li>Click "Start" and follow the instructions to complete the application.</li>
+			<li>On the next page, indicate your contact number and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer's name [optional]. At the bottom of the page, click "Next" to continue.</li>
+			<li>At the Payment Request page, select your preferred payment mode.</li></ol>
+
+<table>
+<thead>
+  <tr>
+		<th><p>Payment Mode</p></th>
+		<th><p>How to make payment?</p></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+		<td><p>For PayNow QR</p></td>
+    <td><ol>
+			<li> Select "PayNow" as the payment mode and click on "Make Payment" to proceed. A QR code will then be generated.</li>
+			<li>Log in to your bank's mobile app and scan the QR code generated with your bank's mobile app to make payment.</li>
+			<li>Make payment before the QR code expires at the end of the day. If payment is not received, the application will be deemed unsuccessful.</li>
+			<li>Make only one payment. Subsequent payments made using the same PayNow QR code will be refunded.</li>
+			</ol>
+		</td>
+  </tr>
+  <tr>
+		<td><p>For eNETS</p></td>
+    <td>
+			<ol>
+				<li>Select "eNETS" as the payment mode and click on "Make Payment" to proceed. You will be redirected to the payment gateway where you will be prompted for your internet banking details and authorization of the payment.</li>
+				<li>Please note that you will need to disable your web browser's pop-up blockers.</li>
+			</ol>
+			</td>
+  </tr>
+</tbody>
+</table>
+				
+				  </div>
+			</div>
   </div>
 </div>
 
@@ -292,8 +289,8 @@ permalink: /government-services/finances/family/
 
 <ul>
   <li><a target="_blank" href="/government-services/buy-hdb/">Financing Your Flat With CPF</a></li>
-  <li><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/RetirementEstimator/RetirementEstimatorLanding">CPF Online Calculators to Estimate and Plan for Retirement </a></li>
-  <li><a target="_blank" href="/government-services/stay-healthy/#expenses">Managing Healthcare Expenses</a></li>
+  <li><a target="_blank" href="https://www.life.gov.sg/guides/funding-your-retirement">Funding Your Retirement</a></li>
+  <li><a target="_blank" href="government-services/finances/health-expenses/">Managing Healthcare Costs</a></li>
   <li><a target="_blank" href="https://www.silversupport.gov.sg/">Silver Support Scheme</a></li>
   <li><a target="_blank" href="https://www.pioneers.gov.sg/en-sg/Pages/Home.aspx">Pioneer Generation Package</a></li>
   <li><a target="_blank" href="https://www.gov.sg/features/merdeka-generation">Merdeka Generation Package</a></li>
@@ -305,7 +302,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 7 May 2021
+Last updated: 31 Oct 2021
  
 [**BACK TO TOP**](#top)
 
