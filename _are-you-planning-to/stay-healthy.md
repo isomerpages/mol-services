@@ -9,10 +9,6 @@ permalink: /government-services/stay-healthy/
 <ul class="toc_list">
   <li><a href="#health">Keep Your Health in Check</a></li>
   <li><a href="#habits">Build Healthy Habits at Home</a></li>
-  <li><a href="#expenses">Manage Your Healthcare Expenses</a></li>
-  <ul>
-    <li><a href="#medishield">MediShield Life</a></li>
-    <li><a href="#schemes">Other Healthcare Schemes and Subsidies</a></li>
   </ul>
 </ul>
 </div>
