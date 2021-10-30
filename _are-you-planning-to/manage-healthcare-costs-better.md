@@ -320,7 +320,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="sep-calc" type="checkbox">
       <label for="sep-calc" class="tab-label">How Much MediSave Contributions to Make?</label>
       <div class="tab-content">
-    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">the Self-Employment dashboard</a> via CPF website using your Singpass.</p>
+    <p>You can check the amount of MediSave contributions you need to make, by logging in to <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">the Self-employment dashboard</a> via CPF website using your Singpass.</p>
 				
  <p>You can apply for your <a href="http://www.singpass.gov.sg/" target="_blank">Singpass</a> online if you do not have one.</p>
       </div>
