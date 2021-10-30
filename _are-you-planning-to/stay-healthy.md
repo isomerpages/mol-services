@@ -14,7 +14,6 @@ permalink: /government-services/stay-healthy/
     <li><a href="#medishield">MediShield Life</a></li>
     <li><a href="#schemes">Other Healthcare Schemes and Subsidies</a></li>
   </ul>
-  <li><a href="#caregivers">Support for Caregivers</a></li>
 </ul>
 </div>
 
