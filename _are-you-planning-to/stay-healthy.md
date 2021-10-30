@@ -10,7 +10,6 @@ permalink: /government-services/stay-healthy/
   <li><a href="#health">Keep Your Health in Check</a></li>
   <li><a href="#habits">Build Healthy Habits at Home</a></li>
   </ul>
-</ul>
 </div>
 
 # <a name="health"></a>Keep Your Health in Check 
