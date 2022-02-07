@@ -271,7 +271,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="chas-check" type="checkbox">
       <label for="chas-check" class="tab-label">Check Your CHAS History</label>
       <div class="tab-content">
-<p>You may log in to <a target="_blank">MyCHAS</a> using your Singpass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
+<p>You may log in to <a target="_blank" href="https://eservices.healthhub.sg/personalhealth/chas">MyCHAS</a> using your Singpass to check your subsidy claim balance for the year. Alternatively, you may call the CHAS hotline at 1800-275-2427.</p>
       </div>
     </div>
   </div>
