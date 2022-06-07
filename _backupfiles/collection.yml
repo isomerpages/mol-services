@@ -2,6 +2,7 @@ collections:
   backupfiles:
     output: false
     order:
+      - prepare-legacy-documents.md
       - manage-healthcare-bills.md
       - stay-healthy.md
       - buy-a-flat-from-hdb/.keep
