@@ -83,9 +83,10 @@ permalink: /government-services/sell-hdb/
       <input id="steps" type="checkbox">
       <label for="steps" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="/images/hdb-resale-portal.jpg" target="_blank">
-        <img style="width:500px" alt="HDB Resale Portal" src="/images/hdb-resale-portal.jpg">
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Selling-a-Flat.ashx" target="_blank">
+        <img style="width:500px" alt="HDB Resale Portal" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Selling-a-Flat.ashx">
       </a>
+			<p>You may <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/overview">find more details here</a> about the timeline of selling an HDB flat</p>
     </div>
   </div>
 
@@ -95,7 +96,7 @@ permalink: /government-services/sell-hdb/
       <input id="intent" type="checkbox">
       <label for="intent" class="tab-label">Register Your Intent to Sell</label>
       <div class="tab-content">
-      <p>To sell your flat, you must first register your <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/register-intent-to-sell">Intent to Sell</a>.</p><p>Upon registering, HDB will instantaneously confirm your eligibility to sell and provide you with the following information:</p>
+      <p>To sell your flat, you must first register your <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/plan-source-and-contract/intent-to-sell">Intent to Sell</a>.</p><p>Upon registering, HDB will instantaneously confirm your eligibility to sell and provide you with the following information:</p>
       <ul><li>Ethnic Integration Policy (EIP) / Singapore Permanent Resident (SPR) Quota for the flat</li>
         <li> Status of upgrading, Billing status of upgrading costs</li> 
         <li> Recent transacted prices of flats nearby</li>
