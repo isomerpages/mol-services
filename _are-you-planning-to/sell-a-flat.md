@@ -66,7 +66,7 @@ permalink: /government-services/sell-hdb/
       <label for="budget" class="tab-label">Financing Your Next Home</label>
       <div class="tab-content">
     <p>Based on the estimated sales proceeds, you can <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/financial-planning-for-flat-purchase" target="_blank">work out your budget</a> for your next home.</p>
-    <p><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">Estimate how much CPF</a> you can use to buy your next home so you do not use up your CPF savings for your home.</p>
+    <p><a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage">Estimate how much CPF</a> you can use to buy your next home so you do not use up your CPF savings for your home.</p>
 </div>
 </div>
 </div>
@@ -126,10 +126,10 @@ permalink: /government-services/sell-hdb/
       </ol>
     </div>
   </div>
-  <div class="tab">
-      <input type="checkbox">
-      <label for="submit" class="tab-label">Submit Resale Application </label>
-      <div class="tab-content">
+<div class="tab">
+   <input type="checkbox" id="resale">
+      <label for="resale" class="tab-label">Submit Resale Application</label>
+      <div class="tab-content">   
       <p>You will <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/application">require these documents</a> on hand:</p>
       <ul>
         <li> Option-To-Purchase (OTP) contract details</li>
@@ -138,17 +138,17 @@ permalink: /government-services/sell-hdb/
         <li> Existing loans with HDB / Financial Institutions</li>
         <li> Declarations of Purchase</li>
       </ul>
-      <p><em>Either you or the buyer can be the first to submit, but the other party must submit  within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.</em></p>
+      <p><em>Either you or the buyer can be the first to submit, but the other party must submit within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.</em></p>
     </div>
-  </div>
-    <div class="tab">
-      <input id="docs" type="checkbox">
+</div>
+<div class="tab">
+   <input id="docs" type="checkbox">
       <label for="docs" class="tab-label">Endorse Resale Documents and Pay Fees Online </label>
       <div class="tab-content">   
       <p>You will need to <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/acceptance-and-approval">endorse</a> the documents and pay necessary fees online before your resale application can be approved.</p>
       <p>You can check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.</p>
     </div>
-  </div>
+</div>
      <div class="tab">
       <input id="prepare" type="checkbox">
       <label for="prepare" class="tab-label">Before Resale Completion Appointment</label>
@@ -191,7 +191,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 22 October 2020
+Last updated: 24 November 2022
  
 [**BACK TO TOP**](#top)
 

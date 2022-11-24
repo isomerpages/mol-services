@@ -86,8 +86,8 @@ permalink: /government-services/buy-hdb/
       <input id="cpf-hdb" type="checkbox">
       <label for="cpf-hdb" class="tab-label">How to Use CPF Savings to Pay for Your Flat</label>
       <div class="tab-content">
-      <p>You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats.   <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
-      <a href="https://www.cpf.gov.sg/Assets/members/Documents/Financing_Your_Home_with_CPF.pdf" target="_blank">
+      <p>You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats.   <a href="https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage" target="_blank">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
+      <a href="/images/use CPF OA savings for home.png" target="_blank">
         <img style="width:600px" alt="Financing your flat with CPF" src="/images/use CPF OA savings for home.png">
       </a>
     </div>
@@ -392,7 +392,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 20 May 2021
+Last updated: 24 November 2022
  
 [**BACK TO TOP**](#top)
 
