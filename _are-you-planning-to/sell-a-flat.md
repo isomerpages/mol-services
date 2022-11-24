@@ -66,7 +66,7 @@ permalink: /government-services/sell-hdb/
       <label for="budget" class="tab-label">Financing Your Next Home</label>
       <div class="tab-content">
     <p>Based on the estimated sales proceeds, you can <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/financial-planning-for-flat-purchase" target="_blank">work out your budget</a> for your next home.</p>
-    <p><a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">Estimate how much CPF</a> you can use to buy your next home so you do not use up your CPF savings for your home.</p>
+    <p><a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage">Estimate how much CPF</a> you can use to buy your next home so you do not use up your CPF savings for your home.</p>
 </div>
 </div>
 </div>
@@ -191,7 +191,7 @@ This page will be updated as additional schemes and measures are introduced.
 
 Please contact the respective government agencies if you have any questions about the listings on this page.  
 
-Last updated: 22 October 2020
+Last updated: 24 November 2022
  
 [**BACK TO TOP**](#top)
 
