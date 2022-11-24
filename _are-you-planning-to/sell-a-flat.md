@@ -126,11 +126,11 @@ permalink: /government-services/sell-hdb/
       </ol>
     </div>
   </div>
-  <div class="tab">
+<div class="tab">
       <input type="checkbox">
-      <label class="tab-label" for="submit">Submit Resale Application </label>
-      <div class="tab-content">
-      <p>You will <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/application" target="_blank">require these documents</a> on hand:</p>
+         <label class="tab-label" for="submit">Submit Resale Application</label>
+            <div class="tab-content">
+              <p>You will <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/application" target="_blank">require these documents</a> on hand:</p>
       <ul>
         <li> Option-To-Purchase (OTP) contract details</li>
         <li> Seller Particulars</li>
@@ -140,6 +140,14 @@ permalink: /government-services/sell-hdb/
       </ul>
       <p><em>Either you or the buyer can be the first to submit, but the other party must submit  within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.</em></p>
   </div>
+</div>
+<div class="tab">
+   <input type="checkbox" id="docs">
+      <label class="tab-label" for="docs">Endorse Resale Documents and Pay Fees Online </label>
+      <div class="tab-content">   
+      <p>You will need to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/acceptance-and-approval" target="_blank">endorse</a> the documents and pay necessary fees online before your resale application can be approved.</p>
+      <p>You can check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.</p>
+    </div>
 </div>
 <div class="tab">
    <input type="checkbox" id="docs">
