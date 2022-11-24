@@ -84,9 +84,9 @@ permalink: /government-services/sell-hdb/
       <label for="steps" class="tab-label">Timeline</label>
       <div class="tab-content">
       <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Selling-a-Flat.ashx" target="_blank">
-        <img style="width:500px" alt="HDB Resale Portal" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Selling-a-Flat.ashx">
+        <img style="width:600px" alt="HDB Resale Portal" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Selling-a-Flat.ashx">
       </a>
-			<p>You may <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/overview">find more details here</a> about the timeline of selling an HDB flat</p>
+			<p>You may find<a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/overview"> more details here</a> about the timeline of selling an HDB flat</p>
     </div>
   </div>
 
