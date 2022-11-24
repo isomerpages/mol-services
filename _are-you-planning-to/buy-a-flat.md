@@ -34,18 +34,18 @@ permalink: /government-services/buy-hdb/
   <div class="tabs">
     <h3 id="options">Decide on Your Housing Option</h3>
       <div class="tab">
-      <input type="checkbox" id="flat-options">
-      <label class="tab-label" for="flat-options">New VS Resale Flats</label>
+      <input id="flat-options" type="checkbox">
+      <label for="flat-options" class="tab-label">New VS Resale Flats</label>
       <div class="tab-content">
      <p>Differences between new and resale HDB flats:</p>
-      <a target="_blank" href="/images/New-vs-Resale-Flat.jpg">
-        <img src="/images/New-vs-Resale-Flat.jpg" alt="Comparing New Flats and Resale Flats" style="width:600px">
+      <a href="/images/New-vs-Resale-Flat.jpg" target="_blank">
+        <img style="width:600px" alt="Comparing New Flats and Resale Flats" src="/images/New-vs-Resale-Flat.jpg">
       </a>
     </div>
   </div>
       <div class="tab">
-      <input type="checkbox" id="flat-types">
-      <label class="tab-label" for="flat-types">Types of New Flats</label>
+      <input id="flat-types" type="checkbox">
+      <label for="flat-types" class="tab-label">Types of New Flats</label>
       <div class="tab-content">
      <p> There are various types of flats that are built to suit a variety of needs.</p>
       <ul>
@@ -54,16 +54,16 @@ permalink: /government-services/buy-hdb/
       <li>4-room for a comfortable living space</li>
       <li>5-room for larger households</li>
     </ul>
-      <p>See also: <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/types-of-flats">HDB flat types and its specifications</a></p>
+      <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/finding-a-flat/types-of-flats" target="_blank">HDB flat types and its specifications</a></p>
 </div>
 </div>
       <div class="tab">
-      <input type="checkbox" id="flat-eligibility">
-      <label class="tab-label" for="flat-eligibility">Eligibility Conditions for New Flats</label>
+      <input id="flat-eligibility" type="checkbox">
+      <label for="flat-eligibility" class="tab-label">Eligibility Conditions for New Flats</label>
       <div class="tab-content">
      <p>The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat.</p>
      <p>Another criteria to note is that you (and whoever listed in your application) do not own other property overseas or locally, and have not disposed of any within the last 30 months.</p>
-     <p>See also: <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/hdb-flat">Overview of Eligibility Conditions</a></p>
+     <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></p>
 </div>
 </div>
 </div>
@@ -73,45 +73,45 @@ permalink: /government-services/buy-hdb/
   <div class="tabs">
     <h3 id="finances">Plan Your Finances</h3>
       <div class="tab">
-      <input type="checkbox" id="loan">
-      <label class="tab-label" for="loan">HDB Housing Loan or Bank Loan</label>
+      <input id="loan" type="checkbox">
+      <label for="loan" class="tab-label">HDB Housing Loan or Bank Loan</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
-        <img src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" alt="HDB Loan or Bank Loan" style="width:600px">
+      <a href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" target="_blank">
+        <img style="width:600px" alt="HDB Loan or Bank Loan" src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
       </a>
-      <p>Use this <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">Eligibility Checker</a> to learn what flat types you can purchase and whether you can take an HDB housing loan.</p>
+      <p>Use this <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">Eligibility Checker</a> to learn what flat types you can purchase and whether you can take an HDB housing loan.</p>
     </div>
   </div>
       <div class="tab">
-      <input type="checkbox" id="cpf-hdb">
-      <label class="tab-label" for="cpf-hdb">How to Use CPF Savings to Pay for Your Flat</label>
+      <input id="cpf-hdb" type="checkbox">
+      <label for="cpf-hdb" class="tab-label">How to Use CPF Savings to Pay for Your Flat</label>
       <div class="tab-content">
-      <p>You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats.   <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
-      <a target="_blank" href="https://www.cpf.gov.sg/Assets/members/Documents/Financing_Your_Home_with_CPF.pdf">
-        <img src="/images/use CPF OA savings for home.png" alt="Financing your flat with CPF" style="width:600px">
+      <p>You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats.   <a href="https://www.cpf.gov.sg/eSvc/Web/Schemes/CpfHousingUsage/Input1" target="_blank">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
+      <a href="https://www.cpf.gov.sg/Assets/members/Documents/Financing_Your_Home_with_CPF.pdf" target="_blank">
+        <img style="width:600px" alt="Financing your flat with CPF" src="/images/use CPF OA savings for home.png">
       </a>
     </div>
   </div>
       <div class="tab">
-      <input type="checkbox" id="finance-hdb">
-      <label class="tab-label" for="finance-hdb">Financial Commitment as HDB Flat Owner</label>
+      <input id="finance-hdb" type="checkbox">
+      <label for="finance-hdb" class="tab-label">Financial Commitment as HDB Flat Owner</label>
       <div class="tab-content">
-      <p>If you are a first-time homebuyer, you should also consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">various payments</a> to make for an HDB housing loan, should you require one.</p>
+      <p>If you are a first-time homebuyer, you should also consider the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">various payments</a> to make for an HDB housing loan, should you require one.</p>
     </div>
   </div>
     <div class="tab">
-    <input type="checkbox" id="hdb-loan">
-    <label class="tab-label" for="hdb-loan">How to Apply for HDB Housing Loan</label>
+    <input id="hdb-loan" type="checkbox">
+    <label for="hdb-loan" class="tab-label">How to Apply for HDB Housing Loan</label>
     <div class="tab-content">
-      <p>Get your <a target="_blank" href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/income-guidelines-and-other-documents">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
-      <p>Apply for your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
+      <p>Get your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/income-guidelines-and-documents" target="_blank">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
+      <p>Apply for your <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
     </div>
   </div>
       <div class="tab">
-    <input type="checkbox" id="contra-pay">
-    <label class="tab-label" for="contra-pay">Use Contra Payment Facility if You Are an Existing HDB Flat Owner</label>
+    <input id="contra-pay" type="checkbox">
+    <label for="contra-pay" class="tab-label">Use Contra Payment Facility if You Are an Existing HDB Flat Owner</label>
     <div class="tab-content">
-    <p>You can consider the <a target="_blank" href="https://hdb.gov.sg/cs/infoweb/residential/financing-a-flat-purchase/housing-loan-from-hdb/contra-payment-facility-for-new-flats">Contra Payment Facility</a> if you are buying an HDB flat and currently own another HDB flat.</p>
+    <p>You can consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/key-collection?anchor=contra" target="_blank">Contra Payment Facility</a> if you are buying an HDB flat and currently own another HDB flat.</p>
       <p>This can help you to:</p>
       <ul>
       <li>Reduce the cash outlay needed for your flat</li>
@@ -120,10 +120,10 @@ permalink: /government-services/buy-hdb/
     </div>
   </div>
   <div class="tab">
-    <input type="checkbox" id="grants">
-    <label class="tab-label" for="grants">Apply for Housing Grants</label>
+    <input id="grants" type="checkbox">
+    <label for="grants" class="tab-label">Apply for Housing Grants</label>
     <div class="tab-content">
-     <p>You may receive up to $80,000 in the form of the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/cpf-housing-grants-for-hdb-flats/firsttimer-applicants">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
+     <p>You may receive up to $80,000 in the form of the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility/couples-and-families/enhanced-cpf-housing-grant-families" target="_blank">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
     <p><b>Note</b>: The amount of grants obtained has to be returned to your CPF Ordinary Account with accrued interest when you sell your flat later. It is not the same as a subsidy where the prices are 'discounted'.</p>
   </div>
 </div>
@@ -138,39 +138,39 @@ permalink: /government-services/buy-hdb/
 <div class="mol-accordion">
   <div class="tabs">
         <div class="tab">
-      <input type="checkbox" id="check">
-      <label class="tab-label" for="check">Eligibility Criteria</label>
+      <input id="check" type="checkbox">
+      <label for="check" class="tab-label">Eligibility Criteria</label>
       <div class="tab-content">
-     <p> Before you apply, use <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK">this eligibility checker</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
+     <p> Before you apply, use <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">this eligibility checker</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
     <p>To complete the assessment, you will need to have personal details of you and your co-applicants on hand (e.g. gross monthly income of the past three months, occupation).</p>
   </div>
 </div>
       <div class="tab">
-      <input type="checkbox" id="sales">
-      <label class="tab-label" for="sales">Check for Upcoming HDB Sales Launches</label>
+      <input id="sales" type="checkbox">
+      <label for="sales" class="tab-label">Check for Upcoming HDB Sales Launches</label>
       <div class="tab-content">
-      <p>To buy a new flat from HDB, you need to apply during a sales launch. Check <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking?anchor=upcomingBTO">upcoming HDB sales launches</a> and stay updated with <a target="_blank" href="http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp">SMS updates</a></p>
+      <p>To buy a new flat from HDB, you need to apply during a sales launch. Check <a href="https://homes.hdb.gov.sg/home/landing" target="_blank">upcoming HDB sales launches</a> and stay updated with <a href="http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp" target="_blank">SMS updates</a></p>
     </div>
   </div>
   <div class="tab">
-      <input type="checkbox" id="priority">
-      <label class="tab-label" for="priority">HDB Priority Schemes</label>
+      <input id="priority" type="checkbox">
+      <label for="priority" class="tab-label">HDB Priority Schemes</label>
       <div class="tab-content">
-    <p>By applying through <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/eligibility/priority-schemes">HDB Priority Schemes</a>, you could improve your chances of getting a balloted number to book an HDB flat. However, do note that you can get priority for only up to 2 schemes.</p>
+    <p>By applying through <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/application/priority-schemes" target="_blank">HDB Priority Schemes</a>, you could improve your chances of getting a balloted number to book an HDB flat. However, do note that you can get priority for only up to 2 schemes.</p>
   </div>
 </div>
 </div>
 </div>
 
-### <a name="timeline"></a> What to Expect
+### <a></a> What to Expect
 <div class="mol-accordion">
   <div class="tabs">
   <div class="tab">
-      <input type="checkbox" id="overview">
-      <label class="tab-label" for="overview">Timeline</label>
+      <input id="overview" type="checkbox">
+      <label for="overview" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png">
-      <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" alt="HDB Infographic Guide to Buying from HDB" style="width:400px"></a>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" target="_blank">
+      <img style="width:400px" alt="HDB Infographic Guide to Buying from HDB" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png"></a>
     </div>
   </div>
 </div>
@@ -180,37 +180,37 @@ permalink: /government-services/buy-hdb/
 <div class="mol-accordion">
   <div class="tabs">
     <div class="tab">
-      <input type="checkbox" id="application">
-      <label class="tab-label" for="application">How to Apply</label>
+      <input id="application" type="checkbox">
+      <label for="application" class="tab-label">How to Apply</label>
       <div class="tab-content">
       <p>You may apply for a flat in the following purchase mode(s):</p>
       <ul>
-      <li><a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
+      <li><a href="https://www.hdb.gov.sg/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking" target="_blank">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
     </ul>
       <em>You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.</em>
     </div>
   </div>
   <div class="tab">
-      <input type="checkbox" id="app-status">
-      <label class="tab-label" for="app-status">Check Flat Application Status</label>
+      <input id="app-status" type="checkbox">
+      <label for="app-status" class="tab-label">Check Flat Application Status</label>
       <div class="tab-content">    
-      <p>As an applicant, you can <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1">check for updates</a> regarding your flat application and whether a queue number has been balloted to you.</p>
+      <p>As an applicant, you can <a href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1" target="_blank">check for updates</a> regarding your flat application and whether a queue number has been balloted to you.</p>
     </div>
     </div>
      <div class="tab">
-      <input type="checkbox" id="book">
-      <label class="tab-label" for="book">Book Your Preferred Flat Unit</label>
+      <input id="book" type="checkbox">
+      <label for="book" class="tab-label">Book Your Preferred Flat Unit</label>
       <div class="tab-content">
-      <p>If you have been shortlisted, you will be notified and invited to an <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
+      <p>If you have been shortlisted, you will be notified and invited to an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
       <p>At this appointment, you will be required to pay a booking fee via NETS. You can also apply for <a href="#grants">housing grants</a> if eligible.</p>
-      <p>The <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees">booking fees</a> range from $1000 to $2000 depending on the type of flat you choose.</p>
+      <p>The <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees" target="_blank">booking fees</a> range from $1000 to $2000 depending on the type of flat you choose.</p>
     </div>
   </div>
   <div class="tab">
-      <input type="checkbox" id="lease">
-      <label class="tab-label" for="lease">Sign Agreement for Lease</label>
+      <input id="lease" type="checkbox">
+      <label for="lease" class="tab-label">Sign Agreement for Lease</label>
       <div class="tab-content"> 
-      <p>You (and all persons listed in the application) will also need to bring along original copies of these <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists" target="_blank">documents</a>:</p>
+      <p>You (and all persons listed in the application) will also need to bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists">documents</a>:</p>
       <ul>
         <li>Identity cards of all persons listed in the application</li>
         <li>Receipt of booking fee</li>
@@ -222,21 +222,21 @@ permalink: /government-services/buy-hdb/
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       </ul>
-      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme" target="_blank">Staggered Downpayment Scheme</a>.</p>
+      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme">Staggered Downpayment Scheme</a>.</p>
       </div>
     </div>
       <div class="tab">
-      <input type="checkbox" id="keys">
-      <label class="tab-label" for="keys">Collect Your Keys</label>
+      <input id="keys" type="checkbox">
+      <label for="keys" class="tab-label">Collect Your Keys</label>
       <div class="tab-content"> 
       <p>You will be invited by HDB to collect your keys when your project is ready.
-      Check your <a href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp" target="_blank">HDB appointment online</a> to know when you can collect your keys.</p>
-      <p>Do bring along original copies of these <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists" target="_blank">documents</a> for your appointment:</p>
+      Check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp">HDB appointment online</a> to know when you can collect your keys.</p>
+      <p>Do bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists">documents</a> for your appointment:</p>
       <ul>
       <li>Identity cards of all persons listed in the application</li>
       <li>Certificate of insurance</li>
                 <ul class="sub-bullet">
-          <li>You must buy fire insurance from HDB's appointed insurer, <a href="https://www.fwd.com.sg/fire-insurance/" target="_blank">FWD Singapore Pte Ltd (FWD)</a>, if you are taking an HDB housing loan.</li></ul>
+          <li>You must buy fire insurance from HDB's appointed insurer, <a target="_blank" href="https://www.fwd.com.sg/fire-insurance/">FWD Singapore Pte Ltd (FWD)</a>, if you are taking an HDB housing loan.</li></ul>
       <li>Latest CPF statement(s) if you are currently employed</li>
       <li>Power of Attorney (if you are authorising someone to represent you)</li>
                 <ul class="sub-bullet">
@@ -259,10 +259,10 @@ permalink: /government-services/buy-hdb/
 <div class="mol-accordion">
   <div class="tabs">
       <div class="tab">
-      <input type="checkbox" id="resale-criteria">
-      <label class="tab-label" for="resale-criteria">Eligibility Conditions for Resale Flats</label>
+      <input id="resale-criteria" type="checkbox">
+      <label for="resale-criteria" class="tab-label">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
-      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility" target="_blank">other eligibility conditions</a>.</p>
+      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility">other eligibility conditions</a>.</p>
     </div>
   </div>
 </div>
@@ -272,12 +272,12 @@ permalink: /government-services/buy-hdb/
 <div class="mol-accordion">
   <div class="tabs">
    <div class="tab">
-      <input type="checkbox" id="resale-timeline">
-      <label class="tab-label" for="resale-timeline">Timeline</label>
+      <input id="resale-timeline" type="checkbox">
+      <label for="resale-timeline" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg">
-        <img src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" alt="HDB Resale Guide" style="width:500px"></a>
-      <p>You also can <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase">engage an estate agent</a> to manage your flat purchase.</p>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" target="_blank">
+        <img style="width:500px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg"></a>
+      <p>You also can <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
   </div>
 </div>
@@ -287,10 +287,10 @@ permalink: /government-services/buy-hdb/
 <div class="mol-accordion">
   <div class="tabs">
      <div class="tab">
-      <input type="checkbox" id="steps-resale">
-      <label class="tab-label" for="steps-resale">Register as a Buyer</label>
+      <input id="steps-resale" type="checkbox">
+      <label for="steps-resale" class="tab-label">Register as a Buyer</label>
       <div class="tab-content">
-      <p>Upon registering your <a href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/register-intent-to-buy" target="_blank">Intent to Buy</a>, you will know whether you can:</p>
+      <p>Upon registering your <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/register-intent-to-buy">Intent to Buy</a>, you will know whether you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
         <li>Apply for which housing grants</li>
@@ -300,23 +300,23 @@ permalink: /government-services/buy-hdb/
       </div>
     </div>
          <div class="tab">
-      <input type="checkbox" id="eval-options">
-      <label class="tab-label" for="eval-options">Evaluate Suitable Flat Options</label>
+      <input id="eval-options" type="checkbox">
+      <label for="eval-options" class="tab-label">Evaluate Suitable Flat Options</label>
       <div class="tab-content">
       <p>When evaluating options,</p>
       <ul>
-        <li><a target="_blank" href="https://services2.hdb.gov.sg/web/fi10/emap.html">Check details of the flat options</a> such as past resale transactions, Ethnic Integration Policy quotas, Singapore/PR quotas</li>   
-        <li><a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics" target="_blank">Check other HDB resale statistics</a> such as resale price index for overall HDB resale pricing trends.</li>
+        <li><a href="https://services2.hdb.gov.sg/web/fi10/emap.html" target="_blank">Check details of the flat options</a> such as past resale transactions, Ethnic Integration Policy quotas, Singapore/PR quotas</li>   
+        <li><a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics">Check other HDB resale statistics</a> such as resale price index for overall HDB resale pricing trends.</li>
       </ul>
     </div>
     </div>
        <div class="tab">
-      <input type="checkbox" id="otp">
-      <label class="tab-label" for="otp">Get Option to Purchase (OTP)</label>
+      <input id="otp" type="checkbox">
+      <label for="otp" class="tab-label">Get Option to Purchase (OTP)</label>
       <div class="tab-content">
       <p>To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.</p>
       <ol>
-        <li> Seller <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
+        <li> Seller <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
         <li> Review purchase during Option Period of 14 days</li>
         <li> Exercise OTP to proceed with the purchase </li>
       </ol>
@@ -324,41 +324,41 @@ permalink: /government-services/buy-hdb/
       </div>
     </div>
     <div class="tab">
-      <input type="checkbox" id="mode">
-      <label class="tab-label" for="mode">Choose Mode of Financing</label>
+      <input id="mode" type="checkbox">
+      <label for="mode" class="tab-label">Choose Mode of Financing</label>
       <div class="tab-content">
-     <p> After registering your Intent to Buy, you will be guided to apply for an <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
-      <p>You can also get a <a href="https://www.hdb.gov.sg/residential/buying-a-flat/new/finance/housing-loan-from-banks" target="_blank">housing loan from a financial institution (FI)</a>.</p>
+     <p> After registering your Intent to Buy, you will be guided to apply for an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
+      <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/new/finance/housing-loan-from-banks">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
   <div class="tab">
-      <input type="checkbox" id="resale-app">
-      <label class="tab-label" for="resale-app">Submit Resale Application</label>
+      <input id="resale-app" type="checkbox">
+      <label for="resale-app" class="tab-label">Submit Resale Application</label>
       <div class="tab-content">
-      <p>You and the seller (or the salesperson) can proceed to <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application">submit the resale application</a> after you have exercised the Option to Purchase (OTP).</p>
+      <p>You and the seller (or the salesperson) can proceed to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application" target="_blank">submit the resale application</a> after you have exercised the Option to Purchase (OTP).</p>
       <p><em>Note that either you or the seller can be the first to submit, but the other party must submit their portion within 7 calendar days.</em></p>
     </div>
   </div>
     <div class="tab">
-      <input type="checkbox" id="documents">
-      <label class="tab-label" for="documents">Acknowledge Resale Documents</label>
+      <input id="documents" type="checkbox">
+      <label for="documents" class="tab-label">Acknowledge Resale Documents</label>
       <div class="tab-content">  
-      <p>You will be invited by HDB to <a href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application" target="_blank">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
+      <p>You will be invited by HDB to <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
     </div>
   </div>
   <div class="tab">
-      <input type="checkbox" id="check-status">
-      <label class="tab-label" for="check-status">Check Resale Application Status</label>
+      <input id="check-status" type="checkbox">
+      <label for="check-status" class="tab-label">Check Resale Application Status</label>
       <div class="tab-content">  
       <p>It could take about 8 weeks from HDB's acknowledgement of the resale application to the final step of completing the resale transaction.</p>
-      <p>Check your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">resale application status</a> or get notified via SMS once HDB approves.</p>
+      <p>Check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">resale application status</a> or get notified via SMS once HDB approves.</p>
     </div>
   </div>
     <div class="tab">
-      <input type="checkbox" id="transaction">
-      <label class="tab-label" for="transaction">Complete Resale Transaction</label>
+      <input id="transaction" type="checkbox">
+      <label for="transaction" class="tab-label">Complete Resale Transaction</label>
       <div class="tab-content"> 
-     <p> Once HDB has scheduled your appointment, you will also receive SMS notification on your <a href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp" target="_blank">appointment with HDB</a>. </p>
+     <p> Once HDB has scheduled your appointment, you will also receive SMS notification on your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">appointment with HDB</a>. </p>
      <p>This is the only resale appointment at HDB you and the seller need to attend. At this appointment, you (and the seller) will:</p>
      <ul>
         <li>Sign the mortgage document/ agreement (if you are taking an HDB housing loan)</li>
@@ -367,7 +367,7 @@ permalink: /government-services/buy-hdb/
         <li>Indicate how you will pay the first month service/ conservancy charges</li>
     </ul>
       <p>You will become the flat owner upon the resale completion and need to pay for various payments such as housing loan, monthly service/ conservancy charges, annual property tax, etc.</p> 
-      <p>See also: <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">Financial Obligations as HDB owner</a></p>
+      <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment" target="_blank">Financial Obligations as HDB owner</a></p>
     </div>
   </div>
 </div>
@@ -380,7 +380,7 @@ permalink: /government-services/buy-hdb/
 
   - [Sell an HDB Flat](/government-services/sell-hdb/){:target="_blank"}
   - [Move Into an HDB Flat](/government-services/move-in/){:target="_blank"}
-  - [Housing options, policies and procedures for first-timers](https://www.youtube.com/watch?v=SehCuUSSdgo&list=PLhySiLSCu8FjpZY-kqVB36XNoa8GlrFL2&index=2){:target="_blank"}
+  - [Housing options, policies and procedures for first-timers](https://www.youtube.com/watch?v=SehCuUSSdgo&amp;list=PLhySiLSCu8FjpZY-kqVB36XNoa8GlrFL2&amp;index=2){:target="_blank"}
 
 ---------------------------------------
 
@@ -397,4 +397,4 @@ Last updated: 20 May 2021
 
 <h1> Give us your feedback</h1>
 
-<p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
+<p>Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></p>
