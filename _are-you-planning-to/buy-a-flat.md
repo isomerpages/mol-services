@@ -171,7 +171,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <a href="/images/buy_new_flat_timeline.png" target="_blank">
       <img style="width:600px" alt="HDB Infographic Guide to Buying from HDB" src="/images/buy_new_flat_timeline.png"></a>
-				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/application/priority-schemes" target="_blank">more details here</a> about the timeline of buying a flat.</p>
+				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/timeline" target="_blank">more details here</a> about the timeline of buying a flat.</p>
     </div>
   </div>
 </div>
