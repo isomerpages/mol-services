@@ -169,8 +169,9 @@ permalink: /government-services/buy-hdb/
       <input id="overview" type="checkbox">
       <label for="overview" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png" target="_blank">
-      <img style="width:400px" alt="HDB Infographic Guide to Buying from HDB" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/timeline.png"></a>
+      <a href="/images/buy_new_flat_timeline.png" target="_blank">
+      <img style="width:600px" alt="HDB Infographic Guide to Buying from HDB" src="/images/buy_new_flat_timeline.png"></a>
+				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/application/priority-schemes" target="_blank">more details here</a> about the timeline of buying a flat.</p>
     </div>
   </div>
 </div>
@@ -185,7 +186,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>You may apply for a flat in the following purchase mode(s):</p>
       <ul>
-      <li><a href="https://www.hdb.gov.sg/residential/buying-a-flat/new/sales-launches/bto-sbf-open-booking" target="_blank">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
+      <li><a href="https://homes.hdb.gov.sg/home/landing" target="_blank">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
     </ul>
       <em>You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.</em>
     </div>
@@ -194,16 +195,16 @@ permalink: /government-services/buy-hdb/
       <input id="app-status" type="checkbox">
       <label for="app-status" class="tab-label">Check Flat Application Status</label>
       <div class="tab-content">    
-      <p>As an applicant, you can <a href="https://services2.hdb.gov.sg/webapp/BP13BTOENQWeb/BP13RSLT.jsp?strSystem=BTO1" target="_blank">check for updates</a> regarding your flat application and whether a queue number has been balloted to you.</p>
+      <p>As an applicant, you can <a href="https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp" target="_blank">check for updates</a> regarding your flat application and whether a queue number has been balloted to you.</p>
     </div>
     </div>
      <div class="tab">
       <input id="book" type="checkbox">
       <label for="book" class="tab-label">Book Your Preferred Flat Unit</label>
       <div class="tab-content">
-      <p>If you have been shortlisted, you will be notified and invited to an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
+      <p>If you have been shortlisted, you will be notified and invited to an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
       <p>At this appointment, you will be required to pay a booking fee via NETS. You can also apply for <a href="#grants">housing grants</a> if eligible.</p>
-      <p>The <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/finance/costs-and-fees" target="_blank">booking fees</a> range from $1000 to $2000 depending on the type of flat you choose.</p>
+      <p>The <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/booking-of-flat?anchor=option-fee" target="_blank">booking fees</a> range from $500 to $2000 depending on the type of flat you choose.</p>
     </div>
   </div>
   <div class="tab">
