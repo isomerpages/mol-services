@@ -109,7 +109,7 @@ permalink: /government-services/sell-hdb/
       <input id="price" type="checkbox">
       <label for="price" class="tab-label">Decide Selling Price</label>
       <div class="tab-content">
-      <p>Consider the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/financing/costs-and-fees" target="_blank">costs &amp; fees involved</a> (e.g. resale levy, stamp duty, property tax) when deciding your selling price.</p>
+      <p>Consider the costs &amp; fees involved (e.g. resale levy, stamp duty, property tax) when deciding your selling price.</p>
       <p>Use this online <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=MSDCalculatorIntro" target="_blank">Stamp Duty Calculator</a> from the Inland Revenue Authority of Singapore website to calculate the stamp duty payable for your flat.</p>
     </div>
   </div>
@@ -117,10 +117,10 @@ permalink: /government-services/sell-hdb/
       <input id="otp" type="checkbox">
       <label for="otp" class="tab-label">Grant Option to Purchase (OTP) to Buyer </label>
       <div class="tab-content">
-      <p>To enter into an <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/-/media/doc/EAPG/important-notes-on-option-to-purchase-1-jan-2018.pdf">OTP contract</a>, you need to:</p>
+      <p>To enter into an <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/plan-source-and-contract/option-to-purchase">OTP contract</a>, you need to:</p>
       <ol>
         <li> Negotiate and agree on selling price</li>
-        <li> You <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/option-to-purchase">grant the OTP</a> to Buyer via <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain">HDB Resale Portal</a> and indicate the agreed Option Fee (between $1 and $1000).</li>
+        <li> You grant the OTP to Buyer via <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31ERESALE3/BB31SMain">HDB Resale Portal</a> and indicate the agreed Option Fee (between $1 and $1000).</li>
         <li> Buyers to exercise OTP to proceed with the purchase or they can let the OTP expire after 21 calendar days should they decide not proceed with the purchase.</li>
         <li> Decide when to submit resale application</li>
       </ol>
@@ -130,7 +130,7 @@ permalink: /government-services/sell-hdb/
       <input type="checkbox">
       <label for="submit" class="tab-label">Submit Resale Application </label>
       <div class="tab-content">
-      <p>You will <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/additional-information-for-selling-a-resale-flat">require these documents</a> on hand:</p>
+      <p>You will <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/application">require these documents</a> on hand:</p>
       <ul>
         <li> Option-To-Purchase (OTP) contract details</li>
         <li> Seller Particulars</li>
@@ -145,7 +145,7 @@ permalink: /government-services/sell-hdb/
       <input id="docs" type="checkbox">
       <label for="docs" class="tab-label">Endorse Resale Documents and Pay Fees Online </label>
       <div class="tab-content">   
-      <p>You will need to <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/resale-application/after-submitting-a-resale-application-">endorse</a> the documents and pay necessary fees online before your resale application can be approved.</p>
+      <p>You will need to <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/acceptance-and-approval">endorse</a> the documents and pay necessary fees online before your resale application can be approved.</p>
       <p>You can check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">resale application status</a> or get notified via SMS once HDB uploads the approval letter on the resale portal.</p>
     </div>
   </div>
@@ -153,8 +153,8 @@ permalink: /government-services/sell-hdb/
       <input id="prepare" type="checkbox">
       <label for="prepare" class="tab-label">Before Resale Completion Appointment</label>
       <div class="tab-content"> 
-     <p> You will need to rectify any unauthorised renovation works and vacate the flat before the  <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">Resale Appointment</a> so that the buyer can take possession of the resale flat after.</p>
-    <p>Apply for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/procedures/temporary-extension-of-stay" target="_blank">Temporary Extension of Stay</a> if you are unable to vacate in time.</p>
+     <p> You will need to rectify any unauthorised renovation works and vacate the flat before the  <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">Resale Completion Appointment</a> so that the buyer can take possession of the resale flat after.</p>
+    <p>Apply for <a href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/request-for-temporary-extension-of-stay" target="_blank">Temporary Extension of Stay</a> if you are unable to vacate in time.</p>
       <p>Note: this step can take about 8 weeks from here to the final step of completing the resale transaction.</p>
     </div>
   </div>
