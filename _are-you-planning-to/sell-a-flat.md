@@ -127,8 +127,8 @@ permalink: /government-services/sell-hdb/
     </div>
   </div>
 <div class="tab">
-   <input type="checkbox">
-      <label for="submit" class="tab-label">Submit Resale Application</label>
+   <input type="checkbox" id="resale">
+      <label for="resale" class="tab-label">Submit Resale Application</label>
       <div class="tab-content">   
       <p>You will <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/resale-application/application">require these documents</a> on hand:</p>
       <ul>
@@ -138,7 +138,7 @@ permalink: /government-services/sell-hdb/
         <li> Existing loans with HDB / Financial Institutions</li>
         <li> Declarations of Purchase</li>
       </ul>
-      <p><em>Either you or the buyer can be the first to submit, but the other party must submit  within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.</em></p>
+      <p><em>Either you or the buyer can be the first to submit, but the other party must submit within 7 calendar days. Seek your buyer’s agreement and indicate your request for temporary extension of stay when you submit your resale application.</em></p>
     </div>
 </div>
 <div class="tab">
