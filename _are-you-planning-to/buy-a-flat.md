@@ -278,7 +278,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-Resale-Flat.ashx" target="_blank">
         <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-Resale-Flat.ashx"></a>
-				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying or selling a resale flat.</p>
+				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying a resale flat.</p>
       <p>Alternatively, you may also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
   </div>
