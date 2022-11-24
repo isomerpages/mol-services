@@ -211,7 +211,7 @@ permalink: /government-services/buy-hdb/
       <input id="lease" type="checkbox">
       <label for="lease" class="tab-label">Sign Agreement for Lease</label>
       <div class="tab-content"> 
-      <p>You (and all persons listed in the application) will also need to bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists">documents</a>:</p>
+      <p>You (and all persons listed in the application) will also need to bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/sign-agreement-for-lease">documents</a>:</p>
       <ul>
         <li>Identity cards of all persons listed in the application</li>
         <li>Receipt of booking fee</li>
@@ -223,7 +223,7 @@ permalink: /government-services/buy-hdb/
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
         </ul>
       </ul>
-      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/schemes-and-grants/staggered-downpayment-scheme">Staggered Downpayment Scheme</a>.</p>
+      <p>You will also need to log into your Singpass during your appointment if you intend to use CPF savings to pay for your downpayment (usually 10% of the flat price). You can consider if you can split your downpayment into 2 instalments using the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/sign-agreement-for-lease?anchor=sds">Staggered Downpayment Scheme</a>.</p>
       </div>
     </div>
       <div class="tab">
@@ -231,8 +231,8 @@ permalink: /government-services/buy-hdb/
       <label for="keys" class="tab-label">Collect Your Keys</label>
       <div class="tab-content"> 
       <p>You will be invited by HDB to collect your keys when your project is ready.
-      Check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/SX05AWSPCP/SX05PSPCPLogin.jsp">HDB appointment online</a> to know when you can collect your keys.</p>
-      <p>Do bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/new/buying-process/documents-and-checklists">documents</a> for your appointment:</p>
+      Check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp">HDB appointment online</a> to know when you can collect your keys.</p>
+      <p>Do bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/key-collection">documents</a> for your appointment:</p>
       <ul>
       <li>Identity cards of all persons listed in the application</li>
       <li>Certificate of insurance</li>
@@ -263,7 +263,7 @@ permalink: /government-services/buy-hdb/
       <input id="resale-criteria" type="checkbox">
       <label for="resale-criteria" class="tab-label">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
-      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/eligibility">other eligibility conditions</a>.</p>
+      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility">other eligibility conditions</a>.</p>
     </div>
   </div>
 </div>
@@ -276,9 +276,10 @@ permalink: /government-services/buy-hdb/
       <input id="resale-timeline" type="checkbox">
       <label for="resale-timeline" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg" target="_blank">
-        <img style="width:500px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/CCG/hdb-resale-portal-buyers-infographic.jpg"></a>
-      <p>You also can <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling-a-Resale-Flat.ashx" target="_blank">
+        <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling-a-Resale-Flat.ashx"></a>
+				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying or selling a resale flat.</p>
+      <p>Alternatively, you may also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
   </div>
 </div>
@@ -291,7 +292,7 @@ permalink: /government-services/buy-hdb/
       <input id="steps-resale" type="checkbox">
       <label for="steps-resale" class="tab-label">Register as a Buyer</label>
       <div class="tab-content">
-      <p>Upon registering your <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/register-intent-to-buy">Intent to Buy</a>, you will know whether you can:</p>
+      <p>Upon registering your <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/plan-source-and-contract/intent-to-buy">Intent to Buy</a>, you will know whether you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
         <li>Apply for which housing grants</li>
@@ -307,7 +308,7 @@ permalink: /government-services/buy-hdb/
       <p>When evaluating options,</p>
       <ul>
         <li><a href="https://services2.hdb.gov.sg/web/fi10/emap.html" target="_blank">Check details of the flat options</a> such as past resale transactions, Ethnic Integration Policy quotas, Singapore/PR quotas</li>   
-        <li><a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/getting-started/resale-statistics">Check other HDB resale statistics</a> such as resale price index for overall HDB resale pricing trends.</li>
+        <li><a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/selling-a-flat/overview/resale-statistics">Check other HDB resale statistics</a> such as resale price index for overall HDB resale pricing trends.</li>
       </ul>
     </div>
     </div>
@@ -318,10 +319,11 @@ permalink: /government-services/buy-hdb/
       <p>To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.</p>
       <ol>
         <li> Seller <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
-        <li> Review purchase during Option Period of 14 days</li>
+        <li> Review purchase during Option Period of 21 days</li>
         <li> Exercise OTP to proceed with the purchase </li>
       </ol>
         <p><em>You can also choose to let the OTP expire if you decide not to purchase.</em></p>
+				<p>You may refer to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/plan-source-and-contract/option-to-purchase" target="_blank">this guide</a> to find more details regarding the OTP process</p>
       </div>
     </div>
     <div class="tab">
@@ -329,14 +331,14 @@ permalink: /government-services/buy-hdb/
       <label for="mode" class="tab-label">Choose Mode of Financing</label>
       <div class="tab-content">
      <p> After registering your Intent to Buy, you will be guided to apply for an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
-      <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/new/finance/housing-loan-from-banks">housing loan from a financial institution (FI)</a>.</p>
+      <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-financial-institutions">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
   <div class="tab">
       <input id="resale-app" type="checkbox">
       <label for="resale-app" class="tab-label">Submit Resale Application</label>
       <div class="tab-content">
-      <p>You and the seller (or the salesperson) can proceed to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/procedures/resale-application" target="_blank">submit the resale application</a> after you have exercised the Option to Purchase (OTP).</p>
+      <p>You and the seller (or the salesperson) can proceed to <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/application" target="_blank">submit the resale application</a> after you have exercised the Option to Purchase (OTP).</p>
       <p><em>Note that either you or the seller can be the first to submit, but the other party must submit their portion within 7 calendar days.</em></p>
     </div>
   </div>
@@ -344,7 +346,7 @@ permalink: /government-services/buy-hdb/
       <input id="documents" type="checkbox">
       <label for="documents" class="tab-label">Acknowledge Resale Documents</label>
       <div class="tab-content">  
-      <p>You will be invited by HDB to <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/resale/procedures/resale-application/after-submitting-a-resale-application">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
+      <p>You will be invited by HDB to <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/resale-application/acceptance-and-approval">endorse resale documents and pay the resale fees online</a> before approving the transaction.</p>
     </div>
   </div>
   <div class="tab">
