@@ -101,8 +101,6 @@ permalink: /government-services/sell-hdb/
         <li> Status of upgrading, Billing status of upgrading costs</li> 
         <li> Recent transacted prices of flats nearby</li>
       </ul>
-      <a href="/images/who-needs-to-register-intent-to-sell.png" target="_blank">
-        <img style="width:500px" alt="Register Intent to Sell" src="/images/who-needs-to-register-intent-to-sell.png"></a>
     </div>
   </div>
 <div class="tab">
