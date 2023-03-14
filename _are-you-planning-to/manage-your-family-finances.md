@@ -235,17 +235,30 @@ permalink: /government-services/finances/family/
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
     <ol>
 			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> > Tools & Services > Click on the "Access e-cashier" button.</li>
-     <li> Read the information and Important Notes on this page and click “Proceed”</li>
-      <li>Key in your loved ones' CPF Account Number/NRIC</li>
+      <li>Key in your CPF Account Number/NRIC</li>
       <li> Choose paying as a “Member”</li>
-			<ul>
-      <li>In the drop-down list for payment type, select “Contribute to my MediSave (tax deductible)"</li>
-			</ul>
+      <li>In the drop-down list under "Payment for", select “Contribute to my own/recipient's MediSave Account (Tax deductible)"</li>
       <li>Click "Next" and read the Important Notes and Terms & Conditions</li>
 			<li>Tick in the box "I have read and accepted the Terms & Conditions above".</li>
 			<li>Click "Start" and follow the instructions to complete the application.</li>
-			<li>On the next page, indicate your contact number and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer's name [optional]. At the bottom of the page, click "Next" to continue.</li>
-			<li>At the Payment Request page, select your preferred payment mode.</li></ol>
+			<li>On the next page, if you are topping up to your loved ones, key in their NRIC Numbers under “Recipient’s NRIC Number” and select the appropriate relationship under “Recipient’s relationship to me”. Key in your email address and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer’s name (optional). At the bottom of the page, click “Next” to continue.</li>
+			<ul>
+				<li>You can use the “Check Allowable Contribution” button to find out the amount of Voluntary top-up you can make for yourself. For top-ups to your loved ones, please check with your recipient on his/her available contribution limit.</li>
+				<li>You will need to login with your Singpass.</li>
+				<li>Once you have read and understood your Voluntary top-up limit, you can click on “Continue” to resume with the application.</li>
+			</ul>
+		<li>At the Payment Request page, select your preferred payment mode.</li></ol>
+				
+<table>
+	<tbody>
+		<tr>
+			<p>
+	Important Note!
+
+	The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the Basic Healthcare Sum (BHS).</p>
+		</tr>
+	</tbody>
+</table>
 
 <table>
 <thead>
