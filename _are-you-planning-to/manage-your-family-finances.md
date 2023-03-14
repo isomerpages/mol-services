@@ -250,12 +250,16 @@ permalink: /government-services/finances/family/
 		<li>At the Payment Request page, select your preferred payment mode.</li></ol>
 				
 <table>
+	<thead>
+		<tr>
+			<th><p>Important Note!</p></th>
+		</tr>
+	</thead>
 	<tbody>
 		<tr>
-			<p>
-	Important Note!
-
-	The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the Basic Healthcare Sum (BHS).</p>
+			<td>
+				<p>The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the Basic Healthcare Sum (BHS).</p>
+			</td>
 		</tr>
 	</tbody>
 </table>
