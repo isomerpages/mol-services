@@ -264,7 +264,7 @@ permalink: /government-services/finances/family/
 <li>At the payment request page, select PayNow QR</li>
 </ol>
 <div>
-	<p></p>
+	<p> </p>
 </div>
 				
 <table>
