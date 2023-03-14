@@ -268,8 +268,6 @@ permalink: /government-services/finances/family/
 </tbody>
 </table>
 				
-				  </div>
-			</div>
   </div>
 </div>
 
