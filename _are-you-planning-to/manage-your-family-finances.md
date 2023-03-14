@@ -265,15 +265,6 @@ permalink: /government-services/finances/family/
 			</ol>
 		</td>
   </tr>
-  <tr>
-		<td><p>For eNETS</p></td>
-    <td>
-			<ol>
-				<li>Select "eNETS" as the payment mode and click on "Make Payment" to proceed. You will be redirected to the payment gateway where you will be prompted for your internet banking details and authorization of the payment.</li>
-				<li>Please note that you will need to disable your web browser's pop-up blockers.</li>
-			</ol>
-			</td>
-  </tr>
 </tbody>
 </table>
 				
