@@ -247,7 +247,6 @@ permalink: /government-services/finances/family/
 				<li>You will need to login with your Singpass.</li>
 				<li>Once you have read and understood your Voluntary top-up limit, you can click on “Continue” to resume with the application.</li>
 			</ul>
-				
 <table>
 	<thead>
 		<tr>
