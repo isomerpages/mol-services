@@ -247,7 +247,6 @@ permalink: /government-services/finances/family/
 				<li>You will need to login with your Singpass.</li>
 				<li>Once you have read and understood your Voluntary top-up limit, you can click on “Continue” to resume with the application.</li>
 			</ul>
-		<li>At the Payment Request page, select your preferred payment mode.</li></ol>
 				
 <table>
 	<thead>
@@ -263,7 +262,9 @@ permalink: /government-services/finances/family/
 		</tr>
 	</tbody>
 </table>
-
+<li>At the payment request page, select PayNow QR.</li>
+</ol>
+				
 <table>
 <thead>
   <tr>
