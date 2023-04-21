@@ -33,7 +33,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="shield-101" type="checkbox">
       <label for="shield-101" class="tab-label">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> MediShield Life is a health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
+    <p> MediShield Life is a health insurance scheme that provides all Singapore Citizens and Permanenet Residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
@@ -66,31 +66,29 @@ permalink: /government-services/finances/health-expenses/
     <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
       <input id="shield-ip" type="checkbox">
-      <label for="shield-ip" class="tab-label">What is an Integrated Shield Plan (IP)?</label>
+      <label for="shield-ip" class="tab-label">What is a private Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-<p>An IP consists of 2 components: MediShield Life, and an additional, private insurance component provided by a private insurer. Thus, IPs provide optional additional coverage if you seek treatment in higher ward classes beyond B2/C wards. </p>
-<br>
-  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>
+		<br>
+  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>				
+		<br>
+<p>A private IP is an optional medical insurance plan provided by private insurance companies which offers additional benefits on top of MediShield Life. You will need to pay higher premiums using MediSave and cash when you are older. </p>
       </div>
     </div>
-         <div class="tab">
-      <input id="ip-get" type="checkbox">
-      <label for="ip-get" class="tab-label">Should You Get an Integrated Shield Plan (IP)?</label>
+		<div class="tab">
+      <input id="ip-additionalpayout" type="checkbox">
+      <label for="ip-additionalpayout" class="tab-label">Do I get additional payouts from buying Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-        <p>You should consider the following questions when deciding whether to buy an IP:</p>
-        <ol>
-        <li><b>Do you need to stay in private wards and do you need to choose your own doctor?</b></li>
-        <ul><li> MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-        <li> Integrated Shield Plans (IP) provide additional coverage if you want to stay in A or B1 Class wards or in private hospitals.</li></ul>
-        <li><b>Can you afford your Integrated Shield Plan premiums in the long term?</b></li>
-          <ul>
-            <li>The additional private insurance coverage component premiums could be up to 4 times of your MediShield Life premiums, when you are in your 80s.</li>
-            <li>Premiums will increase as you get older. You will need to ensure you can afford the higher premiums especially at older ages when you have stopped working.</li>
-            <li>IP premiums above the Additional Withdrawal Limits (AWLs) <a href="#footnote-1">[1]</a>  will have to be paid in cash. You will need to consider whether you can afford to top up the difference in cash, especially at older ages when you have stopped working.</li>
-          </ul>
-<i><p id="footnote-1">[1] AWLs refer to the maximum amount of MediSave that can be used to pay for the additional private insurance coverage component. The excess premiums above AWLs are payable in cash.</p>
-<p><img alt="AWLs for IP policyholders" src="/images/MSHL premium AWL (2015).png">Source: <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-faqs#awl" target="_blank">MOH</a></p></i>
-</ol>
+				<p>In the majority of hospitalisation bills, you are unlikely to get additional payouts from your Integrated Shield Plan (IP) if you stay in B2/C wards in public hospitals.</p>
+      </div>
+    </div>
+    <div class="tab">
+      <input id="ip-get" type="checkbox">
+      <label for="ip-get" class="tab-label">Do I need a private Integrated Shield Plan (IP)?</label>
+      <div class="tab-content">
+        <p>All Singapore Citizens and Permanent Residents are covered under MediShield Life no matter how long you live, regardless of age or health condition. MediShield Life helps to pay for large hospital bills and selected costly outpatient treatments such as dialysis and chemotherapy for cancer. It is sized for subsidised treatment in B2/C wards of the public hospitals</p>
+				<p>You do not need an Integrated Shield Plan (IP) if you plan to stay in B2/C wards in public hospitals which are heavily subsidised. In fact, majority of Singaporeans, even those who had bought IP, chose to stay in B2/C wards.</p>
+				<p>If you buy an IP but choose to stay in B2/C wards in public hospitals, you might want to reconsider whether you should pay for additional private insurance</p>
+				<p>However, if you are firm in choosing B1/A wards in public hospitals or seeking treatment at private hospitals, you can consider getting an IP that matches your ward preference. If so, you should be prepared to pay additional premiums for the additional coverage.</p>
       </div>
     </div>
         <div class="tab">
