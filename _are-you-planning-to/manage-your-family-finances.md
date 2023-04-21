@@ -34,7 +34,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
 <p><b>Dependants’ Protection Scheme (DPS)</b> is an affordable term life insurance that covers insured CPF members in the event of death, terminal illness, or total permanent disability.</p>
 
-<p>If you belong to the ‘sandwich generation’ with young children and elderly parents to care for, DPS provides basic financial protection for your family. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
+<p>DPS provides basic financial protection for your family. You are highly encouraged to apply for/continue your DPS coverage especially if you belong to the 'sandwich generation' with young children and elderly parents to care for. DPS is currently solely administered by <a target="_blank" href="https://www.greateasternlife.com/sg/en/gogreat/solutions/dps.html">Great Eastern Life</a> directly.</p>
 <table>
 <thead>
   <tr>
@@ -68,7 +68,7 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="benefits">
       <label class="tab-label" for="benefits">Why You Need DPS</label>
       <div class="tab-content">
-  <p>If you are working and have dependants relying on your income, DPS provides affordable basic protection for your family with no out-of-pocket cash required, as DPS premiums can be paid using your CPF savings.</p>
+  <p>If you are working and have dependants relying on your income, DPS provides affordable basic protection for your family.</p>
   <p>However, you may not require DPS if:</p>
   <ul>
     <li>Your dependants have already grown up and/or are financially independent.</li>
@@ -82,7 +82,7 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="dps-premium">How to Pay Your Premiums</label>
       <div class="tab-content">
    <p>DPS premiums will be automatically deducted from your CPF savings on your annual policy renewal.</p>
-   <p>Alternatively, you can pay your DPS premiums directly to the DPS insurer by cash.</p>
+   <p>Alternatively, you can pay your DPS premiums directly in cash (via GIRO) to the DPS insurer, Great Eastern Life. Visit Great Eastern Life's website for more information.</p>
        </div>
     </div>
   </div>
@@ -155,7 +155,7 @@ permalink: /government-services/finances/family/
 # <a name="seniors-finance"></a> Support Your Seniors' Retirement
 <div class="mol-accordion">
   <div class="tabs">
-  <h3 id="rstu">Retirement Sum Topping-Up Scheme (RSTU)</h3>
+  <h3 id="rstu">Top up for higher payouts under the Retirement Sum Topping-Up Scheme (RSTU)</h3>
   <div class="tab">
       <input type="checkbox" id="rstu-receive">
       <label class="tab-label" for="rstu-receive">What is Retirement Sum Topping-Up Scheme (RSTU)?</label>
@@ -171,7 +171,7 @@ permalink: /government-services/finances/family/
       <ol>
         <li>Your top ups to your loved ones’ CPF Special Accounts (for those below age 55) or Retirement Accounts (for those aged 55 and above) earn attractive interest of up to 5% or 6% per annum*.</li>
         <li>Your loved ones enjoy higher monthly payouts. </li>
-        <li>You can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $7,000 per calendar year when you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings.). If you make a cash top-up for yourself, you can enjoy additional tax relief* of up to $7,000 per calendar year too.</li>
+        <li>You can enjoy tax relief* equivalent to the amount of cash top-ups made, up to $8,000 per calendar year when you make cash top-ups for your loved ones (such as parents, grandparents, spouse and siblings.). If you make a cash top-up for yourself, you can enjoy additional tax relief* of up to $8,000 per calendar year too.</li>
         <li>Under the Matched Retirement Savings Scheme (MRSS), the Government will match every dollar of cash top-ups to eligible* seniors who have yet to reach the Basic Retirement Sum (BRS), up to $600 per year.</li>
     </ol>
     <p><em>*Terms and conditions apply</em></p>
@@ -181,8 +181,8 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="rstu-get">
       <label class="tab-label" for="rstu-get">How Much Top-ups can Your Loved Ones Receive?</label>
       <div class="tab-content">
-				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/retirement-sum-topping-up-scheme/how-can-i-check-my-top-up-limits-" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
-		<a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg"> <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/Views-A-beginners-guide-to-the-Retirement-Sum-ToppingUp-Scheme/A%20beginners%20guide%20to%20the%20Retirement%20Sum%20ToppingUp%20Scheme1.jpg" alt="RSTU" style="width:650px;"></a>
+				<p>Your loved ones can log in <a href="https://www.cpf.gov.sg/member/ds/dashboards/retirement" target="_blank">the CPF website</a> with their Singpass to view how much they can receive.</p>
+		<a target="_blank" href="https://www.cpf.gov.sg/member/infohub/educational-resources/how-to-top-up-your-cpf-and-the-benefits-of-doing-so/_jcr_content/root/container_58825609/container_copy_copy__488319030/image_799933411_copy.coreimg.png/1681111000714/how-to-top-up-your-cpf-and-the-benefits-of-doing-so-2.png"> <img src="https://www.cpf.gov.sg/member/infohub/educational-resources/how-to-top-up-your-cpf-and-the-benefits-of-doing-so/_jcr_content/root/container_58825609/container_copy_copy__488319030/image_799933411_copy.coreimg.png/1681111000714/how-to-top-up-your-cpf-and-the-benefits-of-doing-so-2.png" alt="RSTU" style="width:650px;"></a>
       </div>
     </div>
       <div class="tab">
@@ -215,7 +215,8 @@ permalink: /government-services/finances/family/
       <input type="checkbox" id="save-plus">
       <label class="tab-label" for="save-plus">What Can MediSave Be Used For</label>
       <div class="tab-content">
-    <p> MediSave can be used to pay for hospitalisation, day surgery and certain costly outpatient expenses, as well as healthcare needs of your parents in their old age, subject to the respective MediSave withdrawal limits.</p><p> MediShield Life, ElderShield and CareShield Life premiums are also fully payable from MediSave.</p>
+    <p>MediSave can be used to pay for selected outpatient treatments, hospitalisation and day surgery expenses, subject to the respective MediSave withdrawal limits. MediShield Life, ElderShield and CareShield Life premiums are also fully payable from MediSave.</p>
+		<p>MediSave can be used for yourself or your family members, including your parents, grandparents, spouse, children, or siblings.</p>
   </div>
 </div>
     <div class="tab">
@@ -223,9 +224,11 @@ permalink: /government-services/finances/family/
       <label class="tab-label" for="save-topup">Why You Should Top Up MediSave Accounts (MAs)</label>
       <div class="tab-content">
     <ul>
-      <li>The MA is one of the higher interest-yielding CPF accounts with interest rates up to 6% per annum</li>
-      <li>You can top up your own or your loved one’s MA  up to the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum">Basic Healthcare Sum (BHS)</a> limit.</li>
+      <li>You can earn up to 6% interest per annum on your MA savings.</li>
+			<li>You can save up faster for your healthcare needs and also use your MA to pay for your healthcare insurance schemes' premiums</li>
+			<li>You can enjoy tax relief* by making a cash top-up to your own or your loved one's MA.</li>
     </ul>
+				<p><em>*Terms &amp; conditions apply</em></p>
       </div>
     </div>
       <div class="tab">
@@ -234,12 +237,12 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
     <ol>
-			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> > Tools & Services > Click on the "Access e-cashier" button.</li>
+			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> &gt; Tools &amp; Services &gt; Click on the "Access e-cashier" button.</li>
       <li>Key in your CPF Account Number/NRIC</li>
       <li> Choose paying as a “Member”</li>
       <li>In the drop-down list under "Payment for", select “Contribute to my own/recipient's MediSave Account (Tax deductible)"</li>
-      <li>Click "Next" and read the Important Notes and Terms & Conditions</li>
-			<li>Tick in the box "I have read and accepted the Terms & Conditions above".</li>
+      <li>Click "Next" and read the Important Notes and Terms &amp; Conditions</li>
+			<li>Tick in the box "I have read and accepted the Terms &amp; Conditions above".</li>
 			<li>Click "Start" and follow the instructions to complete the application.</li>
 			<li>On the next page, if you are topping up to your loved ones, key in their NRIC Numbers under “Recipient’s NRIC Number” and select the appropriate relationship under “Recipient’s relationship to me”. Key in your email address and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer’s name (optional). At the bottom of the page, click “Next” to continue.</li>
 			<ul>
@@ -256,7 +259,7 @@ permalink: /government-services/finances/family/
 	<tbody>
 		<tr>
 			<td>
-				<p>The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the Basic Healthcare Sum (BHS).</p>
+				<p>The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the <a target="_blank" href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum">Basic Healthcare Sum (BHS)</a>.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -284,7 +287,6 @@ permalink: /government-services/finances/family/
   </tr>
 </tbody>
 </table>
-				
 				  </div>
 			</div>
   </div>
