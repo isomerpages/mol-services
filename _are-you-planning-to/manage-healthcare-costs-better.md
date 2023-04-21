@@ -66,7 +66,7 @@ permalink: /government-services/finances/health-expenses/
     <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
       <input id="shield-ip" type="checkbox">
-      <label for="shield-ip" class="tab-label">What is a private Integrated Shield Plan (IP)?</label>
+      <label for="shield-ip" class="tab-label">What is a Private Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
 		<br>
   <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>				
@@ -76,14 +76,14 @@ permalink: /government-services/finances/health-expenses/
     </div>
 		<div class="tab">
       <input id="ip-additionalpayout" type="checkbox">
-      <label for="ip-additionalpayout" class="tab-label">Do I get additional payouts from buying Integrated Shield Plan (IP)?</label>
+      <label for="ip-additionalpayout" class="tab-label">Do I Get Additional Payouts From Buying An Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
 				<p>In the majority of hospitalisation bills, you are unlikely to get additional payouts from your Integrated Shield Plan (IP) if you stay in B2/C wards in public hospitals.</p>
       </div>
     </div>
     <div class="tab">
       <input id="ip-get" type="checkbox">
-      <label for="ip-get" class="tab-label">Do I need a private Integrated Shield Plan (IP)?</label>
+      <label for="ip-get" class="tab-label">Do I Need A Private Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
         <p>All Singapore Citizens and Permanent Residents are covered under MediShield Life no matter how long you live, regardless of age or health condition. MediShield Life helps to pay for large hospital bills and selected costly outpatient treatments such as dialysis and chemotherapy for cancer. It is sized for subsidised treatment in B2/C wards of the public hospitals</p>
 				<p>You do not need an Integrated Shield Plan (IP) if you plan to stay in B2/C wards in public hospitals which are heavily subsidised. In fact, majority of Singaporeans, even those who had bought IP, chose to stay in B2/C wards.</p>
@@ -93,12 +93,18 @@ permalink: /government-services/finances/health-expenses/
     </div>
         <div class="tab">
       <input id="ip-choice" type="checkbox">
-      <label for="ip-choice" class="tab-label">What Should You Consider When Choosing an IP?
+      <label for="ip-choice" class="tab-label">What Should You Consider When You Purchase Or Review Your IP Coverage With Your Insurer?
 </label>
       <div class="tab-content">
-  <p>When choosing an IP, make sure you understand the differences in coverage, premiums, and claim limits.</p>
-
-<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans" target="_blank">comparison of IPs.</a></p>
+  <p>Buying and maintaining an Integrated Shield Plan (IP) is a significant lifetime financial commitment. The degree of protection you need evolves and changes with your circumstances and age. As you reach your retirement years, your earning power is likely to reduce while your premiums will rise sharply and your priorities may shift. Depending on your hospital/ward preferences, you may not want to pay additional premiums for an IP. You should consider the following carefully:</p>
+				<ul>
+					<li>Are you likely to choose to seek treatment or be hospitalised at a public or private hospital?</li>
+					<li>If you intend to go to a public hospital, will you choose a B2/C ward (six to eight beds) or Standard B1 ward (four beds) or A ward (single ward), taking into account affordability?</li>
+					<li>If you intend to stay in B2/C wards, you need not buy an IP. This is because MediShield Life is generally sufficient as payouts are pegged to B2/C wards after government subsidies. The deductible and co-insurance can be paid via MediSave, as well as any remaining co-payment subject to the MediSave withdrawal limits.</li>
+					<li>If you prefer to go to a private hospital, assess your means and ability to pay the additional premiums throughout your lifetime. Your annual premiums will increase sharply with age, which means that your premiums will be much higher in your retirement years. Based on the median premiums for each IP plan type, you can potentially save a significant sum.</li>
+				</ul>
+				<p>You may also refer to the checklist when reviewing your IP coverage.</p>
+				<p>Did you know? Your private insurance premiums could be ~5 times of your MediShield Life premiums for someone in their 70/80s.</p>
       </div>
     </div>
          <div class="tab">
@@ -148,7 +154,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p>Learn more about the MediSave Withdrawal Limits <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments">here</a>.</p>
 
-<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators">here</a>.</p>
+<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators/medisave-medishield-life-claims">here</a>.</p>
       </div>
     </div>
       <div class="tab">
@@ -176,7 +182,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="careshield-101" type="checkbox">
       <label for="careshield-101" class="tab-label">What is CareShield Life?</label>
       <div class="tab-content">
-<p>CareShield Life is a long-term care insurance scheme that provides basic financial support should Singaporeans become severely disabled, especially during old age, and need personal and medical care for a prolonged duration (i.e. long-term care).</p>
+<p>CareShield Life is a long-term care insurance scheme that provides basic financial support for Singaporeans in the event of severe disability, especially during old age, and the need for personal and medical care for a prolonged duration (i.e. long-term care).</p>
       </div>
     </div>
     <div class="tab">
