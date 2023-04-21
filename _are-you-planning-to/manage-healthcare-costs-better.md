@@ -33,7 +33,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="shield-101" type="checkbox">
       <label for="shield-101" class="tab-label">What is MediShield Life?</label>
       <div class="tab-content">
-    <p> MediShield Life is a health insurance scheme that provides all Singapore residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
+    <p> MediShield Life is a health insurance scheme that provides all Singapore Citizens and Permanenet Residents with universal and lifelong protection against large healthcare bills, regardless of your age or health conditions.</p>
    </div>
 </div>
       <div class="tab">
@@ -66,41 +66,45 @@ permalink: /government-services/finances/health-expenses/
     <h3 id="medishield-ip">Integrated Shield Plan(IP)</h3>
       <div class="tab">
       <input id="shield-ip" type="checkbox">
-      <label for="shield-ip" class="tab-label">What is an Integrated Shield Plan (IP)?</label>
+      <label for="shield-ip" class="tab-label">What is a Private Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-<p>An IP consists of 2 components: MediShield Life, and an additional, private insurance component provided by a private insurer. Thus, IPs provide optional additional coverage if you seek treatment in higher ward classes beyond B2/C wards. </p>
-<br>
-  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>
+		<br>
+  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>				
+		<br>
+<p>A private IP is an optional medical insurance plan provided by private insurance companies which offers additional benefits on top of MediShield Life. You will need to pay higher premiums using MediSave and cash when you are older. </p>
       </div>
     </div>
-         <div class="tab">
-      <input id="ip-get" type="checkbox">
-      <label for="ip-get" class="tab-label">Should You Get an Integrated Shield Plan (IP)?</label>
+		<div class="tab">
+      <input id="ip-additionalpayout" type="checkbox">
+      <label for="ip-additionalpayout" class="tab-label">Do I Get Additional Payouts From Buying An Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
-        <p>You should consider the following questions when deciding whether to buy an IP:</p>
-        <ol>
-        <li><b>Do you need to stay in private wards and do you need to choose your own doctor?</b></li>
-        <ul><li> MediShield Life will provide enough coverage for your large hospital bills in B2 or C Class wards in public hospitals.</li>
-        <li> Integrated Shield Plans (IP) provide additional coverage if you want to stay in A or B1 Class wards or in private hospitals.</li></ul>
-        <li><b>Can you afford your Integrated Shield Plan premiums in the long term?</b></li>
-          <ul>
-            <li>The additional private insurance coverage component premiums could be up to 4 times of your MediShield Life premiums, when you are in your 80s.</li>
-            <li>Premiums will increase as you get older. You will need to ensure you can afford the higher premiums especially at older ages when you have stopped working.</li>
-            <li>IP premiums above the Additional Withdrawal Limits (AWLs) <a href="#footnote-1">[1]</a>  will have to be paid in cash. You will need to consider whether you can afford to top up the difference in cash, especially at older ages when you have stopped working.</li>
-          </ul>
-<i><p id="footnote-1">[1] AWLs refer to the maximum amount of MediSave that can be used to pay for the additional private insurance coverage component. The excess premiums above AWLs are payable in cash.</p>
-<p><img alt="AWLs for IP policyholders" src="/images/MSHL premium AWL (2015).png">Source: <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-faqs#awl" target="_blank">MOH</a></p></i>
-</ol>
+				<p>In the majority of hospitalisation bills, you are unlikely to get additional payouts from your Integrated Shield Plan (IP) if you stay in B2/C wards in public hospitals.</p>
+      </div>
+    </div>
+    <div class="tab">
+      <input id="ip-get" type="checkbox">
+      <label for="ip-get" class="tab-label">Do I Need A Private Integrated Shield Plan (IP)?</label>
+      <div class="tab-content">
+        <p>All Singapore Citizens and Permanent Residents are covered under MediShield Life no matter how long you live, regardless of age or health condition. MediShield Life helps to pay for large hospital bills and selected costly outpatient treatments such as dialysis and chemotherapy for cancer. It is sized for subsidised treatment in B2/C wards of the public hospitals</p>
+				<p>You do not need an Integrated Shield Plan (IP) if you plan to stay in B2/C wards in public hospitals which are heavily subsidised. In fact, majority of Singaporeans, even those who had bought IP, chose to stay in B2/C wards.</p>
+				<p>If you buy an IP but choose to stay in B2/C wards in public hospitals, you might want to reconsider whether you should pay for additional private insurance</p>
+				<p>However, if you are firm in choosing B1/A wards in public hospitals or seeking treatment at private hospitals, you can consider getting an IP that matches your ward preference. If so, you should be prepared to pay additional premiums for the additional coverage.</p>
       </div>
     </div>
         <div class="tab">
       <input id="ip-choice" type="checkbox">
-      <label for="ip-choice" class="tab-label">What Should You Consider When Choosing an IP?
+      <label for="ip-choice" class="tab-label">What Should You Consider When You Purchase Or Review Your IP Coverage With Your Insurer?
 </label>
       <div class="tab-content">
-  <p>When choosing an IP, make sure you understand the differences in coverage, premiums, and claim limits.</p>
-
-<p>To explore which plan best suits your healthcare needs, and the premiums you need to be able to pay over the long term, here’s a <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/comparison-of-integrated-shield-plans" target="_blank">comparison of IPs.</a></p>
+  <p>Buying and maintaining an Integrated Shield Plan (IP) is a significant lifetime financial commitment. The degree of protection you need evolves and changes with your circumstances and age. As you reach your retirement years, your earning power is likely to reduce while your premiums will rise sharply and your priorities may shift. Depending on your hospital/ward preferences, you may not want to pay additional premiums for an IP. You should consider the following carefully:</p>
+				<ul>
+					<li>Are you likely to choose to seek treatment or be hospitalised at a public or private hospital?</li>
+					<li>If you intend to go to a public hospital, will you choose a B2/C ward (six to eight beds) or Standard B1 ward (four beds) or A ward (single ward), taking into account affordability?</li>
+					<li>If you intend to stay in B2/C wards, you need not buy an IP. This is because MediShield Life is generally sufficient as payouts are pegged to B2/C wards after government subsidies. The deductible and co-insurance can be paid via MediSave, as well as any remaining co-payment subject to the MediSave withdrawal limits.</li>
+					<li>If you prefer to go to a private hospital, assess your means and ability to pay the additional premiums throughout your lifetime. Your annual premiums will increase sharply with age, which means that your premiums will be much higher in your retirement years. Based on the median premiums for each IP plan type, you can potentially save a significant sum.</li>
+				</ul>
+				<p>You may also refer to the checklist when reviewing your IP coverage.</p>
+				<p>Did you know? Your private insurance premiums could be ~5 times of your MediShield Life premiums for someone in their 70/80s.</p>
       </div>
     </div>
          <div class="tab">
@@ -150,7 +154,7 @@ permalink: /government-services/finances/health-expenses/
 
 <p>Learn more about the MediSave Withdrawal Limits <a target="_blank" href="https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings/using-medisave-for-outpatient-treatments">here</a>.</p>
 
-<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators">here</a>.</p>
+<p>The MediSave/MediShield Life Calculator helps you estimate how much you can withdraw from MediSave and / or claim from MediShield Life. Learn more <a target="_blank" href="https://www.cpf.gov.sg/member/tools-and-services/calculators/medisave-medishield-life-claims">here</a>.</p>
       </div>
     </div>
       <div class="tab">
@@ -178,7 +182,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="careshield-101" type="checkbox">
       <label for="careshield-101" class="tab-label">What is CareShield Life?</label>
       <div class="tab-content">
-<p>CareShield Life is a long-term care insurance scheme that provides basic financial support should Singaporeans become severely disabled, especially during old age, and need personal and medical care for a prolonged duration (i.e. long-term care).</p>
+<p>CareShield Life is a long-term care insurance scheme that provides basic financial support for Singaporeans in the event of severe disability, especially during old age, and the need for personal and medical care for a prolonged duration (i.e. long-term care).</p>
       </div>
     </div>
     <div class="tab">
@@ -189,8 +193,8 @@ permalink: /government-services/finances/health-expenses/
 			
 <ul>
   <li>Lifetime coverage <br><i>(even after you complete your premium payment at age 67 or for 10 years after joining the scheme, whichever is later)</i></li>
-  <li>Lifelong cash payouts for as long as you are severely disabled.</li>
-  <li>Increasing payouts over time: from 2020 to 2025, the payouts will increase at 2% per year, and thereafter be subject to the independent CareShield Life Council’s review</li>
+  <li>Lifelong cash payouts for as long as you have severe disability.</li>
+  <li>Increasing payouts over time: from 2020 to 2025, the payouts increase at 2% per year, and thereafter be subject to the independent CareShield Life Council’s review</li>
   <li>Worldwide coverage: You will remain covered, be able to make a claim regardless of where you are residing, and receive payouts.</li>
 </ul>
 			
@@ -207,21 +211,19 @@ permalink: /government-services/finances/health-expenses/
       <li>Born in <b>1980 or later</b></li>
     </ul>
     <p>You will be automatically covered by CareShield Life on 1 October 2020 or when you turn 30, whichever is later, regardless of pre-existing medical conditions and disability. There is no need to apply for CareShield Life.</p>
-			
     <p>If you are...</p>
      <ul>
      <li>Born in <b>1979 or earlier</b></li>
 			</ul>
-			<p>Your participation in CareShield Life is optional^. If you wish to join CareShield Life, you may access the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/application-to-join-careshield-life.html" target="_blank">Application to join CareShield Life</a> e-Service (available from 6 November 2021) with your Singpass.</p>
-			
+			<p>Your participation in CareShield Life is optional^. If you wish to join CareShield Life, you may access the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/application-to-join-careshield-life.html" target="_blank">Application to join CareShield Life</a> e-Service with your Singpass.</p>
 			<p> You’ll be automatically enrolled into CareShield Life if you’re:</p>
 	<ul>
 		<li>Born between 1970 and 1979</li>
 		<li>Insured under ElderShield 400, and</li>
-		<li>Not severely disabled</li>
+		<li>Did not have severe disability</li>
 			</ul>
-      <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by 31 December 2023. </p>
-			<p><em>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they’re severely disabled.</em></p>
+      <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by accessing the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/opt--out-of-careshield-life.html" target="_blank">Opt-out of CareShield Life</a> e-service and log in using Singpass to complete the application by 31 December 2023. </p>
+			<p><em>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they have severe disability.</em></p>
 <p> For more information, visit <a target="_blank" href="https://www.careshieldlife.gov.sg/home.html"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
@@ -239,7 +241,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
 <p>CHAS provides you with medical subsidies for outpatient care at medical and/or dental care at select GP clinics.</p>
 <p>See the table below for CHAS subsidies you can get:</p>
-<a href="https://www.chas.sg/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=1548&amp;libID=1812" target="_blank"> <img style="width:800px;" alt="CHAS Subsidies" src="https://www.chas.sg/uploadedImages/patient/About_CHAS/CHAS_Subsidy_Table_Nov2019.JPG"></a>
+<a href="https://www.healthhub.sg/sites/assets/Assets/A-Z/CHAS_Subsidy_Table_Jan2021.jpg" target="_blank"> <img style="width:800px;" alt="CHAS Subsidies" src="https://www.healthhub.sg/sites/assets/Assets/A-Z/CHAS_Subsidy_Table_Jan2021.jpg"></a>
     </div>      
   </div>
       <div class="tab">
@@ -290,7 +292,6 @@ permalink: /government-services/finances/health-expenses/
 <p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p>
 				
 <p>NTI is your gross trade income minus all <a target="_blank" href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
-
 				<p>Your MediSave contribution depends on your age and annual NTI. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed" target="_blank">MediSave contribution rates for Self-Employed Persons</a>.</p>
     </div>      
   </div>
@@ -311,9 +312,7 @@ permalink: /government-services/finances/health-expenses/
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
 				  </ul>
-<p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually.</p>
-				
-<p>You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
+<p>You may also be eligible for <a href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement" target="_blank">Workfare Income Supplement (WIS)</a> payouts of up to $2,667 annually.</p>
       </div>
     </div>
           <div class="tab">
@@ -349,7 +348,7 @@ permalink: /government-services/finances/health-expenses/
     </ol>
 <p>Mail:</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
+  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
@@ -407,9 +406,7 @@ permalink: /government-services/finances/health-expenses/
       <label for="fam-expenses" class="tab-label">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
     <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/cpf-cash-top-up-relief" target="_blank">reduce your tax bill</a>.</p>
-				
     <p>You can also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/compulsory-and-voluntary-medisave-contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
-				
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
@@ -446,7 +443,7 @@ Some of the grants include: </p>
 
 <p>Please contact the respective government agencies if you have any questions about the listings on this page. </p> 
 
-<p>Last updated: 31 Oct 2021</p>
+<p>Last updated: 21 Apr 2023</p>
  
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
