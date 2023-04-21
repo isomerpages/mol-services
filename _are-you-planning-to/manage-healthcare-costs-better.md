@@ -193,8 +193,8 @@ permalink: /government-services/finances/health-expenses/
 			
 <ul>
   <li>Lifetime coverage <br><i>(even after you complete your premium payment at age 67 or for 10 years after joining the scheme, whichever is later)</i></li>
-  <li>Lifelong cash payouts for as long as you are severely disabled.</li>
-  <li>Increasing payouts over time: from 2020 to 2025, the payouts will increase at 2% per year, and thereafter be subject to the independent CareShield Life Council’s review</li>
+  <li>Lifelong cash payouts for as long as you have severe disability.</li>
+  <li>Increasing payouts over time: from 2020 to 2025, the payouts increase at 2% per year, and thereafter be subject to the independent CareShield Life Council’s review</li>
   <li>Worldwide coverage: You will remain covered, be able to make a claim regardless of where you are residing, and receive payouts.</li>
 </ul>
 			
@@ -211,21 +211,19 @@ permalink: /government-services/finances/health-expenses/
       <li>Born in <b>1980 or later</b></li>
     </ul>
     <p>You will be automatically covered by CareShield Life on 1 October 2020 or when you turn 30, whichever is later, regardless of pre-existing medical conditions and disability. There is no need to apply for CareShield Life.</p>
-			
     <p>If you are...</p>
      <ul>
      <li>Born in <b>1979 or earlier</b></li>
 			</ul>
-			<p>Your participation in CareShield Life is optional^. If you wish to join CareShield Life, you may access the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/application-to-join-careshield-life.html" target="_blank">Application to join CareShield Life</a> e-Service (available from 6 November 2021) with your Singpass.</p>
-			
+			<p>Your participation in CareShield Life is optional^. If you wish to join CareShield Life, you may access the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/application-to-join-careshield-life.html" target="_blank">Application to join CareShield Life</a> e-Service with your Singpass.</p>
 			<p> You’ll be automatically enrolled into CareShield Life if you’re:</p>
 	<ul>
 		<li>Born between 1970 and 1979</li>
 		<li>Insured under ElderShield 400, and</li>
-		<li>Not severely disabled</li>
+		<li>Did not have severe disability</li>
 			</ul>
-      <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by 31 December 2023. </p>
-			<p><em>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they’re severely disabled.</em></p>
+      <p>No action is required if you wish to join CareShield Life. You will receive a CareShield Life welcome package which provides more information on your CareShield Life coverage and personalised premiums. If you don’t wish to remain on CareShield Life, you can choose to opt out by accessing the <a href="https://www.careshieldlife.gov.sg/eservices/careshield-life/opt--out-of-careshield-life.html" target="_blank">Opt-out of CareShield Life</a> e-service and log in using Singpass to complete the application by 31 December 2023. </p>
+			<p><em>^Except foreigners who become Singapore Citizens or Permanent Residents from 1 October 2020 onwards, for whom participation is mandatory unless they have severe disability.</em></p>
 <p> For more information, visit <a target="_blank" href="https://www.careshieldlife.gov.sg/home.html"> careshieldlife.gov.sg</a>.</p>
       </div>
     </div>
@@ -294,7 +292,6 @@ permalink: /government-services/finances/health-expenses/
 <p>All Self-Employed Persons (SEPs) who are Singapore Citizens or Permanent Residents and earn an annual Net Trade Income (NTI) of more than $6,000 need to contribute to MediSave.</p>
 				
 <p>NTI is your gross trade income minus all <a target="_blank" href="https://www.iras.gov.sg/taxes/individual-income-tax/self-employed/understanding-self-employed-income-filing/business-expenses-you-can-claim#Allowable%20Business%20Expenses">allowable business expenses</a>, capital allowances and trade losses as determined by the Inland Revenue Authority of Singapore (IRAS).</p>
-
 				<p>Your MediSave contribution depends on your age and annual NTI. Use the <a target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Schemes/SelfEmployedMedisaveContribution/SelfEmployedMedisaveContributionLanding">Self-Employed MediSave Contribution Calculator</a> to calculate the amount of MediSave to contribute, or refer to the <a href="https://www.cpf.gov.sg/member/faq/growing-your-savings/self-employed-scheme/what-are-the-medisave-contribution-rates-for-self-employed" target="_blank">MediSave contribution rates for Self-Employed Persons</a>.</p>
     </div>      
   </div>
@@ -315,9 +312,7 @@ permalink: /government-services/finances/health-expenses/
           <li>Premium payment for MediShield Life (a medical insurance scheme for serious or prolonged illnesses), or MediSave-approved private Integrated Shield Plans</li>
           </ul>
 				  </ul>
-<p>You may also be eligible for Workfare Income Supplement (WIS) payouts of up to $2,667 annually.</p>
-				
-<p>You can also get more details on the <a target="_blank" href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/support-for-lower-wage-workers">WIS scheme</a>.</p>
+<p>You may also be eligible for <a href="https://www.cpf.gov.sg/member/growing-your-savings/government-support/workfare-income-supplement" target="_blank">Workfare Income Supplement (WIS)</a> payouts of up to $2,667 annually.</p>
       </div>
     </div>
           <div class="tab">
@@ -353,7 +348,7 @@ permalink: /government-services/finances/health-expenses/
     </ol>
 <p>Mail:</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/Apply%20for%20GIRO%20for%20Mandatory%20MediSave%20Contributions%20or%20Voluntary%20Contributions.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
+  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
@@ -411,9 +406,7 @@ permalink: /government-services/finances/health-expenses/
       <label for="fam-expenses" class="tab-label">Grow Your Family’s Medical Expenses</label>
       <div class="tab-content">
     <p>You can top up your family members’ MediSave Account using your CPF savings or cash. You get to also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/cpf-cash-top-up-relief" target="_blank">reduce your tax bill</a>.</p>
-				
     <p>You can also <a href="https://www.iras.gov.sg/taxes/individual-income-tax/employees/deductions-for-individuals/personal-reliefs-and-tax-rebates/compulsory-and-voluntary-medisave-contributions" target="_blank">top up your MediSave</a> up to the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum/what-is-the-basic-healthcare-sum" target="_blank">Basic Healthcare Sum</a></p>
-				
     <p>You can use this for future medical expenses and health insurance premiums.</p>
       </div>
     </div>
