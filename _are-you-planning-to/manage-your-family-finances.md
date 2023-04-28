@@ -237,7 +237,7 @@ permalink: /government-services/finances/family/
       <div class="tab-content">
     <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
     <ol>
-			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> &gt; Tools &amp; Services &gt; Click on the "Access e-cashier" button.</li>
+			<li>Go to the <a target="_blank" href="https://www.cpf.gov.sg/">cpf.gov.sg</a> &gt; Tools &amp; Services &gt; e-Cashier (Click on the "Access e-cashier" button).</li>
       <li>Key in your CPF Account Number/NRIC</li>
       <li> Choose paying as a “Member”</li>
       <li>In the drop-down list under "Payment for", select “Contribute to my own/recipient's MediSave Account (Tax deductible)"</li>
