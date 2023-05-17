@@ -295,15 +295,15 @@ permalink: /government-services/buy-hdb/
   <div class="tabs">
      <div class="tab">
       <input id="steps-resale" type="checkbox">
-      <label for="steps-resale" class="tab-label">Register as a Buyer</label>
+      <label for="steps-resale" class="tab-label">Register Preliminary HFE Check</label>
       <div class="tab-content">
-      <p>Upon registering your <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/plan-source-and-contract/intent-to-buy">Intent to Buy</a>, you will know whether you can:</p>
+      <p>To start, you need to first apply for a <a target="_blank" href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/">HDB Flat Eligibility (HFE) letter</a> to know you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
         <li>Apply for which housing grants</li>
         <li>Apply for HDB housing loan (if you intend to loan from HDB)</li>
       </ul>
-        <p><em>Do note that your Intent to Buy is valid for 12 months and you need to reapply if no resale application is submitted.</em></p>
+        <p><em>Do note that you will not be able to purchase a HDB resale flat without first obtaining a HFE letter.</em></p>
       </div>
     </div>
          <div class="tab">
@@ -323,7 +323,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>To enter into a OTP contract, you would be required to go through the following steps after agreeing on the selling price with the seller.</p>
       <ol>
-        <li> Seller <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
+        <li> Seller <a target="_blank" href="https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard">grants OTP</a> to you with the agreed amount of Option Fee (between $1 to $1,000)</li>
         <li> Review purchase during Option Period of 21 days</li>
         <li> Exercise OTP to proceed with the purchase </li>
       </ol>
@@ -335,7 +335,7 @@ permalink: /government-services/buy-hdb/
       <input id="mode" type="checkbox">
       <label for="mode" class="tab-label">Choose Mode of Financing</label>
       <div class="tab-content">
-     <p> After registering your Intent to Buy, you will be guided to apply for an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome">HDB Loan Eligibility (HLE) letter</a>, if you are eligible and intend to get a housing loan from HDB. </p>
+     <p> During your application for a HFE letter, you would be informed of your eligibility for buying a HDB resale flat as well as the amount of HDB housing loan that you are eligible for, should you require one.</p>
       <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-financial-institutions">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
