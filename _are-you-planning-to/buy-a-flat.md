@@ -336,7 +336,7 @@ permalink: /government-services/buy-hdb/
       <label for="mode" class="tab-label">Choose Mode of Financing</label>
       <div class="tab-content">
      <p> During your application for a HFE letter, you would be informed of your eligibility for buying a HDB resale flat as well as the amount of HDB housing loan that you are eligible for, should you require one.</p>
-      <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/housing-loan-options/housing-loan-from-financial-institutions">housing loan from a financial institution (FI)</a>.</p>
+      <p>You can also get a <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions">housing loan from a financial institution (FI)</a>.</p>
     </div>
   </div>
   <div class="tab">
@@ -359,14 +359,14 @@ permalink: /government-services/buy-hdb/
       <label for="check-status" class="tab-label">Check Resale Application Status</label>
       <div class="tab-content">  
       <p>It could take about 8 weeks from HDB's acknowledgement of the resale application to the final step of completing the resale transaction.</p>
-      <p>Check your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">resale application status</a> or get notified via SMS once HDB approves.</p>
+      <p>Check your <a target="_blank" href="https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard">resale application status</a> or get notified via SMS once HDB approves.</p>
     </div>
   </div>
     <div class="tab">
       <input id="transaction" type="checkbox">
       <label for="transaction" class="tab-label">Complete Resale Transaction</label>
       <div class="tab-content"> 
-     <p> Once HDB has scheduled your appointment, you will also receive SMS notification on your <a target="_blank" href="https://services2.hdb.gov.sg/webapp/BB31AWDashboardWeb/BB31PLogin.jsp">appointment with HDB</a>. </p>
+     <p> Once HDB has scheduled your appointment, you will also receive SMS notification on your <a target="_blank" href="https://services2.hdb.gov.sg/web/bp28/TimeLine/my-flat-dashboard">appointment with HDB</a>. </p>
      <p>This is the only resale appointment at HDB you and the seller need to attend. At this appointment, you (and the seller) will:</p>
      <ul>
         <li>Sign the mortgage document/ agreement (if you are taking an HDB housing loan)</li>
