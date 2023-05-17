@@ -281,8 +281,8 @@ permalink: /government-services/buy-hdb/
       <input id="resale-timeline" type="checkbox">
       <label for="resale-timeline" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling---May-2023.ashx" target="_blank">
-        <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling---May-2023.ashx"></a>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-resale-flat---May-2023.ashx" target="_blank">
+        <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-resale-flat---May-2023.ashx"></a>
 				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying a resale flat.</p>
       <p>Alternatively, you may also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
