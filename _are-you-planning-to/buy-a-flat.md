@@ -129,7 +129,7 @@ permalink: /government-services/buy-hdb/
     <div class="tab-content">
      <p>You may receive up to $80,000 in the form of the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility/couples-and-families/enhanced-cpf-housing-grant-families" target="_blank">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
     <p><b>Note</b>: The amount of grants obtained has to be returned to your CPF Ordinary Account with accrued interest when you sell your flat later. It is not the same as a subsidy where the prices are 'discounted'.</p>
-  </div>
+</div>
 </div>
 </div>
 </div>
