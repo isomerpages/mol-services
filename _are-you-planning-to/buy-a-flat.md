@@ -86,18 +86,18 @@ permalink: /government-services/buy-hdb/
     <input id="fi-loan" type="checkbox">
     <label for="fi-loan" class="tab-label">Getting a housing loan from Financial Institutions (FI)</label>
     <div class="tab-content">
-			<p>You may also finance your flat purchase with a housing loan from a financial institution (FI) that is regulated by the Monetary Authority of Singapore (MAS)</p>
+			<p>You may also finance your flat purchase with a housing loan from a financial institution (FI) that is regulated by the Monetary Authority of Singapore (MAS) by finding out more about the considerations <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions?anchor=financing-considerations" target="_blank">here</a>.</p>
 			<p>You should consider and compare the different FI loan packages offered <a href="https://homes.hdb.gov.sg/home/calculator/fi-loan-package" target="_blank">here</a>.</p>
       <p>If you intend to take an FI loan, you may request for an In-Principle Approval (IPA) and Letter of Offer (LO) from the participating FIs through the integrated loan application service on the HDB Flat Portal.</p>
 			<a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
         <img style="width:600px" alt="FI Loan" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx">
-    </a></div><a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
-  </a></div><a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
-      </a><div class="tab"><a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
+    </a>
+		</div>
+  </div>
+	<div class="tab">
       <input id="cpf-hdb" type="checkbox">
       <label for="cpf-hdb" class="tab-label">How to Use CPF Savings to Pay for Your Flat</label>
-      </a><div class="tab-content"><a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
-      </a><p><a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats.   </a><a href="https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage" target="_blank">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
+      <p>You can use your CPF Ordinary Account (OA) savings to pay for your new or resale HDB flats. <a href="https://www.cpf.gov.sg/member/tools-and-services/calculators/cpf-housing-usage" target="_blank">Click here</a> to calculate how much CPF you can use to buy a HDB Flat.</p>
       <a href="/images/use CPF OA savings for home.png" target="_blank">
         <img style="width:600px" alt="Financing your flat with CPF" src="/images/use CPF OA savings for home.png">
       </a>
@@ -131,7 +131,7 @@ permalink: /government-services/buy-hdb/
   </div>
 </div>
 </div>
-</div>
+
 
 [**BACK TO TOP**](#top)
 
