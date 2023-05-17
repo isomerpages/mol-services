@@ -383,7 +383,6 @@ permalink: /government-services/buy-hdb/
 
   - [Sell an HDB Flat](/government-services/sell-hdb/){:target="_blank"}
   - [Move Into an HDB Flat](/government-services/move-in/){:target="_blank"}
-  - [Housing options, policies and procedures for first-timers](https://www.youtube.com/watch?v=SehCuUSSdgo&amp;list=PLhySiLSCu8FjpZY-kqVB36XNoa8GlrFL2&amp;index=2){:target="_blank"}
 
 ---------------------------------------
 
