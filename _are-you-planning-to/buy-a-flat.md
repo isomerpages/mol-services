@@ -132,6 +132,7 @@ permalink: /government-services/buy-hdb/
   </div>
 </div>
 </div>
+</div>
 
 
 [**BACK TO TOP**](#top)
@@ -403,4 +404,4 @@ Last updated: 24 November 2022
 
 <h1> Give us your feedback</h1>
 
-<p>Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></p></div>
+<p>Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></p>
