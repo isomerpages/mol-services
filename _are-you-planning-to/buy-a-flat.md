@@ -172,8 +172,8 @@ permalink: /government-services/buy-hdb/
       <input id="overview" type="checkbox">
       <label for="overview" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="/images/buy_new_flat_timeline.png" target="_blank">
-      <img style="width:600px" alt="HDB Infographic Guide to Buying from HDB" src="/images/buy_new_flat_timeline.png"></a>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-timeline---May-2023.ashx" target="_blank">
+      <img style="width:600px" alt="HDB Infographic Guide to Buying from HDB" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-timeline---May-2023.ashx"></a>
 				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/timeline" target="_blank">more details here</a> about the timeline of buying a flat.</p>
     </div>
   </div>
@@ -266,7 +266,7 @@ permalink: /government-services/buy-hdb/
       <input id="resale-criteria" type="checkbox">
       <label for="resale-criteria" class="tab-label">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
-      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility">other eligibility conditions</a>.</p>
+      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility">other eligibility conditions</a>.</p>
     </div>
   </div>
 </div>
@@ -279,8 +279,8 @@ permalink: /government-services/buy-hdb/
       <input id="resale-timeline" type="checkbox">
       <label for="resale-timeline" class="tab-label">Timeline</label>
       <div class="tab-content">
-      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-Resale-Flat.ashx" target="_blank">
-        <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-Resale-Flat.ashx"></a>
+      <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling---May-2023.ashx" target="_blank">
+        <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-and-Selling---May-2023.ashx"></a>
 				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying a resale flat.</p>
       <p>Alternatively, you may also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
     </div>
