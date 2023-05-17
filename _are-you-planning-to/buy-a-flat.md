@@ -87,8 +87,8 @@ permalink: /government-services/buy-hdb/
     <label for="fi-loan" class="tab-label">Getting a housing loan from Financial Institutions (FI)</label>
     <div class="tab-content">
 			<p>You may also finance your flat purchase with a housing loan from a financial institution (FI) that is regulated by the Monetary Authority of Singapore (MAS) by finding out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions?anchor=financing-considerations" target="_blank">here</a>.</p>
-			<p>You should consider and compare the different FI loan packages offered <a href="https://homes.hdb.gov.sg/home/calculator/fi-loan-package" target="_blank">here</a>.</p>
-      <p>If you intend to take an FI loan, you may request for an In-Principle Approval (IPA) and Letter of Offer (LO) from the participating FIs through the integrated loan application service on the HDB Flat Portal.</p>
+			<p>You should also consider and compare the different FI loan packages offered.
+      </p><p>If you intend to take an FI loan, you may request for an In-Principle Approval (IPA) and Letter of Offer (LO) from the participating FIs through the integrated loan application service on the HDB Flat Portal.</p>
 			<a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
         <img style="width:600px" alt="FI Loan" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx">
     </a>
