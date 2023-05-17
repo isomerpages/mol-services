@@ -144,7 +144,7 @@ permalink: /government-services/buy-hdb/
       <input id="check" type="checkbox">
       <label for="check" class="tab-label">Eligibility Criteria</label>
       <div class="tab-content">
-     <p> Before you apply, use <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">this eligibility checker</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
+     <p> Before you apply, you need to obtain a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
     <p>To complete the assessment, you will need to have personal details of you and your co-applicants on hand (e.g. gross monthly income of the past three months, occupation).</p>
   </div>
 </div>
