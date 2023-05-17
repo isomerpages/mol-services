@@ -63,7 +63,7 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
      <p>The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat.</p>
      <p>Another criteria to note is that you (and whoever listed in your application) do not own other property overseas or locally, and have not disposed of any within the last 30 months.</p>
-     <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></p>
+     <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></p>
 </div>
 </div>
 </div>
@@ -74,12 +74,20 @@ permalink: /government-services/buy-hdb/
     <h3 id="finances">Plan Your Finances</h3>
       <div class="tab">
       <input id="loan" type="checkbox">
-      <label for="loan" class="tab-label">HDB Housing Loan or Bank Loan</label>
+      <label for="loan" class="tab-label">Getting an HDB Housing Loan</label>
       <div class="tab-content">
-      <a href="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png" target="_blank">
-        <img style="width:600px" alt="HDB Loan or Bank Loan" src="https://www.hdb.gov.sg/-/media/HDBContent/Images/CCG/HDBSpeaks/flat-buyers.png">
+       <p>Check your eligibility for an HDB housing loan as part of the process when you apply for a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a>. This will inform you of your eligibility to purchase a new or resale flat, as well as the amount of housing grants and HDB housing loan you are eligible for.</p>
+				<a href="/images/use CPF OA savings for home.png" target="_blank">
+        <img style="width:600px" alt="Financing your flat with CPF" src="/images/use CPF OA savings for home.png">
       </a>
-      <p>Use this <a href="https://services2.hdb.gov.sg/webapp/BP13EligCheck/BP13SHome?strSystem=CHECK" target="_blank">Eligibility Checker</a> to learn what flat types you can purchase and whether you can take an HDB housing loan.</p>
+    </div>
+  </div>
+		<div class="tab">
+    <input id="fi-loan" type="checkbox">
+    <label for="fi-loan" class="tab-label">Getting a housing loan from Financial Institutions (FI)</label>
+    <div class="tab-content">
+      <p>Get your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/income-guidelines-and-documents" target="_blank">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
+      <p>Apply for your <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
     </div>
   </div>
       <div class="tab">
@@ -99,14 +107,6 @@ permalink: /government-services/buy-hdb/
       <p>If you are a first-time homebuyer, you should also consider the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">various payments</a> to make for an HDB housing loan, should you require one.</p>
     </div>
   </div>
-    <div class="tab">
-    <input id="hdb-loan" type="checkbox">
-    <label for="hdb-loan" class="tab-label">How to Apply for HDB Housing Loan</label>
-    <div class="tab-content">
-      <p>Get your <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/financing-a-flat-purchase/application-for-an-hdb-loan-eligibility-hle-letter/income-guidelines-and-documents" target="_blank">required income documents</a> ready such as your payslips for the past three months and CPF contribution history for the last 15 months.</p>
-      <p>Apply for your <a href="https://services2.hdb.gov.sg/webapp/BP27AWHLEApplication/BP27SHome" target="_blank">Housing Loan Eligibility (HLE) letter</a> before your HDB appointment. </p>
-    </div>
-  </div>
       <div class="tab">
     <input id="contra-pay" type="checkbox">
     <label for="contra-pay" class="tab-label">Use Contra Payment Facility if You Are an Existing HDB Flat Owner</label>
@@ -123,7 +123,7 @@ permalink: /government-services/buy-hdb/
     <input id="grants" type="checkbox">
     <label for="grants" class="tab-label">Apply for Housing Grants</label>
     <div class="tab-content">
-     <p>You may receive up to $80,000 in the form of the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/flat-and-grant-eligibility/couples-and-families/enhanced-cpf-housing-grant-families" target="_blank">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
+     <p>You may receive up to $80,000 in the form of the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility/couples-and-families/enhanced-cpf-housing-grant-families" target="_blank">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
     <p><b>Note</b>: The amount of grants obtained has to be returned to your CPF Ordinary Account with accrued interest when you sell your flat later. It is not the same as a subsidy where the prices are 'discounted'.</p>
   </div>
 </div>
