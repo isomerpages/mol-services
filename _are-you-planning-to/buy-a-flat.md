@@ -162,6 +162,8 @@ permalink: /government-services/buy-hdb/
       <label for="priority" class="tab-label">HDB Priority Schemes</label>
       <div class="tab-content">
     <p>By applying through <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/application/priority-schemes" target="_blank">HDB Priority Schemes</a>, you could improve your chances of getting a balloted number to book an HDB flat. However, do note that you can get priority for only up to 2 schemes.</p>
+				<a href="/images/priorityschemes.png" target="_blank">
+      <img style="width:600px" alt="HDB priority schemes" src="/images/priorityschemes.png"></a>
   </div>
 </div>
 </div>
