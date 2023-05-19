@@ -61,10 +61,10 @@ permalink: /government-services/buy-hdb/
   <div class="tabs">
     <h3 id="finances">Plan Your Finances</h3>
       <div class="tab">
-      <input id="loan" type="checkbox">
-      <label for="loan" class="tab-label">Getting an HDB Housing Loan</label>
+      <input id="budgetflat" type="checkbox">
+      <label for="budgetflat" class="tab-label">Working out your flat budget</label>
       <div class="tab-content">
-       <p>Check your eligibility for an HDB housing loan as part of the process when you apply for a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a>. This will inform you of your eligibility to purchase a new or resale flat, as well as the amount of housing grants and HDB housing loan you are eligible for.</p>
+       <p>It is important for you to work out your flat budget before committing to a flat purchase. Use the <a href="https://homes.hdb.gov.sg/home/calculator/budget" target="_blank">budget or payment plan calculator</a> to work out a customised financial plan.</p>
 				<a href="/images/hfe letter.png" target="_blank">
         <img style="width:600px" alt="HFE Letter" src="/images/hfe letter.png">
       </a>
