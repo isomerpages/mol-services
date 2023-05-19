@@ -9,7 +9,7 @@ permalink: /government-services/buy-hdb/
 <ul class="toc_list">
   <li><a href="#plan">Planning Your Flat Purchase</a></li>
   <ul>
-    <li><a href="#options">Decide on Your Housing Option</a></li>
+    <li><a href="#flateligibility">Find out your eligibility to buy an HDB flat</a></li>
     <li><a href="#finances">Plan Your Finances</a></li>
   </ul>
 <li><a href="#apply">Applying for a Flat From HDB</a></li>
@@ -32,40 +32,28 @@ permalink: /government-services/buy-hdb/
 
 <div class="mol-accordion">
   <div class="tabs">
-    <h3 id="options">Decide on Your Housing Option</h3>
+    <h3 id="flateligibility">Find out your eligibility to buy an HDB flat</h3>
       <div class="tab">
-      <input id="flat-options" type="checkbox">
-      <label for="flat-options" class="tab-label">New VS Resale Flats</label>
+      <input id="hdbeligibility" type="checkbox">
+      <label for="hdbeligibility" class="tab-label">Understanding your eligibility to buy an HDB flat</label>
       <div class="tab-content">
-     <p>Differences between new and resale HDB flats:</p>
-      <a href="/images/New-vs-Resale-Flat.jpg" target="_blank">
-        <img style="width:600px" alt="Comparing New Flats and Resale Flats" src="/images/New-vs-Resale-Flat.jpg">
+     <p>The eligibility criteria to buy an HDB flat depends on your citizenship, age, income ceiling as well as with whom you are buying the flat.</p>
+				<p>Another criteria to note is that you (and whoever listed in your application) do not own other property overseas or locally, and have not disposed of any within the last 30 months.</p>
+				<p>From 9 May 2023, you must have a valid HDB Flat Eligibility (HFE) letter when you are buying an HDB flat:</p>
+				<ol>
+					<li>Apply for a flat in HDB's sales launches or open booking of flats; or</li>
+					<li>Obtain an Option To Purchase (OTP) from a flat seller as well as when submitting a resale application to HDB.</li>
+				</ol>
+				<p>The HFE letter will provide you with a holistic understanding of your housing and financing options and help you plan your flat budget before you embark on your home buying journey. If you are a second-timer, it will also provide information on the resale levy/ premium that you will have to pay if you purchase another subsidised flat from HDB.</p>
+				<a href="/images/hfe letter.png" target="_blank">
+        <img style="width:600px" alt="HFE Letter" src="/images/hfe letter.png">
       </a>
+      <p>
+				<em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a> and Application for an <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a>
+				</em>
+				</p>
     </div>
   </div>
-      <div class="tab">
-      <input id="flat-types" type="checkbox">
-      <label for="flat-types" class="tab-label">Types of New Flats</label>
-      <div class="tab-content">
-     <p> There are various types of flats that are built to suit a variety of needs.</p>
-      <ul>
-      <li>2-room Flexi for small families, singles and elderly</li>
-      <li>3-room for cosy and compact home</li>
-      <li>4-room for a comfortable living space</li>
-      <li>5-room for larger households</li>
-    </ul>
-      <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/finding-a-flat/types-of-flats" target="_blank">HDB flat types and its specifications</a></p>
-</div>
-</div>
-      <div class="tab">
-      <input id="flat-eligibility" type="checkbox">
-      <label for="flat-eligibility" class="tab-label">Eligibility Conditions for New Flats</label>
-      <div class="tab-content">
-     <p>The eligibility criteria for different flat types depends on your citizenship, age, income ceiling as well as with whom you are applying for the flat.</p>
-     <p>Another criteria to note is that you (and whoever listed in your application) do not own other property overseas or locally, and have not disposed of any within the last 30 months.</p>
-     <p>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></p>
-</div>
-</div>
 </div>
 </div>
   
