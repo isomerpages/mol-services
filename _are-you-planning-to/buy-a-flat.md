@@ -336,7 +336,6 @@ permalink: /government-services/buy-hdb/
         <li>Apply for which CPF housing grants</li>
         <li>Apply for HDB housing loan (if you intend to loan from HDB)</li>
       </ul>
-        <p><em>Do note that you will not be able to purchase a HDB resale flat without first obtaining a HFE letter.</em></p>
       </div>
     </div>
          <div class="tab">
