@@ -160,8 +160,11 @@ permalink: /government-services/buy-hdb/
       <input id="check" type="checkbox">
       <label for="check" class="tab-label">Eligibility Criteria</label>
       <div class="tab-content">
-     <p> Before you apply, you need to obtain a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a> to check the type(s) of HDB flat you are are eligible to buy and whether you can obtain an HDB housing loan. </p>
-    <p>To complete the assessment, you will need to have personal details of you and your co-applicants on hand (e.g. gross monthly income of the past three months, occupation).</p>
+     <p> Before you participate in a sales launch or open booking of flats, you need to obtain a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a> to check your eligibility to buy a new flat and whether you can obtain a HDB housing loan and the CPF housing grant </p>
+				<a href="/images/whenineedHFE.jpg" target="_blank">
+        <img style="width:600px" alt="Your flat buying journey" src="/images/whenineedHFE.jpg">
+      </a>
+    <p><em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></em></p>
   </div>
 </div>
       <div class="tab">
