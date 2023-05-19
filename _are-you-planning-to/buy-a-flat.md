@@ -108,9 +108,10 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content">
       <p>If you are a first-time homebuyer, you should also consider the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">various payments</a> to make for an HDB housing loan, should you require one.</p>
 				<p>Check your affordability and minimise the housing loan amount and repayment period to save interest costs.</p>
-				<a href="/images/.png" target="_blank">
-        <img style="width:600px" alt="Understanding one's ability to pay" src="/images/.png">
+				<a href="/images/abilitytopay.png" target="_blank">
+        <img style="width:600px" alt="Understanding one's ability to pay" src="/images/abilitytopay.png">
       </a>
+				<p><em>See also: <a target="_blank" href="https://www.hdb.gov.sg/residential/buying-a-flat/working-out-your-flat-budget">ABCs of financial planning and tools</a></em></p>
     </div>
   </div>
       <div class="tab">
@@ -129,8 +130,19 @@ permalink: /government-services/buy-hdb/
     <input id="grants" type="checkbox">
     <label for="grants" class="tab-label">Apply for Housing Grants</label>
     <div class="tab-content">
-     <p>You may receive up to $80,000 in the form of the <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility/couples-and-families/enhanced-cpf-housing-grant-families" target="_blank">CPF Housing Grants</a>. Apply for these grants to lower the initial purchase price of flat if you are eligible.</p>
+     <p>First-time buyers may receive and Enhanced CPF Housing Grant of up to $80,000 when buying a new flat from HDB.</p>
+			<p>If they buy a resale flat, they can get up to $160,000 in housing grants. This comprises of the CPF Housing Grant of up to $50,000, Enhanced CPF Housing Grant of up to $80,000, and Proximity Housing Grant of up to $30,000.</p>
     <p><b>Note</b>: The amount of grants obtained has to be returned to your CPF Ordinary Account with accrued interest when you sell your flat later. It is not the same as a subsidy where the prices are 'discounted'.</p>
+</div>
+</div>
+		<div class="tab">
+    <input id="buyjourney" type="checkbox">
+    <label for="buyjourney" class="tab-label">Set off on your flat buying journey with your HFE Letter</label>
+    <div class="tab-content">
+     <p>With your HFE Letter, you can embark on your buying journey with certainty. Check out the infographic below for the next steps in your home buying journey.</p>
+			<a href="/images/buyjourney.png" target="_blank">
+        <img style="width:600px" alt="Your flat buying journey" src="/images/buyjourney.png">
+      </a>
 </div>
 </div>
 </div>
