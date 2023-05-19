@@ -65,8 +65,18 @@ permalink: /government-services/buy-hdb/
       <label for="budgetflat" class="tab-label">Working out your flat budget</label>
       <div class="tab-content">
        <p>It is important for you to work out your flat budget before committing to a flat purchase. Use the <a href="https://homes.hdb.gov.sg/home/calculator/budget" target="_blank">budget or payment plan calculator</a> to work out a customised financial plan.</p>
-				<a href="" target="_blank">
-        <img style="width:600px" alt="Working out the housing budget" src="">
+				<a href="/images/budgetcalc.jpg" target="_blank">
+        <img style="width:600px" alt="Working out the housing budget" src="/images/budgetcalc.jpg">
+      </a>
+    </div>
+  </div>
+		<div class="tab">
+      <input id="hdbloan" type="checkbox">
+      <label for="hdbloan" class="tab-label">Getting an HDB housing loan</label>
+      <div class="tab-content">
+       <p>Check your eligibility for an HDB housing loan as part of the process when you apply for a <a href="https://homes.hdb.gov.sg/home/calculator/budget" target="_blank">HDB Flat Eligibility (HFE) Letter</a>.</p>
+				<a href="/images/hfe letter.png" target="_blank">
+        <img style="width:600px" alt="HFE Letter" src="/images/hfe letter.png">
       </a>
     </div>
   </div>
@@ -75,7 +85,7 @@ permalink: /government-services/buy-hdb/
     <label for="fi-loan" class="tab-label">Getting a housing loan from Financial Institutions (FI)</label>
     <div class="tab-content">
 			<p>You may also finance your flat purchase with a housing loan from a financial institution (FI) that is regulated by the Monetary Authority of Singapore (MAS) by finding out more <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/housing-loan-options/housing-loan-from-financial-institutions?anchor=financing-considerations" target="_blank">here</a>.</p>
-			<p>You should also consider and compare the different FI loan packages offered.
+			<p>You should consider and compare the different FI loan packages offered.
       </p><p>If you intend to take an FI loan, you may request for an In-Principle Approval (IPA) and Letter of Offer (LO) from the participating FIs through the integrated loan application service on the HDB Flat Portal.</p>
 			<a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx" target="_blank">
         <img style="width:600px" alt="FI Loan" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-COS/Apply-for-housing-loans-8-May-2023.ashx">
@@ -97,6 +107,10 @@ permalink: /government-services/buy-hdb/
       <label for="finance-hdb" class="tab-label">Financial Commitment as HDB Flat Owner</label>
       <div class="tab-content">
       <p>If you are a first-time homebuyer, you should also consider the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/servicing-your-hdb-housing-loan/loan-matters/payment">various payments</a> to make for an HDB housing loan, should you require one.</p>
+				<p>Check your affordability and minimise the housing loan amount and repayment period to save interest costs.</p>
+				<a href="/images/.png" target="_blank">
+        <img style="width:600px" alt="Understanding one's ability to pay" src="/images/.png">
+      </a>
     </div>
   </div>
       <div class="tab">
