@@ -130,7 +130,7 @@ permalink: /government-services/buy-hdb/
     <input id="grants" type="checkbox">
     <label for="grants" class="tab-label">Apply for Housing Grants</label>
     <div class="tab-content">
-     <p>First-time buyers may receive and Enhanced CPF Housing Grant of up to $80,000 when buying a new flat from HDB.</p>
+     <p>First-time buyers may receive an Enhanced CPF Housing Grant of up to $80,000 when buying a new flat from HDB.</p>
 			<p>If they buy a resale flat, they can get up to $160,000 in housing grants. This comprises of the CPF Housing Grant of up to $50,000, Enhanced CPF Housing Grant of up to $80,000, and Proximity Housing Grant of up to $30,000.</p>
     <p><b>Note</b>: The amount of grants obtained has to be returned to your CPF Ordinary Account with accrued interest when you sell your flat later. It is not the same as a subsidy where the prices are 'discounted'.</p>
 </div>
