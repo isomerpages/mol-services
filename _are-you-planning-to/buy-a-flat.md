@@ -161,8 +161,8 @@ permalink: /government-services/buy-hdb/
       <label for="check" class="tab-label">Eligibility Criteria</label>
       <div class="tab-content">
      <p> Before you participate in a sales launch or open booking of flats, you need to obtain a <a href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/" target="_blank">HDB Flat Eligibility (HFE) letter</a> to check your eligibility to buy a new flat and whether you can obtain a HDB housing loan and the CPF housing grant </p>
-				<a href="/images/whenineedHFE.jpg" target="_blank">
-        <img style="width:600px" alt="Your flat buying journey" src="/images/whenineedHFE.jpg">
+				<a href="/images/whenineedhfe.jpg" target="_blank">
+        <img style="width:600px" alt="Your flat buying journey" src="/images/whenineedhfe.jpg">
       </a>
     <p><em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></em></p>
   </div>
@@ -299,8 +299,8 @@ permalink: /government-services/buy-hdb/
       <label for="resale-criteria" class="tab-label">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
       <p>Before you obtain an Option to Purchase (OTP) from a flat seller, as well as when you submit a resale application to HDB, you need a valid HDB Flat Eligibility (HFE) Letter. The HFE letter will check your eligibility to buy a resale flat and whether you can obtain an HDB housing loan and the CPF housing grant.</p>
-				<a href="/images" target="_blank">
-        <img style="width:600px" alt="When do i need HFE for resale buyers" src="/images"></a>
+				<a href="/images/resalehfe.jpg" target="_blank">
+        <img style="width:600px" alt="When do i need HFE for resale buyers" src="/images/resalehfe.jpg"></a>
 				<p><em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></em></p>
     </div>
   </div>
@@ -317,7 +317,7 @@ permalink: /government-services/buy-hdb/
       <a href="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-resale-flat---May-2023.ashx" target="_blank">
         <img style="width:600px" alt="HDB Resale Guide" src="https://www.hdb.gov.sg/cs/infoweb/-/media/HDBContent/Images/EAPG/EAPG-CSC/Buying-a-resale-flat---May-2023.ashx"></a>
 				<p>You may find <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview" target="_blank">more details here</a> about the timeline of buying a resale flat.</p>
-      <p>Alternatively, you may also <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to manage your flat purchase.</p>
+      <p>You may manage the flat purchase on your own or <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-resale-flats/overview/managing-the-flat-purchase" target="_blank">engage an estate agent</a> to help you.</p>
     </div>
   </div>
 </div>
@@ -333,7 +333,7 @@ permalink: /government-services/buy-hdb/
       <p>To start, you need to first apply for a <a target="_blank" href="https://services2.hdb.gov.sg/web/bp27/PrelimHFE/">HDB Flat Eligibility (HFE) letter</a> to know if you can:</p>
       <ul>
         <li>Buy a HDB resale flat</li>
-        <li>Apply for which housing grants</li>
+        <li>Apply for which CPF housing grants</li>
         <li>Apply for HDB housing loan (if you intend to loan from HDB)</li>
       </ul>
         <p><em>Do note that you will not be able to purchase a HDB resale flat without first obtaining a HFE letter.</em></p>
