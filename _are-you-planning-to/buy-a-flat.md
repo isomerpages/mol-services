@@ -167,11 +167,25 @@ permalink: /government-services/buy-hdb/
     <p><em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></em></p>
   </div>
 </div>
+		<div class="tab">
+      <input id="flattypes" type="checkbox">
+      <label for="flattypes" class="tab-label">Types of New Flats</label>
+      <div class="tab-content">
+      <p>There are various types of flats that are built to suit a variety of needs:</p>
+				<ul>
+					<li>2-room Flexi for small families, singles and elderly</li>
+					<li>3-room for cosy and compact home</li>
+					<li>4-room for a comfortable living space</li>
+					<li>5-room for larger households</li>
+				</ul>
+				<p><em>See also: <a href="https://www.hdb.gov.sg/residential/buying-a-flat/finding-a-flat/types-of-flats" target="_blank">HDB flat types and its specifications</a></em></p>
+    </div>
+  </div>
       <div class="tab">
       <input id="sales" type="checkbox">
       <label for="sales" class="tab-label">Check for Upcoming HDB Sales Launches</label>
       <div class="tab-content">
-      <p>To buy a new flat from HDB, you need to apply during a sales launch. Check <a href="https://homes.hdb.gov.sg/home/landing" target="_blank">upcoming HDB sales launches</a> and stay updated with <a href="http://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp" target="_blank">SMS updates</a></p>
+      <p>To buy a new flat from HDB, you need to apply during a sales launch. Check <a href="https://homes.hdb.gov.sg/home/landing" target="_blank">upcoming HDB sales launches</a> and stay updated with <a href="https://services2.hdb.gov.sg/webapp/BF08CESS/Index.jsp" target="_blank">email updates</a></p>
     </div>
   </div>
   <div class="tab">
