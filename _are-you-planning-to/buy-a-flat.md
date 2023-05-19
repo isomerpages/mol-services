@@ -65,8 +65,8 @@ permalink: /government-services/buy-hdb/
       <label for="budgetflat" class="tab-label">Working out your flat budget</label>
       <div class="tab-content">
        <p>It is important for you to work out your flat budget before committing to a flat purchase. Use the <a href="https://homes.hdb.gov.sg/home/calculator/budget" target="_blank">budget or payment plan calculator</a> to work out a customised financial plan.</p>
-				<a href="/images/hfe letter.png" target="_blank">
-        <img style="width:600px" alt="HFE Letter" src="/images/hfe letter.png">
+				<a href="" target="_blank">
+        <img style="width:600px" alt="Working out the housing budget" src="">
       </a>
     </div>
   </div>
