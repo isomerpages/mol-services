@@ -226,14 +226,13 @@ permalink: /government-services/buy-hdb/
       <ul>
       <li><a href="https://homes.hdb.gov.sg/home/landing" target="_blank">Build-To-Order/ Sale of Balance Flats/ Open Booking</a></li>
     </ul>
-      <em>You can apply online anytime and receive a queue number for flat booking and book a flat as early as the next working day, where possible.</em>
     </div>
   </div>
   <div class="tab">
       <input id="app-status" type="checkbox">
       <label for="app-status" class="tab-label">Check Flat Application Status</label>
       <div class="tab-content">    
-      <p>As an applicant, you can <a href="https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp" target="_blank">check for updates</a> regarding your flat application and whether a queue number has been balloted to you.</p>
+      <p>As an applicant, you can check for updates regarding your flat application and whether a queue number has been balloted to you.</p>
     </div>
     </div>
      <div class="tab">
@@ -241,7 +240,7 @@ permalink: /government-services/buy-hdb/
       <label for="book" class="tab-label">Book Your Preferred Flat Unit</label>
       <div class="tab-content">
       <p>If you have been shortlisted, you will be notified and invited to an <a target="_blank" href="https://services2.hdb.gov.sg/webapp/FI10PPORTAL/FI10PAtAGlance.jsp">HDB flat selection appointment</a> within two weeks from the release of your ballot results.</p>
-      <p>At this appointment, you will be required to pay a booking fee via NETS. You can also apply for <a href="#grants">housing grants</a> if eligible.</p>
+      <p>At this appointment, you will be required to pay a booking fee via NETS.</p>
       <p>The <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/booking-of-flat?anchor=option-fee" target="_blank">booking fees</a> range from $500 to $2000 depending on the type of flat you choose.</p>
     </div>
   </div>
@@ -251,11 +250,9 @@ permalink: /government-services/buy-hdb/
       <div class="tab-content"> 
       <p>You (and all persons listed in the application) will also need to bring along original copies of these <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/buying-procedure-for-new-flats/sign-agreement-for-lease">documents</a>:</p>
       <ul>
-        <li>Identity cards of all persons listed in the application</li>
-        <li>Receipt of booking fee</li>
-        <li>Bank passbook and/or a photo of bank statements with your name and bank account number (for the booking fee to be returned to you)</li>
-        <li>Letter of Offer from the bank that you will be taking housing loan</li>
-        <li>Latest CPF statement(s) if you are currently employed</li>
+				<li>Identity cards of all persons listed in the application</li>
+        <li>Letter of Offer from the financial institution if you are taking a housing loan from a financial institution</li>
+        <li>Latest CPF statement(s) if you are currently employed with CPF Board</li>
         <li>Power of Attorney (if you are authorising someone to represent you)</li>
           <ul class="sub-bullet">
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
@@ -276,7 +273,7 @@ permalink: /government-services/buy-hdb/
       <li>Certificate of insurance</li>
                 <ul class="sub-bullet">
           <li>You must buy fire insurance from HDB's appointed insurer, <a target="_blank" href="https://www.fwd.com.sg/fire-insurance/">FWD Singapore Pte Ltd (FWD)</a>, if you are taking an HDB housing loan.</li></ul>
-      <li>Latest CPF statement(s) if you are currently employed</li>
+      <li>Latest CPF statement(s) if you are currently employed with CPF Board</li>
       <li>Power of Attorney (if you are authorising someone to represent you)</li>
                 <ul class="sub-bullet">
           <li>The person representing you must bring one certified true copy by the solicitors and two photocopies of the signed Power of Attorney</li>
@@ -301,7 +298,10 @@ permalink: /government-services/buy-hdb/
       <input id="resale-criteria" type="checkbox">
       <label for="resale-criteria" class="tab-label">Eligibility Conditions for Resale Flats</label>
       <div class="tab-content">
-      <p>You can buy a resale flat as long as there is at least 1 Singapore Citizen or 2 Singapore Permanent Residents (PR) to form an eligible family unit in the application. Read more about the <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility">other eligibility conditions</a>.</p>
+      <p>Before you obtain an Option to Purchase (OTP) from a flat seller, as well as when you submit a resale application to HDB, you need a valid HDB Flat Eligibility (HFE) Letter. The HFE letter will check your eligibility to buy a resale flat and whether you can obtain an HDB housing loan and the CPF housing grant.</p>
+				<a href="/images" target="_blank">
+        <img style="width:600px" alt="When do i need HFE for resale buyers" src="/images"></a>
+				<p><em>See also: <a href="https://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/understanding-your-eligibility-and-housing-loan-options/flat-and-grant-eligibility" target="_blank">Overview of Eligibility Conditions</a></em></p>
     </div>
   </div>
 </div>
