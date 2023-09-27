@@ -241,7 +241,7 @@ permalink: /government-services/finances/health-expenses/
       <div class="tab-content">
 <p>CHAS provides you with medical subsidies for outpatient care at medical and/or dental care at select GP clinics.</p>
 <p>See the table below for CHAS subsidies you can get:</p>
-<a href="https://www.healthhub.sg/sites/assets/Assets/A-Z/CHAS_Subsidy_Table_Jan2021.jpg" target="_blank"> <img style="width:800px;" alt="CHAS Subsidies" src="https://www.healthhub.sg/sites/assets/Assets/A-Z/CHAS_Subsidy_Table_Jan2021.jpg"></a>
+<a href="/images/chas_subsidy_table.png" target="_blank"> <img style="width:800px;" alt="CHAS Subsidies" src="/images/chas_subsidy_table.png"></a>
     </div>      
   </div>
       <div class="tab">
