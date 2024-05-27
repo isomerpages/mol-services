@@ -239,7 +239,8 @@ description: ""
       <div class="tab-content">
     <p>You can make a top up via the <a href="https://www.cpf.gov.sg/" target="_blank">Top up MediSave Account form</a> using PayNow QR.</p>
      <p>You will be prompted to key in your recipient's NRIC/CPF account number if you are making a top-up to your loved ones.</p>
-				
+				</div>
+			</div>
   </div>
 </div>
 
@@ -271,4 +272,4 @@ Last updated: 29 May 2024
 
 # Give us your feedback
 
-Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></div></div>
+Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a>
