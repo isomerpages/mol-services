@@ -341,15 +341,15 @@ variant: markdown
 <tbody>
   <tr>
     <td><p>GIRO:</p></td>
-    <td><p>Using <em>my cpf</em> digital services (for OCBC/DBS/POSB bank account:</p>
+    <td><p>Using <em>my cpf</em> digital services (for OCBC/DBS/POSB bank account):</p>
     <ol>
       <li> Log in with your Singpass.</li>
-      <li>Submit the “<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for MediSave Contributions by Self-Employed Person</a>” application.</li>
+      <li>Submit the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for MediSave Contributions by Self-Employed Person</a> application.</li>
       <li> Check the status of your GIRO application via My Activities.</li>
     </ol>
 <p>Mail (for other banks):</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for MediSave Contributions form (FORM SE GIRO (PDF, 0.6MB))</a>" form. </li>
+  <li>Download and complete the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for MediSave Contributions form (FORM SE GIRO (PDF, 0.6MB))</a> form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
@@ -366,7 +366,7 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<p>You may view your MediSave contributions on the Self-employment dashboard. To access *my cpf* Digital Services - Self-employment dashboard, please log in to the <a href="https://www.cpf.gov.sg/" target="_blank">CPF website</a> using your Singpass.</p>
+<p>You may view your MediSave contributions on the Self-employment dashboard. To access my cpf Digital Services - Self-employment dashboard, please log in to the <a href="https://www.cpf.gov.sg/" target="_blank">CPF website</a> using your Singpass.</p>
 
   </div>
  </div>
