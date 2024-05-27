@@ -237,60 +237,8 @@ description: ""
       <input id="save-cash" type="checkbox">
       <label for="save-cash" class="tab-label">How to Top up MediSave Accounts with Cash</label>
       <div class="tab-content">
-    <p>Top up your loved one’s MA via PayNow at e-Cashier using the following steps:</p>
-    <ol>
-			<li>Go to the <a href="https://www.cpf.gov.sg/" target="_blank">cpf.gov.sg</a> &gt; Tools &amp; Services &gt; e-Cashier (Click on the "Access e-cashier" button).</li>
-      <li>Key in your CPF Account Number/NRIC</li>
-      <li> Choose paying as a “Member”</li>
-      <li>In the drop-down list under "Payment for", select “Contribute to my own/recipient's MediSave Account (Tax deductible)"</li>
-      <li>Click "Next" and read the Important Notes and Terms &amp; Conditions</li>
-			<li>Tick in the box "I have read and accepted the Terms &amp; Conditions above".</li>
-			<li>Click "Start" and follow the instructions to complete the application.</li>
-			<li>On the next page, if you are topping up to your loved ones, key in their NRIC Numbers under “Recipient’s NRIC Number” and select the appropriate relationship under “Recipient’s relationship to me”. Key in your email address and the amount you wish to contribute. If someone has shared this scheme with you, you may indicate the referrer’s name (optional). At the bottom of the page, click “Next” to continue.</li>
-			<ul>
-				<li>You can use the “Check Allowable Contribution” button to find out the amount of Voluntary top-up you can make for yourself. For top-ups to your loved ones, please check with your recipient on his/her available contribution limit.</li>
-				<li>You will need to login with your Singpass.</li>
-				<li>Once you have read and understood your Voluntary top-up limit, you can click on “Continue” to resume with the application.</li>
-			</ul>
-<table>
-	<thead>
-		<tr>
-			<th><p>Important Note!</p></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>
-				<p>The full amount of the Voluntary top-up will be refunded to you without interest if the top-up exceeds the <a href="https://www.cpf.gov.sg/member/faq/healthcare-financing/basic-healthcare-sum" target="_blank">Basic Healthcare Sum (BHS)</a>.</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<li>At the payment request page, select PayNow QR</li>
-</ol>
-				
-<table>
-<thead>
-  <tr>
-		<th><p>Payment Mode</p></th>
-		<th><p>How to make payment?</p></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-		<td><p>For PayNow QR</p></td>
-    <td><ol>
-			<li> Select "PayNow" as the payment mode and click on "Make Payment" to proceed. A QR code will then be generated.</li>
-			<li>Log in to your bank's mobile app and scan the QR code generated with your bank's mobile app to make payment.</li>
-			<li>Make payment before the QR code expires at the end of the day. If payment is not received, the application will be deemed unsuccessful.</li>
-			<li>Make only one payment. Subsequent payments made using the same PayNow QR code will be refunded.</li>
-			</ol>
-		</td>
-  </tr>
-</tbody>
-</table>
-				  </div>
-			</div>
+    <p>You can make a top up via the <a href="https://www.cpf.gov.sg/" target="_blank">Top up MediSave Account form</a> using PayNow QR.</p>
+     <p>You will be prompted to key in your recipient's NRIC/CPF account number if you are making a top-up to your loved ones.</p>
   </div>
 </div>
 
@@ -322,4 +270,4 @@ Last updated: 21 Apr 2023
 
 # Give us your feedback
 
-Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a>
+Share with us your suggestions with us <a target="_blank" href="https://form.gov.sg/5ed0995e42ee5f00110e10cc">here.</a></div></div>
