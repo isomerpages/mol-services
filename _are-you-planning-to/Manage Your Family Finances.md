@@ -237,7 +237,7 @@ description: ""
       <input id="save-cash" type="checkbox">
       <label for="save-cash" class="tab-label">How to Top up MediSave Accounts with Cash</label>
       <div class="tab-content">
-    <p>You can make a top up via the <a href="https://www.cpf.gov.sg/%20/member/tools-and-services/forms-e-applications/top-up-medisave-account" target="_blank">Top up MediSave Account form</a> using PayNow QR.</p>
+    <p>You can make a top up via the <a href="https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/top-up-medisave-account" target="_blank">Top up MediSave Account form</a> using PayNow QR.</p>
      <p>You will be prompted to key in your recipient's NRIC/CPF account number if you are making a top-up to your loved ones.</p>
 				</div>
 			</div>
