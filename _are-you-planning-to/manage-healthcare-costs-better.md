@@ -349,7 +349,7 @@ variant: markdown
     </ol>
 <p>Mail (for other banks):</p>
 <ol>
-  <li>Download and complete the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for MediSave Contributions form (FORM SE GIRO (PDF, 0.6MB))</a> form. </li>
+  <li>Download and complete the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/FORM_GIRO_SEVC.pdf">Apply for GIRO for MediSave Contributions form (FORM SE GIRO (PDF, 0.6MB))</a> form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
