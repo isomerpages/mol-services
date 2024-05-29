@@ -358,7 +358,7 @@ variant: markdown
   <tr>
     <td><p>PayNow QR:</p>
     </td>
-    <td><p>Request for an installment plan or pay your MediSave payable in full via the "Manage your MediSave Payable" form.</p></td>
+    <td><p>Request for an instalment plan or pay your MediSave payable in full via the <a href="https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/manage-your-medisave-payable" target="_blank">Manage your MediSave payable</a> form.</p></td>
   </tr>
   <tr>
     <td><p>NETS/ CashCard:</p></td>
@@ -366,7 +366,7 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-<p>You may view your MediSave contributions on the Self-employment dashboard. To access my cpf Digital Services - Self-employment dashboard, please log in to the <a href="https://www.cpf.gov.sg/" target="_blank">CPF website</a> using your Singpass.</p>
+<p>You may view your MediSave contributions on the Self-employment dashboard. To access <em>my cpf</em> Digital Services - Self-employment dashboard, please log in to the <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">CPF website</a> using your Singpass.</p>
 
   </div>
  </div>
