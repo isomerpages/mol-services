@@ -1,6 +1,7 @@
 ---
 title: Manage Healthcare Costs
 permalink: /government-services/finances/health-expenses/
+variant: markdown
 ---
 ## <a name="top"></a>Managing Healthcare Costs
 
@@ -328,7 +329,7 @@ permalink: /government-services/finances/health-expenses/
       <input id="sep-how" type="checkbox">
       <label for="sep-how" class="tab-label">How to Contribute to Your MediSave Account</label>
       <div class="tab-content">
-    <p>There are several ways you can contribute to your MediSave account. The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account. You may apply to pay via GIRO online (if you have a bank account from OCBC/ DBS/ POSB) or by mail (for other banks).</p>
+    <p>There are several ways you can contribute to your MediSave account. The most convenient way is via GIRO, which allows automatic monthly deductions from your bank account.</p>
     <p>The payment options are:</p>
 <table>
 <thead>
@@ -340,24 +341,24 @@ permalink: /government-services/finances/health-expenses/
 <tbody>
   <tr>
     <td><p>GIRO:</p></td>
-    <td><p>Using <em>my cpf</em> digital services:</p>
+    <td><p>Using <em>my cpf</em> digital services (for OCBC/DBS/POSB bank account):</p>
     <ol>
       <li> Log in with your Singpass.</li>
-      <li>Submit the “<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for Mandatory MediSave Contributions and Voluntary Contributions by Self-Employed Person</a>” application.</li>
-      <li> Check the status of your GIRO application via My activities.</li>
+      <li>Submit the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/eSvc/Web/Services/GiroApplication/LandingPage?scheme=SE">Apply / Change GIRO for MediSave Contributions by Self-Employed Person</a> application.</li>
+      <li> Check the status of your GIRO application via My Activities.</li>
     </ol>
-<p>Mail:</p>
+<p>Mail (for other banks):</p>
 <ol>
-  <li>Download and complete the "<a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/assets/members/documents/form_girose_vc.pdf">Apply for GIRO for Mandatory Contributions or Voluntary Contributions</a>" form. </li>
+  <li>Download and complete the <a rel="noopener noreferrer" target="_blank" href="https://www.cpf.gov.sg/content/dam/web/member/tools/documents/FORM_GIRO_SEVC.pdf">Apply for GIRO for MediSave Contributions form (FORM SE GIRO (PDF, 0.6MB))</a> form. </li>
   <li> Mail it to the address printed overleaf of the GIRO application form.</li>
   <li> We will notify you of your GIRO application status once the bank has processed it.</li>
 </ol>
 </td>
   </tr>
   <tr>
-    <td><p><a href="https://www.cpf.gov.sg/eSvc/Web/Miscellaneous/Cashier/ECashierHomepage">CPF e-Cashier</a>:</p>
+    <td><p>PayNow QR:</p>
     </td>
-    <td><p>PayNow eNETS Debit – payment by DBS/POSB, OCBC, Standard Chartered Bank or United Overseas Bank internet banking</p></td>
+    <td><p>Request for an instalment plan or pay your MediSave payable in full via the <a href="https://www.cpf.gov.sg/member/tools-and-services/forms-e-applications/manage-your-medisave-payable" target="_blank">Manage your MediSave payable</a> form.</p></td>
   </tr>
   <tr>
     <td><p>NETS/ CashCard:</p></td>
@@ -365,15 +366,8 @@ permalink: /government-services/finances/health-expenses/
   </tr>
 </tbody>
 </table>
-<p>For other banks, the payment options and service standards for processing electronic payments are as follows:</p>
-<ul>
-	<li>Via PayNow QR: Payment will be processed almost immediately</li>
-  <li>Via eNETS Debit: Payment will be processed within the next working day.</li>
-	</ul>
-  <p>You can also log into <em>my CPF</em> <a target="_blank" href="https://www.cpf.gov.sg/member/ds">digital services</a> with your Singpass to check the transaction status:</p>
-	
-  <ul><li>Confirm whether your MediSave contribution is reflected in Self-employment statement history under the <b><em>Self-employment dashboard</em></b>, or</li>
-    <li>Check the transaction status under <b><em>My activities</em></b> (if you paid via e-Cashier)</li></ul>
+<p>You may view your MediSave contributions on the Self-employment dashboard. To access <em>my cpf</em> Digital Services - Self-employment dashboard, please log in to the <a href="https://www.cpf.gov.sg/member/ds/dashboards/self-employment" target="_blank">CPF website</a> using your Singpass.</p>
+
   </div>
  </div>
     <div class="tab">
@@ -443,7 +437,7 @@ Some of the grants include: </p>
 
 <p>Please contact the respective government agencies if you have any questions about the listings on this page. </p> 
 
-<p>Last updated: 21 Apr 2023</p>
+<p>Last updated: 29 May 2024</p>
  
 <p><a href="#top"><strong>BACK TO TOP</strong></a></p>
 
