@@ -1,0 +1,4 @@
+collections:
+  draft-pages:
+    output: true
+    order: []
