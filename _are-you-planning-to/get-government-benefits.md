@@ -1,8 +1,8 @@
 ---
 title: Get Government Benefits
 permalink: /government-services/finances/govt-benefits/
+variant: markdown
 ---
-
 <p class="disclaimer"><em>Disclaimer: This page does not include the latest schemes announced at <a href="https://supportgowhere.life.gov.sg/" target="_blank">Budget 2021</a>.</em></p>
 
 ## <a name="top"></a>I Want to Get Government Benefits
@@ -11,7 +11,7 @@ permalink: /government-services/finances/govt-benefits/
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
   <li><a href="#schemes">What Government Benefits Are</a></li>
-<li><a href="#family">Benefits For Families</a></li>
+<li><a href="#family">Benefits for Families</a></li>
   <ul>
     <li><a href="#cash">What You Can Get</a></li>
     <li><a href="#leave">Pro-Family Leave Schemes</a></li>
@@ -242,7 +242,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
       <input type="checkbox" id="transfer">
       <label class="tab-label" for="transfer">Transferring Unutilised PTR to Your Spouse</label>
       <div class="tab-content">
-    <p>Any unutilised amount can also be transferred online from your account to your spouse's account: <ul><li>Log in to <a target="_blank" href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">MyTax Portal</a> to view your PTR balance and transfer your PTR balance to your spouse.</li></ul></p>
+    <p>Any unutilised amount can also be transferred online from your account to your spouse's account: </p><ul><li>Log in to <a target="_blank" href="https://mytax.iras.gov.sg/ESVWeb/default.aspx">MyTax Portal</a> to view your PTR balance and transfer your PTR balance to your spouse.</li></ul><p></p>
   </div>
 </div>
  <div class="tab">
@@ -251,7 +251,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
       <div class="tab-content">
     <p>To qualify for PTR, you must be a Singapore tax resident who is married, divorced or widowed in the Year of Tax Assessment.</p>
     <p>You can use the <a target="_blank" href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Individuals/PTR%20calculator.xls">PTR Eligibility Tool</a> to check what you can get.</p>
-    <p>See also: <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/Transfer%20of%20PTR%20-%20FAQs.pdf">FAQs on transferring PTR online</a></p>
+    <p>See also: <a href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/Transfer%20of%20PTR%20-%20FAQs.pdf">FAQs on transferring PTR online</a></p>
   </div>
 </div>
 </div>
@@ -321,7 +321,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
     <p>(2) Save for retirement</p>
    <p><a target="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/CPF-Cash-Top-up-Relief/">CPF Cash Top-up Relief (Self/Dependents):</a></p>
     <ul>
-    <p><li>Maximum amount you can claim:  $15,300 (Singaporean) or $35,700 (foreigner).</li></p>
+    <p></p><li>Maximum amount you can claim:  $15,300 (Singaporean) or $35,700 (foreigner).</li><p></p>
     </ul>
     <p> <a target="_blank" href="https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Special-tax-schemes/Supplementary-Retirement-Scheme--SRS-/SRS-tax-relief/">Supplementary Retirement Scheme (SRS) Relief:</a></p>
     <ul>
@@ -338,7 +338,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
       <input type="checkbox" id="deduction">
       <label class="tab-label" for="deduction">Tax Deduction for Donations</label>
       <div class="tab-content"> 
-    <p>You may be able to claim tax deductions of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the <a arget="_blank" href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/">different types of donations</a> and their respective tax deductibility.</p>
+    <p>You may be able to claim tax deductions of 2.5 or 3 times the amount of donations made from 2014 to 2021. You may find out more about the <a href="https://www.iras.gov.sg/IRASHome/Individuals/Locals/Working-Out-Your-Taxes/Deductions-for-Individuals/Donations/">different types of donations</a> and their respective tax deductibility.</p>
     </div>
   </div>
 </div>
@@ -387,13 +387,13 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
 <div class="mol-accordion">
   <div class="tabs">
  <div class="tab">
-      <input type="checkbox" id="submit">
+      <input type="checkbox">
       <label class="tab-label" for="submit">Submit Your Claim During eFiling </label>
       <div class="tab-content">
     <p>During eFiling, you can submit your claim if you need to make a revision to your claim:</p>
     <ol>
         <li>Log in to <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx" target="_blank">MyTax Portal</a></li>
-        <li>Go to “Individuals” > “File Income Tax Return”</li>
+        <li>Go to “Individuals” &gt; “File Income Tax Return”</li>
         <li>Select “Edit My Tax Form”</li>
         <li>Go to “4. Deductions, Reliefs and Parenthood Tax Rebate”</li>
         <li>Go to the Tax Relief that you want to claim</li>
@@ -438,8 +438,3 @@ Last updated: 4 January 2021
 <h1> Give us your feedback</h1>
 
 <p>Share with us your suggestions with us <a href="https://form.gov.sg/5ed0995e42ee5f00110e10cc" target="_blank">here.</a></p>
-
-
-
-
- 
