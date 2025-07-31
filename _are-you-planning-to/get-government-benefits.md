@@ -11,7 +11,7 @@ variant: markdown
 <p class="toc_title"><b>ON THIS PAGE</b></p>
 <ul class="toc_list">
   <li><a href="#schemes">What Government Benefits Are</a></li>
-<li><a href="#family">Benefits For Families</a></li>
+<li><a href="#family">Benefits for Families</a></li>
   <ul>
     <li><a href="#cash">What You Can Get</a></li>
     <li><a href="#leave">Pro-Family Leave Schemes</a></li>
