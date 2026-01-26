@@ -44,8 +44,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: LifeSG Services
 
-staging: https://mol-services-staging.netlify.app
-prod: https://mol-services-prod.netlify.app
+staging: https://staging.d2j9muz42mxu3.amplifyapp.com/
+prod: https://master.d2j9muz42mxu3.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
