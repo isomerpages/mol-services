@@ -1,0 +1,11 @@
+collections:
+  are-you-planning-to:
+    output: true
+    order:
+      - get-government-benefits.md
+      - buy-a-flat.md
+      - sell-a-flat.md
+      - move-into-a-flat.md
+      - manage-healthcare-costs-better.md
+      - Manage Your Family Finances.md
+      - stay-healthy.md

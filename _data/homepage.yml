@@ -1,0 +1,46 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+<meta name="google-site-verification" content="jUZqIQ0boI7ZiOnOavH3n_VjJffY6yfrMQh4n4eBSgE" />
+
+# Favicon
+favicon: /images/lifesg_fav.ico
+
+# Agency logo
+agency-logo: /images/lifesg-logo.jpg
+
+# Hero Banner
+hero-subtitle: Find What You Need. Faster.
+hero-banner: /images/hero banner3.jpeg
+
+# Hero Dropdown Main Text
+hero-dropdown-text: "Find Government Services"
+
+# Government Services dropdown
+i-want-to:
+  - title: Buy an HDB Flat
+    url: /government-services/buy-hdb/
+  - title: Sell an HDB Flat
+    url: /government-services/sell-hdb/
+  - title: Move Into A New Flat
+    url: /government-services/move-in/
+  - title: Manage Healthcare Costs better
+    url: /government-services/finances/health-expenses/
+  - title: Manage My Family Finances
+    url: /government-services/finances/family/
+  - title: Prepare Legacy Documents
+    url: https://www.mylegacy.gov.sg/end-of-life-planning/
+  - title: Stay Healthy
+    url: /government-services/stay-healthy/
+  
+
+# Info Sections
+info-sections:
+  - section-title: Download the App
+    section-subtitle: 
+    section-description: Access the most used services and information on the go. LifeSG Mobile app is available on the Apple AppStore and Google Play Store. 
+    section-more-button: Install now
+    section-image-path: /images/LifeSg Refreshed (GovTech Owned).png
+    section-image-alt: Download LifeSG Mobile app QR code
