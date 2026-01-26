@@ -111,8 +111,8 @@ retire-funds:
       If you are born before 1958 and/or were already receiving CPF payouts from the Retirement Sum Scheme in 2009, you might be one of those who are still under the Retirement Sum Scheme.
 
       <p align="center">Click to view image</p>
-      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-Am-I-on-the-Retirement-Sum-Scheme-or-CPF-LIFE-What-you-should-know-if-you-were-born-on-1-May-1961-or-after/Am%20I%20on%20the%20Retirement%20Sum%20Scheme%20or%20CPF%20LIFE%20What%20you%20should%20know%20if%20you%20were%20born%20on%201%20May%201961%20or%20after.png">
-        <img src="https://www.areyouready.gov.sg/YourInfoHub/PublishingImages/Pages/News-Am-I-on-the-Retirement-Sum-Scheme-or-CPF-LIFE-What-you-should-know-if-you-were-born-on-1-May-1961-or-after/Am%20I%20on%20the%20Retirement%20Sum%20Scheme%20or%20CPF%20LIFE%20What%20you%20should%20know%20if%20you%20were%20born%20on%201%20May%201961%20or%20after.png" alt="CPF LIFE and RSS" style="width:300px">
+      <a target="_blank" href="https://www.areyouready.gov.sg/YourInfoHub/Publishingimages/pages/news-am-i-on-the-retirement-sum-scheme-or-cpf-life-what-you-should-know-if-you-were-born-on-1-may-1961-or-after/am%20i%20on%20the%20retirement%20sum%20scheme%20or%20cpf%20life%20what%20you%20should%20know%20if%20you%20were%20born%20on%201%20may%201961%20or%20after.png">
+        <img src="https://www.areyouready.gov.sg/YourInfoHub/Publishingimages/pages/news-am-i-on-the-retirement-sum-scheme-or-cpf-life-what-you-should-know-if-you-were-born-on-1-may-1961-or-after/am%20i%20on%20the%20retirement%20sum%20scheme%20or%20cpf%20life%20what%20you%20should%20know%20if%20you%20were%20born%20on%201%20may%201961%20or%20after.png" alt="CPF LIFE and RSS" style="width:300px">
       </a>
   - title: <a name="CPF-RA"></a>What is CPF Retirement Account (CPF RA)
     content: |
@@ -137,8 +137,8 @@ retire-funds:
           For those who wants higher monthly payouts from CPF LIFE during retirement, but completely on voluntary basis.
 
       <p align="center">See Comparison of all 3 levels of payouts</p>
-      <a target="_blank" href="/images/CPF-FRS-BRS-ERS.png" >
-        <img src="/images/CPF-FRS-BRS-ERS.png" alt="3 levels of CPF retirement sums" style="width:300px">
+      <a target="_blank" href="/images/cpf-frs-brs-ers.png" >
+        <img src="/images/cpf-frs-brs-ers.png" alt="3 levels of CPF retirement sums" style="width:300px">
       </a>
   - title: <a name="BRS"></a>When Your CPF Balances Fall below Basic Retirement Sum (BRS)
     content: | 
@@ -147,7 +147,7 @@ retire-funds:
       Also, you can pledge your property to withdraw more of your CPF savings but it will lower your CPF LIFE monthly payouts.
       <p align="center">Click to enlarge</p>
         <a target="_blank" href="https://www.cpf.gov.sg/Members/Schemes/schemes/retirement/retirement-sum-scheme" >
-        <img src="/images/CPF-FRS-BRS-ERS-payout.png" alt="3 levels of CPF retirement sums" style="width:300px">
+        <img src="/images/cpf-frs-brs-ers-payout.png" alt="3 levels of CPF retirement sums" style="width:300px">
       </a> 
   - title: <a name="top-up RA"></a>How to Top Up Your Retirement Account (CPF RA)
     content: |          
@@ -196,7 +196,7 @@ retire-life:
 
       <p align="center">Click to view more details</p>
       <a target="_blank" href="https://sso.agc.gov.sg/Act/ISA1967" >
-        <img src="/images/Intestacy.png" alt="Intestacy" style="width:300px">
+        <img src="/images/intestacy.png" alt="Intestacy" style="width:300px">
       </a>
       See also: [Guide to Planning Legacy](https://www.mylegacy.gov.sg/end-of-life-planning/organise-important-documents/){:target="blank"}
 ---

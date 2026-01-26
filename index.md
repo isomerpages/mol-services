@@ -10,7 +10,7 @@ notification: ' Give us your <a
   </a>.'
 sections:
   - hero:
-      background: /images/khendi-lee-GuU5-3um85U-unsplash.jpg
+      background: /images/khendi-lee-guu5-3um85u-unsplash.jpg
       dropdown:
         title: Are You Planning to...
         options:

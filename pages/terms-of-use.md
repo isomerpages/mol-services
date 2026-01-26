@@ -63,4 +63,4 @@ permalink: /terms-of-use/
 
 ### **GovTech Digital Updates**
 
-1. The Terms & Conditions when subscribing to GovTech digital updates can be found <a href='https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions.pdf'>here</a>.
+1. The Terms & Conditions when subscribing to GovTech digital updates can be found <a href='https://www.tech.gov.sg/files/govtech-subscription-terms-conditions.pdf'>here</a>.

@@ -70,7 +70,7 @@ variant: markdown
       <label for="shield-ip" class="tab-label">What is a Private Integrated Shield Plan (IP)?</label>
       <div class="tab-content">
 		<br>
-  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png/"></a>				
+  <a href="/images/ip-components.png" target="_blank"> <img style="width:600px;" alt="IP Components" src="/images/ip-components.png"></a>				
 		<br>
 <p>A private IP is an optional medical insurance plan provided by private insurance companies which offers additional benefits on top of MediShield Life. You will need to pay higher premiums using MediSave and cash when you are older. </p>
       </div>
@@ -200,7 +200,7 @@ variant: markdown
 </ul>
 			
 <p>See illustration example below:</p>
-<a href="/images/careshield-benefits.png/" target="_blank"> <img style="width:450px;" alt="CareShield Benefits" src="/images/careshield-benefits.png"></a>
+<a href="/images/careshield-benefits.png" target="_blank"> <img style="width:450px;" alt="CareShield Benefits" src="/images/careshield-benefits.png"></a>
   </div>
 </div>
     <div class="tab">

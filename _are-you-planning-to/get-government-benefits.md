@@ -126,8 +126,8 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPML.aspx">Government-Paid Maternity Leave (GPML)</a></b>:
     If you are a working mother, you can enjoy maternity leave under the GPML scheme. This will help provide sufficient time to recover from childbirth and care for newborns.</p>
     <p><b>Benefits of GPML:</b></p>
-      <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPML/q.jpg">
-        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPML/q.jpg" alt="Maternity Leave" style="width:600px">
+      <a target="_blank" href="https://www.profamilyleave.gov.sg/Publishingimages/pages/gpml/q.jpg">
+        <img src="https://www.profamilyleave.gov.sg/Publishingimages/pages/gpml/q.jpg" alt="Maternity Leave" style="width:600px">
       </a>
       <p>However, if your employment contract ended before your childbirth, you will be entitled to <a href="https://www.profamilyleave.gov.sg/Pages/GPMB.aspx" target="_blank">Government-Paid Maternity Benefit (GPMB)</a></p>
     </div>
@@ -139,8 +139,8 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/GPPL.aspx">Government-Paid Paternity Leave (GPPL)</a></b>:
       Working fathers can also enjoy paternity leave to allow them to have a more active role at home upon the arrival of their baby.</p>
       <p><b>Benefits of GPPL:</b></p>
-      <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPPL/w.jpg">
-        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/GPPL/w.jpg" alt="Paternity Leave" style="width:600px">
+      <a target="_blank" href="https://www.profamilyleave.gov.sg/Publishingimages/pages/gppl/w.jpg">
+        <img src="https://www.profamilyleave.gov.sg/Publishingimages/pages/gppl/w.jpg" alt="Paternity Leave" style="width:600px">
       </a>
     </div>
   </div>
@@ -150,8 +150,8 @@ The [Pro-Family Leave Schemes](https://www.profamilyleave.gov.sg/Pages/About.asp
       <div class="tab-content">
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/SPL.aspx">Government-Paid Shared Parental Leave (SPL)</a></b>:
       As a working mother, you can opt to share part of your 4-month maternity leave or adoption leave with your husband under the SPL scheme.</p>
-      <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/SPL/w.jpg">
-        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/SPL/w.jpg" alt="Paternity Leave" style="width:600px">
+      <a target="_blank" href="https://www.profamilyleave.gov.sg/Publishingimages/pages/spl/w.jpg">
+        <img src="https://www.profamilyleave.gov.sg/Publishingimages/pages/spl/w.jpg" alt="Paternity Leave" style="width:600px">
       </a>
     </div>
   </div>
@@ -174,8 +174,8 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
       <div class="tab-content">
     <p><b><a target="_blank" href="https://www.profamilyleave.gov.sg/Pages/AL.aspx">Adoption Leave</a></b>:
       Adoptive working parents (including self-employed) can enjoy adoption leave benefits as well. </p>
-      <a target="_blank" href="https://www.profamilyleave.gov.sg/PublishingImages/Pages/AL/after1jul.png">
-        <img src="https://www.profamilyleave.gov.sg/PublishingImages/Pages/AL/after1jul.png" alt="Paternity Leave" style="width:600px">
+      <a target="_blank" href="https://www.profamilyleave.gov.sg/Publishingimages/pages/al/after1jul.png">
+        <img src="https://www.profamilyleave.gov.sg/Publishingimages/pages/al/after1jul.png" alt="Paternity Leave" style="width:600px">
       </a>
     </div>
   </div>
@@ -251,7 +251,7 @@ If your youngest child is between 7 and 12 years old, you and your spouse can ea
       <div class="tab-content">
     <p>To qualify for PTR, you must be a Singapore tax resident who is married, divorced or widowed in the Year of Tax Assessment.</p>
     <p>You can use the <a target="_blank" href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Individuals/PTR%20calculator.xls">PTR Eligibility Tool</a> to check what you can get.</p>
-    <p>See also: <a href="https://www.iras.gov.sg/IRASHome/uploadedFiles/IRASHome/e-Services/Transfer%20of%20PTR%20-%20FAQs.pdf">FAQs on transferring PTR online</a></p>
+    <p>See also: <a href="https://www.iras.gov.sg/IRASHome/uploadedfiles/irashome/e-services/transfer%20of%20ptr%20-%20faqs.pdf">FAQs on transferring PTR online</a></p>
   </div>
 </div>
 </div>
