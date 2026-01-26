@@ -1,6 +1,6 @@
 ---
 title: Getting Married
-permalink: /getting-married
+permalink: /getting-married/
 breadcrumb: 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: https://www.life.gov.sg/get-in-touch
+permalink: https://www.life.gov.sg/get-in-touch/
 ---
  
 
